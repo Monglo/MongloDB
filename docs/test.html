@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MongloDB</title>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js"></script>
+    <style>
+      body {
+        font: 16px/1.6 "Helvetica Neue", arial, sans-serif;
+        padding: 60px;
+      }
+      pre { font-size: 14px; line-height: 1.3 }
+      code .init { color: #2F6FAD }
+      code .string { color: #5890AD }
+      code .keyword { color: #8A6343 }
+      code .number { color: #2F6FAD }
+    </style>
+    <script>
+      $(function(){
+        $('code').each(function(){
+          $(this).html(highlight($(this).text()));
+        });
+      });
+
+      function highlight(js) {
+        return js
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/\/\/(.*)/gm, '<span class="comment">//$1</span>')
+          .replace(/('.*')/gm, '<span class="string">$1</span>')
+          .replace(/(\d+\.\d+)/gm, '<span class="number">$1</span>')
+          .replace(/(\d+)/gm, '<span class="number">$1</span>')
+          .replace(/\bnew *(\w+)/gm, '<span class="keyword">new</span> <span class="init">$1</span>')
+          .replace(/\b(function|new|throw|return|var|if|else)\b/gm, '<span class="keyword">$1</span>')
+      }
+    </script>
+  </head>
+  <body>
+    <h1>MongloDB</h1>
+    <p>MongoDB Everywhere</p>    <section class="suite">
+      <h1>Collection</h1>
+      <dl>
+        <section class="suite">
+          <h1>#open()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code>var collection = db.collection('testerop');</code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#drop()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#insert()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code>var collection2 = db.collection('tester3');
+collection2.insert({field:'test'}, function(doc){
+  doc.should.be.a('object').have.property('_id');
+});
+db.tester3.insert({field:'test20', age:23, sub:{sub2:12}});</code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#remove()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code>var collectionRM = db.collection('testrm');
+collectionRM.insert({_id:411, field:'test10', age:10, sub:{sub2:1}});
+collectionRM.remove({_id:411});</code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#update()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code>var xxxxxxxxx = db.collection('xxxxxxxxx');
+xxxxxxxxx.insert({_id:90210, field:'test20', age:20, sub:{sub2:1}});
+xxxxxxxxx.update({_id:90210}, {_id:33333, field:'test20', age:20, sub:{sub2:1} });</code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#find()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code>var collectionFD = db.collection('testfd');
+collectionFD.insert({field:'test20', age:23, sub:{sub2:12}});
+collectionFD.insert({field:'test20', age:25, sub:{sub2:14}});
+collectionFD.insert({field:'test20', age:26, sub:{sub2:12}});
+collectionFD.insert({field:'test20', age:27, sub:{sub2:11}});
+collectionFD.insert({field:'test20', age:28, sub:{sub2:17}});
+collectionFD.find({'sub.sub2':12}).fetch();</code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#findOne()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code>var ddd = db.collection('dddd');
+ddd.insert({_id:90212, field:'test20', age:20, sub:{sub2:1}});
+ddd.insert({_id:90212, field:'test20', age:20, sub:{sub2:1}});
+ddd.insert({_id:90212, field:'test20', age:20, sub:{sub2:1}});
+var result = ddd.findOne({field:&quot;test20&quot;});</code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#snapshot()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#restore()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#pauseObserver()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#resumeObserver()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+      </dl>
+    </section>
+    <section class="suite">
+      <h1>Cursor</h1>
+      <dl>
+        <section class="suite">
+          <h1>#rewind()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#forEach()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#map()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#fetch()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#count()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#observe()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+      </dl>
+    </section>
+    <section class="suite">
+      <h1>Database</h1>
+      <dl>
+        <section class="suite">
+          <h1>#connect()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#Collection()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#createCollection()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#openCollection()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#saveCollection()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#removeCollection()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+        <section class="suite">
+          <h1>#clearCollection()</h1>
+          <dl>
+            <dt>should work</dt>
+            <dd><pre><code></code></pre></dd>
+          </dl>
+        </section>
+      </dl>
+    </section>
+    <section class="suite">
+      <h1>#ObjectId()</h1>
+      <dl>
+        <dt>should Create ObjectId Object</dt>
+        <dd><pre><code>var myid = new ObjectId('5044555b65bedb5e56000002');
+var a = myid.getTimestamp();
+var b = myid.toJSON();
+var c = myid.equals('5044555b65bedb5e56000002');
+var d = myid.generationTime;
+var e = myid.toString();</code></pre></dd>
+      </dl>
+    </section>
+ </body>
+</html>
