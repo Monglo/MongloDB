@@ -1,0 +1,23 @@
+{
+  "author": "Christian Sullivan <cs@euforic.co> (http://RogueSynaptics.com)",
+  "name": "monglodb",
+  "description": "MongoDB Everywhere",
+  "version": "0.1.2",
+  "homepage": "http://monglodb.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euforic/monglodb.git"
+  },
+  "main": "dist/monglo",
+  "scripts": {
+    "test": "make test"
+  },
+  "dependencies": {
+    "should": "*",
+    "mocha": "*"
+  },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
