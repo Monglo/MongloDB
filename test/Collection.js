@@ -1,14 +1,21 @@
 var monglo = require('./index').Monglo;
 var db = monglo('DemoDB');
 
+var getKeys = function(obj){
+   var keys = [];
+   for(var key in obj){
+      keys.push(key);
+   }
+   return keys;
+};
 
 function DemoStore(){
   return {
-    insert : function(db,args){  },
-    update : function(db,args){  },
-    open   : function(db,args){  },
-    remove : function(db,args){  },
-       all : function(db,args){  }
+    insert : function(args){  },
+    update : function(args){  },
+    open   : function(args){  },
+    remove : function(args){  },
+       all : function(args){  }
   };
 }
 

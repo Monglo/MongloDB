@@ -13,7 +13,7 @@ function Collection (db, collectionName, pkFactory, options) {
   checkCollectionName(collectionName);
 
   this.db = db;
-  this.collectionName = collectionName;
+  this.name = collectionName;
   this.docs = {};
   this.snapshots = [];
   this.opts = options != null && ('object' === typeof options) ? options : {};
@@ -162,7 +162,8 @@ Collection.prototype.insert = function (doc,options,cb) {
 
  self.emit('insert',doc);
  this.db._executeCommand('insert',{conn:self.db, collection:self, doc:self.docs[doc._id]});
- return (cb) ? cb(doc) : doc;
+ if(cb){ cb(doc)};
+ return this;
 };
 
 Collection.prototype.remove = function (selector) {
@@ -487,10 +488,10 @@ Monglo.prototype._executeCommand = function(name,args,cb){
 
   utils.forEach(self._stores,function(fn){
     if('function' === typeof fn[command]){
-      fn[command](self,args,cb);
+      fn[command](args,cb);
     } else if('function' === typeof fn.all){
       args.name = name;
-      fn.all(self,args,cb);
+      fn.all(args,cb);
     }
   });
 };

@@ -9,7 +9,7 @@ Portable Pure JS MongoDB With Extra Awesomeness
 ## Features
  - MongoDB style queries
  - Persistence for Collections
- - Data Persistence Plugin system
+ - Data Persistence Plug-in system
 
 ## TODO
   - Finish Docs
@@ -47,11 +47,11 @@ var db = monglo('DemoDB');
 //See source for all available functions
 function DemoStore(){
   return {
-    insert : function(db,args){  },
-    update : function(db,args){  },
-    open   : function(db,args){  },
-    remove : function(db,args){  },
-       all : function(db,args){  }
+    insert : function(args){  },
+    update : function(args){  },
+    open   : function(args){  },
+    remove : function(args){  },
+       all : function(args){  }
   };
 }
 //Load the store in Monglo
@@ -73,12 +73,12 @@ db.someCollection.insert({text: "Hello, world!"});
 ### update
 
 ```js
-db.someCollection.update(my_record[0].id, {$set: {text: 'test'}});
+db.someCollection.update({name:'tester'}, {$set: {text: 'test'}});
 ```
 
 ### remove
 ```js
-db.someCollection.remove(selector, callback);
+db.someCollection.remove({uid:'34245'});
 ```
 
 ## Cursors
@@ -93,21 +93,24 @@ var someCursor = db.someCollection.find();
 Call the callback function once for each matching document.
 
 ```js
-someCursor.forEach(callback);
+someCursor.forEach(function(doc){ console.log(doc); });
 ```
 
 ### map
 Map callback over all matching documents. Returns an Array.
 
 ```js
-someCursor.map(callback);
+someCursor.map(function(doc){
+  doc.fullname = doc.firstname+' '+doc.lastname;
+  return doc;
+});
 ```
 
 ### fetch
 Return all matching documents as an Array.
 
 ```js
-someCursor.fetch(callback);
+someCursor.fetch(function(docs){ console.log(docs); });
 ```
 
 ### count
