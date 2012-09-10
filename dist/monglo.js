@@ -145,18 +145,18 @@ Collection.prototype.insert = function (doc,options,cb) {
   options = options || {};
   doc = utils._deepcopy(doc);
 
-  if (!('_id' in doc)){
+  if('number' === typeof doc._id){
+    doc._id = doc._id+'';
+  }
+
+  doc._id = (doc._id || '').replace(/\D/g,'');
+
+  if (!doc[doc._id] && !doc._id.length){
     doc._id = new ObjectId();
   }
   doc.timestamp = new ObjectId().generationTime;
   self.docs[doc._id] = doc;
 
-  // trigger live queries that match
-  for (var qid in self.queries) {
-    var query = self.queries[qid];
-    if (query.selector_f(doc))
-      Collection._insertInResults(query, doc);
-  }
 // Hack to prevent updates from registering as inserts also
  if(options.ignore){  return (cb) ? cb(doc) : doc; }
 
@@ -1475,7 +1475,7 @@ Collection._diffQuery = function (old_results, new_results, observer, deepcopy) 
   });
 
   // "maybe deepcopy"
-  var mdc = (deepcopy ? Collection._deepcopy : _.identity);
+  var mdc = (deepcopy ? utils._deepcopy : _.identity);
 
   // ALGORITHM:
   //
@@ -1921,7 +1921,7 @@ Collection._modify = function (doc, mod) {
     new_doc = mod;
   } else {
     // apply modifiers
-    var new_doc = Collection._deepcopy(doc);
+    var new_doc = utils._deepcopy(doc);
 
     for (var op in mod) {
       var mod_func = Collection._modifiers[op];
@@ -2027,7 +2027,7 @@ Collection._modifiers = {
     }
   },
   $set: function (target, field, arg) {
-    target[field] = Collection._deepcopy(arg);
+    target[field] = utils._deepcopy(arg);
   },
   $unset: function (target, field, arg) {
     if (target !== undefined) {
@@ -2045,7 +2045,7 @@ Collection._modifiers = {
     else if (!(x instanceof Array))
       throw Error("Cannot apply $push modifier to non-array");
     else
-      x.push(Collection._deepcopy(arg));
+      x.push(utils._deepcopy(arg));
   },
   $pushAll: function (target, field, arg) {
     if (!(typeof arg === "object" && arg instanceof Array))
