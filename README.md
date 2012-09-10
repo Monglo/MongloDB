@@ -2,6 +2,8 @@
 
 Portable Pure JS MongoDB With Extra Awesomeness
 
+Version 0.1.3
+
 ## Status: (Stable)
  - See TODO
  - Pull requests are always welcome
