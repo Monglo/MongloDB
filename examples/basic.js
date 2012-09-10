@@ -18,8 +18,8 @@ function otherMW(){
 
 var tester = monglo()
   .use(testMW())
-  .use('collection/insert',otherMW())
-  .use('collection/update',otherMW)
+  .use('collection/insert',testMW())
+  .use('collection/update',otherMW())
   .set('env','development');
 
   var db = tester.connect('euforic');
