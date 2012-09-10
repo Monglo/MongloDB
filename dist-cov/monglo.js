@@ -125,51 +125,51 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][231] = 0;
   _$jscoverage['monglo.js'][232] = 0;
   _$jscoverage['monglo.js'][233] = 0;
-  _$jscoverage['monglo.js'][236] = 0;
+  _$jscoverage['monglo.js'][234] = 0;
   _$jscoverage['monglo.js'][237] = 0;
   _$jscoverage['monglo.js'][238] = 0;
   _$jscoverage['monglo.js'][239] = 0;
-  _$jscoverage['monglo.js'][241] = 0;
-  _$jscoverage['monglo.js'][245] = 0;
-  _$jscoverage['monglo.js'][247] = 0;
-  _$jscoverage['monglo.js'][253] = 0;
+  _$jscoverage['monglo.js'][240] = 0;
+  _$jscoverage['monglo.js'][242] = 0;
+  _$jscoverage['monglo.js'][246] = 0;
+  _$jscoverage['monglo.js'][248] = 0;
   _$jscoverage['monglo.js'][254] = 0;
   _$jscoverage['monglo.js'][255] = 0;
   _$jscoverage['monglo.js'][256] = 0;
   _$jscoverage['monglo.js'][257] = 0;
-  _$jscoverage['monglo.js'][259] = 0;
+  _$jscoverage['monglo.js'][258] = 0;
   _$jscoverage['monglo.js'][260] = 0;
-  _$jscoverage['monglo.js'][264] = 0;
+  _$jscoverage['monglo.js'][261] = 0;
   _$jscoverage['monglo.js'][265] = 0;
   _$jscoverage['monglo.js'][266] = 0;
   _$jscoverage['monglo.js'][267] = 0;
-  _$jscoverage['monglo.js'][269] = 0;
-  _$jscoverage['monglo.js'][273] = 0;
+  _$jscoverage['monglo.js'][268] = 0;
+  _$jscoverage['monglo.js'][270] = 0;
   _$jscoverage['monglo.js'][274] = 0;
   _$jscoverage['monglo.js'][275] = 0;
-  _$jscoverage['monglo.js'][282] = 0;
+  _$jscoverage['monglo.js'][276] = 0;
   _$jscoverage['monglo.js'][283] = 0;
   _$jscoverage['monglo.js'][284] = 0;
-  _$jscoverage['monglo.js'][287] = 0;
-  _$jscoverage['monglo.js'][289] = 0;
-  _$jscoverage['monglo.js'][294] = 0;
+  _$jscoverage['monglo.js'][285] = 0;
+  _$jscoverage['monglo.js'][288] = 0;
+  _$jscoverage['monglo.js'][290] = 0;
   _$jscoverage['monglo.js'][295] = 0;
-  _$jscoverage['monglo.js'][297] = 0;
-  _$jscoverage['monglo.js'][299] = 0;
-  _$jscoverage['monglo.js'][301] = 0;
+  _$jscoverage['monglo.js'][296] = 0;
+  _$jscoverage['monglo.js'][298] = 0;
+  _$jscoverage['monglo.js'][300] = 0;
   _$jscoverage['monglo.js'][302] = 0;
-  _$jscoverage['monglo.js'][304] = 0;
+  _$jscoverage['monglo.js'][303] = 0;
   _$jscoverage['monglo.js'][305] = 0;
-  _$jscoverage['monglo.js'][311] = 0;
+  _$jscoverage['monglo.js'][306] = 0;
   _$jscoverage['monglo.js'][312] = 0;
   _$jscoverage['monglo.js'][313] = 0;
-  _$jscoverage['monglo.js'][316] = 0;
+  _$jscoverage['monglo.js'][314] = 0;
   _$jscoverage['monglo.js'][317] = 0;
-  _$jscoverage['monglo.js'][320] = 0;
-  _$jscoverage['monglo.js'][322] = 0;
-  _$jscoverage['monglo.js'][325] = 0;
+  _$jscoverage['monglo.js'][318] = 0;
+  _$jscoverage['monglo.js'][321] = 0;
+  _$jscoverage['monglo.js'][323] = 0;
   _$jscoverage['monglo.js'][326] = 0;
-  _$jscoverage['monglo.js'][329] = 0;
+  _$jscoverage['monglo.js'][327] = 0;
   _$jscoverage['monglo.js'][330] = 0;
   _$jscoverage['monglo.js'][331] = 0;
   _$jscoverage['monglo.js'][332] = 0;
@@ -177,224 +177,224 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][334] = 0;
   _$jscoverage['monglo.js'][335] = 0;
   _$jscoverage['monglo.js'][336] = 0;
-  _$jscoverage['monglo.js'][340] = 0;
-  _$jscoverage['monglo.js'][342] = 0;
+  _$jscoverage['monglo.js'][337] = 0;
+  _$jscoverage['monglo.js'][341] = 0;
   _$jscoverage['monglo.js'][343] = 0;
-  _$jscoverage['monglo.js'][345] = 0;
+  _$jscoverage['monglo.js'][344] = 0;
   _$jscoverage['monglo.js'][346] = 0;
-  _$jscoverage['monglo.js'][349] = 0;
+  _$jscoverage['monglo.js'][347] = 0;
   _$jscoverage['monglo.js'][350] = 0;
-  _$jscoverage['monglo.js'][353] = 0;
+  _$jscoverage['monglo.js'][351] = 0;
   _$jscoverage['monglo.js'][354] = 0;
   _$jscoverage['monglo.js'][355] = 0;
   _$jscoverage['monglo.js'][356] = 0;
-  _$jscoverage['monglo.js'][359] = 0;
+  _$jscoverage['monglo.js'][357] = 0;
   _$jscoverage['monglo.js'][360] = 0;
   _$jscoverage['monglo.js'][361] = 0;
-  _$jscoverage['monglo.js'][363] = 0;
+  _$jscoverage['monglo.js'][362] = 0;
   _$jscoverage['monglo.js'][364] = 0;
-  _$jscoverage['monglo.js'][366] = 0;
+  _$jscoverage['monglo.js'][365] = 0;
   _$jscoverage['monglo.js'][367] = 0;
-  _$jscoverage['monglo.js'][370] = 0;
+  _$jscoverage['monglo.js'][368] = 0;
   _$jscoverage['monglo.js'][371] = 0;
   _$jscoverage['monglo.js'][372] = 0;
   _$jscoverage['monglo.js'][373] = 0;
   _$jscoverage['monglo.js'][374] = 0;
-  _$jscoverage['monglo.js'][376] = 0;
-  _$jscoverage['monglo.js'][379] = 0;
+  _$jscoverage['monglo.js'][375] = 0;
+  _$jscoverage['monglo.js'][377] = 0;
   _$jscoverage['monglo.js'][380] = 0;
   _$jscoverage['monglo.js'][381] = 0;
   _$jscoverage['monglo.js'][382] = 0;
   _$jscoverage['monglo.js'][383] = 0;
-  _$jscoverage['monglo.js'][385] = 0;
-  _$jscoverage['monglo.js'][388] = 0;
+  _$jscoverage['monglo.js'][384] = 0;
+  _$jscoverage['monglo.js'][386] = 0;
   _$jscoverage['monglo.js'][389] = 0;
-  _$jscoverage['monglo.js'][391] = 0;
+  _$jscoverage['monglo.js'][390] = 0;
   _$jscoverage['monglo.js'][392] = 0;
-  _$jscoverage['monglo.js'][394] = 0;
-  _$jscoverage['monglo.js'][397] = 0;
-  _$jscoverage['monglo.js'][401] = 0;
-  _$jscoverage['monglo.js'][408] = 0;
+  _$jscoverage['monglo.js'][393] = 0;
+  _$jscoverage['monglo.js'][395] = 0;
+  _$jscoverage['monglo.js'][398] = 0;
+  _$jscoverage['monglo.js'][402] = 0;
   _$jscoverage['monglo.js'][409] = 0;
-  _$jscoverage['monglo.js'][412] = 0;
+  _$jscoverage['monglo.js'][410] = 0;
   _$jscoverage['monglo.js'][413] = 0;
-  _$jscoverage['monglo.js'][416] = 0;
+  _$jscoverage['monglo.js'][414] = 0;
   _$jscoverage['monglo.js'][417] = 0;
   _$jscoverage['monglo.js'][418] = 0;
   _$jscoverage['monglo.js'][419] = 0;
   _$jscoverage['monglo.js'][420] = 0;
-  _$jscoverage['monglo.js'][423] = 0;
+  _$jscoverage['monglo.js'][421] = 0;
   _$jscoverage['monglo.js'][424] = 0;
-  _$jscoverage['monglo.js'][426] = 0;
+  _$jscoverage['monglo.js'][425] = 0;
   _$jscoverage['monglo.js'][427] = 0;
   _$jscoverage['monglo.js'][428] = 0;
-  _$jscoverage['monglo.js'][434] = 0;
-  _$jscoverage['monglo.js'][436] = 0;
-  _$jscoverage['monglo.js'][438] = 0;
+  _$jscoverage['monglo.js'][429] = 0;
+  _$jscoverage['monglo.js'][435] = 0;
+  _$jscoverage['monglo.js'][437] = 0;
   _$jscoverage['monglo.js'][439] = 0;
-  _$jscoverage['monglo.js'][441] = 0;
-  _$jscoverage['monglo.js'][445] = 0;
+  _$jscoverage['monglo.js'][440] = 0;
+  _$jscoverage['monglo.js'][442] = 0;
   _$jscoverage['monglo.js'][446] = 0;
-  _$jscoverage['monglo.js'][449] = 0;
-  _$jscoverage['monglo.js'][451] = 0;
-  _$jscoverage['monglo.js'][454] = 0;
-  _$jscoverage['monglo.js'][459] = 0;
-  _$jscoverage['monglo.js'][461] = 0;
-  _$jscoverage['monglo.js'][467] = 0;
-  _$jscoverage['monglo.js'][469] = 0;
-  _$jscoverage['monglo.js'][477] = 0;
-  _$jscoverage['monglo.js'][485] = 0;
+  _$jscoverage['monglo.js'][447] = 0;
+  _$jscoverage['monglo.js'][450] = 0;
+  _$jscoverage['monglo.js'][452] = 0;
+  _$jscoverage['monglo.js'][455] = 0;
+  _$jscoverage['monglo.js'][460] = 0;
+  _$jscoverage['monglo.js'][462] = 0;
+  _$jscoverage['monglo.js'][468] = 0;
+  _$jscoverage['monglo.js'][470] = 0;
+  _$jscoverage['monglo.js'][478] = 0;
   _$jscoverage['monglo.js'][486] = 0;
   _$jscoverage['monglo.js'][487] = 0;
-  _$jscoverage['monglo.js'][489] = 0;
+  _$jscoverage['monglo.js'][488] = 0;
   _$jscoverage['monglo.js'][490] = 0;
   _$jscoverage['monglo.js'][491] = 0;
   _$jscoverage['monglo.js'][492] = 0;
   _$jscoverage['monglo.js'][493] = 0;
   _$jscoverage['monglo.js'][494] = 0;
-  _$jscoverage['monglo.js'][506] = 0;
+  _$jscoverage['monglo.js'][495] = 0;
   _$jscoverage['monglo.js'][507] = 0;
-  _$jscoverage['monglo.js'][509] = 0;
+  _$jscoverage['monglo.js'][508] = 0;
   _$jscoverage['monglo.js'][510] = 0;
-  _$jscoverage['monglo.js'][512] = 0;
+  _$jscoverage['monglo.js'][511] = 0;
   _$jscoverage['monglo.js'][513] = 0;
-  _$jscoverage['monglo.js'][515] = 0;
+  _$jscoverage['monglo.js'][514] = 0;
   _$jscoverage['monglo.js'][516] = 0;
-  _$jscoverage['monglo.js'][528] = 0;
+  _$jscoverage['monglo.js'][517] = 0;
   _$jscoverage['monglo.js'][529] = 0;
   _$jscoverage['monglo.js'][530] = 0;
-  _$jscoverage['monglo.js'][542] = 0;
-  _$jscoverage['monglo.js'][558] = 0;
+  _$jscoverage['monglo.js'][531] = 0;
+  _$jscoverage['monglo.js'][543] = 0;
   _$jscoverage['monglo.js'][559] = 0;
   _$jscoverage['monglo.js'][560] = 0;
   _$jscoverage['monglo.js'][561] = 0;
   _$jscoverage['monglo.js'][562] = 0;
   _$jscoverage['monglo.js'][563] = 0;
-  _$jscoverage['monglo.js'][565] = 0;
+  _$jscoverage['monglo.js'][564] = 0;
   _$jscoverage['monglo.js'][566] = 0;
   _$jscoverage['monglo.js'][567] = 0;
-  _$jscoverage['monglo.js'][569] = 0;
-  _$jscoverage['monglo.js'][573] = 0;
+  _$jscoverage['monglo.js'][568] = 0;
+  _$jscoverage['monglo.js'][570] = 0;
   _$jscoverage['monglo.js'][574] = 0;
   _$jscoverage['monglo.js'][575] = 0;
   _$jscoverage['monglo.js'][576] = 0;
   _$jscoverage['monglo.js'][577] = 0;
   _$jscoverage['monglo.js'][578] = 0;
-  _$jscoverage['monglo.js'][581] = 0;
+  _$jscoverage['monglo.js'][579] = 0;
   _$jscoverage['monglo.js'][582] = 0;
   _$jscoverage['monglo.js'][583] = 0;
-  _$jscoverage['monglo.js'][585] = 0;
+  _$jscoverage['monglo.js'][584] = 0;
   _$jscoverage['monglo.js'][586] = 0;
-  _$jscoverage['monglo.js'][588] = 0;
-  _$jscoverage['monglo.js'][591] = 0;
-  _$jscoverage['monglo.js'][594] = 0;
-  _$jscoverage['monglo.js'][598] = 0;
-  _$jscoverage['monglo.js'][608] = 0;
+  _$jscoverage['monglo.js'][587] = 0;
+  _$jscoverage['monglo.js'][589] = 0;
+  _$jscoverage['monglo.js'][592] = 0;
+  _$jscoverage['monglo.js'][595] = 0;
+  _$jscoverage['monglo.js'][599] = 0;
   _$jscoverage['monglo.js'][609] = 0;
-  _$jscoverage['monglo.js'][611] = 0;
+  _$jscoverage['monglo.js'][610] = 0;
   _$jscoverage['monglo.js'][612] = 0;
   _$jscoverage['monglo.js'][613] = 0;
   _$jscoverage['monglo.js'][614] = 0;
   _$jscoverage['monglo.js'][615] = 0;
-  _$jscoverage['monglo.js'][618] = 0;
-  _$jscoverage['monglo.js'][630] = 0;
+  _$jscoverage['monglo.js'][616] = 0;
+  _$jscoverage['monglo.js'][619] = 0;
   _$jscoverage['monglo.js'][631] = 0;
-  _$jscoverage['monglo.js'][633] = 0;
-  _$jscoverage['monglo.js'][635] = 0;
+  _$jscoverage['monglo.js'][632] = 0;
+  _$jscoverage['monglo.js'][634] = 0;
   _$jscoverage['monglo.js'][636] = 0;
   _$jscoverage['monglo.js'][637] = 0;
-  _$jscoverage['monglo.js'][661] = 0;
-  _$jscoverage['monglo.js'][671] = 0;
+  _$jscoverage['monglo.js'][638] = 0;
+  _$jscoverage['monglo.js'][662] = 0;
   _$jscoverage['monglo.js'][672] = 0;
-  _$jscoverage['monglo.js'][674] = 0;
-  _$jscoverage['monglo.js'][686] = 0;
+  _$jscoverage['monglo.js'][673] = 0;
+  _$jscoverage['monglo.js'][675] = 0;
   _$jscoverage['monglo.js'][687] = 0;
-  _$jscoverage['monglo.js'][689] = 0;
-  _$jscoverage['monglo.js'][715] = 0;
+  _$jscoverage['monglo.js'][688] = 0;
+  _$jscoverage['monglo.js'][690] = 0;
   _$jscoverage['monglo.js'][716] = 0;
-  _$jscoverage['monglo.js'][741] = 0;
+  _$jscoverage['monglo.js'][717] = 0;
   _$jscoverage['monglo.js'][742] = 0;
-  _$jscoverage['monglo.js'][754] = 0;
+  _$jscoverage['monglo.js'][743] = 0;
   _$jscoverage['monglo.js'][755] = 0;
-  _$jscoverage['monglo.js'][766] = 0;
+  _$jscoverage['monglo.js'][756] = 0;
   _$jscoverage['monglo.js'][767] = 0;
-  _$jscoverage['monglo.js'][783] = 0;
+  _$jscoverage['monglo.js'][768] = 0;
   _$jscoverage['monglo.js'][784] = 0;
-  _$jscoverage['monglo.js'][794] = 0;
+  _$jscoverage['monglo.js'][785] = 0;
   _$jscoverage['monglo.js'][795] = 0;
   _$jscoverage['monglo.js'][796] = 0;
-  _$jscoverage['monglo.js'][799] = 0;
-  _$jscoverage['monglo.js'][804] = 0;
+  _$jscoverage['monglo.js'][797] = 0;
+  _$jscoverage['monglo.js'][800] = 0;
   _$jscoverage['monglo.js'][805] = 0;
   _$jscoverage['monglo.js'][806] = 0;
-  _$jscoverage['monglo.js'][808] = 0;
+  _$jscoverage['monglo.js'][807] = 0;
   _$jscoverage['monglo.js'][809] = 0;
   _$jscoverage['monglo.js'][810] = 0;
-  _$jscoverage['monglo.js'][820] = 0;
-  _$jscoverage['monglo.js'][822] = 0;
+  _$jscoverage['monglo.js'][811] = 0;
+  _$jscoverage['monglo.js'][821] = 0;
   _$jscoverage['monglo.js'][823] = 0;
   _$jscoverage['monglo.js'][824] = 0;
-  _$jscoverage['monglo.js'][827] = 0;
+  _$jscoverage['monglo.js'][825] = 0;
   _$jscoverage['monglo.js'][828] = 0;
-  _$jscoverage['monglo.js'][830] = 0;
+  _$jscoverage['monglo.js'][829] = 0;
   _$jscoverage['monglo.js'][831] = 0;
-  _$jscoverage['monglo.js'][834] = 0;
+  _$jscoverage['monglo.js'][832] = 0;
   _$jscoverage['monglo.js'][835] = 0;
   _$jscoverage['monglo.js'][836] = 0;
-  _$jscoverage['monglo.js'][839] = 0;
-  _$jscoverage['monglo.js'][842] = 0;
+  _$jscoverage['monglo.js'][837] = 0;
+  _$jscoverage['monglo.js'][840] = 0;
   _$jscoverage['monglo.js'][843] = 0;
-  _$jscoverage['monglo.js'][845] = 0;
-  _$jscoverage['monglo.js'][847] = 0;
-  _$jscoverage['monglo.js'][854] = 0;
+  _$jscoverage['monglo.js'][844] = 0;
+  _$jscoverage['monglo.js'][846] = 0;
+  _$jscoverage['monglo.js'][848] = 0;
   _$jscoverage['monglo.js'][855] = 0;
-  _$jscoverage['monglo.js'][858] = 0;
-  _$jscoverage['monglo.js'][861] = 0;
+  _$jscoverage['monglo.js'][856] = 0;
+  _$jscoverage['monglo.js'][859] = 0;
   _$jscoverage['monglo.js'][862] = 0;
-  _$jscoverage['monglo.js'][866] = 0;
-  _$jscoverage['monglo.js'][871] = 0;
+  _$jscoverage['monglo.js'][863] = 0;
+  _$jscoverage['monglo.js'][867] = 0;
   _$jscoverage['monglo.js'][872] = 0;
-  _$jscoverage['monglo.js'][890] = 0;
-  _$jscoverage['monglo.js'][892] = 0;
-  _$jscoverage['monglo.js'][894] = 0;
-  _$jscoverage['monglo.js'][896] = 0;
-  _$jscoverage['monglo.js'][898] = 0;
+  _$jscoverage['monglo.js'][873] = 0;
+  _$jscoverage['monglo.js'][891] = 0;
+  _$jscoverage['monglo.js'][893] = 0;
+  _$jscoverage['monglo.js'][895] = 0;
+  _$jscoverage['monglo.js'][897] = 0;
   _$jscoverage['monglo.js'][899] = 0;
   _$jscoverage['monglo.js'][900] = 0;
-  _$jscoverage['monglo.js'][903] = 0;
-  _$jscoverage['monglo.js'][906] = 0;
-  _$jscoverage['monglo.js'][908] = 0;
+  _$jscoverage['monglo.js'][901] = 0;
+  _$jscoverage['monglo.js'][904] = 0;
+  _$jscoverage['monglo.js'][907] = 0;
   _$jscoverage['monglo.js'][909] = 0;
   _$jscoverage['monglo.js'][910] = 0;
   _$jscoverage['monglo.js'][911] = 0;
   _$jscoverage['monglo.js'][912] = 0;
-  _$jscoverage['monglo.js'][915] = 0;
+  _$jscoverage['monglo.js'][913] = 0;
   _$jscoverage['monglo.js'][916] = 0;
   _$jscoverage['monglo.js'][917] = 0;
   _$jscoverage['monglo.js'][918] = 0;
-  _$jscoverage['monglo.js'][920] = 0;
+  _$jscoverage['monglo.js'][919] = 0;
   _$jscoverage['monglo.js'][921] = 0;
   _$jscoverage['monglo.js'][922] = 0;
   _$jscoverage['monglo.js'][923] = 0;
-  _$jscoverage['monglo.js'][927] = 0;
-  _$jscoverage['monglo.js'][929] = 0;
+  _$jscoverage['monglo.js'][924] = 0;
+  _$jscoverage['monglo.js'][928] = 0;
   _$jscoverage['monglo.js'][930] = 0;
   _$jscoverage['monglo.js'][931] = 0;
   _$jscoverage['monglo.js'][932] = 0;
   _$jscoverage['monglo.js'][933] = 0;
-  _$jscoverage['monglo.js'][937] = 0;
-  _$jscoverage['monglo.js'][941] = 0;
-  _$jscoverage['monglo.js'][944] = 0;
+  _$jscoverage['monglo.js'][934] = 0;
+  _$jscoverage['monglo.js'][938] = 0;
+  _$jscoverage['monglo.js'][942] = 0;
   _$jscoverage['monglo.js'][945] = 0;
-  _$jscoverage['monglo.js'][947] = 0;
+  _$jscoverage['monglo.js'][946] = 0;
   _$jscoverage['monglo.js'][948] = 0;
   _$jscoverage['monglo.js'][949] = 0;
-  _$jscoverage['monglo.js'][952] = 0;
+  _$jscoverage['monglo.js'][950] = 0;
   _$jscoverage['monglo.js'][953] = 0;
-  _$jscoverage['monglo.js'][956] = 0;
-  _$jscoverage['monglo.js'][958] = 0;
-  _$jscoverage['monglo.js'][960] = 0;
-  _$jscoverage['monglo.js'][963] = 0;
+  _$jscoverage['monglo.js'][954] = 0;
+  _$jscoverage['monglo.js'][957] = 0;
+  _$jscoverage['monglo.js'][959] = 0;
+  _$jscoverage['monglo.js'][961] = 0;
   _$jscoverage['monglo.js'][964] = 0;
   _$jscoverage['monglo.js'][965] = 0;
   _$jscoverage['monglo.js'][966] = 0;
@@ -414,7 +414,7 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][980] = 0;
   _$jscoverage['monglo.js'][981] = 0;
   _$jscoverage['monglo.js'][982] = 0;
-  _$jscoverage['monglo.js'][985] = 0;
+  _$jscoverage['monglo.js'][983] = 0;
   _$jscoverage['monglo.js'][986] = 0;
   _$jscoverage['monglo.js'][987] = 0;
   _$jscoverage['monglo.js'][988] = 0;
@@ -425,7 +425,7 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][993] = 0;
   _$jscoverage['monglo.js'][994] = 0;
   _$jscoverage['monglo.js'][995] = 0;
-  _$jscoverage['monglo.js'][998] = 0;
+  _$jscoverage['monglo.js'][996] = 0;
   _$jscoverage['monglo.js'][999] = 0;
   _$jscoverage['monglo.js'][1000] = 0;
   _$jscoverage['monglo.js'][1001] = 0;
@@ -444,9 +444,9 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][1014] = 0;
   _$jscoverage['monglo.js'][1015] = 0;
   _$jscoverage['monglo.js'][1016] = 0;
-  _$jscoverage['monglo.js'][1024] = 0;
+  _$jscoverage['monglo.js'][1017] = 0;
   _$jscoverage['monglo.js'][1025] = 0;
-  _$jscoverage['monglo.js'][1033] = 0;
+  _$jscoverage['monglo.js'][1026] = 0;
   _$jscoverage['monglo.js'][1034] = 0;
   _$jscoverage['monglo.js'][1035] = 0;
   _$jscoverage['monglo.js'][1036] = 0;
@@ -455,384 +455,384 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][1039] = 0;
   _$jscoverage['monglo.js'][1040] = 0;
   _$jscoverage['monglo.js'][1041] = 0;
-  _$jscoverage['monglo.js'][1043] = 0;
+  _$jscoverage['monglo.js'][1042] = 0;
   _$jscoverage['monglo.js'][1044] = 0;
   _$jscoverage['monglo.js'][1045] = 0;
   _$jscoverage['monglo.js'][1046] = 0;
-  _$jscoverage['monglo.js'][1050] = 0;
-  _$jscoverage['monglo.js'][1054] = 0;
+  _$jscoverage['monglo.js'][1047] = 0;
+  _$jscoverage['monglo.js'][1051] = 0;
   _$jscoverage['monglo.js'][1055] = 0;
-  _$jscoverage['monglo.js'][1059] = 0;
+  _$jscoverage['monglo.js'][1056] = 0;
   _$jscoverage['monglo.js'][1060] = 0;
-  _$jscoverage['monglo.js'][1063] = 0;
+  _$jscoverage['monglo.js'][1061] = 0;
   _$jscoverage['monglo.js'][1064] = 0;
-  _$jscoverage['monglo.js'][1066] = 0;
+  _$jscoverage['monglo.js'][1065] = 0;
   _$jscoverage['monglo.js'][1067] = 0;
   _$jscoverage['monglo.js'][1068] = 0;
   _$jscoverage['monglo.js'][1069] = 0;
   _$jscoverage['monglo.js'][1070] = 0;
-  _$jscoverage['monglo.js'][1072] = 0;
+  _$jscoverage['monglo.js'][1071] = 0;
   _$jscoverage['monglo.js'][1073] = 0;
   _$jscoverage['monglo.js'][1074] = 0;
-  _$jscoverage['monglo.js'][1078] = 0;
-  _$jscoverage['monglo.js'][1081] = 0;
+  _$jscoverage['monglo.js'][1075] = 0;
+  _$jscoverage['monglo.js'][1079] = 0;
   _$jscoverage['monglo.js'][1082] = 0;
-  _$jscoverage['monglo.js'][1084] = 0;
+  _$jscoverage['monglo.js'][1083] = 0;
   _$jscoverage['monglo.js'][1085] = 0;
   _$jscoverage['monglo.js'][1086] = 0;
-  _$jscoverage['monglo.js'][1089] = 0;
-  _$jscoverage['monglo.js'][1091] = 0;
-  _$jscoverage['monglo.js'][1094] = 0;
-  _$jscoverage['monglo.js'][1098] = 0;
-  _$jscoverage['monglo.js'][1101] = 0;
+  _$jscoverage['monglo.js'][1087] = 0;
+  _$jscoverage['monglo.js'][1090] = 0;
+  _$jscoverage['monglo.js'][1092] = 0;
+  _$jscoverage['monglo.js'][1095] = 0;
+  _$jscoverage['monglo.js'][1099] = 0;
   _$jscoverage['monglo.js'][1102] = 0;
-  _$jscoverage['monglo.js'][1104] = 0;
+  _$jscoverage['monglo.js'][1103] = 0;
   _$jscoverage['monglo.js'][1105] = 0;
   _$jscoverage['monglo.js'][1106] = 0;
-  _$jscoverage['monglo.js'][1111] = 0;
-  _$jscoverage['monglo.js'][1118] = 0;
+  _$jscoverage['monglo.js'][1107] = 0;
+  _$jscoverage['monglo.js'][1112] = 0;
   _$jscoverage['monglo.js'][1119] = 0;
-  _$jscoverage['monglo.js'][1121] = 0;
+  _$jscoverage['monglo.js'][1120] = 0;
   _$jscoverage['monglo.js'][1122] = 0;
   _$jscoverage['monglo.js'][1123] = 0;
-  _$jscoverage['monglo.js'][1127] = 0;
-  _$jscoverage['monglo.js'][1137] = 0;
+  _$jscoverage['monglo.js'][1124] = 0;
+  _$jscoverage['monglo.js'][1128] = 0;
   _$jscoverage['monglo.js'][1138] = 0;
   _$jscoverage['monglo.js'][1139] = 0;
   _$jscoverage['monglo.js'][1140] = 0;
   _$jscoverage['monglo.js'][1141] = 0;
-  _$jscoverage['monglo.js'][1143] = 0;
+  _$jscoverage['monglo.js'][1142] = 0;
   _$jscoverage['monglo.js'][1144] = 0;
-  _$jscoverage['monglo.js'][1146] = 0;
+  _$jscoverage['monglo.js'][1145] = 0;
   _$jscoverage['monglo.js'][1147] = 0;
   _$jscoverage['monglo.js'][1148] = 0;
   _$jscoverage['monglo.js'][1149] = 0;
   _$jscoverage['monglo.js'][1150] = 0;
-  _$jscoverage['monglo.js'][1154] = 0;
+  _$jscoverage['monglo.js'][1151] = 0;
   _$jscoverage['monglo.js'][1155] = 0;
-  _$jscoverage['monglo.js'][1158] = 0;
+  _$jscoverage['monglo.js'][1156] = 0;
   _$jscoverage['monglo.js'][1159] = 0;
   _$jscoverage['monglo.js'][1160] = 0;
-  _$jscoverage['monglo.js'][1164] = 0;
-  _$jscoverage['monglo.js'][1167] = 0;
+  _$jscoverage['monglo.js'][1161] = 0;
+  _$jscoverage['monglo.js'][1165] = 0;
   _$jscoverage['monglo.js'][1168] = 0;
   _$jscoverage['monglo.js'][1169] = 0;
-  _$jscoverage['monglo.js'][1172] = 0;
+  _$jscoverage['monglo.js'][1170] = 0;
   _$jscoverage['monglo.js'][1173] = 0;
-  _$jscoverage['monglo.js'][1176] = 0;
-  _$jscoverage['monglo.js'][1178] = 0;
-  _$jscoverage['monglo.js'][1185] = 0;
-  _$jscoverage['monglo.js'][1187] = 0;
-  _$jscoverage['monglo.js'][1193] = 0;
-  _$jscoverage['monglo.js'][1195] = 0;
+  _$jscoverage['monglo.js'][1174] = 0;
+  _$jscoverage['monglo.js'][1177] = 0;
+  _$jscoverage['monglo.js'][1179] = 0;
+  _$jscoverage['monglo.js'][1186] = 0;
+  _$jscoverage['monglo.js'][1188] = 0;
+  _$jscoverage['monglo.js'][1194] = 0;
   _$jscoverage['monglo.js'][1196] = 0;
-  _$jscoverage['monglo.js'][1210] = 0;
-  _$jscoverage['monglo.js'][1213] = 0;
-  _$jscoverage['monglo.js'][1222] = 0;
+  _$jscoverage['monglo.js'][1197] = 0;
+  _$jscoverage['monglo.js'][1211] = 0;
+  _$jscoverage['monglo.js'][1214] = 0;
   _$jscoverage['monglo.js'][1223] = 0;
-  _$jscoverage['monglo.js'][1225] = 0;
+  _$jscoverage['monglo.js'][1224] = 0;
   _$jscoverage['monglo.js'][1226] = 0;
-  _$jscoverage['monglo.js'][1229] = 0;
+  _$jscoverage['monglo.js'][1227] = 0;
   _$jscoverage['monglo.js'][1230] = 0;
-  _$jscoverage['monglo.js'][1233] = 0;
-  _$jscoverage['monglo.js'][1235] = 0;
+  _$jscoverage['monglo.js'][1231] = 0;
+  _$jscoverage['monglo.js'][1234] = 0;
   _$jscoverage['monglo.js'][1236] = 0;
-  _$jscoverage['monglo.js'][1238] = 0;
+  _$jscoverage['monglo.js'][1237] = 0;
   _$jscoverage['monglo.js'][1239] = 0;
   _$jscoverage['monglo.js'][1240] = 0;
   _$jscoverage['monglo.js'][1241] = 0;
   _$jscoverage['monglo.js'][1242] = 0;
-  _$jscoverage['monglo.js'][1245] = 0;
-  _$jscoverage['monglo.js'][1252] = 0;
-  _$jscoverage['monglo.js'][1260] = 0;
+  _$jscoverage['monglo.js'][1243] = 0;
+  _$jscoverage['monglo.js'][1246] = 0;
+  _$jscoverage['monglo.js'][1253] = 0;
   _$jscoverage['monglo.js'][1261] = 0;
-  _$jscoverage['monglo.js'][1263] = 0;
-  _$jscoverage['monglo.js'][1267] = 0;
+  _$jscoverage['monglo.js'][1262] = 0;
+  _$jscoverage['monglo.js'][1264] = 0;
   _$jscoverage['monglo.js'][1268] = 0;
   _$jscoverage['monglo.js'][1269] = 0;
-  _$jscoverage['monglo.js'][1272] = 0;
-  _$jscoverage['monglo.js'][1275] = 0;
+  _$jscoverage['monglo.js'][1270] = 0;
+  _$jscoverage['monglo.js'][1273] = 0;
   _$jscoverage['monglo.js'][1276] = 0;
-  _$jscoverage['monglo.js'][1285] = 0;
+  _$jscoverage['monglo.js'][1277] = 0;
   _$jscoverage['monglo.js'][1286] = 0;
-  _$jscoverage['monglo.js'][1295] = 0;
+  _$jscoverage['monglo.js'][1287] = 0;
   _$jscoverage['monglo.js'][1296] = 0;
-  _$jscoverage['monglo.js'][1306] = 0;
+  _$jscoverage['monglo.js'][1297] = 0;
   _$jscoverage['monglo.js'][1307] = 0;
   _$jscoverage['monglo.js'][1308] = 0;
-  _$jscoverage['monglo.js'][1310] = 0;
+  _$jscoverage['monglo.js'][1309] = 0;
   _$jscoverage['monglo.js'][1311] = 0;
   _$jscoverage['monglo.js'][1312] = 0;
-  _$jscoverage['monglo.js'][1314] = 0;
+  _$jscoverage['monglo.js'][1313] = 0;
   _$jscoverage['monglo.js'][1315] = 0;
   _$jscoverage['monglo.js'][1316] = 0;
   _$jscoverage['monglo.js'][1317] = 0;
   _$jscoverage['monglo.js'][1318] = 0;
-  _$jscoverage['monglo.js'][1321] = 0;
-  _$jscoverage['monglo.js'][1330] = 0;
+  _$jscoverage['monglo.js'][1319] = 0;
+  _$jscoverage['monglo.js'][1322] = 0;
   _$jscoverage['monglo.js'][1331] = 0;
-  _$jscoverage['monglo.js'][1340] = 0;
-  _$jscoverage['monglo.js'][1348] = 0;
+  _$jscoverage['monglo.js'][1332] = 0;
+  _$jscoverage['monglo.js'][1341] = 0;
   _$jscoverage['monglo.js'][1349] = 0;
-  _$jscoverage['monglo.js'][1359] = 0;
+  _$jscoverage['monglo.js'][1350] = 0;
   _$jscoverage['monglo.js'][1360] = 0;
-  _$jscoverage['monglo.js'][1364] = 0;
-  _$jscoverage['monglo.js'][1373] = 0;
+  _$jscoverage['monglo.js'][1361] = 0;
+  _$jscoverage['monglo.js'][1365] = 0;
   _$jscoverage['monglo.js'][1374] = 0;
   _$jscoverage['monglo.js'][1375] = 0;
   _$jscoverage['monglo.js'][1376] = 0;
-  _$jscoverage['monglo.js'][1383] = 0;
-  _$jscoverage['monglo.js'][1385] = 0;
+  _$jscoverage['monglo.js'][1377] = 0;
+  _$jscoverage['monglo.js'][1384] = 0;
   _$jscoverage['monglo.js'][1386] = 0;
-  _$jscoverage['monglo.js'][1396] = 0;
+  _$jscoverage['monglo.js'][1387] = 0;
   _$jscoverage['monglo.js'][1397] = 0;
-  _$jscoverage['monglo.js'][1399] = 0;
-  _$jscoverage['monglo.js'][1409] = 0;
-  _$jscoverage['monglo.js'][1411] = 0;
+  _$jscoverage['monglo.js'][1398] = 0;
+  _$jscoverage['monglo.js'][1400] = 0;
+  _$jscoverage['monglo.js'][1410] = 0;
   _$jscoverage['monglo.js'][1412] = 0;
-  _$jscoverage['monglo.js'][1414] = 0;
-  _$jscoverage['monglo.js'][1416] = 0;
+  _$jscoverage['monglo.js'][1413] = 0;
+  _$jscoverage['monglo.js'][1415] = 0;
   _$jscoverage['monglo.js'][1417] = 0;
-  _$jscoverage['monglo.js'][1420] = 0;
-  _$jscoverage['monglo.js'][1424] = 0;
+  _$jscoverage['monglo.js'][1418] = 0;
+  _$jscoverage['monglo.js'][1421] = 0;
   _$jscoverage['monglo.js'][1425] = 0;
   _$jscoverage['monglo.js'][1426] = 0;
   _$jscoverage['monglo.js'][1427] = 0;
-  _$jscoverage['monglo.js'][1430] = 0;
-  _$jscoverage['monglo.js'][1436] = 0;
-  _$jscoverage['monglo.js'][1439] = 0;
-  _$jscoverage['monglo.js'][1442] = 0;
+  _$jscoverage['monglo.js'][1428] = 0;
+  _$jscoverage['monglo.js'][1431] = 0;
+  _$jscoverage['monglo.js'][1437] = 0;
+  _$jscoverage['monglo.js'][1440] = 0;
   _$jscoverage['monglo.js'][1443] = 0;
-  _$jscoverage['monglo.js'][1445] = 0;
-  _$jscoverage['monglo.js'][1452] = 0;
+  _$jscoverage['monglo.js'][1444] = 0;
+  _$jscoverage['monglo.js'][1446] = 0;
   _$jscoverage['monglo.js'][1453] = 0;
-  _$jscoverage['monglo.js'][1460] = 0;
-  _$jscoverage['monglo.js'][1462] = 0;
+  _$jscoverage['monglo.js'][1454] = 0;
+  _$jscoverage['monglo.js'][1461] = 0;
   _$jscoverage['monglo.js'][1463] = 0;
   _$jscoverage['monglo.js'][1464] = 0;
   _$jscoverage['monglo.js'][1465] = 0;
   _$jscoverage['monglo.js'][1466] = 0;
-  _$jscoverage['monglo.js'][1469] = 0;
+  _$jscoverage['monglo.js'][1467] = 0;
   _$jscoverage['monglo.js'][1470] = 0;
   _$jscoverage['monglo.js'][1471] = 0;
   _$jscoverage['monglo.js'][1472] = 0;
   _$jscoverage['monglo.js'][1473] = 0;
-  _$jscoverage['monglo.js'][1477] = 0;
-  _$jscoverage['monglo.js'][1557] = 0;
-  _$jscoverage['monglo.js'][1559] = 0;
-  _$jscoverage['monglo.js'][1562] = 0;
+  _$jscoverage['monglo.js'][1474] = 0;
+  _$jscoverage['monglo.js'][1478] = 0;
+  _$jscoverage['monglo.js'][1558] = 0;
+  _$jscoverage['monglo.js'][1560] = 0;
   _$jscoverage['monglo.js'][1563] = 0;
-  _$jscoverage['monglo.js'][1567] = 0;
-  _$jscoverage['monglo.js'][1569] = 0;
+  _$jscoverage['monglo.js'][1564] = 0;
+  _$jscoverage['monglo.js'][1568] = 0;
   _$jscoverage['monglo.js'][1570] = 0;
-  _$jscoverage['monglo.js'][1574] = 0;
+  _$jscoverage['monglo.js'][1571] = 0;
   _$jscoverage['monglo.js'][1575] = 0;
   _$jscoverage['monglo.js'][1576] = 0;
-  _$jscoverage['monglo.js'][1582] = 0;
+  _$jscoverage['monglo.js'][1577] = 0;
   _$jscoverage['monglo.js'][1583] = 0;
   _$jscoverage['monglo.js'][1584] = 0;
   _$jscoverage['monglo.js'][1585] = 0;
-  _$jscoverage['monglo.js'][1588] = 0;
+  _$jscoverage['monglo.js'][1586] = 0;
   _$jscoverage['monglo.js'][1589] = 0;
   _$jscoverage['monglo.js'][1590] = 0;
   _$jscoverage['monglo.js'][1591] = 0;
-  _$jscoverage['monglo.js'][1596] = 0;
+  _$jscoverage['monglo.js'][1592] = 0;
   _$jscoverage['monglo.js'][1597] = 0;
   _$jscoverage['monglo.js'][1598] = 0;
   _$jscoverage['monglo.js'][1599] = 0;
-  _$jscoverage['monglo.js'][1604] = 0;
+  _$jscoverage['monglo.js'][1600] = 0;
   _$jscoverage['monglo.js'][1605] = 0;
   _$jscoverage['monglo.js'][1606] = 0;
   _$jscoverage['monglo.js'][1607] = 0;
   _$jscoverage['monglo.js'][1608] = 0;
-  _$jscoverage['monglo.js'][1610] = 0;
-  _$jscoverage['monglo.js'][1612] = 0;
+  _$jscoverage['monglo.js'][1609] = 0;
+  _$jscoverage['monglo.js'][1611] = 0;
   _$jscoverage['monglo.js'][1613] = 0;
   _$jscoverage['monglo.js'][1614] = 0;
   _$jscoverage['monglo.js'][1615] = 0;
   _$jscoverage['monglo.js'][1616] = 0;
-  _$jscoverage['monglo.js'][1618] = 0;
-  _$jscoverage['monglo.js'][1620] = 0;
-  _$jscoverage['monglo.js'][1623] = 0;
+  _$jscoverage['monglo.js'][1617] = 0;
+  _$jscoverage['monglo.js'][1619] = 0;
+  _$jscoverage['monglo.js'][1621] = 0;
   _$jscoverage['monglo.js'][1624] = 0;
-  _$jscoverage['monglo.js'][1627] = 0;
-  _$jscoverage['monglo.js'][1632] = 0;
+  _$jscoverage['monglo.js'][1625] = 0;
+  _$jscoverage['monglo.js'][1628] = 0;
   _$jscoverage['monglo.js'][1633] = 0;
   _$jscoverage['monglo.js'][1634] = 0;
   _$jscoverage['monglo.js'][1635] = 0;
   _$jscoverage['monglo.js'][1636] = 0;
-  _$jscoverage['monglo.js'][1638] = 0;
-  _$jscoverage['monglo.js'][1640] = 0;
-  _$jscoverage['monglo.js'][1642] = 0;
+  _$jscoverage['monglo.js'][1637] = 0;
+  _$jscoverage['monglo.js'][1639] = 0;
+  _$jscoverage['monglo.js'][1641] = 0;
   _$jscoverage['monglo.js'][1643] = 0;
   _$jscoverage['monglo.js'][1644] = 0;
   _$jscoverage['monglo.js'][1645] = 0;
-  _$jscoverage['monglo.js'][1647] = 0;
+  _$jscoverage['monglo.js'][1646] = 0;
   _$jscoverage['monglo.js'][1648] = 0;
   _$jscoverage['monglo.js'][1649] = 0;
-  _$jscoverage['monglo.js'][1652] = 0;
-  _$jscoverage['monglo.js'][1655] = 0;
+  _$jscoverage['monglo.js'][1650] = 0;
+  _$jscoverage['monglo.js'][1653] = 0;
   _$jscoverage['monglo.js'][1656] = 0;
   _$jscoverage['monglo.js'][1657] = 0;
-  _$jscoverage['monglo.js'][1659] = 0;
-  _$jscoverage['monglo.js'][1662] = 0;
+  _$jscoverage['monglo.js'][1658] = 0;
+  _$jscoverage['monglo.js'][1660] = 0;
   _$jscoverage['monglo.js'][1663] = 0;
   _$jscoverage['monglo.js'][1664] = 0;
-  _$jscoverage['monglo.js'][1668] = 0;
+  _$jscoverage['monglo.js'][1665] = 0;
   _$jscoverage['monglo.js'][1669] = 0;
   _$jscoverage['monglo.js'][1670] = 0;
   _$jscoverage['monglo.js'][1671] = 0;
   _$jscoverage['monglo.js'][1672] = 0;
   _$jscoverage['monglo.js'][1673] = 0;
   _$jscoverage['monglo.js'][1674] = 0;
-  _$jscoverage['monglo.js'][1676] = 0;
+  _$jscoverage['monglo.js'][1675] = 0;
   _$jscoverage['monglo.js'][1677] = 0;
   _$jscoverage['monglo.js'][1678] = 0;
   _$jscoverage['monglo.js'][1679] = 0;
-  _$jscoverage['monglo.js'][1684] = 0;
-  _$jscoverage['monglo.js'][1686] = 0;
-  _$jscoverage['monglo.js'][1688] = 0;
+  _$jscoverage['monglo.js'][1680] = 0;
+  _$jscoverage['monglo.js'][1685] = 0;
+  _$jscoverage['monglo.js'][1687] = 0;
   _$jscoverage['monglo.js'][1689] = 0;
   _$jscoverage['monglo.js'][1690] = 0;
   _$jscoverage['monglo.js'][1691] = 0;
-  _$jscoverage['monglo.js'][1695] = 0;
+  _$jscoverage['monglo.js'][1692] = 0;
   _$jscoverage['monglo.js'][1696] = 0;
-  _$jscoverage['monglo.js'][1698] = 0;
-  _$jscoverage['monglo.js'][1700] = 0;
-  _$jscoverage['monglo.js'][1708] = 0;
+  _$jscoverage['monglo.js'][1697] = 0;
+  _$jscoverage['monglo.js'][1699] = 0;
+  _$jscoverage['monglo.js'][1701] = 0;
   _$jscoverage['monglo.js'][1709] = 0;
   _$jscoverage['monglo.js'][1710] = 0;
   _$jscoverage['monglo.js'][1711] = 0;
-  _$jscoverage['monglo.js'][1715] = 0;
+  _$jscoverage['monglo.js'][1712] = 0;
   _$jscoverage['monglo.js'][1716] = 0;
-  _$jscoverage['monglo.js'][1718] = 0;
+  _$jscoverage['monglo.js'][1717] = 0;
   _$jscoverage['monglo.js'][1719] = 0;
-  _$jscoverage['monglo.js'][1723] = 0;
+  _$jscoverage['monglo.js'][1720] = 0;
   _$jscoverage['monglo.js'][1724] = 0;
-  _$jscoverage['monglo.js'][1726] = 0;
-  _$jscoverage['monglo.js'][1728] = 0;
-  _$jscoverage['monglo.js'][1732] = 0;
+  _$jscoverage['monglo.js'][1725] = 0;
+  _$jscoverage['monglo.js'][1727] = 0;
+  _$jscoverage['monglo.js'][1729] = 0;
   _$jscoverage['monglo.js'][1733] = 0;
   _$jscoverage['monglo.js'][1734] = 0;
-  _$jscoverage['monglo.js'][1736] = 0;
+  _$jscoverage['monglo.js'][1735] = 0;
   _$jscoverage['monglo.js'][1737] = 0;
-  _$jscoverage['monglo.js'][1740] = 0;
+  _$jscoverage['monglo.js'][1738] = 0;
   _$jscoverage['monglo.js'][1741] = 0;
-  _$jscoverage['monglo.js'][1743] = 0;
+  _$jscoverage['monglo.js'][1742] = 0;
   _$jscoverage['monglo.js'][1744] = 0;
-  _$jscoverage['monglo.js'][1746] = 0;
+  _$jscoverage['monglo.js'][1745] = 0;
   _$jscoverage['monglo.js'][1747] = 0;
-  _$jscoverage['monglo.js'][1750] = 0;
+  _$jscoverage['monglo.js'][1748] = 0;
   _$jscoverage['monglo.js'][1751] = 0;
   _$jscoverage['monglo.js'][1752] = 0;
   _$jscoverage['monglo.js'][1753] = 0;
-  _$jscoverage['monglo.js'][1755] = 0;
-  _$jscoverage['monglo.js'][1757] = 0;
+  _$jscoverage['monglo.js'][1754] = 0;
+  _$jscoverage['monglo.js'][1756] = 0;
   _$jscoverage['monglo.js'][1758] = 0;
   _$jscoverage['monglo.js'][1759] = 0;
   _$jscoverage['monglo.js'][1760] = 0;
-  _$jscoverage['monglo.js'][1762] = 0;
+  _$jscoverage['monglo.js'][1761] = 0;
   _$jscoverage['monglo.js'][1763] = 0;
   _$jscoverage['monglo.js'][1764] = 0;
-  _$jscoverage['monglo.js'][1766] = 0;
-  _$jscoverage['monglo.js'][1769] = 0;
-  _$jscoverage['monglo.js'][1773] = 0;
+  _$jscoverage['monglo.js'][1765] = 0;
+  _$jscoverage['monglo.js'][1767] = 0;
+  _$jscoverage['monglo.js'][1770] = 0;
   _$jscoverage['monglo.js'][1774] = 0;
   _$jscoverage['monglo.js'][1775] = 0;
-  _$jscoverage['monglo.js'][1778] = 0;
-  _$jscoverage['monglo.js'][1782] = 0;
-  _$jscoverage['monglo.js'][1785] = 0;
-  _$jscoverage['monglo.js'][1787] = 0;
+  _$jscoverage['monglo.js'][1776] = 0;
+  _$jscoverage['monglo.js'][1779] = 0;
+  _$jscoverage['monglo.js'][1783] = 0;
+  _$jscoverage['monglo.js'][1786] = 0;
   _$jscoverage['monglo.js'][1788] = 0;
-  _$jscoverage['monglo.js'][1791] = 0;
-  _$jscoverage['monglo.js'][1795] = 0;
-  _$jscoverage['monglo.js'][1800] = 0;
+  _$jscoverage['monglo.js'][1789] = 0;
+  _$jscoverage['monglo.js'][1792] = 0;
+  _$jscoverage['monglo.js'][1796] = 0;
   _$jscoverage['monglo.js'][1801] = 0;
   _$jscoverage['monglo.js'][1802] = 0;
   _$jscoverage['monglo.js'][1803] = 0;
-  _$jscoverage['monglo.js'][1805] = 0;
-  _$jscoverage['monglo.js'][1808] = 0;
+  _$jscoverage['monglo.js'][1804] = 0;
+  _$jscoverage['monglo.js'][1806] = 0;
   _$jscoverage['monglo.js'][1809] = 0;
   _$jscoverage['monglo.js'][1810] = 0;
-  _$jscoverage['monglo.js'][1814] = 0;
-  _$jscoverage['monglo.js'][1818] = 0;
-  _$jscoverage['monglo.js'][1821] = 0;
-  _$jscoverage['monglo.js'][1823] = 0;
+  _$jscoverage['monglo.js'][1811] = 0;
+  _$jscoverage['monglo.js'][1815] = 0;
+  _$jscoverage['monglo.js'][1819] = 0;
+  _$jscoverage['monglo.js'][1822] = 0;
   _$jscoverage['monglo.js'][1824] = 0;
   _$jscoverage['monglo.js'][1825] = 0;
-  _$jscoverage['monglo.js'][1828] = 0;
+  _$jscoverage['monglo.js'][1826] = 0;
   _$jscoverage['monglo.js'][1829] = 0;
   _$jscoverage['monglo.js'][1830] = 0;
   _$jscoverage['monglo.js'][1831] = 0;
   _$jscoverage['monglo.js'][1832] = 0;
-  _$jscoverage['monglo.js'][1834] = 0;
+  _$jscoverage['monglo.js'][1833] = 0;
   _$jscoverage['monglo.js'][1835] = 0;
-  _$jscoverage['monglo.js'][1837] = 0;
-  _$jscoverage['monglo.js'][1840] = 0;
+  _$jscoverage['monglo.js'][1836] = 0;
+  _$jscoverage['monglo.js'][1838] = 0;
   _$jscoverage['monglo.js'][1841] = 0;
   _$jscoverage['monglo.js'][1842] = 0;
-  _$jscoverage['monglo.js'][1846] = 0;
-  _$jscoverage['monglo.js'][1848] = 0;
-  _$jscoverage['monglo.js'][1850] = 0;
+  _$jscoverage['monglo.js'][1843] = 0;
+  _$jscoverage['monglo.js'][1847] = 0;
+  _$jscoverage['monglo.js'][1849] = 0;
   _$jscoverage['monglo.js'][1851] = 0;
   _$jscoverage['monglo.js'][1852] = 0;
   _$jscoverage['monglo.js'][1853] = 0;
-  _$jscoverage['monglo.js'][1856] = 0;
+  _$jscoverage['monglo.js'][1854] = 0;
   _$jscoverage['monglo.js'][1857] = 0;
-  _$jscoverage['monglo.js'][1861] = 0;
+  _$jscoverage['monglo.js'][1858] = 0;
   _$jscoverage['monglo.js'][1862] = 0;
   _$jscoverage['monglo.js'][1863] = 0;
-  _$jscoverage['monglo.js'][1866] = 0;
-  _$jscoverage['monglo.js'][1869] = 0;
-  _$jscoverage['monglo.js'][1872] = 0;
+  _$jscoverage['monglo.js'][1864] = 0;
+  _$jscoverage['monglo.js'][1867] = 0;
+  _$jscoverage['monglo.js'][1870] = 0;
   _$jscoverage['monglo.js'][1873] = 0;
   _$jscoverage['monglo.js'][1874] = 0;
   _$jscoverage['monglo.js'][1875] = 0;
-  _$jscoverage['monglo.js'][1879] = 0;
+  _$jscoverage['monglo.js'][1876] = 0;
   _$jscoverage['monglo.js'][1880] = 0;
-  _$jscoverage['monglo.js'][1883] = 0;
+  _$jscoverage['monglo.js'][1881] = 0;
   _$jscoverage['monglo.js'][1884] = 0;
   _$jscoverage['monglo.js'][1885] = 0;
   _$jscoverage['monglo.js'][1886] = 0;
   _$jscoverage['monglo.js'][1887] = 0;
-  _$jscoverage['monglo.js'][1889] = 0;
-  _$jscoverage['monglo.js'][1897] = 0;
+  _$jscoverage['monglo.js'][1888] = 0;
+  _$jscoverage['monglo.js'][1890] = 0;
   _$jscoverage['monglo.js'][1898] = 0;
   _$jscoverage['monglo.js'][1899] = 0;
-  _$jscoverage['monglo.js'][1903] = 0;
+  _$jscoverage['monglo.js'][1900] = 0;
   _$jscoverage['monglo.js'][1904] = 0;
-  _$jscoverage['monglo.js'][1907] = 0;
-  _$jscoverage['monglo.js'][1909] = 0;
+  _$jscoverage['monglo.js'][1905] = 0;
+  _$jscoverage['monglo.js'][1908] = 0;
   _$jscoverage['monglo.js'][1910] = 0;
   _$jscoverage['monglo.js'][1911] = 0;
-  _$jscoverage['monglo.js'][1914] = 0;
+  _$jscoverage['monglo.js'][1912] = 0;
   _$jscoverage['monglo.js'][1915] = 0;
   _$jscoverage['monglo.js'][1916] = 0;
   _$jscoverage['monglo.js'][1917] = 0;
   _$jscoverage['monglo.js'][1918] = 0;
-  _$jscoverage['monglo.js'][1920] = 0;
-  _$jscoverage['monglo.js'][1923] = 0;
-  _$jscoverage['monglo.js'][1925] = 0;
+  _$jscoverage['monglo.js'][1919] = 0;
+  _$jscoverage['monglo.js'][1921] = 0;
+  _$jscoverage['monglo.js'][1924] = 0;
   _$jscoverage['monglo.js'][1926] = 0;
   _$jscoverage['monglo.js'][1927] = 0;
   _$jscoverage['monglo.js'][1928] = 0;
   _$jscoverage['monglo.js'][1929] = 0;
-  _$jscoverage['monglo.js'][1932] = 0;
+  _$jscoverage['monglo.js'][1930] = 0;
   _$jscoverage['monglo.js'][1933] = 0;
-  _$jscoverage['monglo.js'][1935] = 0;
+  _$jscoverage['monglo.js'][1934] = 0;
   _$jscoverage['monglo.js'][1936] = 0;
   _$jscoverage['monglo.js'][1937] = 0;
   _$jscoverage['monglo.js'][1938] = 0;
   _$jscoverage['monglo.js'][1939] = 0;
-  _$jscoverage['monglo.js'][1941] = 0;
+  _$jscoverage['monglo.js'][1940] = 0;
   _$jscoverage['monglo.js'][1942] = 0;
-  _$jscoverage['monglo.js'][1948] = 0;
+  _$jscoverage['monglo.js'][1943] = 0;
   _$jscoverage['monglo.js'][1949] = 0;
   _$jscoverage['monglo.js'][1950] = 0;
-  _$jscoverage['monglo.js'][1952] = 0;
+  _$jscoverage['monglo.js'][1951] = 0;
   _$jscoverage['monglo.js'][1953] = 0;
-  _$jscoverage['monglo.js'][1967] = 0;
-  _$jscoverage['monglo.js'][1969] = 0;
+  _$jscoverage['monglo.js'][1954] = 0;
+  _$jscoverage['monglo.js'][1968] = 0;
   _$jscoverage['monglo.js'][1970] = 0;
   _$jscoverage['monglo.js'][1971] = 0;
   _$jscoverage['monglo.js'][1972] = 0;
@@ -843,9 +843,9 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][1977] = 0;
   _$jscoverage['monglo.js'][1978] = 0;
   _$jscoverage['monglo.js'][1979] = 0;
-  _$jscoverage['monglo.js'][1981] = 0;
+  _$jscoverage['monglo.js'][1980] = 0;
   _$jscoverage['monglo.js'][1982] = 0;
-  _$jscoverage['monglo.js'][1984] = 0;
+  _$jscoverage['monglo.js'][1983] = 0;
   _$jscoverage['monglo.js'][1985] = 0;
   _$jscoverage['monglo.js'][1986] = 0;
   _$jscoverage['monglo.js'][1987] = 0;
@@ -853,86 +853,86 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][1989] = 0;
   _$jscoverage['monglo.js'][1990] = 0;
   _$jscoverage['monglo.js'][1991] = 0;
-  _$jscoverage['monglo.js'][1996] = 0;
+  _$jscoverage['monglo.js'][1992] = 0;
   _$jscoverage['monglo.js'][1997] = 0;
-  _$jscoverage['monglo.js'][2000] = 0;
+  _$jscoverage['monglo.js'][1998] = 0;
   _$jscoverage['monglo.js'][2001] = 0;
   _$jscoverage['monglo.js'][2002] = 0;
-  _$jscoverage['monglo.js'][2008] = 0;
-  _$jscoverage['monglo.js'][2016] = 0;
-  _$jscoverage['monglo.js'][2018] = 0;
+  _$jscoverage['monglo.js'][2003] = 0;
+  _$jscoverage['monglo.js'][2009] = 0;
+  _$jscoverage['monglo.js'][2017] = 0;
   _$jscoverage['monglo.js'][2019] = 0;
   _$jscoverage['monglo.js'][2020] = 0;
   _$jscoverage['monglo.js'][2021] = 0;
   _$jscoverage['monglo.js'][2022] = 0;
   _$jscoverage['monglo.js'][2023] = 0;
-  _$jscoverage['monglo.js'][2025] = 0;
-  _$jscoverage['monglo.js'][2029] = 0;
-  _$jscoverage['monglo.js'][2032] = 0;
+  _$jscoverage['monglo.js'][2024] = 0;
+  _$jscoverage['monglo.js'][2026] = 0;
+  _$jscoverage['monglo.js'][2030] = 0;
   _$jscoverage['monglo.js'][2033] = 0;
   _$jscoverage['monglo.js'][2034] = 0;
   _$jscoverage['monglo.js'][2035] = 0;
-  _$jscoverage['monglo.js'][2037] = 0;
-  _$jscoverage['monglo.js'][2041] = 0;
+  _$jscoverage['monglo.js'][2036] = 0;
+  _$jscoverage['monglo.js'][2038] = 0;
   _$jscoverage['monglo.js'][2042] = 0;
   _$jscoverage['monglo.js'][2043] = 0;
   _$jscoverage['monglo.js'][2044] = 0;
   _$jscoverage['monglo.js'][2045] = 0;
-  _$jscoverage['monglo.js'][2047] = 0;
-  _$jscoverage['monglo.js'][2050] = 0;
+  _$jscoverage['monglo.js'][2046] = 0;
+  _$jscoverage['monglo.js'][2048] = 0;
   _$jscoverage['monglo.js'][2051] = 0;
   _$jscoverage['monglo.js'][2052] = 0;
   _$jscoverage['monglo.js'][2053] = 0;
   _$jscoverage['monglo.js'][2054] = 0;
   _$jscoverage['monglo.js'][2055] = 0;
   _$jscoverage['monglo.js'][2056] = 0;
-  _$jscoverage['monglo.js'][2058] = 0;
+  _$jscoverage['monglo.js'][2057] = 0;
   _$jscoverage['monglo.js'][2059] = 0;
-  _$jscoverage['monglo.js'][2063] = 0;
+  _$jscoverage['monglo.js'][2060] = 0;
   _$jscoverage['monglo.js'][2064] = 0;
   _$jscoverage['monglo.js'][2065] = 0;
   _$jscoverage['monglo.js'][2066] = 0;
   _$jscoverage['monglo.js'][2067] = 0;
-  _$jscoverage['monglo.js'][2069] = 0;
+  _$jscoverage['monglo.js'][2068] = 0;
   _$jscoverage['monglo.js'][2070] = 0;
   _$jscoverage['monglo.js'][2071] = 0;
   _$jscoverage['monglo.js'][2072] = 0;
   _$jscoverage['monglo.js'][2073] = 0;
   _$jscoverage['monglo.js'][2074] = 0;
-  _$jscoverage['monglo.js'][2077] = 0;
+  _$jscoverage['monglo.js'][2075] = 0;
   _$jscoverage['monglo.js'][2078] = 0;
   _$jscoverage['monglo.js'][2079] = 0;
   _$jscoverage['monglo.js'][2080] = 0;
   _$jscoverage['monglo.js'][2081] = 0;
   _$jscoverage['monglo.js'][2082] = 0;
-  _$jscoverage['monglo.js'][2087] = 0;
+  _$jscoverage['monglo.js'][2083] = 0;
   _$jscoverage['monglo.js'][2088] = 0;
   _$jscoverage['monglo.js'][2089] = 0;
   _$jscoverage['monglo.js'][2090] = 0;
   _$jscoverage['monglo.js'][2091] = 0;
   _$jscoverage['monglo.js'][2092] = 0;
   _$jscoverage['monglo.js'][2093] = 0;
-  _$jscoverage['monglo.js'][2095] = 0;
+  _$jscoverage['monglo.js'][2094] = 0;
   _$jscoverage['monglo.js'][2096] = 0;
-  _$jscoverage['monglo.js'][2098] = 0;
-  _$jscoverage['monglo.js'][2102] = 0;
+  _$jscoverage['monglo.js'][2097] = 0;
+  _$jscoverage['monglo.js'][2099] = 0;
   _$jscoverage['monglo.js'][2103] = 0;
   _$jscoverage['monglo.js'][2104] = 0;
   _$jscoverage['monglo.js'][2105] = 0;
   _$jscoverage['monglo.js'][2106] = 0;
   _$jscoverage['monglo.js'][2107] = 0;
   _$jscoverage['monglo.js'][2108] = 0;
-  _$jscoverage['monglo.js'][2110] = 0;
+  _$jscoverage['monglo.js'][2109] = 0;
   _$jscoverage['monglo.js'][2111] = 0;
-  _$jscoverage['monglo.js'][2121] = 0;
+  _$jscoverage['monglo.js'][2112] = 0;
   _$jscoverage['monglo.js'][2122] = 0;
   _$jscoverage['monglo.js'][2123] = 0;
   _$jscoverage['monglo.js'][2124] = 0;
-  _$jscoverage['monglo.js'][2126] = 0;
+  _$jscoverage['monglo.js'][2125] = 0;
   _$jscoverage['monglo.js'][2127] = 0;
   _$jscoverage['monglo.js'][2128] = 0;
-  _$jscoverage['monglo.js'][2130] = 0;
-  _$jscoverage['monglo.js'][2134] = 0;
+  _$jscoverage['monglo.js'][2129] = 0;
+  _$jscoverage['monglo.js'][2131] = 0;
   _$jscoverage['monglo.js'][2135] = 0;
   _$jscoverage['monglo.js'][2136] = 0;
   _$jscoverage['monglo.js'][2137] = 0;
@@ -941,18 +941,18 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2140] = 0;
   _$jscoverage['monglo.js'][2141] = 0;
   _$jscoverage['monglo.js'][2142] = 0;
-  _$jscoverage['monglo.js'][2144] = 0;
+  _$jscoverage['monglo.js'][2143] = 0;
   _$jscoverage['monglo.js'][2145] = 0;
   _$jscoverage['monglo.js'][2146] = 0;
   _$jscoverage['monglo.js'][2147] = 0;
   _$jscoverage['monglo.js'][2148] = 0;
   _$jscoverage['monglo.js'][2149] = 0;
   _$jscoverage['monglo.js'][2150] = 0;
-  _$jscoverage['monglo.js'][2153] = 0;
+  _$jscoverage['monglo.js'][2151] = 0;
   _$jscoverage['monglo.js'][2154] = 0;
-  _$jscoverage['monglo.js'][2156] = 0;
-  _$jscoverage['monglo.js'][2160] = 0;
-  _$jscoverage['monglo.js'][2162] = 0;
+  _$jscoverage['monglo.js'][2155] = 0;
+  _$jscoverage['monglo.js'][2157] = 0;
+  _$jscoverage['monglo.js'][2161] = 0;
   _$jscoverage['monglo.js'][2163] = 0;
   _$jscoverage['monglo.js'][2164] = 0;
   _$jscoverage['monglo.js'][2165] = 0;
@@ -961,42 +961,42 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2168] = 0;
   _$jscoverage['monglo.js'][2169] = 0;
   _$jscoverage['monglo.js'][2170] = 0;
-  _$jscoverage['monglo.js'][2172] = 0;
+  _$jscoverage['monglo.js'][2171] = 0;
   _$jscoverage['monglo.js'][2173] = 0;
   _$jscoverage['monglo.js'][2174] = 0;
   _$jscoverage['monglo.js'][2175] = 0;
   _$jscoverage['monglo.js'][2176] = 0;
   _$jscoverage['monglo.js'][2177] = 0;
-  _$jscoverage['monglo.js'][2182] = 0;
-  _$jscoverage['monglo.js'][2184] = 0;
-  _$jscoverage['monglo.js'][2187] = 0;
-  _$jscoverage['monglo.js'][2192] = 0;
+  _$jscoverage['monglo.js'][2178] = 0;
+  _$jscoverage['monglo.js'][2183] = 0;
+  _$jscoverage['monglo.js'][2185] = 0;
+  _$jscoverage['monglo.js'][2188] = 0;
   _$jscoverage['monglo.js'][2193] = 0;
-  _$jscoverage['monglo.js'][2197] = 0;
+  _$jscoverage['monglo.js'][2194] = 0;
   _$jscoverage['monglo.js'][2198] = 0;
   _$jscoverage['monglo.js'][2199] = 0;
   _$jscoverage['monglo.js'][2200] = 0;
   _$jscoverage['monglo.js'][2201] = 0;
   _$jscoverage['monglo.js'][2202] = 0;
   _$jscoverage['monglo.js'][2203] = 0;
-  _$jscoverage['monglo.js'][2207] = 0;
+  _$jscoverage['monglo.js'][2204] = 0;
   _$jscoverage['monglo.js'][2208] = 0;
   _$jscoverage['monglo.js'][2209] = 0;
   _$jscoverage['monglo.js'][2210] = 0;
   _$jscoverage['monglo.js'][2211] = 0;
   _$jscoverage['monglo.js'][2212] = 0;
   _$jscoverage['monglo.js'][2213] = 0;
-  _$jscoverage['monglo.js'][2217] = 0;
-  _$jscoverage['monglo.js'][2221] = 0;
-  _$jscoverage['monglo.js'][2223] = 0;
+  _$jscoverage['monglo.js'][2214] = 0;
+  _$jscoverage['monglo.js'][2218] = 0;
+  _$jscoverage['monglo.js'][2222] = 0;
   _$jscoverage['monglo.js'][2224] = 0;
   _$jscoverage['monglo.js'][2225] = 0;
   _$jscoverage['monglo.js'][2226] = 0;
-  _$jscoverage['monglo.js'][2229] = 0;
+  _$jscoverage['monglo.js'][2227] = 0;
   _$jscoverage['monglo.js'][2230] = 0;
   _$jscoverage['monglo.js'][2231] = 0;
   _$jscoverage['monglo.js'][2232] = 0;
-  _$jscoverage['monglo.js'][2237] = 0;
+  _$jscoverage['monglo.js'][2233] = 0;
   _$jscoverage['monglo.js'][2238] = 0;
   _$jscoverage['monglo.js'][2239] = 0;
   _$jscoverage['monglo.js'][2240] = 0;
@@ -1009,16 +1009,16 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2247] = 0;
   _$jscoverage['monglo.js'][2248] = 0;
   _$jscoverage['monglo.js'][2249] = 0;
-  _$jscoverage['monglo.js'][2251] = 0;
+  _$jscoverage['monglo.js'][2250] = 0;
   _$jscoverage['monglo.js'][2252] = 0;
-  _$jscoverage['monglo.js'][2268] = 0;
-  _$jscoverage['monglo.js'][2270] = 0;
-  _$jscoverage['monglo.js'][2272] = 0;
+  _$jscoverage['monglo.js'][2253] = 0;
+  _$jscoverage['monglo.js'][2269] = 0;
+  _$jscoverage['monglo.js'][2271] = 0;
   _$jscoverage['monglo.js'][2273] = 0;
   _$jscoverage['monglo.js'][2274] = 0;
-  _$jscoverage['monglo.js'][2277] = 0;
+  _$jscoverage['monglo.js'][2275] = 0;
   _$jscoverage['monglo.js'][2278] = 0;
-  _$jscoverage['monglo.js'][2281] = 0;
+  _$jscoverage['monglo.js'][2279] = 0;
   _$jscoverage['monglo.js'][2282] = 0;
   _$jscoverage['monglo.js'][2283] = 0;
   _$jscoverage['monglo.js'][2284] = 0;
@@ -1027,7 +1027,7 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2287] = 0;
   _$jscoverage['monglo.js'][2288] = 0;
   _$jscoverage['monglo.js'][2289] = 0;
-  _$jscoverage['monglo.js'][2309] = 0;
+  _$jscoverage['monglo.js'][2290] = 0;
   _$jscoverage['monglo.js'][2310] = 0;
   _$jscoverage['monglo.js'][2311] = 0;
   _$jscoverage['monglo.js'][2312] = 0;
@@ -1037,23 +1037,23 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2316] = 0;
   _$jscoverage['monglo.js'][2317] = 0;
   _$jscoverage['monglo.js'][2318] = 0;
-  _$jscoverage['monglo.js'][2320] = 0;
+  _$jscoverage['monglo.js'][2319] = 0;
   _$jscoverage['monglo.js'][2321] = 0;
   _$jscoverage['monglo.js'][2322] = 0;
-  _$jscoverage['monglo.js'][2324] = 0;
-  _$jscoverage['monglo.js'][2333] = 0;
+  _$jscoverage['monglo.js'][2323] = 0;
+  _$jscoverage['monglo.js'][2325] = 0;
   _$jscoverage['monglo.js'][2334] = 0;
   _$jscoverage['monglo.js'][2335] = 0;
   _$jscoverage['monglo.js'][2336] = 0;
   _$jscoverage['monglo.js'][2337] = 0;
-  _$jscoverage['monglo.js'][2339] = 0;
-  _$jscoverage['monglo.js'][2348] = 0;
+  _$jscoverage['monglo.js'][2338] = 0;
+  _$jscoverage['monglo.js'][2340] = 0;
   _$jscoverage['monglo.js'][2349] = 0;
   _$jscoverage['monglo.js'][2350] = 0;
   _$jscoverage['monglo.js'][2351] = 0;
-  _$jscoverage['monglo.js'][2354] = 0;
-  _$jscoverage['monglo.js'][2364] = 0;
-  _$jscoverage['monglo.js'][2373] = 0;
+  _$jscoverage['monglo.js'][2352] = 0;
+  _$jscoverage['monglo.js'][2355] = 0;
+  _$jscoverage['monglo.js'][2365] = 0;
   _$jscoverage['monglo.js'][2374] = 0;
   _$jscoverage['monglo.js'][2375] = 0;
   _$jscoverage['monglo.js'][2376] = 0;
@@ -1064,20 +1064,20 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2381] = 0;
   _$jscoverage['monglo.js'][2382] = 0;
   _$jscoverage['monglo.js'][2383] = 0;
-  _$jscoverage['monglo.js'][2386] = 0;
+  _$jscoverage['monglo.js'][2384] = 0;
   _$jscoverage['monglo.js'][2387] = 0;
   _$jscoverage['monglo.js'][2388] = 0;
   _$jscoverage['monglo.js'][2389] = 0;
   _$jscoverage['monglo.js'][2390] = 0;
   _$jscoverage['monglo.js'][2391] = 0;
-  _$jscoverage['monglo.js'][2393] = 0;
+  _$jscoverage['monglo.js'][2392] = 0;
   _$jscoverage['monglo.js'][2394] = 0;
   _$jscoverage['monglo.js'][2395] = 0;
   _$jscoverage['monglo.js'][2396] = 0;
   _$jscoverage['monglo.js'][2397] = 0;
-  _$jscoverage['monglo.js'][2399] = 0;
-  _$jscoverage['monglo.js'][2401] = 0;
-  _$jscoverage['monglo.js'][2403] = 0;
+  _$jscoverage['monglo.js'][2398] = 0;
+  _$jscoverage['monglo.js'][2400] = 0;
+  _$jscoverage['monglo.js'][2402] = 0;
   _$jscoverage['monglo.js'][2404] = 0;
   _$jscoverage['monglo.js'][2405] = 0;
   _$jscoverage['monglo.js'][2406] = 0;
@@ -1086,112 +1086,112 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2409] = 0;
   _$jscoverage['monglo.js'][2410] = 0;
   _$jscoverage['monglo.js'][2411] = 0;
-  _$jscoverage['monglo.js'][2416] = 0;
+  _$jscoverage['monglo.js'][2412] = 0;
   _$jscoverage['monglo.js'][2417] = 0;
   _$jscoverage['monglo.js'][2418] = 0;
-  _$jscoverage['monglo.js'][2421] = 0;
+  _$jscoverage['monglo.js'][2419] = 0;
   _$jscoverage['monglo.js'][2422] = 0;
   _$jscoverage['monglo.js'][2423] = 0;
   _$jscoverage['monglo.js'][2424] = 0;
-  _$jscoverage['monglo.js'][2433] = 0;
+  _$jscoverage['monglo.js'][2425] = 0;
   _$jscoverage['monglo.js'][2434] = 0;
-  _$jscoverage['monglo.js'][2440] = 0;
+  _$jscoverage['monglo.js'][2435] = 0;
   _$jscoverage['monglo.js'][2441] = 0;
-  _$jscoverage['monglo.js'][2447] = 0;
+  _$jscoverage['monglo.js'][2442] = 0;
   _$jscoverage['monglo.js'][2448] = 0;
-  _$jscoverage['monglo.js'][2450] = 0;
+  _$jscoverage['monglo.js'][2449] = 0;
   _$jscoverage['monglo.js'][2451] = 0;
-  _$jscoverage['monglo.js'][2454] = 0;
+  _$jscoverage['monglo.js'][2452] = 0;
   _$jscoverage['monglo.js'][2455] = 0;
-  _$jscoverage['monglo.js'][2460] = 0;
+  _$jscoverage['monglo.js'][2456] = 0;
   _$jscoverage['monglo.js'][2461] = 0;
-  _$jscoverage['monglo.js'][2465] = 0;
+  _$jscoverage['monglo.js'][2462] = 0;
   _$jscoverage['monglo.js'][2466] = 0;
-  _$jscoverage['monglo.js'][2469] = 0;
-  _$jscoverage['monglo.js'][2477] = 0;
+  _$jscoverage['monglo.js'][2467] = 0;
+  _$jscoverage['monglo.js'][2470] = 0;
   _$jscoverage['monglo.js'][2478] = 0;
   _$jscoverage['monglo.js'][2479] = 0;
   _$jscoverage['monglo.js'][2480] = 0;
-  _$jscoverage['monglo.js'][2482] = 0;
-  _$jscoverage['monglo.js'][2484] = 0;
-  _$jscoverage['monglo.js'][2487] = 0;
-  _$jscoverage['monglo.js'][2489] = 0;
-  _$jscoverage['monglo.js'][2491] = 0;
+  _$jscoverage['monglo.js'][2481] = 0;
+  _$jscoverage['monglo.js'][2483] = 0;
+  _$jscoverage['monglo.js'][2485] = 0;
+  _$jscoverage['monglo.js'][2488] = 0;
+  _$jscoverage['monglo.js'][2490] = 0;
   _$jscoverage['monglo.js'][2492] = 0;
-  _$jscoverage['monglo.js'][2499] = 0;
+  _$jscoverage['monglo.js'][2493] = 0;
   _$jscoverage['monglo.js'][2500] = 0;
   _$jscoverage['monglo.js'][2501] = 0;
   _$jscoverage['monglo.js'][2502] = 0;
   _$jscoverage['monglo.js'][2503] = 0;
-  _$jscoverage['monglo.js'][2505] = 0;
+  _$jscoverage['monglo.js'][2504] = 0;
   _$jscoverage['monglo.js'][2506] = 0;
-  _$jscoverage['monglo.js'][2509] = 0;
+  _$jscoverage['monglo.js'][2507] = 0;
   _$jscoverage['monglo.js'][2510] = 0;
   _$jscoverage['monglo.js'][2511] = 0;
   _$jscoverage['monglo.js'][2512] = 0;
-  _$jscoverage['monglo.js'][2514] = 0;
+  _$jscoverage['monglo.js'][2513] = 0;
   _$jscoverage['monglo.js'][2515] = 0;
-  _$jscoverage['monglo.js'][2518] = 0;
+  _$jscoverage['monglo.js'][2516] = 0;
   _$jscoverage['monglo.js'][2519] = 0;
   _$jscoverage['monglo.js'][2520] = 0;
   _$jscoverage['monglo.js'][2521] = 0;
-  _$jscoverage['monglo.js'][2523] = 0;
+  _$jscoverage['monglo.js'][2522] = 0;
   _$jscoverage['monglo.js'][2524] = 0;
-  _$jscoverage['monglo.js'][2527] = 0;
+  _$jscoverage['monglo.js'][2525] = 0;
   _$jscoverage['monglo.js'][2528] = 0;
   _$jscoverage['monglo.js'][2529] = 0;
   _$jscoverage['monglo.js'][2530] = 0;
-  _$jscoverage['monglo.js'][2532] = 0;
-  _$jscoverage['monglo.js'][2535] = 0;
-  _$jscoverage['monglo.js'][2541] = 0;
+  _$jscoverage['monglo.js'][2531] = 0;
+  _$jscoverage['monglo.js'][2533] = 0;
+  _$jscoverage['monglo.js'][2536] = 0;
   _$jscoverage['monglo.js'][2542] = 0;
-  _$jscoverage['monglo.js'][2545] = 0;
+  _$jscoverage['monglo.js'][2543] = 0;
   _$jscoverage['monglo.js'][2546] = 0;
   _$jscoverage['monglo.js'][2547] = 0;
   _$jscoverage['monglo.js'][2548] = 0;
-  _$jscoverage['monglo.js'][2552] = 0;
-  _$jscoverage['monglo.js'][2555] = 0;
+  _$jscoverage['monglo.js'][2549] = 0;
+  _$jscoverage['monglo.js'][2553] = 0;
   _$jscoverage['monglo.js'][2556] = 0;
   _$jscoverage['monglo.js'][2557] = 0;
   _$jscoverage['monglo.js'][2558] = 0;
   _$jscoverage['monglo.js'][2559] = 0;
-  _$jscoverage['monglo.js'][2563] = 0;
-  _$jscoverage['monglo.js'][2565] = 0;
-  _$jscoverage['monglo.js'][2567] = 0;
-  _$jscoverage['monglo.js'][2575] = 0;
+  _$jscoverage['monglo.js'][2560] = 0;
+  _$jscoverage['monglo.js'][2564] = 0;
+  _$jscoverage['monglo.js'][2566] = 0;
+  _$jscoverage['monglo.js'][2568] = 0;
   _$jscoverage['monglo.js'][2576] = 0;
   _$jscoverage['monglo.js'][2577] = 0;
   _$jscoverage['monglo.js'][2578] = 0;
   _$jscoverage['monglo.js'][2579] = 0;
   _$jscoverage['monglo.js'][2580] = 0;
   _$jscoverage['monglo.js'][2581] = 0;
-  _$jscoverage['monglo.js'][2583] = 0;
-  _$jscoverage['monglo.js'][2587] = 0;
-  _$jscoverage['monglo.js'][2592] = 0;
-  _$jscoverage['monglo.js'][2600] = 0;
+  _$jscoverage['monglo.js'][2582] = 0;
+  _$jscoverage['monglo.js'][2584] = 0;
+  _$jscoverage['monglo.js'][2588] = 0;
+  _$jscoverage['monglo.js'][2593] = 0;
   _$jscoverage['monglo.js'][2601] = 0;
-  _$jscoverage['monglo.js'][2603] = 0;
-  _$jscoverage['monglo.js'][2606] = 0;
+  _$jscoverage['monglo.js'][2602] = 0;
+  _$jscoverage['monglo.js'][2604] = 0;
   _$jscoverage['monglo.js'][2607] = 0;
-  _$jscoverage['monglo.js'][2612] = 0;
+  _$jscoverage['monglo.js'][2608] = 0;
   _$jscoverage['monglo.js'][2613] = 0;
-  _$jscoverage['monglo.js'][2616] = 0;
-  _$jscoverage['monglo.js'][2619] = 0;
-  _$jscoverage['monglo.js'][2622] = 0;
-  _$jscoverage['monglo.js'][2630] = 0;
+  _$jscoverage['monglo.js'][2614] = 0;
+  _$jscoverage['monglo.js'][2617] = 0;
+  _$jscoverage['monglo.js'][2620] = 0;
+  _$jscoverage['monglo.js'][2623] = 0;
   _$jscoverage['monglo.js'][2631] = 0;
   _$jscoverage['monglo.js'][2632] = 0;
-  _$jscoverage['monglo.js'][2634] = 0;
+  _$jscoverage['monglo.js'][2633] = 0;
   _$jscoverage['monglo.js'][2635] = 0;
   _$jscoverage['monglo.js'][2636] = 0;
-  _$jscoverage['monglo.js'][2638] = 0;
+  _$jscoverage['monglo.js'][2637] = 0;
   _$jscoverage['monglo.js'][2639] = 0;
   _$jscoverage['monglo.js'][2640] = 0;
-  _$jscoverage['monglo.js'][2649] = 0;
-  _$jscoverage['monglo.js'][2651] = 0;
+  _$jscoverage['monglo.js'][2641] = 0;
+  _$jscoverage['monglo.js'][2650] = 0;
   _$jscoverage['monglo.js'][2652] = 0;
   _$jscoverage['monglo.js'][2653] = 0;
-  _$jscoverage['monglo.js'][2655] = 0;
+  _$jscoverage['monglo.js'][2654] = 0;
   _$jscoverage['monglo.js'][2656] = 0;
   _$jscoverage['monglo.js'][2657] = 0;
   _$jscoverage['monglo.js'][2658] = 0;
@@ -1205,14 +1205,14 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2666] = 0;
   _$jscoverage['monglo.js'][2667] = 0;
   _$jscoverage['monglo.js'][2668] = 0;
-  _$jscoverage['monglo.js'][2670] = 0;
+  _$jscoverage['monglo.js'][2669] = 0;
   _$jscoverage['monglo.js'][2671] = 0;
   _$jscoverage['monglo.js'][2672] = 0;
   _$jscoverage['monglo.js'][2673] = 0;
-  _$jscoverage['monglo.js'][2675] = 0;
+  _$jscoverage['monglo.js'][2674] = 0;
   _$jscoverage['monglo.js'][2676] = 0;
   _$jscoverage['monglo.js'][2677] = 0;
-  _$jscoverage['monglo.js'][2679] = 0;
+  _$jscoverage['monglo.js'][2678] = 0;
   _$jscoverage['monglo.js'][2680] = 0;
   _$jscoverage['monglo.js'][2681] = 0;
   _$jscoverage['monglo.js'][2682] = 0;
@@ -1226,58 +1226,58 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2690] = 0;
   _$jscoverage['monglo.js'][2691] = 0;
   _$jscoverage['monglo.js'][2692] = 0;
-  _$jscoverage['monglo.js'][2696] = 0;
+  _$jscoverage['monglo.js'][2693] = 0;
   _$jscoverage['monglo.js'][2697] = 0;
-  _$jscoverage['monglo.js'][2702] = 0;
+  _$jscoverage['monglo.js'][2698] = 0;
   _$jscoverage['monglo.js'][2703] = 0;
   _$jscoverage['monglo.js'][2704] = 0;
   _$jscoverage['monglo.js'][2705] = 0;
   _$jscoverage['monglo.js'][2706] = 0;
   _$jscoverage['monglo.js'][2707] = 0;
-  _$jscoverage['monglo.js'][2709] = 0;
-  _$jscoverage['monglo.js'][2712] = 0;
-  _$jscoverage['monglo.js'][2714] = 0;
+  _$jscoverage['monglo.js'][2708] = 0;
+  _$jscoverage['monglo.js'][2710] = 0;
+  _$jscoverage['monglo.js'][2713] = 0;
   _$jscoverage['monglo.js'][2715] = 0;
   _$jscoverage['monglo.js'][2716] = 0;
   _$jscoverage['monglo.js'][2717] = 0;
-  _$jscoverage['monglo.js'][2719] = 0;
+  _$jscoverage['monglo.js'][2718] = 0;
   _$jscoverage['monglo.js'][2720] = 0;
-  _$jscoverage['monglo.js'][2724] = 0;
+  _$jscoverage['monglo.js'][2721] = 0;
   _$jscoverage['monglo.js'][2725] = 0;
-  _$jscoverage['monglo.js'][2727] = 0;
-  _$jscoverage['monglo.js'][2730] = 0;
+  _$jscoverage['monglo.js'][2726] = 0;
+  _$jscoverage['monglo.js'][2728] = 0;
   _$jscoverage['monglo.js'][2731] = 0;
-  _$jscoverage['monglo.js'][2735] = 0;
+  _$jscoverage['monglo.js'][2732] = 0;
   _$jscoverage['monglo.js'][2736] = 0;
-  _$jscoverage['monglo.js'][2738] = 0;
-  _$jscoverage['monglo.js'][2755] = 0;
+  _$jscoverage['monglo.js'][2737] = 0;
+  _$jscoverage['monglo.js'][2739] = 0;
   _$jscoverage['monglo.js'][2756] = 0;
   _$jscoverage['monglo.js'][2757] = 0;
-  _$jscoverage['monglo.js'][2759] = 0;
+  _$jscoverage['monglo.js'][2758] = 0;
   _$jscoverage['monglo.js'][2760] = 0;
   _$jscoverage['monglo.js'][2761] = 0;
   _$jscoverage['monglo.js'][2762] = 0;
   _$jscoverage['monglo.js'][2763] = 0;
-  _$jscoverage['monglo.js'][2765] = 0;
+  _$jscoverage['monglo.js'][2764] = 0;
   _$jscoverage['monglo.js'][2766] = 0;
-  _$jscoverage['monglo.js'][2769] = 0;
+  _$jscoverage['monglo.js'][2767] = 0;
   _$jscoverage['monglo.js'][2770] = 0;
   _$jscoverage['monglo.js'][2771] = 0;
   _$jscoverage['monglo.js'][2772] = 0;
-  _$jscoverage['monglo.js'][2775] = 0;
-  _$jscoverage['monglo.js'][2778] = 0;
+  _$jscoverage['monglo.js'][2773] = 0;
+  _$jscoverage['monglo.js'][2776] = 0;
   _$jscoverage['monglo.js'][2779] = 0;
-  _$jscoverage['monglo.js'][2783] = 0;
+  _$jscoverage['monglo.js'][2780] = 0;
   _$jscoverage['monglo.js'][2784] = 0;
   _$jscoverage['monglo.js'][2785] = 0;
   _$jscoverage['monglo.js'][2786] = 0;
   _$jscoverage['monglo.js'][2787] = 0;
   _$jscoverage['monglo.js'][2788] = 0;
-  _$jscoverage['monglo.js'][2792] = 0;
-  _$jscoverage['monglo.js'][2794] = 0;
+  _$jscoverage['monglo.js'][2789] = 0;
+  _$jscoverage['monglo.js'][2793] = 0;
   _$jscoverage['monglo.js'][2795] = 0;
   _$jscoverage['monglo.js'][2796] = 0;
-  _$jscoverage['monglo.js'][2798] = 0;
+  _$jscoverage['monglo.js'][2797] = 0;
   _$jscoverage['monglo.js'][2799] = 0;
   _$jscoverage['monglo.js'][2800] = 0;
   _$jscoverage['monglo.js'][2801] = 0;
@@ -1287,11 +1287,11 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2805] = 0;
   _$jscoverage['monglo.js'][2806] = 0;
   _$jscoverage['monglo.js'][2807] = 0;
-  _$jscoverage['monglo.js'][2809] = 0;
+  _$jscoverage['monglo.js'][2808] = 0;
   _$jscoverage['monglo.js'][2810] = 0;
   _$jscoverage['monglo.js'][2811] = 0;
   _$jscoverage['monglo.js'][2812] = 0;
-  _$jscoverage['monglo.js'][2815] = 0;
+  _$jscoverage['monglo.js'][2813] = 0;
   _$jscoverage['monglo.js'][2816] = 0;
   _$jscoverage['monglo.js'][2817] = 0;
   _$jscoverage['monglo.js'][2818] = 0;
@@ -1299,13 +1299,14 @@ if (! _$jscoverage['monglo.js']) {
   _$jscoverage['monglo.js'][2820] = 0;
   _$jscoverage['monglo.js'][2821] = 0;
   _$jscoverage['monglo.js'][2822] = 0;
-  _$jscoverage['monglo.js'][2825] = 0;
+  _$jscoverage['monglo.js'][2823] = 0;
   _$jscoverage['monglo.js'][2826] = 0;
   _$jscoverage['monglo.js'][2827] = 0;
-  _$jscoverage['monglo.js'][2833] = 0;
+  _$jscoverage['monglo.js'][2828] = 0;
   _$jscoverage['monglo.js'][2834] = 0;
-  _$jscoverage['monglo.js'][2837] = 0;
-  _$jscoverage['monglo.js'][2839] = 0;
+  _$jscoverage['monglo.js'][2835] = 0;
+  _$jscoverage['monglo.js'][2838] = 0;
+  _$jscoverage['monglo.js'][2840] = 0;
 }
 _$jscoverage['monglo.js'][10]++;
 function Collection(db, collectionName, pkFactory, options) {
@@ -1446,7 +1447,7 @@ Collection.prototype.find = (function () {
   _$jscoverage['monglo.js'][122]++;
   this.emit("find", selector, cursor, o);
   _$jscoverage['monglo.js'][123]++;
-  this.db._executeCommand("find", {conn: self.db, selector: selector, options: o});
+  this.db._executeCommand("find", {collection: self, selector: selector, options: o});
   _$jscoverage['monglo.js'][124]++;
   return callback? callback(cursor): cursor;
 });
@@ -1502,14 +1503,12 @@ Collection.prototype.insert = (function (doc, options, cb) {
   _$jscoverage['monglo.js'][163]++;
   self.emit("insert", doc);
   _$jscoverage['monglo.js'][164]++;
-  this.db._executeCommand("insert", {conn: self.db, collection: self, doc: self.docs[doc._id]});
+  this.db._executeCommand("insert", {collection: self, doc: self.docs[doc._id]});
   _$jscoverage['monglo.js'][165]++;
   if (cb) {
     _$jscoverage['monglo.js'][165]++;
     cb(doc);
   }
-  _$jscoverage['monglo.js'][165]++;
-  ;
   _$jscoverage['monglo.js'][166]++;
   return this;
 });
@@ -1541,7 +1540,7 @@ Collection.prototype.remove = (function (selector) {
   _$jscoverage['monglo.js'][185]++;
   self.emit("remove", selector);
   _$jscoverage['monglo.js'][186]++;
-  this.db._executeCommand("remove", {conn: self.db, selector: selector, docs: remove});
+  this.db._executeCommand("remove", {collection: self, selector: selector, docs: remove});
   _$jscoverage['monglo.js'][187]++;
   return this;
 });
@@ -1583,7 +1582,7 @@ Collection.prototype.update = (function (selector, mod, options, cb) {
         _$jscoverage['monglo.js'][210]++;
         self.emit("update", selector, mod, options);
         _$jscoverage['monglo.js'][211]++;
-        self.db._executeCommand("update", {conn: self.db, selector: selector, modifier: mod, options: options, docs: updatedDocs});
+        self.db._executeCommand("update", {collection: self, selector: selector, modifier: mod, options: options, docs: updatedDocs});
         _$jscoverage['monglo.js'][212]++;
         return cb? cb(self.docs[id]): self.docs[id];
       }
@@ -1606,3008 +1605,3013 @@ Collection.prototype.update = (function (selector, mod, options, cb) {
   _$jscoverage['monglo.js'][228]++;
   var newDoc = self.find(selector).fetch();
   _$jscoverage['monglo.js'][231]++;
-  self.emit("update", selector, mod, options);
+  self.emit("update", {collection: self, selector: selector, modifier: mod, options: options, docs: newDoc});
   _$jscoverage['monglo.js'][232]++;
-  self.db._executeCommand("update", {conn: self.db, selector: selector, modifier: mod, options: options, docs: newDoc});
+  self.db._executeCommand("update", {collection: self, selector: selector, modifier: mod, options: options, docs: newDoc});
   _$jscoverage['monglo.js'][233]++;
-  return cb? cb(newDoc): newDoc;
+  if (cb) {
+    _$jscoverage['monglo.js'][233]++;
+    cb(newDoc);
+  }
+  _$jscoverage['monglo.js'][234]++;
+  return this;
 });
-_$jscoverage['monglo.js'][236]++;
+_$jscoverage['monglo.js'][237]++;
 Collection.prototype.save = (function (obj, cb) {
-  _$jscoverage['monglo.js'][237]++;
-  var self = this;
   _$jscoverage['monglo.js'][238]++;
+  var self = this;
+  _$jscoverage['monglo.js'][239]++;
   if (self.docs[obj._id]) {
-    _$jscoverage['monglo.js'][239]++;
+    _$jscoverage['monglo.js'][240]++;
     self.update({_id: obj._id});
   }
   else {
-    _$jscoverage['monglo.js'][241]++;
+    _$jscoverage['monglo.js'][242]++;
     self.insert(obj);
   }
 });
-_$jscoverage['monglo.js'][245]++;
+_$jscoverage['monglo.js'][246]++;
 Collection.prototype.ensureIndex = (function () {
-  _$jscoverage['monglo.js'][247]++;
+  _$jscoverage['monglo.js'][248]++;
   throw new Error("Collection#ensureIndex unimplemented by driver");
 });
-_$jscoverage['monglo.js'][253]++;
+_$jscoverage['monglo.js'][254]++;
 Collection.prototype.backup = (function () {
-  _$jscoverage['monglo.js'][254]++;
-  var snapID = new ObjectId();
   _$jscoverage['monglo.js'][255]++;
-  this.snapshots[snapID] = {};
+  var snapID = new ObjectId();
   _$jscoverage['monglo.js'][256]++;
+  this.snapshots[snapID] = {};
+  _$jscoverage['monglo.js'][257]++;
   for (var id in this.docs) {
-    _$jscoverage['monglo.js'][257]++;
+    _$jscoverage['monglo.js'][258]++;
     this.snapshots[snapID][id] = this.docs[id];
 }
-  _$jscoverage['monglo.js'][259]++;
-  this.stores.snapshot({_id: this.docs[id], data: this.docs[id]});
   _$jscoverage['monglo.js'][260]++;
+  this.stores.snapshot({_id: this.docs[id], data: this.docs[id]});
+  _$jscoverage['monglo.js'][261]++;
   this.emit("snapshot", {_id: this.docs[id], data: this.docs[id]});
 });
-_$jscoverage['monglo.js'][264]++;
+_$jscoverage['monglo.js'][265]++;
 Collection.prototype.backups = (function () {
-  _$jscoverage['monglo.js'][265]++;
-  var keys = [];
   _$jscoverage['monglo.js'][266]++;
+  var keys = [];
+  _$jscoverage['monglo.js'][267]++;
   for (var k in obj) {
-    _$jscoverage['monglo.js'][267]++;
+    _$jscoverage['monglo.js'][268]++;
     keys.push({id: k, timestamp: ObjectId.hexToTimestamp(k), data: obj[k]});
 }
-  _$jscoverage['monglo.js'][269]++;
+  _$jscoverage['monglo.js'][270]++;
   return keys;
 });
-_$jscoverage['monglo.js'][273]++;
+_$jscoverage['monglo.js'][274]++;
 Collection.prototype.deleteBackup = (function (id) {
-  _$jscoverage['monglo.js'][274]++;
-  delete this.snapshots[id];
   _$jscoverage['monglo.js'][275]++;
+  delete this.snapshots[id];
+  _$jscoverage['monglo.js'][276]++;
   return keys;
 });
-_$jscoverage['monglo.js'][282]++;
+_$jscoverage['monglo.js'][283]++;
 Collection.prototype.restore = (function (id, rm, cb) {
-  _$jscoverage['monglo.js'][283]++;
+  _$jscoverage['monglo.js'][284]++;
   if (! this.snapshots.length) {
-    _$jscoverage['monglo.js'][284]++;
+    _$jscoverage['monglo.js'][285]++;
     throw new Error("No current snapshot");
   }
-  _$jscoverage['monglo.js'][287]++;
+  _$jscoverage['monglo.js'][288]++;
   if ("function" === typeof rm) {
-    _$jscoverage['monglo.js'][287]++;
+    _$jscoverage['monglo.js'][288]++;
     cb = rm;
-    _$jscoverage['monglo.js'][287]++;
+    _$jscoverage['monglo.js'][288]++;
     rm = false;
   }
-  _$jscoverage['monglo.js'][289]++;
+  _$jscoverage['monglo.js'][290]++;
   this.docs = this.snapshots[id || 0];
-  _$jscoverage['monglo.js'][294]++;
+  _$jscoverage['monglo.js'][295]++;
   for (var qid in this.queries) {
-    _$jscoverage['monglo.js'][295]++;
+    _$jscoverage['monglo.js'][296]++;
     var query = this.queries[qid];
-    _$jscoverage['monglo.js'][297]++;
+    _$jscoverage['monglo.js'][298]++;
     var old_results = query.results;
-    _$jscoverage['monglo.js'][299]++;
+    _$jscoverage['monglo.js'][300]++;
     query.results = query.cursor._getRawObjects();
-    _$jscoverage['monglo.js'][301]++;
+    _$jscoverage['monglo.js'][302]++;
     if (! this.paused) {
-      _$jscoverage['monglo.js'][302]++;
+      _$jscoverage['monglo.js'][303]++;
       Collection._diffQuery(old_results, query.results, query, true);
     }
 }
-  _$jscoverage['monglo.js'][304]++;
-  this.emit("restore");
   _$jscoverage['monglo.js'][305]++;
+  this.emit("restore");
+  _$jscoverage['monglo.js'][306]++;
   if (cb) {
-    _$jscoverage['monglo.js'][305]++;
+    _$jscoverage['monglo.js'][306]++;
     return cb();
   }
 });
-_$jscoverage['monglo.js'][311]++;
+_$jscoverage['monglo.js'][312]++;
 var checkCollectionName = (function checkCollectionName(collectionName) {
-  _$jscoverage['monglo.js'][312]++;
+  _$jscoverage['monglo.js'][313]++;
   if ("string" !== typeof collectionName) {
-    _$jscoverage['monglo.js'][313]++;
+    _$jscoverage['monglo.js'][314]++;
     throw Error("collection name must be a String");
   }
-  _$jscoverage['monglo.js'][316]++;
+  _$jscoverage['monglo.js'][317]++;
   if (! collectionName || collectionName.indexOf("..") != -1) {
-    _$jscoverage['monglo.js'][317]++;
+    _$jscoverage['monglo.js'][318]++;
     throw Error("collection names cannot be empty");
   }
-  _$jscoverage['monglo.js'][320]++;
+  _$jscoverage['monglo.js'][321]++;
   if (collectionName.indexOf("$") != -1 && collectionName.match(/((^\$cmd)|(oplog\.\$main))/) == null) {
-    _$jscoverage['monglo.js'][322]++;
+    _$jscoverage['monglo.js'][323]++;
     throw Error("collection names must not contain '$'");
   }
-  _$jscoverage['monglo.js'][325]++;
+  _$jscoverage['monglo.js'][326]++;
   if (collectionName.match(/^\.|\.$/) != null) {
-    _$jscoverage['monglo.js'][326]++;
+    _$jscoverage['monglo.js'][327]++;
     throw Error("collection names must not start or end with '.'");
   }
 });
-_$jscoverage['monglo.js'][329]++;
+_$jscoverage['monglo.js'][330]++;
 function Cursor(db, collection, selector, fields, skip, limit, sort) {
-  _$jscoverage['monglo.js'][330]++;
-  this.db = db;
   _$jscoverage['monglo.js'][331]++;
-  this.collection = collection;
+  this.db = db;
   _$jscoverage['monglo.js'][332]++;
-  this.selector = selector;
+  this.collection = collection;
   _$jscoverage['monglo.js'][333]++;
-  this.fields = fields;
+  this.selector = selector;
   _$jscoverage['monglo.js'][334]++;
-  this.skipValue = (skip === null)? 0: skip;
+  this.fields = fields;
   _$jscoverage['monglo.js'][335]++;
-  this.limitValue = (limit === null)? 0: limit;
+  this.skipValue = (skip === null)? 0: skip;
   _$jscoverage['monglo.js'][336]++;
+  this.limitValue = (limit === null)? 0: limit;
+  _$jscoverage['monglo.js'][337]++;
   this.sortValue = sort;
-  _$jscoverage['monglo.js'][340]++;
+  _$jscoverage['monglo.js'][341]++;
   if ((typeof this.selector === "string") || (typeof this.selector === "number")) {
-    _$jscoverage['monglo.js'][342]++;
-    this.selector_id = this.selector;
     _$jscoverage['monglo.js'][343]++;
+    this.selector_id = this.selector;
+    _$jscoverage['monglo.js'][344]++;
     this.selector_f = Selector._compileSelector(this.selector);
   }
   else {
-    _$jscoverage['monglo.js'][345]++;
-    this.selector_f = Selector._compileSelector(this.selector);
     _$jscoverage['monglo.js'][346]++;
+    this.selector_f = Selector._compileSelector(this.selector);
+    _$jscoverage['monglo.js'][347]++;
     this.sort_f = this.sortValue? Collection._compileSort(this.sortValue): null;
   }
-  _$jscoverage['monglo.js'][349]++;
-  this.db_objects = null;
   _$jscoverage['monglo.js'][350]++;
+  this.db_objects = null;
+  _$jscoverage['monglo.js'][351]++;
   this.cursor_pos = 0;
 }
-_$jscoverage['monglo.js'][353]++;
+_$jscoverage['monglo.js'][354]++;
 Cursor.prototype.rewind = (function () {
-  _$jscoverage['monglo.js'][354]++;
-  var self = this;
   _$jscoverage['monglo.js'][355]++;
-  self.db_objects = null;
+  var self = this;
   _$jscoverage['monglo.js'][356]++;
+  self.db_objects = null;
+  _$jscoverage['monglo.js'][357]++;
   self.cursor_pos = 0;
 });
-_$jscoverage['monglo.js'][359]++;
+_$jscoverage['monglo.js'][360]++;
 Cursor.prototype.forEach = (function (callback) {
-  _$jscoverage['monglo.js'][360]++;
-  var self = this;
   _$jscoverage['monglo.js'][361]++;
+  var self = this;
+  _$jscoverage['monglo.js'][362]++;
   var doc;
-  _$jscoverage['monglo.js'][363]++;
+  _$jscoverage['monglo.js'][364]++;
   if (self.db_objects === null) {
-    _$jscoverage['monglo.js'][364]++;
+    _$jscoverage['monglo.js'][365]++;
     self.db_objects = self._getRawObjects();
   }
-  _$jscoverage['monglo.js'][366]++;
+  _$jscoverage['monglo.js'][367]++;
   while (self.cursor_pos < self.db_objects.length) {
-    _$jscoverage['monglo.js'][367]++;
+    _$jscoverage['monglo.js'][368]++;
     callback(utils._deepcopy(self.db_objects[self.cursor_pos++]));
 }
 });
-_$jscoverage['monglo.js'][370]++;
+_$jscoverage['monglo.js'][371]++;
 Cursor.prototype.map = (function (callback) {
-  _$jscoverage['monglo.js'][371]++;
-  var self = this;
   _$jscoverage['monglo.js'][372]++;
-  var res = [];
+  var self = this;
   _$jscoverage['monglo.js'][373]++;
-  self.forEach((function (doc) {
+  var res = [];
   _$jscoverage['monglo.js'][374]++;
+  self.forEach((function (doc) {
+  _$jscoverage['monglo.js'][375]++;
   res.push(callback(doc));
 }));
-  _$jscoverage['monglo.js'][376]++;
+  _$jscoverage['monglo.js'][377]++;
   return res;
 });
-_$jscoverage['monglo.js'][379]++;
+_$jscoverage['monglo.js'][380]++;
 Cursor.prototype.fetch = (function () {
-  _$jscoverage['monglo.js'][380]++;
-  var self = this;
   _$jscoverage['monglo.js'][381]++;
-  var res = [];
+  var self = this;
   _$jscoverage['monglo.js'][382]++;
-  self.forEach((function (doc) {
+  var res = [];
   _$jscoverage['monglo.js'][383]++;
+  self.forEach((function (doc) {
+  _$jscoverage['monglo.js'][384]++;
   res.push(doc);
 }));
-  _$jscoverage['monglo.js'][385]++;
+  _$jscoverage['monglo.js'][386]++;
   return res;
 });
-_$jscoverage['monglo.js'][388]++;
+_$jscoverage['monglo.js'][389]++;
 Cursor.prototype.count = (function () {
-  _$jscoverage['monglo.js'][389]++;
+  _$jscoverage['monglo.js'][390]++;
   var self = this;
-  _$jscoverage['monglo.js'][391]++;
+  _$jscoverage['monglo.js'][392]++;
   if (self.db_objects === null) {
-    _$jscoverage['monglo.js'][392]++;
+    _$jscoverage['monglo.js'][393]++;
     self.db_objects = self._getRawObjects();
   }
-  _$jscoverage['monglo.js'][394]++;
+  _$jscoverage['monglo.js'][395]++;
   return self.db_objects.length;
 });
-_$jscoverage['monglo.js'][397]++;
+_$jscoverage['monglo.js'][398]++;
 Cursor.prototype.sort = (function () {
 });
-_$jscoverage['monglo.js'][401]++;
+_$jscoverage['monglo.js'][402]++;
 Cursor.prototype.limit = (function () {
 });
-_$jscoverage['monglo.js'][408]++;
+_$jscoverage['monglo.js'][409]++;
 Cursor.prototype._getRawObjects = (function () {
-  _$jscoverage['monglo.js'][409]++;
+  _$jscoverage['monglo.js'][410]++;
   var self = this;
-  _$jscoverage['monglo.js'][412]++;
+  _$jscoverage['monglo.js'][413]++;
   if (self.selector_id && (self.selector_id in self.collection.docs)) {
-    _$jscoverage['monglo.js'][413]++;
+    _$jscoverage['monglo.js'][414]++;
     return [self.collection.docs[self.selector_id]];
   }
-  _$jscoverage['monglo.js'][416]++;
-  var results = [];
   _$jscoverage['monglo.js'][417]++;
+  var results = [];
+  _$jscoverage['monglo.js'][418]++;
   for (var id in self.collection.docs) {
-    _$jscoverage['monglo.js'][418]++;
-    var doc = self.collection.docs[id];
     _$jscoverage['monglo.js'][419]++;
+    var doc = self.collection.docs[id];
+    _$jscoverage['monglo.js'][420]++;
     if (self.selector_f(doc)) {
-      _$jscoverage['monglo.js'][420]++;
+      _$jscoverage['monglo.js'][421]++;
       results.push(doc);
     }
 }
-  _$jscoverage['monglo.js'][423]++;
+  _$jscoverage['monglo.js'][424]++;
   if (self.sort_f) {
-    _$jscoverage['monglo.js'][424]++;
+    _$jscoverage['monglo.js'][425]++;
     results.sort(self.sort_f);
   }
-  _$jscoverage['monglo.js'][426]++;
-  var idx_start = self.skipValue || 0;
   _$jscoverage['monglo.js'][427]++;
-  var idx_end = self.limitValue? (self.limitValue + idx_start): results.length;
+  var idx_start = self.skipValue || 0;
   _$jscoverage['monglo.js'][428]++;
+  var idx_end = self.limitValue? (self.limitValue + idx_start): results.length;
+  _$jscoverage['monglo.js'][429]++;
   return results.slice(idx_start, idx_end);
 });
-_$jscoverage['monglo.js'][434]++;
+_$jscoverage['monglo.js'][435]++;
 var Monglo = (function (databaseName) {
-  _$jscoverage['monglo.js'][436]++;
+  _$jscoverage['monglo.js'][437]++;
   if (! (this instanceof Monglo)) {
-    _$jscoverage['monglo.js'][436]++;
+    _$jscoverage['monglo.js'][437]++;
     return new Monglo(databaseName);
   }
-  _$jscoverage['monglo.js'][438]++;
-  this._collections = {};
   _$jscoverage['monglo.js'][439]++;
+  this._collections = {};
+  _$jscoverage['monglo.js'][440]++;
   this._stores = [];
-  _$jscoverage['monglo.js'][441]++;
+  _$jscoverage['monglo.js'][442]++;
   if (! Monglo.connections) {
-    _$jscoverage['monglo.js'][441]++;
+    _$jscoverage['monglo.js'][442]++;
     Monglo.connections = {};
   }
-  _$jscoverage['monglo.js'][445]++;
+  _$jscoverage['monglo.js'][446]++;
   if (Monglo.connections[databaseName]) {
-    _$jscoverage['monglo.js'][446]++;
+    _$jscoverage['monglo.js'][447]++;
     throw new Error("db name already in use");
   }
-  _$jscoverage['monglo.js'][449]++;
+  _$jscoverage['monglo.js'][450]++;
   this.databaseName = databaseName;
-  _$jscoverage['monglo.js'][451]++;
+  _$jscoverage['monglo.js'][452]++;
   Monglo.connections[databaseName] = new ObjectID();
-  _$jscoverage['monglo.js'][454]++;
+  _$jscoverage['monglo.js'][455]++;
   validateDatabaseName(databaseName);
 });
-_$jscoverage['monglo.js'][459]++;
+_$jscoverage['monglo.js'][460]++;
 Monglo.prototype.__proto__ = EventEmitter.proto;
-_$jscoverage['monglo.js'][461]++;
+_$jscoverage['monglo.js'][462]++;
 Monglo.prototype.constructor = Monglo;
-_$jscoverage['monglo.js'][467]++;
+_$jscoverage['monglo.js'][468]++;
 Monglo.version = "0.1.2";
-_$jscoverage['monglo.js'][469]++;
+_$jscoverage['monglo.js'][470]++;
 Monglo._debug = (function () {
 });
-_$jscoverage['monglo.js'][477]++;
+_$jscoverage['monglo.js'][478]++;
 Monglo.connections = {};
-_$jscoverage['monglo.js'][485]++;
+_$jscoverage['monglo.js'][486]++;
 Monglo.prototype._executeCommand = (function (name, args, cb) {
-  _$jscoverage['monglo.js'][486]++;
-  var self = this;
   _$jscoverage['monglo.js'][487]++;
+  var self = this;
+  _$jscoverage['monglo.js'][488]++;
   var command = name;
-  _$jscoverage['monglo.js'][489]++;
-  utils.forEach(self._stores, (function (fn) {
   _$jscoverage['monglo.js'][490]++;
+  utils.forEach(self._stores, (function (fn) {
+  _$jscoverage['monglo.js'][491]++;
   if ("function" === typeof fn[command]) {
-    _$jscoverage['monglo.js'][491]++;
+    _$jscoverage['monglo.js'][492]++;
     fn[command](args, cb);
   }
   else {
-    _$jscoverage['monglo.js'][492]++;
+    _$jscoverage['monglo.js'][493]++;
     if ("function" === typeof fn.all) {
-      _$jscoverage['monglo.js'][493]++;
-      args.name = name;
       _$jscoverage['monglo.js'][494]++;
+      args.name = name;
+      _$jscoverage['monglo.js'][495]++;
       fn.all(args, cb);
     }
   }
 }));
 });
-_$jscoverage['monglo.js'][506]++;
+_$jscoverage['monglo.js'][507]++;
 Monglo.prototype.use = (function (name, fn) {
-  _$jscoverage['monglo.js'][507]++;
+  _$jscoverage['monglo.js'][508]++;
   switch (name) {
   case "sync":
-    _$jscoverage['monglo.js'][509]++;
-    this._sync = fn;
     _$jscoverage['monglo.js'][510]++;
+    this._sync = fn;
+    _$jscoverage['monglo.js'][511]++;
     break;
   case "store":
-    _$jscoverage['monglo.js'][512]++;
-    this._stores.push(fn);
     _$jscoverage['monglo.js'][513]++;
+    this._stores.push(fn);
+    _$jscoverage['monglo.js'][514]++;
     break;
   case "debug":
-    _$jscoverage['monglo.js'][515]++;
-    Monglo._debug = fn;
     _$jscoverage['monglo.js'][516]++;
+    Monglo._debug = fn;
+    _$jscoverage['monglo.js'][517]++;
     break;
   }
 });
-_$jscoverage['monglo.js'][528]++;
+_$jscoverage['monglo.js'][529]++;
 Monglo.prototype.addStore = (function (store) {
-  _$jscoverage['monglo.js'][529]++;
-  this._stores.push(store);
   _$jscoverage['monglo.js'][530]++;
+  this._stores.push(store);
+  _$jscoverage['monglo.js'][531]++;
   return this;
 });
-_$jscoverage['monglo.js'][542]++;
+_$jscoverage['monglo.js'][543]++;
 Monglo.prototype.collectionsInfo = (function (collectionName, callback) {
 });
-_$jscoverage['monglo.js'][558]++;
+_$jscoverage['monglo.js'][559]++;
 Monglo.prototype.collectionNames = (function (collectionName, options, callback) {
-  _$jscoverage['monglo.js'][559]++;
-  var self = this;
   _$jscoverage['monglo.js'][560]++;
-  var args = Array.prototype.slice.call(arguments, 0);
+  var self = this;
   _$jscoverage['monglo.js'][561]++;
-  callback = args.pop();
+  var args = Array.prototype.slice.call(arguments, 0);
   _$jscoverage['monglo.js'][562]++;
-  collectionName = args.length? args.shift(): null;
+  callback = args.pop();
   _$jscoverage['monglo.js'][563]++;
+  collectionName = args.length? args.shift(): null;
+  _$jscoverage['monglo.js'][564]++;
   options = args.length? args.shift(): {};
-  _$jscoverage['monglo.js'][565]++;
-  var collectionList = [];
   _$jscoverage['monglo.js'][566]++;
+  var collectionList = [];
+  _$jscoverage['monglo.js'][567]++;
   for (var name in self._collections) {
-    _$jscoverage['monglo.js'][567]++;
+    _$jscoverage['monglo.js'][568]++;
     collectionList.push(name);
 }
-  _$jscoverage['monglo.js'][569]++;
+  _$jscoverage['monglo.js'][570]++;
   callback(null, collectionList);
 });
-_$jscoverage['monglo.js'][573]++;
+_$jscoverage['monglo.js'][574]++;
 Monglo.prototype.collection = (function (collectionName, options, callback) {
-  _$jscoverage['monglo.js'][574]++;
-  var self = this;
   _$jscoverage['monglo.js'][575]++;
-  var collection;
+  var self = this;
   _$jscoverage['monglo.js'][576]++;
-  var collectionFullName = self.databaseName + "." + collectionName;
+  var collection;
   _$jscoverage['monglo.js'][577]++;
+  var collectionFullName = self.databaseName + "." + collectionName;
+  _$jscoverage['monglo.js'][578]++;
   if ("function" === typeof options) {
-    _$jscoverage['monglo.js'][577]++;
+    _$jscoverage['monglo.js'][578]++;
     options = {};
-    _$jscoverage['monglo.js'][577]++;
+    _$jscoverage['monglo.js'][578]++;
     callback = options;
   }
   else {
-    _$jscoverage['monglo.js'][578]++;
+    _$jscoverage['monglo.js'][579]++;
     options = options || {};
   }
-  _$jscoverage['monglo.js'][581]++;
+  _$jscoverage['monglo.js'][582]++;
   if (self._collections[collectionName]) {
-    _$jscoverage['monglo.js'][582]++;
-    self._executeCommand("createCollection", {conn: self, collection: self._collections[collectionName]});
     _$jscoverage['monglo.js'][583]++;
+    self._executeCommand("createCollection", {conn: self, collection: self._collections[collectionName]});
+    _$jscoverage['monglo.js'][584]++;
     return callback(null, self._collections[collectionName]);
   }
   else {
-    _$jscoverage['monglo.js'][585]++;
-    self._collections[collectionName] = new Collection(self, collectionName, self.pkFactory, options);
     _$jscoverage['monglo.js'][586]++;
+    self._collections[collectionName] = new Collection(self, collectionName, self.pkFactory, options);
+    _$jscoverage['monglo.js'][587]++;
     self._executeCommand("createCollection", {conn: self, collection: self._collections[collectionName]});
   }
-  _$jscoverage['monglo.js'][588]++;
+  _$jscoverage['monglo.js'][589]++;
   Object.defineProperty(Monglo.prototype, collectionName, {enumerable: true, get: (function () {
-  _$jscoverage['monglo.js'][591]++;
+  _$jscoverage['monglo.js'][592]++;
   return self._collections[collectionName];
 }), set: (function (v) {
-  _$jscoverage['monglo.js'][594]++;
+  _$jscoverage['monglo.js'][595]++;
   self._collections[collectionName] = v;
 })});
-  _$jscoverage['monglo.js'][598]++;
+  _$jscoverage['monglo.js'][599]++;
   return callback? callback(self._collections[collectionName]): self._collections[collectionName];
 });
-_$jscoverage['monglo.js'][608]++;
+_$jscoverage['monglo.js'][609]++;
 Monglo.prototype.collections = (function (callback) {
-  _$jscoverage['monglo.js'][609]++;
+  _$jscoverage['monglo.js'][610]++;
   var self = this;
-  _$jscoverage['monglo.js'][611]++;
-  self.collectionNames((function (err, documents) {
   _$jscoverage['monglo.js'][612]++;
+  self.collectionNames((function (err, documents) {
+  _$jscoverage['monglo.js'][613]++;
   if (err != null) {
-    _$jscoverage['monglo.js'][612]++;
+    _$jscoverage['monglo.js'][613]++;
     return callback(err, null);
   }
-  _$jscoverage['monglo.js'][613]++;
-  var collections = [];
   _$jscoverage['monglo.js'][614]++;
-  utils.forEach(documents, (function (document) {
+  var collections = [];
   _$jscoverage['monglo.js'][615]++;
+  utils.forEach(documents, (function (document) {
+  _$jscoverage['monglo.js'][616]++;
   collections.push(new Collection(self, document.name.replace(self.databaseName + ".", ""), self.pkFactory));
 }));
-  _$jscoverage['monglo.js'][618]++;
+  _$jscoverage['monglo.js'][619]++;
   callback(null, collections);
 }));
 });
-_$jscoverage['monglo.js'][630]++;
+_$jscoverage['monglo.js'][631]++;
 Monglo.prototype.dereference = (function (dbRef, callback) {
-  _$jscoverage['monglo.js'][631]++;
+  _$jscoverage['monglo.js'][632]++;
   var db = this;
-  _$jscoverage['monglo.js'][633]++;
+  _$jscoverage['monglo.js'][634]++;
   if (dbRef.db !== null) {
-    _$jscoverage['monglo.js'][633]++;
+    _$jscoverage['monglo.js'][634]++;
     db = this.db(dbRef.db);
   }
-  _$jscoverage['monglo.js'][635]++;
-  var collection = Monglo.collection(dbRef.namespace);
   _$jscoverage['monglo.js'][636]++;
-  collection.findOne({"_id": dbRef.oid}, (function (err, result) {
+  var collection = Monglo.collection(dbRef.namespace);
   _$jscoverage['monglo.js'][637]++;
+  collection.findOne({"_id": dbRef.oid}, (function (err, result) {
+  _$jscoverage['monglo.js'][638]++;
   callback(err, result);
 }));
 });
-_$jscoverage['monglo.js'][661]++;
+_$jscoverage['monglo.js'][662]++;
 Monglo.prototype.createCollection = Monglo.prototype.collection;
-_$jscoverage['monglo.js'][671]++;
+_$jscoverage['monglo.js'][672]++;
 Monglo.prototype.dropCollection = (function (collectionName, callback) {
-  _$jscoverage['monglo.js'][672]++;
+  _$jscoverage['monglo.js'][673]++;
   var self = this;
-  _$jscoverage['monglo.js'][674]++;
+  _$jscoverage['monglo.js'][675]++;
   this._executeCommand("dropCollection", {conn: this, collection: self});
 });
-_$jscoverage['monglo.js'][686]++;
+_$jscoverage['monglo.js'][687]++;
 Monglo.prototype.renameCollection = (function (fromCollection, toCollection, callback) {
-  _$jscoverage['monglo.js'][687]++;
+  _$jscoverage['monglo.js'][688]++;
   var self = this;
-  _$jscoverage['monglo.js'][689]++;
+  _$jscoverage['monglo.js'][690]++;
   this._executeCommand("renameCollection", {conn: self, from: fromCollection, to: toCollection});
 });
-_$jscoverage['monglo.js'][715]++;
+_$jscoverage['monglo.js'][716]++;
 Monglo.prototype.createIndex = (function (collectionName, fieldOrSpec, options, callback) {
-  _$jscoverage['monglo.js'][716]++;
+  _$jscoverage['monglo.js'][717]++;
   throw new Error("Not implemented yet!");
 });
-_$jscoverage['monglo.js'][741]++;
+_$jscoverage['monglo.js'][742]++;
 Monglo.prototype.ensureIndex = (function (collectionName, fieldOrSpec, options, callback) {
-  _$jscoverage['monglo.js'][742]++;
+  _$jscoverage['monglo.js'][743]++;
   throw new Error("Not implemented yet!");
 });
-_$jscoverage['monglo.js'][754]++;
+_$jscoverage['monglo.js'][755]++;
 Monglo.prototype.dropIndex = (function (collectionName, indexName, callback) {
-  _$jscoverage['monglo.js'][755]++;
+  _$jscoverage['monglo.js'][756]++;
   throw new Error("Not implemented yet!");
 });
-_$jscoverage['monglo.js'][766]++;
+_$jscoverage['monglo.js'][767]++;
 Monglo.prototype.reIndex = (function (collectionName, callback) {
-  _$jscoverage['monglo.js'][767]++;
+  _$jscoverage['monglo.js'][768]++;
   throw new Error("Not implemented yet!");
 });
-_$jscoverage['monglo.js'][783]++;
+_$jscoverage['monglo.js'][784]++;
 Monglo.prototype.indexInformation = (function (collectionName, options, callback) {
-  _$jscoverage['monglo.js'][784]++;
+  _$jscoverage['monglo.js'][785]++;
   throw new Error("Not implemented yet!");
 });
-_$jscoverage['monglo.js'][794]++;
+_$jscoverage['monglo.js'][795]++;
 Monglo.prototype.dropDatabase = (function (callback) {
-  _$jscoverage['monglo.js'][795]++;
-  var self = this;
   _$jscoverage['monglo.js'][796]++;
+  var self = this;
+  _$jscoverage['monglo.js'][797]++;
   this._executeCommand("dropDatabase", {conn: this});
 });
-_$jscoverage['monglo.js'][799]++;
+_$jscoverage['monglo.js'][800]++;
 exports.Monglo = Monglo;
-_$jscoverage['monglo.js'][804]++;
+_$jscoverage['monglo.js'][805]++;
 function validateDatabaseName(databaseName) {
-  _$jscoverage['monglo.js'][805]++;
+  _$jscoverage['monglo.js'][806]++;
   if (typeof databaseName !== "string") {
-    _$jscoverage['monglo.js'][805]++;
+    _$jscoverage['monglo.js'][806]++;
     throw new Error("database name must be a string");
   }
-  _$jscoverage['monglo.js'][806]++;
+  _$jscoverage['monglo.js'][807]++;
   if (databaseName.length === 0) {
-    _$jscoverage['monglo.js'][806]++;
+    _$jscoverage['monglo.js'][807]++;
     throw new Error("database name cannot be the empty string");
   }
-  _$jscoverage['monglo.js'][808]++;
-  var invalidChars = [" ", ".", "$", "/", "\\"];
   _$jscoverage['monglo.js'][809]++;
+  var invalidChars = [" ", ".", "$", "/", "\\"];
+  _$jscoverage['monglo.js'][810]++;
   for (var i = 0; i < invalidChars.length; i++) {
-    _$jscoverage['monglo.js'][810]++;
+    _$jscoverage['monglo.js'][811]++;
     if (databaseName.indexOf(invalidChars[i]) != -1) {
-      _$jscoverage['monglo.js'][810]++;
+      _$jscoverage['monglo.js'][811]++;
       throw new Error("database names cannot contain the character '" + invalidChars[i] + "'");
     }
 }
 }
-_$jscoverage['monglo.js'][820]++;
+_$jscoverage['monglo.js'][821]++;
 var chr = String.fromCharCode;
-_$jscoverage['monglo.js'][822]++;
-var maxBits = [];
 _$jscoverage['monglo.js'][823]++;
+var maxBits = [];
+_$jscoverage['monglo.js'][824]++;
 for (var i = 0; i < 64; i++) {
-  _$jscoverage['monglo.js'][824]++;
+  _$jscoverage['monglo.js'][825]++;
   maxBits[i] = Math.pow(2, i);
 }
-_$jscoverage['monglo.js'][827]++;
+_$jscoverage['monglo.js'][828]++;
 function BinaryParser(bigEndian, allowExceptions) {
-  _$jscoverage['monglo.js'][828]++;
+  _$jscoverage['monglo.js'][829]++;
   if (! (this instanceof BinaryParser)) {
-    _$jscoverage['monglo.js'][828]++;
+    _$jscoverage['monglo.js'][829]++;
     return new BinaryParser(bigEndian, allowExceptions);
   }
-  _$jscoverage['monglo.js'][830]++;
-  this.bigEndian = bigEndian;
   _$jscoverage['monglo.js'][831]++;
+  this.bigEndian = bigEndian;
+  _$jscoverage['monglo.js'][832]++;
   this.allowExceptions = allowExceptions;
 }
-_$jscoverage['monglo.js'][834]++;
+_$jscoverage['monglo.js'][835]++;
 BinaryParser.warn = (function warn(msg) {
-  _$jscoverage['monglo.js'][835]++;
+  _$jscoverage['monglo.js'][836]++;
   if (this.allowExceptions) {
-    _$jscoverage['monglo.js'][836]++;
+    _$jscoverage['monglo.js'][837]++;
     throw new Error(msg);
   }
-  _$jscoverage['monglo.js'][839]++;
+  _$jscoverage['monglo.js'][840]++;
   return 1;
 });
-_$jscoverage['monglo.js'][842]++;
+_$jscoverage['monglo.js'][843]++;
 BinaryParser.decodeFloat = (function decodeFloat(data, precisionBits, exponentBits) {
-  _$jscoverage['monglo.js'][843]++;
+  _$jscoverage['monglo.js'][844]++;
   var b = new this.Buffer(this.bigEndian, data);
-  _$jscoverage['monglo.js'][845]++;
+  _$jscoverage['monglo.js'][846]++;
   b.checkBuffer(precisionBits + exponentBits + 1);
-  _$jscoverage['monglo.js'][847]++;
+  _$jscoverage['monglo.js'][848]++;
   var bias = maxBits[exponentBits - 1] - 1, signal = b.readBits(precisionBits + exponentBits, 1), exponent = b.readBits(precisionBits, exponentBits), significand = 0, divisor = 2, curByte = b.buffer.length + (- precisionBits >> 3) - 1;
-  _$jscoverage['monglo.js'][854]++;
+  _$jscoverage['monglo.js'][855]++;
   do {
-    _$jscoverage['monglo.js'][855]++;
+    _$jscoverage['monglo.js'][856]++;
     for (var byteValue = b.buffer[++curByte], startBit = precisionBits % 8 || 8, mask = 1 << startBit; mask >>= 1; (byteValue & mask) && (significand += 1 / divisor), divisor *= 2) {
-      _$jscoverage['monglo.js'][855]++;
+      _$jscoverage['monglo.js'][856]++;
       ;
 }
 }
   while (precisionBits -= startBit);
-  _$jscoverage['monglo.js'][858]++;
+  _$jscoverage['monglo.js'][859]++;
   return exponent == (bias << 1) + 1? significand? NaN: signal? - Infinity: + Infinity: (1 + signal * -2) * (exponent || significand? ! exponent? Math.pow(2, - bias + 1) * significand: Math.pow(2, exponent - bias) * (1 + significand): 0);
 });
-_$jscoverage['monglo.js'][861]++;
+_$jscoverage['monglo.js'][862]++;
 BinaryParser.decodeInt = (function decodeInt(data, bits, signed, forceBigEndian) {
-  _$jscoverage['monglo.js'][862]++;
+  _$jscoverage['monglo.js'][863]++;
   var b = new this.Buffer(this.bigEndian || forceBigEndian, data), x = b.readBits(0, bits), max = maxBits[bits];
-  _$jscoverage['monglo.js'][866]++;
+  _$jscoverage['monglo.js'][867]++;
   return signed && x >= max / 2? x - max: x;
 });
-_$jscoverage['monglo.js'][871]++;
+_$jscoverage['monglo.js'][872]++;
 BinaryParser.encodeFloat = (function encodeFloat(data, precisionBits, exponentBits) {
-  _$jscoverage['monglo.js'][872]++;
+  _$jscoverage['monglo.js'][873]++;
   var bias = maxBits[exponentBits - 1] - 1, minExp = - bias + 1, maxExp = bias, minUnnormExp = minExp - precisionBits, n = parseFloat(data), status = isNaN(n) || n == - Infinity || n == + Infinity? n: 0, exp = 0, len = 2 * bias + 1 + precisionBits + 3, bin = new Array(len), signal = (n = status !== 0? 0: n) < 0, intPart = Math.floor(n = Math.abs(n)), floatPart = n - intPart, lastBit, rounded, result, i, j;
-  _$jscoverage['monglo.js'][890]++;
+  _$jscoverage['monglo.js'][891]++;
   for (i = len; i; bin[--i] = 0) {
-    _$jscoverage['monglo.js'][890]++;
+    _$jscoverage['monglo.js'][891]++;
     ;
 }
-  _$jscoverage['monglo.js'][892]++;
+  _$jscoverage['monglo.js'][893]++;
   for (i = bias + 2; intPart && i; bin[--i] = intPart % 2, intPart = Math.floor(intPart / 2)) {
-    _$jscoverage['monglo.js'][892]++;
+    _$jscoverage['monglo.js'][893]++;
     ;
 }
-  _$jscoverage['monglo.js'][894]++;
+  _$jscoverage['monglo.js'][895]++;
   for (i = bias + 1; floatPart > 0 && i; (bin[++i] = ((floatPart *= 2) >= 1) - 0) && --floatPart) {
-    _$jscoverage['monglo.js'][894]++;
+    _$jscoverage['monglo.js'][895]++;
     ;
 }
-  _$jscoverage['monglo.js'][896]++;
+  _$jscoverage['monglo.js'][897]++;
   for (i = -1; ++i < len && ! bin[i];) {
-    _$jscoverage['monglo.js'][896]++;
+    _$jscoverage['monglo.js'][897]++;
     ;
 }
-  _$jscoverage['monglo.js'][898]++;
+  _$jscoverage['monglo.js'][899]++;
   if (bin[(lastBit = precisionBits - 1 + (i = (exp = bias + 1 - i) >= minExp && exp <= maxExp? i + 1: bias + 1 - (exp = minExp - 1))) + 1]) {
-    _$jscoverage['monglo.js'][899]++;
+    _$jscoverage['monglo.js'][900]++;
     if (! (rounded = bin[lastBit])) {
-      _$jscoverage['monglo.js'][900]++;
+      _$jscoverage['monglo.js'][901]++;
       for (j = lastBit + 2; ! rounded && j < len; rounded = bin[j++]) {
-        _$jscoverage['monglo.js'][900]++;
+        _$jscoverage['monglo.js'][901]++;
         ;
 }
     }
-    _$jscoverage['monglo.js'][903]++;
+    _$jscoverage['monglo.js'][904]++;
     for (j = lastBit + 1; rounded && --j >= 0; (bin[j] = ! bin[j] - 0) && (rounded = 0)) {
-      _$jscoverage['monglo.js'][903]++;
+      _$jscoverage['monglo.js'][904]++;
       ;
 }
   }
-  _$jscoverage['monglo.js'][906]++;
+  _$jscoverage['monglo.js'][907]++;
   for (i = i - 2 < 0? -1: i - 3; ++i < len && ! bin[i];) {
-    _$jscoverage['monglo.js'][906]++;
+    _$jscoverage['monglo.js'][907]++;
     ;
 }
-  _$jscoverage['monglo.js'][908]++;
+  _$jscoverage['monglo.js'][909]++;
   if ((exp = bias + 1 - i) >= minExp && exp <= maxExp) {
-    _$jscoverage['monglo.js'][909]++;
+    _$jscoverage['monglo.js'][910]++;
     ++i;
   }
   else {
-    _$jscoverage['monglo.js'][910]++;
+    _$jscoverage['monglo.js'][911]++;
     if (exp < minExp) {
-      _$jscoverage['monglo.js'][911]++;
-      exp != bias + 1 - len && exp < minUnnormExp && this.warn("encodeFloat::float underflow");
       _$jscoverage['monglo.js'][912]++;
+      exp != bias + 1 - len && exp < minUnnormExp && this.warn("encodeFloat::float underflow");
+      _$jscoverage['monglo.js'][913]++;
       i = bias + 1 - (exp = minExp - 1);
     }
   }
-  _$jscoverage['monglo.js'][915]++;
+  _$jscoverage['monglo.js'][916]++;
   if (intPart || status !== 0) {
-    _$jscoverage['monglo.js'][916]++;
-    this.warn(intPart? "encodeFloat::float overflow": "encodeFloat::" + status);
     _$jscoverage['monglo.js'][917]++;
-    exp = maxExp + 1;
+    this.warn(intPart? "encodeFloat::float overflow": "encodeFloat::" + status);
     _$jscoverage['monglo.js'][918]++;
+    exp = maxExp + 1;
+    _$jscoverage['monglo.js'][919]++;
     i = bias + 2;
-    _$jscoverage['monglo.js'][920]++;
+    _$jscoverage['monglo.js'][921]++;
     if (status == - Infinity) {
-      _$jscoverage['monglo.js'][921]++;
+      _$jscoverage['monglo.js'][922]++;
       signal = 1;
     }
     else {
-      _$jscoverage['monglo.js'][922]++;
+      _$jscoverage['monglo.js'][923]++;
       if (isNaN(status)) {
-        _$jscoverage['monglo.js'][923]++;
+        _$jscoverage['monglo.js'][924]++;
         bin[i] = 1;
       }
     }
   }
-  _$jscoverage['monglo.js'][927]++;
+  _$jscoverage['monglo.js'][928]++;
   for (n = Math.abs(exp + bias), j = exponentBits + 1, result = ""; --j; result = (n % 2) + result, n = n >>= 1) {
-    _$jscoverage['monglo.js'][927]++;
+    _$jscoverage['monglo.js'][928]++;
     ;
 }
-  _$jscoverage['monglo.js'][929]++;
+  _$jscoverage['monglo.js'][930]++;
   for (n = 0, j = 0, i = (result = (signal? "1": "0") + result + bin.slice(i, i + precisionBits).join("")).length, r = []; i; j = (j + 1) % 8) {
-    _$jscoverage['monglo.js'][930]++;
-    n += (1 << j) * result.charAt(--i);
     _$jscoverage['monglo.js'][931]++;
+    n += (1 << j) * result.charAt(--i);
+    _$jscoverage['monglo.js'][932]++;
     if (j == 7) {
-      _$jscoverage['monglo.js'][932]++;
-      r[r.length] = String.fromCharCode(n);
       _$jscoverage['monglo.js'][933]++;
+      r[r.length] = String.fromCharCode(n);
+      _$jscoverage['monglo.js'][934]++;
       n = 0;
     }
 }
-  _$jscoverage['monglo.js'][937]++;
+  _$jscoverage['monglo.js'][938]++;
   r[r.length] = n? String.fromCharCode(n): "";
-  _$jscoverage['monglo.js'][941]++;
+  _$jscoverage['monglo.js'][942]++;
   return (this.bigEndian? r.reverse(): r).join("");
 });
-_$jscoverage['monglo.js'][944]++;
+_$jscoverage['monglo.js'][945]++;
 BinaryParser.encodeInt = (function encodeInt(data, bits, signed, forceBigEndian) {
-  _$jscoverage['monglo.js'][945]++;
+  _$jscoverage['monglo.js'][946]++;
   var max = maxBits[bits];
-  _$jscoverage['monglo.js'][947]++;
+  _$jscoverage['monglo.js'][948]++;
   if (data >= max || data < - (max / 2)) {
-    _$jscoverage['monglo.js'][948]++;
-    this.warn("encodeInt::overflow");
     _$jscoverage['monglo.js'][949]++;
+    this.warn("encodeInt::overflow");
+    _$jscoverage['monglo.js'][950]++;
     data = 0;
   }
-  _$jscoverage['monglo.js'][952]++;
+  _$jscoverage['monglo.js'][953]++;
   if (data < 0) {
-    _$jscoverage['monglo.js'][953]++;
+    _$jscoverage['monglo.js'][954]++;
     data += max;
   }
-  _$jscoverage['monglo.js'][956]++;
+  _$jscoverage['monglo.js'][957]++;
   for (var r = []; data; r[r.length] = String.fromCharCode(data % 256), data = Math.floor(data / 256)) {
-    _$jscoverage['monglo.js'][956]++;
+    _$jscoverage['monglo.js'][957]++;
     ;
 }
-  _$jscoverage['monglo.js'][958]++;
+  _$jscoverage['monglo.js'][959]++;
   for (bits = - (- bits >> 3) - r.length; bits--; r[r.length] = "\u0000") {
-    _$jscoverage['monglo.js'][958]++;
+    _$jscoverage['monglo.js'][959]++;
     ;
 }
-  _$jscoverage['monglo.js'][960]++;
+  _$jscoverage['monglo.js'][961]++;
   return ((this.bigEndian || forceBigEndian)? r.reverse(): r).join("");
 });
-_$jscoverage['monglo.js'][963]++;
+_$jscoverage['monglo.js'][964]++;
 BinaryParser.toSmall = (function (data) {
-  _$jscoverage['monglo.js'][963]++;
+  _$jscoverage['monglo.js'][964]++;
   return this.decodeInt(data, 8, true);
 });
-_$jscoverage['monglo.js'][964]++;
+_$jscoverage['monglo.js'][965]++;
 BinaryParser.fromSmall = (function (data) {
-  _$jscoverage['monglo.js'][964]++;
+  _$jscoverage['monglo.js'][965]++;
   return this.encodeInt(data, 8, true);
 });
-_$jscoverage['monglo.js'][965]++;
+_$jscoverage['monglo.js'][966]++;
 BinaryParser.toByte = (function (data) {
-  _$jscoverage['monglo.js'][965]++;
+  _$jscoverage['monglo.js'][966]++;
   return this.decodeInt(data, 8, false);
 });
-_$jscoverage['monglo.js'][966]++;
+_$jscoverage['monglo.js'][967]++;
 BinaryParser.fromByte = (function (data) {
-  _$jscoverage['monglo.js'][966]++;
+  _$jscoverage['monglo.js'][967]++;
   return this.encodeInt(data, 8, false);
 });
-_$jscoverage['monglo.js'][967]++;
+_$jscoverage['monglo.js'][968]++;
 BinaryParser.toShort = (function (data) {
-  _$jscoverage['monglo.js'][967]++;
+  _$jscoverage['monglo.js'][968]++;
   return this.decodeInt(data, 16, true);
 });
-_$jscoverage['monglo.js'][968]++;
+_$jscoverage['monglo.js'][969]++;
 BinaryParser.fromShort = (function (data) {
-  _$jscoverage['monglo.js'][968]++;
+  _$jscoverage['monglo.js'][969]++;
   return this.encodeInt(data, 16, true);
 });
-_$jscoverage['monglo.js'][969]++;
+_$jscoverage['monglo.js'][970]++;
 BinaryParser.toWord = (function (data) {
-  _$jscoverage['monglo.js'][969]++;
+  _$jscoverage['monglo.js'][970]++;
   return this.decodeInt(data, 16, false);
 });
-_$jscoverage['monglo.js'][970]++;
+_$jscoverage['monglo.js'][971]++;
 BinaryParser.fromWord = (function (data) {
-  _$jscoverage['monglo.js'][970]++;
+  _$jscoverage['monglo.js'][971]++;
   return this.encodeInt(data, 16, false);
 });
-_$jscoverage['monglo.js'][971]++;
+_$jscoverage['monglo.js'][972]++;
 BinaryParser.toInt = (function (data) {
-  _$jscoverage['monglo.js'][971]++;
+  _$jscoverage['monglo.js'][972]++;
   return this.decodeInt(data, 32, true);
 });
-_$jscoverage['monglo.js'][972]++;
+_$jscoverage['monglo.js'][973]++;
 BinaryParser.fromInt = (function (data) {
-  _$jscoverage['monglo.js'][972]++;
+  _$jscoverage['monglo.js'][973]++;
   return this.encodeInt(data, 32, true);
 });
-_$jscoverage['monglo.js'][973]++;
-BinaryParser.toLong = (function (data) {
-  _$jscoverage['monglo.js'][973]++;
-  return this.decodeInt(data, 64, true);
-});
 _$jscoverage['monglo.js'][974]++;
-BinaryParser.fromLong = (function (data) {
+BinaryParser.toLong = (function (data) {
   _$jscoverage['monglo.js'][974]++;
-  return this.encodeInt(data, 64, true);
+  return this.decodeInt(data, 64, true);
 });
 _$jscoverage['monglo.js'][975]++;
-BinaryParser.toDWord = (function (data) {
+BinaryParser.fromLong = (function (data) {
   _$jscoverage['monglo.js'][975]++;
-  return this.decodeInt(data, 32, false);
-});
-_$jscoverage['monglo.js'][976]++;
-BinaryParser.fromDWord = (function (data) {
-  _$jscoverage['monglo.js'][976]++;
-  return this.encodeInt(data, 32, false);
-});
-_$jscoverage['monglo.js'][977]++;
-BinaryParser.toQWord = (function (data) {
-  _$jscoverage['monglo.js'][977]++;
-  return this.decodeInt(data, 64, true);
-});
-_$jscoverage['monglo.js'][978]++;
-BinaryParser.fromQWord = (function (data) {
-  _$jscoverage['monglo.js'][978]++;
   return this.encodeInt(data, 64, true);
 });
+_$jscoverage['monglo.js'][976]++;
+BinaryParser.toDWord = (function (data) {
+  _$jscoverage['monglo.js'][976]++;
+  return this.decodeInt(data, 32, false);
+});
+_$jscoverage['monglo.js'][977]++;
+BinaryParser.fromDWord = (function (data) {
+  _$jscoverage['monglo.js'][977]++;
+  return this.encodeInt(data, 32, false);
+});
+_$jscoverage['monglo.js'][978]++;
+BinaryParser.toQWord = (function (data) {
+  _$jscoverage['monglo.js'][978]++;
+  return this.decodeInt(data, 64, true);
+});
 _$jscoverage['monglo.js'][979]++;
-BinaryParser.toFloat = (function (data) {
+BinaryParser.fromQWord = (function (data) {
   _$jscoverage['monglo.js'][979]++;
-  return this.decodeFloat(data, 23, 8);
+  return this.encodeInt(data, 64, true);
 });
 _$jscoverage['monglo.js'][980]++;
-BinaryParser.fromFloat = (function (data) {
+BinaryParser.toFloat = (function (data) {
   _$jscoverage['monglo.js'][980]++;
-  return this.encodeFloat(data, 23, 8);
+  return this.decodeFloat(data, 23, 8);
 });
 _$jscoverage['monglo.js'][981]++;
-BinaryParser.toDouble = (function (data) {
+BinaryParser.fromFloat = (function (data) {
   _$jscoverage['monglo.js'][981]++;
-  return this.decodeFloat(data, 52, 11);
+  return this.encodeFloat(data, 23, 8);
 });
 _$jscoverage['monglo.js'][982]++;
-BinaryParser.fromDouble = (function (data) {
+BinaryParser.toDouble = (function (data) {
   _$jscoverage['monglo.js'][982]++;
+  return this.decodeFloat(data, 52, 11);
+});
+_$jscoverage['monglo.js'][983]++;
+BinaryParser.fromDouble = (function (data) {
+  _$jscoverage['monglo.js'][983]++;
   return this.encodeFloat(data, 52, 11);
 });
-_$jscoverage['monglo.js'][985]++;
+_$jscoverage['monglo.js'][986]++;
 BinaryParser.encode_int32 = (function encode_int32(number, asArray) {
-  _$jscoverage['monglo.js'][986]++;
-  var a, b, c, d, unsigned;
   _$jscoverage['monglo.js'][987]++;
-  unsigned = (number < 0)? (number + 4294967296): number;
+  var a, b, c, d, unsigned;
   _$jscoverage['monglo.js'][988]++;
-  a = Math.floor(unsigned / 16777215);
+  unsigned = (number < 0)? (number + 4294967296): number;
   _$jscoverage['monglo.js'][989]++;
-  unsigned &= 16777215;
+  a = Math.floor(unsigned / 16777215);
   _$jscoverage['monglo.js'][990]++;
-  b = Math.floor(unsigned / 65535);
+  unsigned &= 16777215;
   _$jscoverage['monglo.js'][991]++;
-  unsigned &= 65535;
+  b = Math.floor(unsigned / 65535);
   _$jscoverage['monglo.js'][992]++;
-  c = Math.floor(unsigned / 255);
+  unsigned &= 65535;
   _$jscoverage['monglo.js'][993]++;
-  unsigned &= 255;
+  c = Math.floor(unsigned / 255);
   _$jscoverage['monglo.js'][994]++;
-  d = Math.floor(unsigned);
+  unsigned &= 255;
   _$jscoverage['monglo.js'][995]++;
+  d = Math.floor(unsigned);
+  _$jscoverage['monglo.js'][996]++;
   return asArray? [chr(a), chr(b), chr(c), chr(d)]: chr(a) + chr(b) + chr(c) + chr(d);
 });
-_$jscoverage['monglo.js'][998]++;
+_$jscoverage['monglo.js'][999]++;
 BinaryParser.encode_int64 = (function encode_int64(number) {
-  _$jscoverage['monglo.js'][999]++;
-  var a, b, c, d, e, f, g, h, unsigned;
   _$jscoverage['monglo.js'][1000]++;
-  unsigned = (number < 0)? (number + 1.84467440737096e+19): number;
+  var a, b, c, d, e, f, g, h, unsigned;
   _$jscoverage['monglo.js'][1001]++;
-  a = Math.floor(unsigned / 7.20575940379279e+16);
+  unsigned = (number < 0)? (number + 1.84467440737096e+19): number;
   _$jscoverage['monglo.js'][1002]++;
-  unsigned &= 7.20575940379279e+16;
+  a = Math.floor(unsigned / 7.20575940379279e+16);
   _$jscoverage['monglo.js'][1003]++;
-  b = Math.floor(unsigned / 281474976710655);
+  unsigned &= 7.20575940379279e+16;
   _$jscoverage['monglo.js'][1004]++;
-  unsigned &= 281474976710655;
+  b = Math.floor(unsigned / 281474976710655);
   _$jscoverage['monglo.js'][1005]++;
-  c = Math.floor(unsigned / 1099511627775);
+  unsigned &= 281474976710655;
   _$jscoverage['monglo.js'][1006]++;
-  unsigned &= 1099511627775;
+  c = Math.floor(unsigned / 1099511627775);
   _$jscoverage['monglo.js'][1007]++;
-  d = Math.floor(unsigned / 4294967295);
+  unsigned &= 1099511627775;
   _$jscoverage['monglo.js'][1008]++;
-  unsigned &= 4294967295;
+  d = Math.floor(unsigned / 4294967295);
   _$jscoverage['monglo.js'][1009]++;
-  e = Math.floor(unsigned / 16777215);
+  unsigned &= 4294967295;
   _$jscoverage['monglo.js'][1010]++;
-  unsigned &= 16777215;
+  e = Math.floor(unsigned / 16777215);
   _$jscoverage['monglo.js'][1011]++;
-  f = Math.floor(unsigned / 65535);
+  unsigned &= 16777215;
   _$jscoverage['monglo.js'][1012]++;
-  unsigned &= 65535;
+  f = Math.floor(unsigned / 65535);
   _$jscoverage['monglo.js'][1013]++;
-  g = Math.floor(unsigned / 255);
+  unsigned &= 65535;
   _$jscoverage['monglo.js'][1014]++;
-  unsigned &= 255;
+  g = Math.floor(unsigned / 255);
   _$jscoverage['monglo.js'][1015]++;
-  h = Math.floor(unsigned);
+  unsigned &= 255;
   _$jscoverage['monglo.js'][1016]++;
+  h = Math.floor(unsigned);
+  _$jscoverage['monglo.js'][1017]++;
   return chr(a) + chr(b) + chr(c) + chr(d) + chr(e) + chr(f) + chr(g) + chr(h);
 });
-_$jscoverage['monglo.js'][1024]++;
+_$jscoverage['monglo.js'][1025]++;
 BinaryParser.decode_utf8 = (function decode_utf8(binaryStr) {
-  _$jscoverage['monglo.js'][1025]++;
+  _$jscoverage['monglo.js'][1026]++;
   var len = binaryStr.length, decoded = "", i = 0, c = 0, c1 = 0, c2 = 0, c3;
-  _$jscoverage['monglo.js'][1033]++;
+  _$jscoverage['monglo.js'][1034]++;
   while (i < len) {
-    _$jscoverage['monglo.js'][1034]++;
-    c = binaryStr.charCodeAt(i);
     _$jscoverage['monglo.js'][1035]++;
+    c = binaryStr.charCodeAt(i);
+    _$jscoverage['monglo.js'][1036]++;
     if (c < 128) {
-      _$jscoverage['monglo.js'][1036]++;
-      decoded += String.fromCharCode(c);
       _$jscoverage['monglo.js'][1037]++;
+      decoded += String.fromCharCode(c);
+      _$jscoverage['monglo.js'][1038]++;
       i++;
     }
     else {
-      _$jscoverage['monglo.js'][1038]++;
+      _$jscoverage['monglo.js'][1039]++;
       if ((c > 191) && (c < 224)) {
-        _$jscoverage['monglo.js'][1039]++;
-        c2 = binaryStr.charCodeAt(i + 1);
         _$jscoverage['monglo.js'][1040]++;
-        decoded += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+        c2 = binaryStr.charCodeAt(i + 1);
         _$jscoverage['monglo.js'][1041]++;
+        decoded += String.fromCharCode(((c & 31) << 6) | (c2 & 63));
+        _$jscoverage['monglo.js'][1042]++;
         i += 2;
       }
       else {
-        _$jscoverage['monglo.js'][1043]++;
-        c2 = binaryStr.charCodeAt(i + 1);
         _$jscoverage['monglo.js'][1044]++;
-        c3 = binaryStr.charCodeAt(i + 2);
+        c2 = binaryStr.charCodeAt(i + 1);
         _$jscoverage['monglo.js'][1045]++;
-        decoded += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+        c3 = binaryStr.charCodeAt(i + 2);
         _$jscoverage['monglo.js'][1046]++;
+        decoded += String.fromCharCode(((c & 15) << 12) | ((c2 & 63) << 6) | (c3 & 63));
+        _$jscoverage['monglo.js'][1047]++;
         i += 3;
       }
     }
 }
-  _$jscoverage['monglo.js'][1050]++;
+  _$jscoverage['monglo.js'][1051]++;
   return decoded;
 });
-_$jscoverage['monglo.js'][1054]++;
+_$jscoverage['monglo.js'][1055]++;
 BinaryParser.encode_cstring = (function encode_cstring(s) {
-  _$jscoverage['monglo.js'][1055]++;
+  _$jscoverage['monglo.js'][1056]++;
   return unescape(encodeURIComponent(s)) + BinaryParser.fromByte(0);
 });
-_$jscoverage['monglo.js'][1059]++;
+_$jscoverage['monglo.js'][1060]++;
 BinaryParser.encode_utf8 = (function encode_utf8(s) {
-  _$jscoverage['monglo.js'][1060]++;
+  _$jscoverage['monglo.js'][1061]++;
   var a = "", c;
-  _$jscoverage['monglo.js'][1063]++;
+  _$jscoverage['monglo.js'][1064]++;
   for (var n = 0, len = s.length; n < len; n++) {
-    _$jscoverage['monglo.js'][1064]++;
+    _$jscoverage['monglo.js'][1065]++;
     c = s.charCodeAt(n);
-    _$jscoverage['monglo.js'][1066]++;
+    _$jscoverage['monglo.js'][1067]++;
     if (c < 128) {
-      _$jscoverage['monglo.js'][1067]++;
+      _$jscoverage['monglo.js'][1068]++;
       a += String.fromCharCode(c);
     }
     else {
-      _$jscoverage['monglo.js'][1068]++;
+      _$jscoverage['monglo.js'][1069]++;
       if ((c > 127) && (c < 2048)) {
-        _$jscoverage['monglo.js'][1069]++;
-        a += String.fromCharCode((c >> 6) | 192);
         _$jscoverage['monglo.js'][1070]++;
+        a += String.fromCharCode((c >> 6) | 192);
+        _$jscoverage['monglo.js'][1071]++;
         a += String.fromCharCode((c & 63) | 128);
       }
       else {
-        _$jscoverage['monglo.js'][1072]++;
-        a += String.fromCharCode((c >> 12) | 224);
         _$jscoverage['monglo.js'][1073]++;
-        a += String.fromCharCode(((c >> 6) & 63) | 128);
+        a += String.fromCharCode((c >> 12) | 224);
         _$jscoverage['monglo.js'][1074]++;
+        a += String.fromCharCode(((c >> 6) & 63) | 128);
+        _$jscoverage['monglo.js'][1075]++;
         a += String.fromCharCode((c & 63) | 128);
       }
     }
 }
-  _$jscoverage['monglo.js'][1078]++;
+  _$jscoverage['monglo.js'][1079]++;
   return a;
 });
-_$jscoverage['monglo.js'][1081]++;
+_$jscoverage['monglo.js'][1082]++;
 BinaryParser.hprint = (function hprint(s) {
-  _$jscoverage['monglo.js'][1082]++;
+  _$jscoverage['monglo.js'][1083]++;
   var number;
-  _$jscoverage['monglo.js'][1084]++;
+  _$jscoverage['monglo.js'][1085]++;
   for (var i = 0, len = s.length; i < len; i++) {
-    _$jscoverage['monglo.js'][1085]++;
+    _$jscoverage['monglo.js'][1086]++;
     if (s.charCodeAt(i) < 32) {
-      _$jscoverage['monglo.js'][1086]++;
+      _$jscoverage['monglo.js'][1087]++;
       number = s.charCodeAt(i) <= 15? "0" + s.charCodeAt(i).toString(16): s.charCodeAt(i).toString(16);
-      _$jscoverage['monglo.js'][1089]++;
+      _$jscoverage['monglo.js'][1090]++;
       process.stdout.write(number + " ");
     }
     else {
-      _$jscoverage['monglo.js'][1091]++;
+      _$jscoverage['monglo.js'][1092]++;
       number = s.charCodeAt(i) <= 15? "0" + s.charCodeAt(i).toString(16): s.charCodeAt(i).toString(16);
-      _$jscoverage['monglo.js'][1094]++;
+      _$jscoverage['monglo.js'][1095]++;
       process.stdout.write(number + " ");
     }
 }
-  _$jscoverage['monglo.js'][1098]++;
+  _$jscoverage['monglo.js'][1099]++;
   process.stdout.write("\n\n");
 });
-_$jscoverage['monglo.js'][1101]++;
+_$jscoverage['monglo.js'][1102]++;
 BinaryParser.ilprint = (function hprint(s) {
-  _$jscoverage['monglo.js'][1102]++;
+  _$jscoverage['monglo.js'][1103]++;
   var number;
-  _$jscoverage['monglo.js'][1104]++;
+  _$jscoverage['monglo.js'][1105]++;
   for (var i = 0, len = s.length; i < len; i++) {
-    _$jscoverage['monglo.js'][1105]++;
+    _$jscoverage['monglo.js'][1106]++;
     if (s.charCodeAt(i) < 32) {
-      _$jscoverage['monglo.js'][1106]++;
+      _$jscoverage['monglo.js'][1107]++;
       number = s.charCodeAt(i) <= 15? "0" + s.charCodeAt(i).toString(10): s.charCodeAt(i).toString(10);
     }
     else {
-      _$jscoverage['monglo.js'][1111]++;
+      _$jscoverage['monglo.js'][1112]++;
       number = s.charCodeAt(i) <= 15? "0" + s.charCodeAt(i).toString(10): s.charCodeAt(i).toString(10);
     }
 }
 });
-_$jscoverage['monglo.js'][1118]++;
+_$jscoverage['monglo.js'][1119]++;
 BinaryParser.hlprint = (function hprint(s) {
-  _$jscoverage['monglo.js'][1119]++;
+  _$jscoverage['monglo.js'][1120]++;
   var number;
-  _$jscoverage['monglo.js'][1121]++;
+  _$jscoverage['monglo.js'][1122]++;
   for (var i = 0, len = s.length; i < len; i++) {
-    _$jscoverage['monglo.js'][1122]++;
+    _$jscoverage['monglo.js'][1123]++;
     if (s.charCodeAt(i) < 32) {
-      _$jscoverage['monglo.js'][1123]++;
+      _$jscoverage['monglo.js'][1124]++;
       number = s.charCodeAt(i) <= 15? "0" + s.charCodeAt(i).toString(16): s.charCodeAt(i).toString(16);
     }
     else {
-      _$jscoverage['monglo.js'][1127]++;
+      _$jscoverage['monglo.js'][1128]++;
       number = s.charCodeAt(i) <= 15? "0" + s.charCodeAt(i).toString(16): s.charCodeAt(i).toString(16);
     }
 }
 });
-_$jscoverage['monglo.js'][1137]++;
+_$jscoverage['monglo.js'][1138]++;
 function BinaryParserBuffer(bigEndian, buffer) {
-  _$jscoverage['monglo.js'][1138]++;
-  this.bigEndian = bigEndian || 0;
   _$jscoverage['monglo.js'][1139]++;
-  this.buffer = [];
+  this.bigEndian = bigEndian || 0;
   _$jscoverage['monglo.js'][1140]++;
+  this.buffer = [];
+  _$jscoverage['monglo.js'][1141]++;
   this.setBuffer(buffer);
 }
-_$jscoverage['monglo.js'][1141]++;
+_$jscoverage['monglo.js'][1142]++;
 ;
-_$jscoverage['monglo.js'][1143]++;
+_$jscoverage['monglo.js'][1144]++;
 BinaryParserBuffer.prototype.setBuffer = (function setBuffer(data) {
-  _$jscoverage['monglo.js'][1144]++;
+  _$jscoverage['monglo.js'][1145]++;
   var l, i, b;
-  _$jscoverage['monglo.js'][1146]++;
+  _$jscoverage['monglo.js'][1147]++;
   if (data) {
-    _$jscoverage['monglo.js'][1147]++;
-    i = l = data.length;
     _$jscoverage['monglo.js'][1148]++;
-    b = this.buffer = new Array(l);
+    i = l = data.length;
     _$jscoverage['monglo.js'][1149]++;
+    b = this.buffer = new Array(l);
+    _$jscoverage['monglo.js'][1150]++;
     for (; i; b[l - i] = data.charCodeAt(--i)) {
-      _$jscoverage['monglo.js'][1149]++;
+      _$jscoverage['monglo.js'][1150]++;
       ;
 }
-    _$jscoverage['monglo.js'][1150]++;
+    _$jscoverage['monglo.js'][1151]++;
     this.bigEndian && b.reverse();
   }
 });
-_$jscoverage['monglo.js'][1154]++;
+_$jscoverage['monglo.js'][1155]++;
 BinaryParserBuffer.prototype.hasNeededBits = (function hasNeededBits(neededBits) {
-  _$jscoverage['monglo.js'][1155]++;
+  _$jscoverage['monglo.js'][1156]++;
   return this.buffer.length >= - (- neededBits >> 3);
 });
-_$jscoverage['monglo.js'][1158]++;
+_$jscoverage['monglo.js'][1159]++;
 BinaryParserBuffer.prototype.checkBuffer = (function checkBuffer(neededBits) {
-  _$jscoverage['monglo.js'][1159]++;
+  _$jscoverage['monglo.js'][1160]++;
   if (! this.hasNeededBits(neededBits)) {
-    _$jscoverage['monglo.js'][1160]++;
+    _$jscoverage['monglo.js'][1161]++;
     throw new Error("checkBuffer::missing bytes");
   }
 });
-_$jscoverage['monglo.js'][1164]++;
+_$jscoverage['monglo.js'][1165]++;
 BinaryParserBuffer.prototype.readBits = (function readBits(start, length) {
-  _$jscoverage['monglo.js'][1167]++;
+  _$jscoverage['monglo.js'][1168]++;
   function shl(a, b) {
-    _$jscoverage['monglo.js'][1168]++;
+    _$jscoverage['monglo.js'][1169]++;
     for (; b--; a = ((a %= 2147483648) & 1073741824) == 1073741824? a * 2: (a - 1073741824) * 2 + 2147483647 + 1) {
-      _$jscoverage['monglo.js'][1168]++;
+      _$jscoverage['monglo.js'][1169]++;
       ;
 }
-    _$jscoverage['monglo.js'][1169]++;
+    _$jscoverage['monglo.js'][1170]++;
     return a;
 }
-  _$jscoverage['monglo.js'][1172]++;
+  _$jscoverage['monglo.js'][1173]++;
   if (start < 0 || length <= 0) {
-    _$jscoverage['monglo.js'][1173]++;
+    _$jscoverage['monglo.js'][1174]++;
     return 0;
   }
-  _$jscoverage['monglo.js'][1176]++;
+  _$jscoverage['monglo.js'][1177]++;
   this.checkBuffer(start + length);
-  _$jscoverage['monglo.js'][1178]++;
+  _$jscoverage['monglo.js'][1179]++;
   var offsetLeft, offsetRight = start % 8, curByte = this.buffer.length - (start >> 3) - 1, lastByte = this.buffer.length + (- (start + length) >> 3), diff = curByte - lastByte, sum = ((this.buffer[curByte] >> offsetRight) & ((1 << (diff? 8 - offsetRight: length)) - 1)) + (diff && (offsetLeft = (start + length) % 8)? (this.buffer[lastByte++] & ((1 << offsetLeft) - 1)) << (diff-- << 3) - offsetRight: 0);
-  _$jscoverage['monglo.js'][1185]++;
+  _$jscoverage['monglo.js'][1186]++;
   for (; diff; sum += shl(this.buffer[lastByte++], (diff-- << 3) - offsetRight)) {
-    _$jscoverage['monglo.js'][1185]++;
+    _$jscoverage['monglo.js'][1186]++;
     ;
 }
-  _$jscoverage['monglo.js'][1187]++;
+  _$jscoverage['monglo.js'][1188]++;
   return sum;
 });
-_$jscoverage['monglo.js'][1193]++;
+_$jscoverage['monglo.js'][1194]++;
 BinaryParser.Buffer = BinaryParserBuffer;
-_$jscoverage['monglo.js'][1195]++;
+_$jscoverage['monglo.js'][1196]++;
 if (typeof window === "undefined") {
-  _$jscoverage['monglo.js'][1196]++;
+  _$jscoverage['monglo.js'][1197]++;
   exports.BinaryParser = BinaryParser;
 }
-_$jscoverage['monglo.js'][1210]++;
+_$jscoverage['monglo.js'][1211]++;
 var MACHINE_ID = parseInt(Math.random() * 16777215, 10);
-_$jscoverage['monglo.js'][1213]++;
+_$jscoverage['monglo.js'][1214]++;
 var checkForHexRegExp = new RegExp("^[0-9a-fA-F]{24}$");
-_$jscoverage['monglo.js'][1222]++;
+_$jscoverage['monglo.js'][1223]++;
 var ObjectID = (function ObjectID(id, _hex) {
-  _$jscoverage['monglo.js'][1223]++;
+  _$jscoverage['monglo.js'][1224]++;
   if (! (this instanceof ObjectID)) {
-    _$jscoverage['monglo.js'][1223]++;
+    _$jscoverage['monglo.js'][1224]++;
     return new ObjectID(id, _hex);
   }
-  _$jscoverage['monglo.js'][1225]++;
-  this._bsontype = "ObjectID";
   _$jscoverage['monglo.js'][1226]++;
+  this._bsontype = "ObjectID";
+  _$jscoverage['monglo.js'][1227]++;
   var __id = null;
-  _$jscoverage['monglo.js'][1229]++;
+  _$jscoverage['monglo.js'][1230]++;
   if (id != null && "number" != typeof id && (id.length != 12 && id.length != 24)) {
-    _$jscoverage['monglo.js'][1230]++;
+    _$jscoverage['monglo.js'][1231]++;
     throw new Error("Argument passed in must be a single String of 12 bytes or a string of 24 hex characters");
   }
-  _$jscoverage['monglo.js'][1233]++;
+  _$jscoverage['monglo.js'][1234]++;
   if (id == null || typeof id == "number") {
-    _$jscoverage['monglo.js'][1235]++;
+    _$jscoverage['monglo.js'][1236]++;
     this.id = this.generate(id);
   }
   else {
-    _$jscoverage['monglo.js'][1236]++;
+    _$jscoverage['monglo.js'][1237]++;
     if (id != null && id.length === 12) {
-      _$jscoverage['monglo.js'][1238]++;
+      _$jscoverage['monglo.js'][1239]++;
       this.id = id;
     }
     else {
-      _$jscoverage['monglo.js'][1239]++;
+      _$jscoverage['monglo.js'][1240]++;
       if (checkForHexRegExp.test(id)) {
-        _$jscoverage['monglo.js'][1240]++;
+        _$jscoverage['monglo.js'][1241]++;
         return ObjectID.createFromHexString(id);
       }
       else {
-        _$jscoverage['monglo.js'][1241]++;
+        _$jscoverage['monglo.js'][1242]++;
         if (! checkForHexRegExp.test(id)) {
-          _$jscoverage['monglo.js'][1242]++;
+          _$jscoverage['monglo.js'][1243]++;
           throw new Error("Value passed in is not a valid 24 character hex string");
         }
       }
     }
   }
-  _$jscoverage['monglo.js'][1245]++;
+  _$jscoverage['monglo.js'][1246]++;
   if (ObjectID.cacheHexString) {
-    _$jscoverage['monglo.js'][1245]++;
+    _$jscoverage['monglo.js'][1246]++;
     this.__id = this.toHexString();
   }
 });
-_$jscoverage['monglo.js'][1252]++;
+_$jscoverage['monglo.js'][1253]++;
 var ObjectId = ObjectID;
-_$jscoverage['monglo.js'][1260]++;
+_$jscoverage['monglo.js'][1261]++;
 ObjectID.prototype.toHexString = (function () {
-  _$jscoverage['monglo.js'][1261]++;
+  _$jscoverage['monglo.js'][1262]++;
   if (ObjectID.cacheHexString && this.__id) {
-    _$jscoverage['monglo.js'][1261]++;
+    _$jscoverage['monglo.js'][1262]++;
     return this.__id;
   }
-  _$jscoverage['monglo.js'][1263]++;
+  _$jscoverage['monglo.js'][1264]++;
   var hexString = "", number, value;
-  _$jscoverage['monglo.js'][1267]++;
+  _$jscoverage['monglo.js'][1268]++;
   for (var index = 0, len = this.id.length; index < len; index++) {
-    _$jscoverage['monglo.js'][1268]++;
-    value = BinaryParser.toByte(this.id[index]);
     _$jscoverage['monglo.js'][1269]++;
+    value = BinaryParser.toByte(this.id[index]);
+    _$jscoverage['monglo.js'][1270]++;
     number = value <= 15? "0" + value.toString(16): value.toString(16);
-    _$jscoverage['monglo.js'][1272]++;
+    _$jscoverage['monglo.js'][1273]++;
     hexString = hexString + number;
 }
-  _$jscoverage['monglo.js'][1275]++;
+  _$jscoverage['monglo.js'][1276]++;
   if (ObjectID.cacheHexString) {
-    _$jscoverage['monglo.js'][1275]++;
+    _$jscoverage['monglo.js'][1276]++;
     this.__id = hexString;
   }
-  _$jscoverage['monglo.js'][1276]++;
+  _$jscoverage['monglo.js'][1277]++;
   return hexString;
 });
-_$jscoverage['monglo.js'][1285]++;
+_$jscoverage['monglo.js'][1286]++;
 ObjectID.prototype.get_inc = (function () {
-  _$jscoverage['monglo.js'][1286]++;
+  _$jscoverage['monglo.js'][1287]++;
   return ObjectID.index = (ObjectID.index + 1) % 16777215;
 });
-_$jscoverage['monglo.js'][1295]++;
+_$jscoverage['monglo.js'][1296]++;
 ObjectID.prototype.getInc = (function () {
-  _$jscoverage['monglo.js'][1296]++;
+  _$jscoverage['monglo.js'][1297]++;
   return this.get_inc();
 });
-_$jscoverage['monglo.js'][1306]++;
+_$jscoverage['monglo.js'][1307]++;
 ObjectID.prototype.generate = (function (time) {
-  _$jscoverage['monglo.js'][1307]++;
+  _$jscoverage['monglo.js'][1308]++;
   if ("number" == typeof time) {
-    _$jscoverage['monglo.js'][1308]++;
+    _$jscoverage['monglo.js'][1309]++;
     var time4Bytes = BinaryParser.encodeInt(time, 32, true, true);
-    _$jscoverage['monglo.js'][1310]++;
-    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);
     _$jscoverage['monglo.js'][1311]++;
-    var pid2Bytes = BinaryParser.fromShort(typeof process === "undefined"? Math.floor(Math.random() * 100000): process.pid);
+    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);
     _$jscoverage['monglo.js'][1312]++;
+    var pid2Bytes = BinaryParser.fromShort(typeof process === "undefined"? Math.floor(Math.random() * 100000): process.pid);
+    _$jscoverage['monglo.js'][1313]++;
     var index3Bytes = BinaryParser.encodeInt(this.get_inc(), 24, false, true);
   }
   else {
-    _$jscoverage['monglo.js'][1314]++;
-    var unixTime = parseInt(Date.now() / 1000, 10);
     _$jscoverage['monglo.js'][1315]++;
-    var time4Bytes = BinaryParser.encodeInt(unixTime, 32, true, true);
+    var unixTime = parseInt(Date.now() / 1000, 10);
     _$jscoverage['monglo.js'][1316]++;
-    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);
+    var time4Bytes = BinaryParser.encodeInt(unixTime, 32, true, true);
     _$jscoverage['monglo.js'][1317]++;
-    var pid2Bytes = BinaryParser.fromShort(typeof process === "undefined"? Math.floor(Math.random() * 100000): process.pid);
+    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);
     _$jscoverage['monglo.js'][1318]++;
+    var pid2Bytes = BinaryParser.fromShort(typeof process === "undefined"? Math.floor(Math.random() * 100000): process.pid);
+    _$jscoverage['monglo.js'][1319]++;
     var index3Bytes = BinaryParser.encodeInt(this.get_inc(), 24, false, true);
   }
-  _$jscoverage['monglo.js'][1321]++;
+  _$jscoverage['monglo.js'][1322]++;
   return time4Bytes + machine3Bytes + pid2Bytes + index3Bytes;
 });
-_$jscoverage['monglo.js'][1330]++;
+_$jscoverage['monglo.js'][1331]++;
 ObjectID.prototype.toString = (function () {
-  _$jscoverage['monglo.js'][1331]++;
+  _$jscoverage['monglo.js'][1332]++;
   return this.toHexString();
 });
-_$jscoverage['monglo.js'][1340]++;
+_$jscoverage['monglo.js'][1341]++;
 ObjectID.prototype.inspect = ObjectID.prototype.toString;
-_$jscoverage['monglo.js'][1348]++;
+_$jscoverage['monglo.js'][1349]++;
 ObjectID.prototype.toJSON = (function () {
-  _$jscoverage['monglo.js'][1349]++;
+  _$jscoverage['monglo.js'][1350]++;
   return this.toHexString();
 });
-_$jscoverage['monglo.js'][1359]++;
+_$jscoverage['monglo.js'][1360]++;
 ObjectID.prototype.equals = (function equals(otherID) {
-  _$jscoverage['monglo.js'][1360]++;
+  _$jscoverage['monglo.js'][1361]++;
   var id = (otherID instanceof ObjectID || otherID.toHexString)? otherID.id: ObjectID.createFromHexString(otherID).id;
-  _$jscoverage['monglo.js'][1364]++;
+  _$jscoverage['monglo.js'][1365]++;
   return this.id === id;
 });
-_$jscoverage['monglo.js'][1373]++;
+_$jscoverage['monglo.js'][1374]++;
 ObjectID.prototype.getTimestamp = (function () {
-  _$jscoverage['monglo.js'][1374]++;
-  var timestamp = new Date();
   _$jscoverage['monglo.js'][1375]++;
-  timestamp.setTime(Math.floor(BinaryParser.decodeInt(this.id.substring(0, 4), 32, true, true)) * 1000);
+  var timestamp = new Date();
   _$jscoverage['monglo.js'][1376]++;
+  timestamp.setTime(Math.floor(BinaryParser.decodeInt(this.id.substring(0, 4), 32, true, true)) * 1000);
+  _$jscoverage['monglo.js'][1377]++;
   return timestamp;
 });
-_$jscoverage['monglo.js'][1383]++;
+_$jscoverage['monglo.js'][1384]++;
 ObjectID.index = 0;
-_$jscoverage['monglo.js'][1385]++;
+_$jscoverage['monglo.js'][1386]++;
 ObjectID.createPk = (function createPk() {
-  _$jscoverage['monglo.js'][1386]++;
+  _$jscoverage['monglo.js'][1387]++;
   return new ObjectID();
 });
-_$jscoverage['monglo.js'][1396]++;
+_$jscoverage['monglo.js'][1397]++;
 ObjectID.createFromTime = (function createFromTime(time) {
-  _$jscoverage['monglo.js'][1397]++;
+  _$jscoverage['monglo.js'][1398]++;
   var id = BinaryParser.encodeInt(time, 32, true, true) + BinaryParser.encodeInt(0, 64, true, true);
-  _$jscoverage['monglo.js'][1399]++;
+  _$jscoverage['monglo.js'][1400]++;
   return new ObjectID(id);
 });
-_$jscoverage['monglo.js'][1409]++;
+_$jscoverage['monglo.js'][1410]++;
 ObjectID.createFromHexString = (function createFromHexString(hexString) {
-  _$jscoverage['monglo.js'][1411]++;
+  _$jscoverage['monglo.js'][1412]++;
   if (typeof hexString === "undefined" || hexString != null && hexString.length != 24) {
-    _$jscoverage['monglo.js'][1412]++;
+    _$jscoverage['monglo.js'][1413]++;
     throw new Error("Argument passed in must be a single String of 12 bytes or a string of 24 hex characters");
   }
-  _$jscoverage['monglo.js'][1414]++;
+  _$jscoverage['monglo.js'][1415]++;
   var len = hexString.length;
-  _$jscoverage['monglo.js'][1416]++;
+  _$jscoverage['monglo.js'][1417]++;
   if (len > 24) {
-    _$jscoverage['monglo.js'][1417]++;
+    _$jscoverage['monglo.js'][1418]++;
     throw new Error("Id cannot be longer than 12 bytes");
   }
-  _$jscoverage['monglo.js'][1420]++;
+  _$jscoverage['monglo.js'][1421]++;
   var result = "", string, number;
-  _$jscoverage['monglo.js'][1424]++;
+  _$jscoverage['monglo.js'][1425]++;
   for (var index = 0; index < len; index += 2) {
-    _$jscoverage['monglo.js'][1425]++;
-    string = hexString.substr(index, 2);
     _$jscoverage['monglo.js'][1426]++;
-    number = parseInt(string, 16);
+    string = hexString.substr(index, 2);
     _$jscoverage['monglo.js'][1427]++;
+    number = parseInt(string, 16);
+    _$jscoverage['monglo.js'][1428]++;
     result += BinaryParser.fromByte(number);
 }
-  _$jscoverage['monglo.js'][1430]++;
+  _$jscoverage['monglo.js'][1431]++;
   return new ObjectID(result, hexString);
 });
-_$jscoverage['monglo.js'][1436]++;
+_$jscoverage['monglo.js'][1437]++;
 Object.defineProperty(ObjectID.prototype, "generationTime", {enumerable: true, get: (function () {
-  _$jscoverage['monglo.js'][1439]++;
+  _$jscoverage['monglo.js'][1440]++;
   return Math.floor(BinaryParser.decodeInt(this.id.substring(0, 4), 32, true, true));
 }), set: (function (value) {
-  _$jscoverage['monglo.js'][1442]++;
-  var value = BinaryParser.encodeInt(value, 32, true, true);
   _$jscoverage['monglo.js'][1443]++;
+  var value = BinaryParser.encodeInt(value, 32, true, true);
+  _$jscoverage['monglo.js'][1444]++;
   this.id = value + this.id.substr(4);
-  _$jscoverage['monglo.js'][1445]++;
+  _$jscoverage['monglo.js'][1446]++;
   this.toHexString();
 })});
-_$jscoverage['monglo.js'][1452]++;
-exports.ObjectID = ObjectID;
 _$jscoverage['monglo.js'][1453]++;
+exports.ObjectID = ObjectID;
+_$jscoverage['monglo.js'][1454]++;
 exports.ObjectId = ObjectID;
-_$jscoverage['monglo.js'][1460]++;
+_$jscoverage['monglo.js'][1461]++;
 Collection._diffQuery = (function (old_results, new_results, observer, deepcopy) {
-  _$jscoverage['monglo.js'][1462]++;
-  var new_presence_of_id = {};
   _$jscoverage['monglo.js'][1463]++;
-  _.each(new_results, (function (doc) {
+  var new_presence_of_id = {};
   _$jscoverage['monglo.js'][1464]++;
+  _.each(new_results, (function (doc) {
+  _$jscoverage['monglo.js'][1465]++;
   if (new_presence_of_id[doc._id]) {
-    _$jscoverage['monglo.js'][1465]++;
+    _$jscoverage['monglo.js'][1466]++;
     utils.debug("Duplicate _id in new_results");
   }
-  _$jscoverage['monglo.js'][1466]++;
+  _$jscoverage['monglo.js'][1467]++;
   new_presence_of_id[doc._id] = true;
 }));
-  _$jscoverage['monglo.js'][1469]++;
-  var old_index_of_id = {};
   _$jscoverage['monglo.js'][1470]++;
-  _.each(old_results, (function (doc, i) {
+  var old_index_of_id = {};
   _$jscoverage['monglo.js'][1471]++;
+  _.each(old_results, (function (doc, i) {
+  _$jscoverage['monglo.js'][1472]++;
   if (doc._id in old_index_of_id) {
-    _$jscoverage['monglo.js'][1472]++;
+    _$jscoverage['monglo.js'][1473]++;
     utils.debug("Duplicate _id in old_results");
   }
-  _$jscoverage['monglo.js'][1473]++;
+  _$jscoverage['monglo.js'][1474]++;
   old_index_of_id[doc._id] = i;
 }));
-  _$jscoverage['monglo.js'][1477]++;
+  _$jscoverage['monglo.js'][1478]++;
   var mdc = (deepcopy? Collection._deepcopy: _.identity);
-  _$jscoverage['monglo.js'][1557]++;
+  _$jscoverage['monglo.js'][1558]++;
   var unmoved_set = {};
-  _$jscoverage['monglo.js'][1559]++;
+  _$jscoverage['monglo.js'][1560]++;
   var max_seq_len = 0;
-  _$jscoverage['monglo.js'][1562]++;
-  var N = new_results.length;
   _$jscoverage['monglo.js'][1563]++;
+  var N = new_results.length;
+  _$jscoverage['monglo.js'][1564]++;
   var seq_ends = new Array(N);
-  _$jscoverage['monglo.js'][1567]++;
+  _$jscoverage['monglo.js'][1568]++;
   var ptrs = new Array(N);
-  _$jscoverage['monglo.js'][1569]++;
-  var old_idx_seq = (function (i_new) {
   _$jscoverage['monglo.js'][1570]++;
+  var old_idx_seq = (function (i_new) {
+  _$jscoverage['monglo.js'][1571]++;
   return old_index_of_id[new_results[i_new]._id];
 });
-  _$jscoverage['monglo.js'][1574]++;
+  _$jscoverage['monglo.js'][1575]++;
   for (var i = 0; i < N; i++) {
-    _$jscoverage['monglo.js'][1575]++;
+    _$jscoverage['monglo.js'][1576]++;
     if (old_index_of_id[new_results[i]._id] !== undefined) {
-      _$jscoverage['monglo.js'][1576]++;
+      _$jscoverage['monglo.js'][1577]++;
       var j = max_seq_len;
-      _$jscoverage['monglo.js'][1582]++;
+      _$jscoverage['monglo.js'][1583]++;
       while (j > 0) {
-        _$jscoverage['monglo.js'][1583]++;
+        _$jscoverage['monglo.js'][1584]++;
         if (old_idx_seq(seq_ends[j - 1]) < old_idx_seq(i)) {
-          _$jscoverage['monglo.js'][1584]++;
+          _$jscoverage['monglo.js'][1585]++;
           break;
         }
-        _$jscoverage['monglo.js'][1585]++;
+        _$jscoverage['monglo.js'][1586]++;
         j--;
 }
-      _$jscoverage['monglo.js'][1588]++;
-      ptrs[i] = (j === 0? -1: seq_ends[j - 1]);
       _$jscoverage['monglo.js'][1589]++;
-      seq_ends[j] = i;
+      ptrs[i] = (j === 0? -1: seq_ends[j - 1]);
       _$jscoverage['monglo.js'][1590]++;
+      seq_ends[j] = i;
+      _$jscoverage['monglo.js'][1591]++;
       if (j + 1 > max_seq_len) {
-        _$jscoverage['monglo.js'][1591]++;
+        _$jscoverage['monglo.js'][1592]++;
         max_seq_len = j + 1;
       }
     }
 }
-  _$jscoverage['monglo.js'][1596]++;
-  var idx = (max_seq_len === 0? -1: seq_ends[max_seq_len - 1]);
   _$jscoverage['monglo.js'][1597]++;
+  var idx = (max_seq_len === 0? -1: seq_ends[max_seq_len - 1]);
+  _$jscoverage['monglo.js'][1598]++;
   while (idx >= 0) {
-    _$jscoverage['monglo.js'][1598]++;
-    unmoved_set[idx] = true;
     _$jscoverage['monglo.js'][1599]++;
+    unmoved_set[idx] = true;
+    _$jscoverage['monglo.js'][1600]++;
     idx = ptrs[idx];
 }
-  _$jscoverage['monglo.js'][1604]++;
-  var old_idx = 0;
   _$jscoverage['monglo.js'][1605]++;
-  var new_idx = 0;
+  var old_idx = 0;
   _$jscoverage['monglo.js'][1606]++;
-  var bump_list = [];
+  var new_idx = 0;
   _$jscoverage['monglo.js'][1607]++;
-  var bump_list_old_idx = [];
+  var bump_list = [];
   _$jscoverage['monglo.js'][1608]++;
+  var bump_list_old_idx = [];
+  _$jscoverage['monglo.js'][1609]++;
   var taken_list = [];
-  _$jscoverage['monglo.js'][1610]++;
+  _$jscoverage['monglo.js'][1611]++;
   var scan_to = (function (old_j) {
-  _$jscoverage['monglo.js'][1612]++;
+  _$jscoverage['monglo.js'][1613]++;
   while (old_idx < old_j) {
-    _$jscoverage['monglo.js'][1613]++;
-    var old_doc = old_results[old_idx];
     _$jscoverage['monglo.js'][1614]++;
-    var is_in_new = new_presence_of_id[old_doc._id];
+    var old_doc = old_results[old_idx];
     _$jscoverage['monglo.js'][1615]++;
+    var is_in_new = new_presence_of_id[old_doc._id];
+    _$jscoverage['monglo.js'][1616]++;
     if (! is_in_new) {
-      _$jscoverage['monglo.js'][1616]++;
+      _$jscoverage['monglo.js'][1617]++;
       observer.removed && observer.removed(old_doc, new_idx + bump_list.length);
     }
     else {
-      _$jscoverage['monglo.js'][1618]++;
+      _$jscoverage['monglo.js'][1619]++;
       if (taken_list.length >= 1 && taken_list[0] === old_idx) {
-        _$jscoverage['monglo.js'][1620]++;
+        _$jscoverage['monglo.js'][1621]++;
         taken_list.shift();
       }
       else {
-        _$jscoverage['monglo.js'][1623]++;
-        bump_list.push(new_idx);
         _$jscoverage['monglo.js'][1624]++;
+        bump_list.push(new_idx);
+        _$jscoverage['monglo.js'][1625]++;
         bump_list_old_idx.push(old_idx);
       }
     }
-    _$jscoverage['monglo.js'][1627]++;
+    _$jscoverage['monglo.js'][1628]++;
     old_idx++;
 }
 });
-  _$jscoverage['monglo.js'][1632]++;
+  _$jscoverage['monglo.js'][1633]++;
   while (new_idx <= new_results.length) {
-    _$jscoverage['monglo.js'][1633]++;
+    _$jscoverage['monglo.js'][1634]++;
     if (new_idx < new_results.length) {
-      _$jscoverage['monglo.js'][1634]++;
-      var new_doc = new_results[new_idx];
       _$jscoverage['monglo.js'][1635]++;
-      var old_doc_idx = old_index_of_id[new_doc._id];
+      var new_doc = new_results[new_idx];
       _$jscoverage['monglo.js'][1636]++;
+      var old_doc_idx = old_index_of_id[new_doc._id];
+      _$jscoverage['monglo.js'][1637]++;
       if (old_doc_idx === undefined) {
-        _$jscoverage['monglo.js'][1638]++;
+        _$jscoverage['monglo.js'][1639]++;
         observer.added && observer.added(mdc(new_doc), new_idx + bump_list.length);
       }
       else {
-        _$jscoverage['monglo.js'][1640]++;
+        _$jscoverage['monglo.js'][1641]++;
         var old_doc = old_results[old_doc_idx];
-        _$jscoverage['monglo.js'][1642]++;
-        var is_unmoved = unmoved_set[new_idx];
         _$jscoverage['monglo.js'][1643]++;
+        var is_unmoved = unmoved_set[new_idx];
+        _$jscoverage['monglo.js'][1644]++;
         if (is_unmoved) {
-          _$jscoverage['monglo.js'][1644]++;
+          _$jscoverage['monglo.js'][1645]++;
           if (old_doc_idx < old_idx) {
-            _$jscoverage['monglo.js'][1645]++;
+            _$jscoverage['monglo.js'][1646]++;
             utils.debug("Assertion failed while diffing: nonmonotonic lcs data");
           }
-          _$jscoverage['monglo.js'][1647]++;
-          scan_to(old_doc_idx);
           _$jscoverage['monglo.js'][1648]++;
+          scan_to(old_doc_idx);
+          _$jscoverage['monglo.js'][1649]++;
           if (! _.isEqual(old_doc, new_doc)) {
-            _$jscoverage['monglo.js'][1649]++;
+            _$jscoverage['monglo.js'][1650]++;
             observer.changed && observer.changed(mdc(new_doc), new_idx + bump_list.length, old_doc);
           }
-          _$jscoverage['monglo.js'][1652]++;
+          _$jscoverage['monglo.js'][1653]++;
           old_idx++;
         }
         else {
-          _$jscoverage['monglo.js'][1655]++;
-          var to_idx = new_idx + bump_list.length;
           _$jscoverage['monglo.js'][1656]++;
-          var from_idx;
+          var to_idx = new_idx + bump_list.length;
           _$jscoverage['monglo.js'][1657]++;
+          var from_idx;
+          _$jscoverage['monglo.js'][1658]++;
           if (old_doc_idx >= old_idx) {
-            _$jscoverage['monglo.js'][1659]++;
+            _$jscoverage['monglo.js'][1660]++;
             from_idx = to_idx + old_doc_idx - old_idx;
-            _$jscoverage['monglo.js'][1662]++;
-            var num_taken_before = _.sortedIndex(taken_list, old_doc_idx);
             _$jscoverage['monglo.js'][1663]++;
-            from_idx -= num_taken_before;
+            var num_taken_before = _.sortedIndex(taken_list, old_doc_idx);
             _$jscoverage['monglo.js'][1664]++;
+            from_idx -= num_taken_before;
+            _$jscoverage['monglo.js'][1665]++;
             taken_list.splice(num_taken_before, 0, old_doc_idx);
           }
           else {
-            _$jscoverage['monglo.js'][1668]++;
-            var b = _.indexOf(bump_list_old_idx, old_doc_idx, true);
             _$jscoverage['monglo.js'][1669]++;
+            var b = _.indexOf(bump_list_old_idx, old_doc_idx, true);
+            _$jscoverage['monglo.js'][1670]++;
             if (b < 0) {
-              _$jscoverage['monglo.js'][1670]++;
+              _$jscoverage['monglo.js'][1671]++;
               utils.debug("Assertion failed while diffing: no bumped item");
             }
-            _$jscoverage['monglo.js'][1671]++;
-            from_idx = bump_list[b] + b;
             _$jscoverage['monglo.js'][1672]++;
-            to_idx--;
+            from_idx = bump_list[b] + b;
             _$jscoverage['monglo.js'][1673]++;
-            bump_list.splice(b, 1);
+            to_idx--;
             _$jscoverage['monglo.js'][1674]++;
+            bump_list.splice(b, 1);
+            _$jscoverage['monglo.js'][1675]++;
             bump_list_old_idx.splice(b, 1);
           }
-          _$jscoverage['monglo.js'][1676]++;
+          _$jscoverage['monglo.js'][1677]++;
           if (from_idx != to_idx) {
-            _$jscoverage['monglo.js'][1677]++;
+            _$jscoverage['monglo.js'][1678]++;
             observer.moved && observer.moved(mdc(old_doc), from_idx, to_idx);
           }
-          _$jscoverage['monglo.js'][1678]++;
+          _$jscoverage['monglo.js'][1679]++;
           if (! _.isEqual(old_doc, new_doc)) {
-            _$jscoverage['monglo.js'][1679]++;
+            _$jscoverage['monglo.js'][1680]++;
             observer.changed && observer.changed(mdc(new_doc), to_idx, old_doc);
           }
         }
       }
     }
     else {
-      _$jscoverage['monglo.js'][1684]++;
+      _$jscoverage['monglo.js'][1685]++;
       scan_to(old_results.length);
     }
-    _$jscoverage['monglo.js'][1686]++;
+    _$jscoverage['monglo.js'][1687]++;
     new_idx++;
 }
-  _$jscoverage['monglo.js'][1688]++;
+  _$jscoverage['monglo.js'][1689]++;
   if (bump_list.length > 0) {
-    _$jscoverage['monglo.js'][1689]++;
-    utils.debug(old_results);
     _$jscoverage['monglo.js'][1690]++;
-    utils.debug(new_results);
+    utils.debug(old_results);
     _$jscoverage['monglo.js'][1691]++;
+    utils.debug(new_results);
+    _$jscoverage['monglo.js'][1692]++;
     utils.debug("Assertion failed while diffing: leftover bump_list " + bump_list);
   }
 });
-_$jscoverage['monglo.js'][1695]++;
-var isArray = Array.isArray;
 _$jscoverage['monglo.js'][1696]++;
+var isArray = Array.isArray;
+_$jscoverage['monglo.js'][1697]++;
 var domain;
-_$jscoverage['monglo.js'][1698]++;
+_$jscoverage['monglo.js'][1699]++;
 function EventEmitter() {
 }
-_$jscoverage['monglo.js'][1700]++;
+_$jscoverage['monglo.js'][1701]++;
 exports.EventEmitter = EventEmitter;
-_$jscoverage['monglo.js'][1708]++;
-var defaultMaxListeners = 10;
 _$jscoverage['monglo.js'][1709]++;
+var defaultMaxListeners = 10;
+_$jscoverage['monglo.js'][1710]++;
 EventEmitter.prototype.setMaxListeners = (function (n) {
-  _$jscoverage['monglo.js'][1710]++;
+  _$jscoverage['monglo.js'][1711]++;
   if (! this._events) {
-    _$jscoverage['monglo.js'][1710]++;
+    _$jscoverage['monglo.js'][1711]++;
     this._events = {};
   }
-  _$jscoverage['monglo.js'][1711]++;
+  _$jscoverage['monglo.js'][1712]++;
   this._maxListeners = n;
 });
-_$jscoverage['monglo.js'][1715]++;
+_$jscoverage['monglo.js'][1716]++;
 EventEmitter.prototype.emit = (function () {
-  _$jscoverage['monglo.js'][1716]++;
+  _$jscoverage['monglo.js'][1717]++;
   var type = arguments[0];
-  _$jscoverage['monglo.js'][1718]++;
+  _$jscoverage['monglo.js'][1719]++;
   if (type === "error") {
-    _$jscoverage['monglo.js'][1719]++;
+    _$jscoverage['monglo.js'][1720]++;
     if (! this._events || ! this._events.error || (isArray(this._events.error) && ! this._events.error.length)) {
-      _$jscoverage['monglo.js'][1723]++;
+      _$jscoverage['monglo.js'][1724]++;
       if (arguments[1] instanceof Error) {
-        _$jscoverage['monglo.js'][1724]++;
+        _$jscoverage['monglo.js'][1725]++;
         throw arguments[1];
       }
       else {
-        _$jscoverage['monglo.js'][1726]++;
+        _$jscoverage['monglo.js'][1727]++;
         throw new Error("Uncaught, unspecified 'error' event.");
       }
-      _$jscoverage['monglo.js'][1728]++;
+      _$jscoverage['monglo.js'][1729]++;
       return false;
     }
   }
-  _$jscoverage['monglo.js'][1732]++;
-  if (! this._events) {
-    _$jscoverage['monglo.js'][1732]++;
-    return false;
-  }
   _$jscoverage['monglo.js'][1733]++;
-  var handler = this._events[type];
-  _$jscoverage['monglo.js'][1734]++;
-  if (! handler) {
-    _$jscoverage['monglo.js'][1734]++;
+  if (! this._events) {
+    _$jscoverage['monglo.js'][1733]++;
     return false;
   }
-  _$jscoverage['monglo.js'][1736]++;
+  _$jscoverage['monglo.js'][1734]++;
+  var handler = this._events[type];
+  _$jscoverage['monglo.js'][1735]++;
+  if (! handler) {
+    _$jscoverage['monglo.js'][1735]++;
+    return false;
+  }
+  _$jscoverage['monglo.js'][1737]++;
   if (typeof handler == "function") {
-    _$jscoverage['monglo.js'][1737]++;
+    _$jscoverage['monglo.js'][1738]++;
     switch (arguments.length) {
     case 1:
-      _$jscoverage['monglo.js'][1740]++;
-      handler.call(this);
       _$jscoverage['monglo.js'][1741]++;
+      handler.call(this);
+      _$jscoverage['monglo.js'][1742]++;
       break;
     case 2:
-      _$jscoverage['monglo.js'][1743]++;
-      handler.call(this, arguments[1]);
       _$jscoverage['monglo.js'][1744]++;
+      handler.call(this, arguments[1]);
+      _$jscoverage['monglo.js'][1745]++;
       break;
     case 3:
-      _$jscoverage['monglo.js'][1746]++;
-      handler.call(this, arguments[1], arguments[2]);
       _$jscoverage['monglo.js'][1747]++;
+      handler.call(this, arguments[1], arguments[2]);
+      _$jscoverage['monglo.js'][1748]++;
       break;
     default:
-      _$jscoverage['monglo.js'][1750]++;
-      var l = arguments.length;
       _$jscoverage['monglo.js'][1751]++;
-      var args = new Array(l - 1);
+      var l = arguments.length;
       _$jscoverage['monglo.js'][1752]++;
+      var args = new Array(l - 1);
+      _$jscoverage['monglo.js'][1753]++;
       for (var i = 1; i < l; i++) {
-        _$jscoverage['monglo.js'][1752]++;
+        _$jscoverage['monglo.js'][1753]++;
         args[i - 1] = arguments[i];
 }
-      _$jscoverage['monglo.js'][1753]++;
+      _$jscoverage['monglo.js'][1754]++;
       handler.apply(this, args);
     }
-    _$jscoverage['monglo.js'][1755]++;
+    _$jscoverage['monglo.js'][1756]++;
     return true;
   }
   else {
-    _$jscoverage['monglo.js'][1757]++;
+    _$jscoverage['monglo.js'][1758]++;
     if (isArray(handler)) {
-      _$jscoverage['monglo.js'][1758]++;
-      var l = arguments.length;
       _$jscoverage['monglo.js'][1759]++;
-      var args = new Array(l - 1);
+      var l = arguments.length;
       _$jscoverage['monglo.js'][1760]++;
+      var args = new Array(l - 1);
+      _$jscoverage['monglo.js'][1761]++;
       for (var i = 1; i < l; i++) {
-        _$jscoverage['monglo.js'][1760]++;
+        _$jscoverage['monglo.js'][1761]++;
         args[i - 1] = arguments[i];
 }
-      _$jscoverage['monglo.js'][1762]++;
-      var listeners = handler.slice();
       _$jscoverage['monglo.js'][1763]++;
+      var listeners = handler.slice();
+      _$jscoverage['monglo.js'][1764]++;
       for (var i = 0, l = listeners.length; i < l; i++) {
-        _$jscoverage['monglo.js'][1764]++;
+        _$jscoverage['monglo.js'][1765]++;
         listeners[i].apply(this, args);
 }
-      _$jscoverage['monglo.js'][1766]++;
+      _$jscoverage['monglo.js'][1767]++;
       return true;
     }
     else {
-      _$jscoverage['monglo.js'][1769]++;
+      _$jscoverage['monglo.js'][1770]++;
       return false;
     }
   }
 });
-_$jscoverage['monglo.js'][1773]++;
+_$jscoverage['monglo.js'][1774]++;
 EventEmitter.prototype.addListener = (function (type, listener) {
-  _$jscoverage['monglo.js'][1774]++;
+  _$jscoverage['monglo.js'][1775]++;
   if ("function" !== typeof listener) {
-    _$jscoverage['monglo.js'][1775]++;
+    _$jscoverage['monglo.js'][1776]++;
     throw new Error("addListener only takes instances of Function");
   }
-  _$jscoverage['monglo.js'][1778]++;
+  _$jscoverage['monglo.js'][1779]++;
   if (! this._events) {
-    _$jscoverage['monglo.js'][1778]++;
+    _$jscoverage['monglo.js'][1779]++;
     this._events = {};
   }
-  _$jscoverage['monglo.js'][1782]++;
+  _$jscoverage['monglo.js'][1783]++;
   this.emit("newListener", type, typeof listener.listener === "function"? listener.listener: listener);
-  _$jscoverage['monglo.js'][1785]++;
+  _$jscoverage['monglo.js'][1786]++;
   if (! this._events[type]) {
-    _$jscoverage['monglo.js'][1787]++;
+    _$jscoverage['monglo.js'][1788]++;
     this._events[type] = listener;
   }
   else {
-    _$jscoverage['monglo.js'][1788]++;
+    _$jscoverage['monglo.js'][1789]++;
     if (isArray(this._events[type])) {
-      _$jscoverage['monglo.js'][1791]++;
+      _$jscoverage['monglo.js'][1792]++;
       this._events[type].push(listener);
     }
     else {
-      _$jscoverage['monglo.js'][1795]++;
+      _$jscoverage['monglo.js'][1796]++;
       this._events[type] = [this._events[type], listener];
     }
   }
-  _$jscoverage['monglo.js'][1800]++;
+  _$jscoverage['monglo.js'][1801]++;
   if (isArray(this._events[type]) && ! this._events[type].warned) {
-    _$jscoverage['monglo.js'][1801]++;
-    var m;
     _$jscoverage['monglo.js'][1802]++;
+    var m;
+    _$jscoverage['monglo.js'][1803]++;
     if (this._maxListeners !== undefined) {
-      _$jscoverage['monglo.js'][1803]++;
+      _$jscoverage['monglo.js'][1804]++;
       m = this._maxListeners;
     }
     else {
-      _$jscoverage['monglo.js'][1805]++;
+      _$jscoverage['monglo.js'][1806]++;
       m = defaultMaxListeners;
     }
-    _$jscoverage['monglo.js'][1808]++;
+    _$jscoverage['monglo.js'][1809]++;
     if (m && m > 0 && this._events[type].length > m) {
-      _$jscoverage['monglo.js'][1809]++;
-      this._events[type].warned = true;
       _$jscoverage['monglo.js'][1810]++;
+      this._events[type].warned = true;
+      _$jscoverage['monglo.js'][1811]++;
       console.error("(node) warning: possible EventEmitter memory leak detected. %d listeners added. Use emitter.setMaxListeners() to increase limit.", this._events[type].length);
-      _$jscoverage['monglo.js'][1814]++;
+      _$jscoverage['monglo.js'][1815]++;
       console.trace();
     }
   }
-  _$jscoverage['monglo.js'][1818]++;
+  _$jscoverage['monglo.js'][1819]++;
   return this;
 });
-_$jscoverage['monglo.js'][1821]++;
+_$jscoverage['monglo.js'][1822]++;
 EventEmitter.prototype.on = EventEmitter.prototype.addListener;
-_$jscoverage['monglo.js'][1823]++;
+_$jscoverage['monglo.js'][1824]++;
 EventEmitter.prototype.once = (function (type, listener) {
-  _$jscoverage['monglo.js'][1824]++;
+  _$jscoverage['monglo.js'][1825]++;
   if ("function" !== typeof listener) {
-    _$jscoverage['monglo.js'][1825]++;
+    _$jscoverage['monglo.js'][1826]++;
     throw new Error(".once only takes instances of Function");
   }
-  _$jscoverage['monglo.js'][1828]++;
-  var self = this;
   _$jscoverage['monglo.js'][1829]++;
+  var self = this;
+  _$jscoverage['monglo.js'][1830]++;
   function g() {
-    _$jscoverage['monglo.js'][1830]++;
-    self.removeListener(type, g);
     _$jscoverage['monglo.js'][1831]++;
+    self.removeListener(type, g);
+    _$jscoverage['monglo.js'][1832]++;
     listener.apply(this, arguments);
 }
-  _$jscoverage['monglo.js'][1832]++;
+  _$jscoverage['monglo.js'][1833]++;
   ;
-  _$jscoverage['monglo.js'][1834]++;
-  g.listener = listener;
   _$jscoverage['monglo.js'][1835]++;
+  g.listener = listener;
+  _$jscoverage['monglo.js'][1836]++;
   self.on(type, g);
-  _$jscoverage['monglo.js'][1837]++;
+  _$jscoverage['monglo.js'][1838]++;
   return this;
 });
-_$jscoverage['monglo.js'][1840]++;
+_$jscoverage['monglo.js'][1841]++;
 EventEmitter.prototype.removeListener = (function (type, listener) {
-  _$jscoverage['monglo.js'][1841]++;
+  _$jscoverage['monglo.js'][1842]++;
   if ("function" !== typeof listener) {
-    _$jscoverage['monglo.js'][1842]++;
+    _$jscoverage['monglo.js'][1843]++;
     throw new Error("removeListener only takes instances of Function");
   }
-  _$jscoverage['monglo.js'][1846]++;
+  _$jscoverage['monglo.js'][1847]++;
   if (! this._events || ! this._events[type]) {
-    _$jscoverage['monglo.js'][1846]++;
+    _$jscoverage['monglo.js'][1847]++;
     return this;
   }
-  _$jscoverage['monglo.js'][1848]++;
+  _$jscoverage['monglo.js'][1849]++;
   var list = this._events[type];
-  _$jscoverage['monglo.js'][1850]++;
+  _$jscoverage['monglo.js'][1851]++;
   if (isArray(list)) {
-    _$jscoverage['monglo.js'][1851]++;
-    var position = -1;
     _$jscoverage['monglo.js'][1852]++;
+    var position = -1;
+    _$jscoverage['monglo.js'][1853]++;
     for (var i = 0, length = list.length; i < length; i++) {
-      _$jscoverage['monglo.js'][1853]++;
+      _$jscoverage['monglo.js'][1854]++;
       if (list[i] === listener || (list[i].listener && list[i].listener === listener)) {
-        _$jscoverage['monglo.js'][1856]++;
-        position = i;
         _$jscoverage['monglo.js'][1857]++;
+        position = i;
+        _$jscoverage['monglo.js'][1858]++;
         break;
       }
 }
-    _$jscoverage['monglo.js'][1861]++;
+    _$jscoverage['monglo.js'][1862]++;
     if (position < 0) {
-      _$jscoverage['monglo.js'][1861]++;
+      _$jscoverage['monglo.js'][1862]++;
       return this;
     }
-    _$jscoverage['monglo.js'][1862]++;
+    _$jscoverage['monglo.js'][1863]++;
     list.splice(position, 1);
   }
   else {
-    _$jscoverage['monglo.js'][1863]++;
+    _$jscoverage['monglo.js'][1864]++;
     if (list === listener || (list.listener && list.listener === listener)) {
-      _$jscoverage['monglo.js'][1866]++;
+      _$jscoverage['monglo.js'][1867]++;
       delete this._events[type];
     }
   }
-  _$jscoverage['monglo.js'][1869]++;
+  _$jscoverage['monglo.js'][1870]++;
   return this;
 });
-_$jscoverage['monglo.js'][1872]++;
+_$jscoverage['monglo.js'][1873]++;
 EventEmitter.prototype.removeAllListeners = (function (type) {
-  _$jscoverage['monglo.js'][1873]++;
+  _$jscoverage['monglo.js'][1874]++;
   if (arguments.length === 0) {
-    _$jscoverage['monglo.js'][1874]++;
-    this._events = {};
     _$jscoverage['monglo.js'][1875]++;
+    this._events = {};
+    _$jscoverage['monglo.js'][1876]++;
     return this;
   }
-  _$jscoverage['monglo.js'][1879]++;
+  _$jscoverage['monglo.js'][1880]++;
   if (type && this._events && this._events[type]) {
-    _$jscoverage['monglo.js'][1879]++;
+    _$jscoverage['monglo.js'][1880]++;
     this._events[type] = null;
   }
-  _$jscoverage['monglo.js'][1880]++;
+  _$jscoverage['monglo.js'][1881]++;
   return this;
 });
-_$jscoverage['monglo.js'][1883]++;
+_$jscoverage['monglo.js'][1884]++;
 EventEmitter.prototype.listeners = (function (type) {
-  _$jscoverage['monglo.js'][1884]++;
+  _$jscoverage['monglo.js'][1885]++;
   if (! this._events) {
-    _$jscoverage['monglo.js'][1884]++;
+    _$jscoverage['monglo.js'][1885]++;
     this._events = {};
   }
-  _$jscoverage['monglo.js'][1885]++;
+  _$jscoverage['monglo.js'][1886]++;
   if (! this._events[type]) {
-    _$jscoverage['monglo.js'][1885]++;
+    _$jscoverage['monglo.js'][1886]++;
     this._events[type] = [];
   }
-  _$jscoverage['monglo.js'][1886]++;
+  _$jscoverage['monglo.js'][1887]++;
   if (! isArray(this._events[type])) {
-    _$jscoverage['monglo.js'][1887]++;
+    _$jscoverage['monglo.js'][1888]++;
     this._events[type] = [this._events[type]];
   }
-  _$jscoverage['monglo.js'][1889]++;
+  _$jscoverage['monglo.js'][1890]++;
   return this._events[type];
 });
-_$jscoverage['monglo.js'][1897]++;
+_$jscoverage['monglo.js'][1898]++;
 Collection._modify = (function (doc, mod) {
-  _$jscoverage['monglo.js'][1898]++;
-  var is_modifier = false;
   _$jscoverage['monglo.js'][1899]++;
+  var is_modifier = false;
+  _$jscoverage['monglo.js'][1900]++;
   for (var k in mod) {
-    _$jscoverage['monglo.js'][1903]++;
-    is_modifier = k.substr(0, 1) === "$";
     _$jscoverage['monglo.js'][1904]++;
+    is_modifier = k.substr(0, 1) === "$";
+    _$jscoverage['monglo.js'][1905]++;
     break;
 }
-  _$jscoverage['monglo.js'][1907]++;
+  _$jscoverage['monglo.js'][1908]++;
   var new_doc;
-  _$jscoverage['monglo.js'][1909]++;
+  _$jscoverage['monglo.js'][1910]++;
   if (! is_modifier) {
-    _$jscoverage['monglo.js'][1910]++;
+    _$jscoverage['monglo.js'][1911]++;
     if (mod._id && doc._id !== mod._id) {
-      _$jscoverage['monglo.js'][1911]++;
+      _$jscoverage['monglo.js'][1912]++;
       Monglo._debug("_id ignored : Cannot change the _id of a document");
     }
-    _$jscoverage['monglo.js'][1914]++;
+    _$jscoverage['monglo.js'][1915]++;
     for (var k in mod) {
-      _$jscoverage['monglo.js'][1915]++;
+      _$jscoverage['monglo.js'][1916]++;
       if (k.substr(0, 1) === "$") {
-        _$jscoverage['monglo.js'][1916]++;
+        _$jscoverage['monglo.js'][1917]++;
         throw Error("Field name may not start with '$'");
       }
-      _$jscoverage['monglo.js'][1917]++;
+      _$jscoverage['monglo.js'][1918]++;
       if (/\./.test(k)) {
-        _$jscoverage['monglo.js'][1918]++;
+        _$jscoverage['monglo.js'][1919]++;
         throw Error("Field name may not contain '.'");
       }
 }
-    _$jscoverage['monglo.js'][1920]++;
+    _$jscoverage['monglo.js'][1921]++;
     new_doc = mod;
   }
   else {
-    _$jscoverage['monglo.js'][1923]++;
+    _$jscoverage['monglo.js'][1924]++;
     var new_doc = Collection._deepcopy(doc);
-    _$jscoverage['monglo.js'][1925]++;
+    _$jscoverage['monglo.js'][1926]++;
     for (var op in mod) {
-      _$jscoverage['monglo.js'][1926]++;
-      var mod_func = Collection._modifiers[op];
       _$jscoverage['monglo.js'][1927]++;
+      var mod_func = Collection._modifiers[op];
+      _$jscoverage['monglo.js'][1928]++;
       if (! mod_func) {
-        _$jscoverage['monglo.js'][1928]++;
+        _$jscoverage['monglo.js'][1929]++;
         throw Error("Invalid modifier specified " + op);
       }
-      _$jscoverage['monglo.js'][1929]++;
+      _$jscoverage['monglo.js'][1930]++;
       for (var keypath in mod[op]) {
-        _$jscoverage['monglo.js'][1932]++;
+        _$jscoverage['monglo.js'][1933]++;
         if (keypath.length && keypath[keypath.length - 1] === ".") {
-          _$jscoverage['monglo.js'][1933]++;
+          _$jscoverage['monglo.js'][1934]++;
           throw Error("Invalid mod field name, may not end in a period");
         }
-        _$jscoverage['monglo.js'][1935]++;
-        var arg = mod[op][keypath];
         _$jscoverage['monglo.js'][1936]++;
-        var keyparts = keypath.split(".");
+        var arg = mod[op][keypath];
         _$jscoverage['monglo.js'][1937]++;
-        var no_create = ! ! Collection._noCreateModifiers[op];
+        var keyparts = keypath.split(".");
         _$jscoverage['monglo.js'][1938]++;
-        var forbid_array = (op === "$rename");
+        var no_create = ! ! Collection._noCreateModifiers[op];
         _$jscoverage['monglo.js'][1939]++;
+        var forbid_array = (op === "$rename");
+        _$jscoverage['monglo.js'][1940]++;
         var target = Collection._findModTarget(new_doc, keyparts, no_create, forbid_array);
-        _$jscoverage['monglo.js'][1941]++;
-        var field = keyparts.pop();
         _$jscoverage['monglo.js'][1942]++;
+        var field = keyparts.pop();
+        _$jscoverage['monglo.js'][1943]++;
         mod_func(target, field, arg, keypath, new_doc);
 }
 }
   }
-  _$jscoverage['monglo.js'][1948]++;
+  _$jscoverage['monglo.js'][1949]++;
   for (var k in doc) {
-    _$jscoverage['monglo.js'][1949]++;
+    _$jscoverage['monglo.js'][1950]++;
     if (k !== "_id") {
-      _$jscoverage['monglo.js'][1950]++;
+      _$jscoverage['monglo.js'][1951]++;
       delete doc[k];
     }
 }
-  _$jscoverage['monglo.js'][1952]++;
+  _$jscoverage['monglo.js'][1953]++;
   for (var k in new_doc) {
-    _$jscoverage['monglo.js'][1953]++;
+    _$jscoverage['monglo.js'][1954]++;
     doc[k] = new_doc[k];
 }
 });
-_$jscoverage['monglo.js'][1967]++;
+_$jscoverage['monglo.js'][1968]++;
 Collection._findModTarget = (function (doc, keyparts, no_create, forbid_array) {
-  _$jscoverage['monglo.js'][1969]++;
+  _$jscoverage['monglo.js'][1970]++;
   for (var i = 0; i < keyparts.length; i++) {
-    _$jscoverage['monglo.js'][1970]++;
-    var last = (i === keyparts.length - 1);
     _$jscoverage['monglo.js'][1971]++;
-    var keypart = keyparts[i];
+    var last = (i === keyparts.length - 1);
     _$jscoverage['monglo.js'][1972]++;
-    var numeric = /^[0-9]+$/.test(keypart);
+    var keypart = keyparts[i];
     _$jscoverage['monglo.js'][1973]++;
+    var numeric = /^[0-9]+$/.test(keypart);
+    _$jscoverage['monglo.js'][1974]++;
     if (no_create && (! (typeof doc === "object") || ! (keypart in doc))) {
-      _$jscoverage['monglo.js'][1974]++;
+      _$jscoverage['monglo.js'][1975]++;
       return undefined;
     }
-    _$jscoverage['monglo.js'][1975]++;
+    _$jscoverage['monglo.js'][1976]++;
     if (doc instanceof Array) {
-      _$jscoverage['monglo.js'][1976]++;
+      _$jscoverage['monglo.js'][1977]++;
       if (forbid_array) {
-        _$jscoverage['monglo.js'][1977]++;
+        _$jscoverage['monglo.js'][1978]++;
         return null;
       }
-      _$jscoverage['monglo.js'][1978]++;
+      _$jscoverage['monglo.js'][1979]++;
       if (! numeric) {
-        _$jscoverage['monglo.js'][1979]++;
+        _$jscoverage['monglo.js'][1980]++;
         throw Error("can't append to array using string field name [" + keypart + "]");
       }
-      _$jscoverage['monglo.js'][1981]++;
-      keypart = parseInt(keypart);
       _$jscoverage['monglo.js'][1982]++;
+      keypart = parseInt(keypart);
+      _$jscoverage['monglo.js'][1983]++;
       if (last) {
-        _$jscoverage['monglo.js'][1984]++;
+        _$jscoverage['monglo.js'][1985]++;
         keyparts[i] = keypart;
       }
-      _$jscoverage['monglo.js'][1985]++;
+      _$jscoverage['monglo.js'][1986]++;
       while (doc.length < keypart) {
-        _$jscoverage['monglo.js'][1986]++;
+        _$jscoverage['monglo.js'][1987]++;
         doc.push(null);
 }
-      _$jscoverage['monglo.js'][1987]++;
+      _$jscoverage['monglo.js'][1988]++;
       if (! last) {
-        _$jscoverage['monglo.js'][1988]++;
+        _$jscoverage['monglo.js'][1989]++;
         if (doc.length === keypart) {
-          _$jscoverage['monglo.js'][1989]++;
+          _$jscoverage['monglo.js'][1990]++;
           doc.push({});
         }
         else {
-          _$jscoverage['monglo.js'][1990]++;
+          _$jscoverage['monglo.js'][1991]++;
           if (typeof doc[keypart] !== "object") {
-            _$jscoverage['monglo.js'][1991]++;
+            _$jscoverage['monglo.js'][1992]++;
             throw Error("can't modify field '" + keyparts[i + 1] + "' of list value " + JSON.stringify(doc[keypart]));
           }
         }
       }
     }
     else {
-      _$jscoverage['monglo.js'][1996]++;
+      _$jscoverage['monglo.js'][1997]++;
       if (! last && ! (keypart in doc)) {
-        _$jscoverage['monglo.js'][1997]++;
+        _$jscoverage['monglo.js'][1998]++;
         doc[keypart] = {};
       }
     }
-    _$jscoverage['monglo.js'][2000]++;
+    _$jscoverage['monglo.js'][2001]++;
     if (last) {
-      _$jscoverage['monglo.js'][2001]++;
+      _$jscoverage['monglo.js'][2002]++;
       return doc;
     }
-    _$jscoverage['monglo.js'][2002]++;
+    _$jscoverage['monglo.js'][2003]++;
     doc = doc[keypart];
 }
 });
-_$jscoverage['monglo.js'][2008]++;
+_$jscoverage['monglo.js'][2009]++;
 Collection._noCreateModifiers = {$unset: true, $pop: true, $rename: true, $pull: true, $pullAll: true};
-_$jscoverage['monglo.js'][2016]++;
+_$jscoverage['monglo.js'][2017]++;
 Collection._modifiers = {$inc: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2018]++;
+  _$jscoverage['monglo.js'][2019]++;
   if (typeof arg !== "number") {
-    _$jscoverage['monglo.js'][2019]++;
+    _$jscoverage['monglo.js'][2020]++;
     throw Error("Modifier $inc allowed for numbers only");
   }
-  _$jscoverage['monglo.js'][2020]++;
+  _$jscoverage['monglo.js'][2021]++;
   if (field in target) {
-    _$jscoverage['monglo.js'][2021]++;
+    _$jscoverage['monglo.js'][2022]++;
     if (typeof target[field] !== "number") {
-      _$jscoverage['monglo.js'][2022]++;
+      _$jscoverage['monglo.js'][2023]++;
       throw Error("Cannot apply $inc modifier to non-number");
     }
-    _$jscoverage['monglo.js'][2023]++;
+    _$jscoverage['monglo.js'][2024]++;
     target[field] += arg;
   }
   else {
-    _$jscoverage['monglo.js'][2025]++;
+    _$jscoverage['monglo.js'][2026]++;
     target[field] = arg;
   }
 }), $set: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2029]++;
+  _$jscoverage['monglo.js'][2030]++;
   target[field] = Collection._deepcopy(arg);
 }), $unset: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2032]++;
+  _$jscoverage['monglo.js'][2033]++;
   if (target !== undefined) {
-    _$jscoverage['monglo.js'][2033]++;
+    _$jscoverage['monglo.js'][2034]++;
     if (target instanceof Array) {
-      _$jscoverage['monglo.js'][2034]++;
+      _$jscoverage['monglo.js'][2035]++;
       if (field in target) {
-        _$jscoverage['monglo.js'][2035]++;
+        _$jscoverage['monglo.js'][2036]++;
         target[field] = null;
       }
     }
     else {
-      _$jscoverage['monglo.js'][2037]++;
+      _$jscoverage['monglo.js'][2038]++;
       delete target[field];
     }
   }
 }), $push: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2041]++;
-  var x = target[field];
   _$jscoverage['monglo.js'][2042]++;
+  var x = target[field];
+  _$jscoverage['monglo.js'][2043]++;
   if (x === undefined) {
-    _$jscoverage['monglo.js'][2043]++;
+    _$jscoverage['monglo.js'][2044]++;
     target[field] = [arg];
   }
   else {
-    _$jscoverage['monglo.js'][2044]++;
+    _$jscoverage['monglo.js'][2045]++;
     if (! (x instanceof Array)) {
-      _$jscoverage['monglo.js'][2045]++;
+      _$jscoverage['monglo.js'][2046]++;
       throw Error("Cannot apply $push modifier to non-array");
     }
     else {
-      _$jscoverage['monglo.js'][2047]++;
+      _$jscoverage['monglo.js'][2048]++;
       x.push(Collection._deepcopy(arg));
     }
   }
 }), $pushAll: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2050]++;
+  _$jscoverage['monglo.js'][2051]++;
   if (! (typeof arg === "object" && arg instanceof Array)) {
-    _$jscoverage['monglo.js'][2051]++;
+    _$jscoverage['monglo.js'][2052]++;
     throw Error("Modifier $pushAll/pullAll allowed for arrays only");
   }
-  _$jscoverage['monglo.js'][2052]++;
-  var x = target[field];
   _$jscoverage['monglo.js'][2053]++;
+  var x = target[field];
+  _$jscoverage['monglo.js'][2054]++;
   if (x === undefined) {
-    _$jscoverage['monglo.js'][2054]++;
+    _$jscoverage['monglo.js'][2055]++;
     target[field] = arg;
   }
   else {
-    _$jscoverage['monglo.js'][2055]++;
+    _$jscoverage['monglo.js'][2056]++;
     if (! (x instanceof Array)) {
-      _$jscoverage['monglo.js'][2056]++;
+      _$jscoverage['monglo.js'][2057]++;
       throw Error("Cannot apply $pushAll modifier to non-array");
     }
     else {
-      _$jscoverage['monglo.js'][2058]++;
+      _$jscoverage['monglo.js'][2059]++;
       for (var i = 0; i < arg.length; i++) {
-        _$jscoverage['monglo.js'][2059]++;
+        _$jscoverage['monglo.js'][2060]++;
         x.push(arg[i]);
 }
     }
   }
 }), $addToSet: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2063]++;
-  var x = target[field];
   _$jscoverage['monglo.js'][2064]++;
+  var x = target[field];
+  _$jscoverage['monglo.js'][2065]++;
   if (x === undefined) {
-    _$jscoverage['monglo.js'][2065]++;
+    _$jscoverage['monglo.js'][2066]++;
     target[field] = [arg];
   }
   else {
-    _$jscoverage['monglo.js'][2066]++;
+    _$jscoverage['monglo.js'][2067]++;
     if (! (x instanceof Array)) {
-      _$jscoverage['monglo.js'][2067]++;
+      _$jscoverage['monglo.js'][2068]++;
       throw Error("Cannot apply $addToSet modifier to non-array");
     }
     else {
-      _$jscoverage['monglo.js'][2069]++;
-      var isEach = false;
       _$jscoverage['monglo.js'][2070]++;
+      var isEach = false;
+      _$jscoverage['monglo.js'][2071]++;
       if (typeof arg === "object") {
-        _$jscoverage['monglo.js'][2071]++;
+        _$jscoverage['monglo.js'][2072]++;
         for (var k in arg) {
-          _$jscoverage['monglo.js'][2072]++;
+          _$jscoverage['monglo.js'][2073]++;
           if (k === "$each") {
-            _$jscoverage['monglo.js'][2073]++;
+            _$jscoverage['monglo.js'][2074]++;
             isEach = true;
           }
-          _$jscoverage['monglo.js'][2074]++;
+          _$jscoverage['monglo.js'][2075]++;
           break;
 }
       }
-      _$jscoverage['monglo.js'][2077]++;
-      var values = isEach? arg.$each: [arg];
       _$jscoverage['monglo.js'][2078]++;
+      var values = isEach? arg.$each: [arg];
+      _$jscoverage['monglo.js'][2079]++;
       _.each(values, (function (value) {
-  _$jscoverage['monglo.js'][2079]++;
+  _$jscoverage['monglo.js'][2080]++;
   for (var i = 0; i < x.length; i++) {
-    _$jscoverage['monglo.js'][2080]++;
+    _$jscoverage['monglo.js'][2081]++;
     if (Collection._f._equal(value, x[i])) {
-      _$jscoverage['monglo.js'][2081]++;
+      _$jscoverage['monglo.js'][2082]++;
       return;
     }
 }
-  _$jscoverage['monglo.js'][2082]++;
+  _$jscoverage['monglo.js'][2083]++;
   x.push(value);
 }));
     }
   }
 }), $pop: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2087]++;
+  _$jscoverage['monglo.js'][2088]++;
   if (target === undefined) {
-    _$jscoverage['monglo.js'][2088]++;
+    _$jscoverage['monglo.js'][2089]++;
     return;
   }
-  _$jscoverage['monglo.js'][2089]++;
-  var x = target[field];
   _$jscoverage['monglo.js'][2090]++;
+  var x = target[field];
+  _$jscoverage['monglo.js'][2091]++;
   if (x === undefined) {
-    _$jscoverage['monglo.js'][2091]++;
+    _$jscoverage['monglo.js'][2092]++;
     return;
   }
   else {
-    _$jscoverage['monglo.js'][2092]++;
+    _$jscoverage['monglo.js'][2093]++;
     if (! (x instanceof Array)) {
-      _$jscoverage['monglo.js'][2093]++;
+      _$jscoverage['monglo.js'][2094]++;
       throw Error("Cannot apply $pop modifier to non-array");
     }
     else {
-      _$jscoverage['monglo.js'][2095]++;
+      _$jscoverage['monglo.js'][2096]++;
       if (typeof arg === "number" && arg < 0) {
-        _$jscoverage['monglo.js'][2096]++;
+        _$jscoverage['monglo.js'][2097]++;
         x.splice(0, 1);
       }
       else {
-        _$jscoverage['monglo.js'][2098]++;
+        _$jscoverage['monglo.js'][2099]++;
         x.pop();
       }
     }
   }
 }), $pull: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2102]++;
+  _$jscoverage['monglo.js'][2103]++;
   if (target === undefined) {
-    _$jscoverage['monglo.js'][2103]++;
+    _$jscoverage['monglo.js'][2104]++;
     return;
   }
-  _$jscoverage['monglo.js'][2104]++;
-  var x = target[field];
   _$jscoverage['monglo.js'][2105]++;
+  var x = target[field];
+  _$jscoverage['monglo.js'][2106]++;
   if (x === undefined) {
-    _$jscoverage['monglo.js'][2106]++;
+    _$jscoverage['monglo.js'][2107]++;
     return;
   }
   else {
-    _$jscoverage['monglo.js'][2107]++;
+    _$jscoverage['monglo.js'][2108]++;
     if (! (x instanceof Array)) {
-      _$jscoverage['monglo.js'][2108]++;
+      _$jscoverage['monglo.js'][2109]++;
       throw Error("Cannot apply $pull/pullAll modifier to non-array");
     }
     else {
-      _$jscoverage['monglo.js'][2110]++;
-      var out = [];
       _$jscoverage['monglo.js'][2111]++;
+      var out = [];
+      _$jscoverage['monglo.js'][2112]++;
       if (typeof arg === "object" && ! (arg instanceof Array)) {
-        _$jscoverage['monglo.js'][2121]++;
-        var match = Collection._compileSelector(arg);
         _$jscoverage['monglo.js'][2122]++;
+        var match = Collection._compileSelector(arg);
+        _$jscoverage['monglo.js'][2123]++;
         for (var i = 0; i < x.length; i++) {
-          _$jscoverage['monglo.js'][2123]++;
+          _$jscoverage['monglo.js'][2124]++;
           if (! match(x[i])) {
-            _$jscoverage['monglo.js'][2124]++;
+            _$jscoverage['monglo.js'][2125]++;
             out.push(x[i]);
           }
 }
       }
       else {
-        _$jscoverage['monglo.js'][2126]++;
+        _$jscoverage['monglo.js'][2127]++;
         for (var i = 0; i < x.length; i++) {
-          _$jscoverage['monglo.js'][2127]++;
+          _$jscoverage['monglo.js'][2128]++;
           if (! Collection._f._equal(x[i], arg)) {
-            _$jscoverage['monglo.js'][2128]++;
+            _$jscoverage['monglo.js'][2129]++;
             out.push(x[i]);
           }
 }
       }
-      _$jscoverage['monglo.js'][2130]++;
+      _$jscoverage['monglo.js'][2131]++;
       target[field] = out;
     }
   }
 }), $pullAll: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2134]++;
+  _$jscoverage['monglo.js'][2135]++;
   if (! (typeof arg === "object" && arg instanceof Array)) {
-    _$jscoverage['monglo.js'][2135]++;
+    _$jscoverage['monglo.js'][2136]++;
     throw Error("Modifier $pushAll/pullAll allowed for arrays only");
   }
-  _$jscoverage['monglo.js'][2136]++;
+  _$jscoverage['monglo.js'][2137]++;
   if (target === undefined) {
-    _$jscoverage['monglo.js'][2137]++;
+    _$jscoverage['monglo.js'][2138]++;
     return;
   }
-  _$jscoverage['monglo.js'][2138]++;
-  var x = target[field];
   _$jscoverage['monglo.js'][2139]++;
+  var x = target[field];
+  _$jscoverage['monglo.js'][2140]++;
   if (x === undefined) {
-    _$jscoverage['monglo.js'][2140]++;
+    _$jscoverage['monglo.js'][2141]++;
     return;
   }
   else {
-    _$jscoverage['monglo.js'][2141]++;
+    _$jscoverage['monglo.js'][2142]++;
     if (! (x instanceof Array)) {
-      _$jscoverage['monglo.js'][2142]++;
+      _$jscoverage['monglo.js'][2143]++;
       throw Error("Cannot apply $pull/pullAll modifier to non-array");
     }
     else {
-      _$jscoverage['monglo.js'][2144]++;
-      var out = [];
       _$jscoverage['monglo.js'][2145]++;
+      var out = [];
+      _$jscoverage['monglo.js'][2146]++;
       for (var i = 0; i < x.length; i++) {
-        _$jscoverage['monglo.js'][2146]++;
-        var exclude = false;
         _$jscoverage['monglo.js'][2147]++;
+        var exclude = false;
+        _$jscoverage['monglo.js'][2148]++;
         for (var j = 0; j < arg.length; j++) {
-          _$jscoverage['monglo.js'][2148]++;
+          _$jscoverage['monglo.js'][2149]++;
           if (Collection._f._equal(x[i], arg[j])) {
-            _$jscoverage['monglo.js'][2149]++;
-            exclude = true;
             _$jscoverage['monglo.js'][2150]++;
+            exclude = true;
+            _$jscoverage['monglo.js'][2151]++;
             break;
           }
 }
-        _$jscoverage['monglo.js'][2153]++;
+        _$jscoverage['monglo.js'][2154]++;
         if (! exclude) {
-          _$jscoverage['monglo.js'][2154]++;
+          _$jscoverage['monglo.js'][2155]++;
           out.push(x[i]);
         }
 }
-      _$jscoverage['monglo.js'][2156]++;
+      _$jscoverage['monglo.js'][2157]++;
       target[field] = out;
     }
   }
 }), $rename: (function (target, field, arg, keypath, doc) {
-  _$jscoverage['monglo.js'][2160]++;
+  _$jscoverage['monglo.js'][2161]++;
   if (keypath === arg) {
-    _$jscoverage['monglo.js'][2162]++;
+    _$jscoverage['monglo.js'][2163]++;
     throw Error("$rename source must differ from target");
   }
-  _$jscoverage['monglo.js'][2163]++;
+  _$jscoverage['monglo.js'][2164]++;
   if (target === null) {
-    _$jscoverage['monglo.js'][2164]++;
+    _$jscoverage['monglo.js'][2165]++;
     throw Error("$rename source field invalid");
   }
-  _$jscoverage['monglo.js'][2165]++;
+  _$jscoverage['monglo.js'][2166]++;
   if (typeof arg !== "string") {
-    _$jscoverage['monglo.js'][2166]++;
+    _$jscoverage['monglo.js'][2167]++;
     throw Error("$rename target must be a string");
   }
-  _$jscoverage['monglo.js'][2167]++;
+  _$jscoverage['monglo.js'][2168]++;
   if (target === undefined) {
-    _$jscoverage['monglo.js'][2168]++;
+    _$jscoverage['monglo.js'][2169]++;
     return;
   }
-  _$jscoverage['monglo.js'][2169]++;
-  var v = target[field];
   _$jscoverage['monglo.js'][2170]++;
+  var v = target[field];
+  _$jscoverage['monglo.js'][2171]++;
   delete target[field];
-  _$jscoverage['monglo.js'][2172]++;
-  var keyparts = arg.split(".");
   _$jscoverage['monglo.js'][2173]++;
-  var target2 = Collection._findModTarget(doc, keyparts, false, true);
+  var keyparts = arg.split(".");
   _$jscoverage['monglo.js'][2174]++;
+  var target2 = Collection._findModTarget(doc, keyparts, false, true);
+  _$jscoverage['monglo.js'][2175]++;
   if (target2 === null) {
-    _$jscoverage['monglo.js'][2175]++;
+    _$jscoverage['monglo.js'][2176]++;
     throw Error("$rename target field invalid");
   }
-  _$jscoverage['monglo.js'][2176]++;
-  var field2 = keyparts.pop();
   _$jscoverage['monglo.js'][2177]++;
+  var field2 = keyparts.pop();
+  _$jscoverage['monglo.js'][2178]++;
   target2[field2] = v;
 }), $bit: (function (target, field, arg) {
-  _$jscoverage['monglo.js'][2182]++;
+  _$jscoverage['monglo.js'][2183]++;
   throw Error("$bit is not supported");
 })};
-_$jscoverage['monglo.js'][2184]++;
+_$jscoverage['monglo.js'][2185]++;
 var Selector = {};
-_$jscoverage['monglo.js'][2187]++;
+_$jscoverage['monglo.js'][2188]++;
 Selector._f = {_all: (function (x, qval) {
-  _$jscoverage['monglo.js'][2192]++;
+  _$jscoverage['monglo.js'][2193]++;
   if (! (x instanceof Array)) {
-    _$jscoverage['monglo.js'][2193]++;
+    _$jscoverage['monglo.js'][2194]++;
     return false;
   }
-  _$jscoverage['monglo.js'][2197]++;
-  var parts = {};
   _$jscoverage['monglo.js'][2198]++;
-  var remaining = 0;
+  var parts = {};
   _$jscoverage['monglo.js'][2199]++;
-  utils.each(qval, (function (q) {
+  var remaining = 0;
   _$jscoverage['monglo.js'][2200]++;
-  var hash = JSON.stringify(q);
+  utils.each(qval, (function (q) {
   _$jscoverage['monglo.js'][2201]++;
+  var hash = JSON.stringify(q);
+  _$jscoverage['monglo.js'][2202]++;
   if (! (hash in parts)) {
-    _$jscoverage['monglo.js'][2202]++;
-    parts[hash] = true;
     _$jscoverage['monglo.js'][2203]++;
+    parts[hash] = true;
+    _$jscoverage['monglo.js'][2204]++;
     remaining++;
   }
 }));
-  _$jscoverage['monglo.js'][2207]++;
+  _$jscoverage['monglo.js'][2208]++;
   for (var i = 0; i < x.length; i++) {
-    _$jscoverage['monglo.js'][2208]++;
-    var hash = JSON.stringify(x[i]);
     _$jscoverage['monglo.js'][2209]++;
+    var hash = JSON.stringify(x[i]);
+    _$jscoverage['monglo.js'][2210]++;
     if (parts[hash]) {
-      _$jscoverage['monglo.js'][2210]++;
-      delete parts[hash];
       _$jscoverage['monglo.js'][2211]++;
-      remaining--;
+      delete parts[hash];
       _$jscoverage['monglo.js'][2212]++;
+      remaining--;
+      _$jscoverage['monglo.js'][2213]++;
       if (0 === remaining) {
-        _$jscoverage['monglo.js'][2213]++;
+        _$jscoverage['monglo.js'][2214]++;
         return true;
       }
     }
 }
-  _$jscoverage['monglo.js'][2217]++;
+  _$jscoverage['monglo.js'][2218]++;
   return false;
 }), _in: (function (x, qval) {
-  _$jscoverage['monglo.js'][2221]++;
+  _$jscoverage['monglo.js'][2222]++;
   if (typeof x !== "object") {
-    _$jscoverage['monglo.js'][2223]++;
+    _$jscoverage['monglo.js'][2224]++;
     for (var i = 0; i < qval.length; i++) {
-      _$jscoverage['monglo.js'][2224]++;
+      _$jscoverage['monglo.js'][2225]++;
       if (x === qval[i]) {
-        _$jscoverage['monglo.js'][2225]++;
+        _$jscoverage['monglo.js'][2226]++;
         return true;
       }
 }
-    _$jscoverage['monglo.js'][2226]++;
+    _$jscoverage['monglo.js'][2227]++;
     return false;
   }
   else {
-    _$jscoverage['monglo.js'][2229]++;
+    _$jscoverage['monglo.js'][2230]++;
     for (var i = 0; i < qval.length; i++) {
-      _$jscoverage['monglo.js'][2230]++;
+      _$jscoverage['monglo.js'][2231]++;
       if (Selector._f._equal(x, qval[i])) {
-        _$jscoverage['monglo.js'][2231]++;
+        _$jscoverage['monglo.js'][2232]++;
         return true;
       }
 }
-    _$jscoverage['monglo.js'][2232]++;
+    _$jscoverage['monglo.js'][2233]++;
     return false;
   }
 }), _type: (function (v) {
-  _$jscoverage['monglo.js'][2237]++;
+  _$jscoverage['monglo.js'][2238]++;
   if (typeof v === "number") {
-    _$jscoverage['monglo.js'][2238]++;
+    _$jscoverage['monglo.js'][2239]++;
     return 1;
   }
-  _$jscoverage['monglo.js'][2239]++;
+  _$jscoverage['monglo.js'][2240]++;
   if (typeof v === "string") {
-    _$jscoverage['monglo.js'][2240]++;
+    _$jscoverage['monglo.js'][2241]++;
     return 2;
   }
-  _$jscoverage['monglo.js'][2241]++;
+  _$jscoverage['monglo.js'][2242]++;
   if (typeof v === "boolean") {
-    _$jscoverage['monglo.js'][2242]++;
+    _$jscoverage['monglo.js'][2243]++;
     return 8;
   }
-  _$jscoverage['monglo.js'][2243]++;
+  _$jscoverage['monglo.js'][2244]++;
   if (v instanceof Array) {
-    _$jscoverage['monglo.js'][2244]++;
+    _$jscoverage['monglo.js'][2245]++;
     return 4;
   }
-  _$jscoverage['monglo.js'][2245]++;
+  _$jscoverage['monglo.js'][2246]++;
   if (v === null) {
-    _$jscoverage['monglo.js'][2246]++;
+    _$jscoverage['monglo.js'][2247]++;
     return 10;
   }
-  _$jscoverage['monglo.js'][2247]++;
+  _$jscoverage['monglo.js'][2248]++;
   if (v instanceof RegExp) {
-    _$jscoverage['monglo.js'][2248]++;
+    _$jscoverage['monglo.js'][2249]++;
     return 11;
   }
-  _$jscoverage['monglo.js'][2249]++;
+  _$jscoverage['monglo.js'][2250]++;
   if (typeof v === "function") {
-    _$jscoverage['monglo.js'][2251]++;
+    _$jscoverage['monglo.js'][2252]++;
     return 13;
   }
-  _$jscoverage['monglo.js'][2252]++;
+  _$jscoverage['monglo.js'][2253]++;
   return 3;
 }), _equal: (function (x, qval) {
-  _$jscoverage['monglo.js'][2268]++;
+  _$jscoverage['monglo.js'][2269]++;
   var match = (function (a, b) {
-  _$jscoverage['monglo.js'][2270]++;
+  _$jscoverage['monglo.js'][2271]++;
   if (typeof a === "number" || typeof a === "string" || typeof a === "boolean" || a === undefined || a === null) {
-    _$jscoverage['monglo.js'][2272]++;
+    _$jscoverage['monglo.js'][2273]++;
     return a === b;
   }
-  _$jscoverage['monglo.js'][2273]++;
+  _$jscoverage['monglo.js'][2274]++;
   if (typeof a === "function") {
-    _$jscoverage['monglo.js'][2274]++;
+    _$jscoverage['monglo.js'][2275]++;
     return false;
   }
-  _$jscoverage['monglo.js'][2277]++;
+  _$jscoverage['monglo.js'][2278]++;
   if (typeof b !== "object") {
-    _$jscoverage['monglo.js'][2278]++;
+    _$jscoverage['monglo.js'][2279]++;
     return false;
   }
-  _$jscoverage['monglo.js'][2281]++;
+  _$jscoverage['monglo.js'][2282]++;
   if (a instanceof Array) {
-    _$jscoverage['monglo.js'][2282]++;
+    _$jscoverage['monglo.js'][2283]++;
     if (! (b instanceof Array)) {
-      _$jscoverage['monglo.js'][2283]++;
+      _$jscoverage['monglo.js'][2284]++;
       return false;
     }
-    _$jscoverage['monglo.js'][2284]++;
+    _$jscoverage['monglo.js'][2285]++;
     if (a.length !== b.length) {
-      _$jscoverage['monglo.js'][2285]++;
+      _$jscoverage['monglo.js'][2286]++;
       return false;
     }
-    _$jscoverage['monglo.js'][2286]++;
+    _$jscoverage['monglo.js'][2287]++;
     for (var i = 0; i < a.length; i++) {
-      _$jscoverage['monglo.js'][2287]++;
+      _$jscoverage['monglo.js'][2288]++;
       if (! match(a[i], b[i])) {
-        _$jscoverage['monglo.js'][2288]++;
+        _$jscoverage['monglo.js'][2289]++;
         return false;
       }
 }
-    _$jscoverage['monglo.js'][2289]++;
+    _$jscoverage['monglo.js'][2290]++;
     return true;
   }
-  _$jscoverage['monglo.js'][2309]++;
-  var b_keys = [];
   _$jscoverage['monglo.js'][2310]++;
+  var b_keys = [];
+  _$jscoverage['monglo.js'][2311]++;
   for (var x in b) {
-    _$jscoverage['monglo.js'][2311]++;
+    _$jscoverage['monglo.js'][2312]++;
     b_keys.push(b[x]);
 }
-  _$jscoverage['monglo.js'][2312]++;
-  var i = 0;
   _$jscoverage['monglo.js'][2313]++;
+  var i = 0;
+  _$jscoverage['monglo.js'][2314]++;
   for (var x in a) {
-    _$jscoverage['monglo.js'][2314]++;
+    _$jscoverage['monglo.js'][2315]++;
     if (i >= b_keys.length) {
-      _$jscoverage['monglo.js'][2315]++;
+      _$jscoverage['monglo.js'][2316]++;
       return false;
     }
-    _$jscoverage['monglo.js'][2316]++;
+    _$jscoverage['monglo.js'][2317]++;
     if (! match(a[x], b_keys[i])) {
-      _$jscoverage['monglo.js'][2317]++;
+      _$jscoverage['monglo.js'][2318]++;
       return false;
     }
-    _$jscoverage['monglo.js'][2318]++;
+    _$jscoverage['monglo.js'][2319]++;
     i++;
 }
-  _$jscoverage['monglo.js'][2320]++;
+  _$jscoverage['monglo.js'][2321]++;
   if (i !== b_keys.length) {
-    _$jscoverage['monglo.js'][2321]++;
+    _$jscoverage['monglo.js'][2322]++;
     return false;
   }
-  _$jscoverage['monglo.js'][2322]++;
+  _$jscoverage['monglo.js'][2323]++;
   return true;
 });
-  _$jscoverage['monglo.js'][2324]++;
+  _$jscoverage['monglo.js'][2325]++;
   return match(x, qval);
 }), _matches: (function (x, f) {
-  _$jscoverage['monglo.js'][2333]++;
+  _$jscoverage['monglo.js'][2334]++;
   if (x instanceof Array) {
-    _$jscoverage['monglo.js'][2334]++;
+    _$jscoverage['monglo.js'][2335]++;
     for (var i = 0; i < x.length; i++) {
-      _$jscoverage['monglo.js'][2335]++;
+      _$jscoverage['monglo.js'][2336]++;
       if (f(x[i])) {
-        _$jscoverage['monglo.js'][2336]++;
+        _$jscoverage['monglo.js'][2337]++;
         return true;
       }
 }
-    _$jscoverage['monglo.js'][2337]++;
+    _$jscoverage['monglo.js'][2338]++;
     return false;
   }
-  _$jscoverage['monglo.js'][2339]++;
+  _$jscoverage['monglo.js'][2340]++;
   return f(x);
 }), _matches_plus: (function (x, f) {
-  _$jscoverage['monglo.js'][2348]++;
+  _$jscoverage['monglo.js'][2349]++;
   if (x instanceof Array) {
-    _$jscoverage['monglo.js'][2349]++;
+    _$jscoverage['monglo.js'][2350]++;
     for (var i = 0; i < x.length; i++) {
-      _$jscoverage['monglo.js'][2350]++;
+      _$jscoverage['monglo.js'][2351]++;
       if (f(x[i])) {
-        _$jscoverage['monglo.js'][2351]++;
+        _$jscoverage['monglo.js'][2352]++;
         return true;
       }
 }
   }
-  _$jscoverage['monglo.js'][2354]++;
+  _$jscoverage['monglo.js'][2355]++;
   return f(x);
 }), _typeorder: (function (t) {
-  _$jscoverage['monglo.js'][2364]++;
+  _$jscoverage['monglo.js'][2365]++;
   return [-1, 1, 2, 3, 4, 5, -1, 6, 7, 8, 0, 9, -1, 100, 2, 100, 1, 8, 1][t];
 }), _cmp: (function (a, b) {
-  _$jscoverage['monglo.js'][2373]++;
+  _$jscoverage['monglo.js'][2374]++;
   if (a === undefined) {
-    _$jscoverage['monglo.js'][2374]++;
+    _$jscoverage['monglo.js'][2375]++;
     return b === undefined? 0: -1;
   }
-  _$jscoverage['monglo.js'][2375]++;
+  _$jscoverage['monglo.js'][2376]++;
   if (b === undefined) {
-    _$jscoverage['monglo.js'][2376]++;
+    _$jscoverage['monglo.js'][2377]++;
     return 1;
   }
-  _$jscoverage['monglo.js'][2377]++;
-  var ta = Selector._f._type(a);
   _$jscoverage['monglo.js'][2378]++;
-  var tb = Selector._f._type(b);
+  var ta = Selector._f._type(a);
   _$jscoverage['monglo.js'][2379]++;
-  var oa = Selector._f._typeorder(ta);
+  var tb = Selector._f._type(b);
   _$jscoverage['monglo.js'][2380]++;
-  var ob = Selector._f._typeorder(tb);
+  var oa = Selector._f._typeorder(ta);
   _$jscoverage['monglo.js'][2381]++;
+  var ob = Selector._f._typeorder(tb);
+  _$jscoverage['monglo.js'][2382]++;
   if (oa !== ob) {
-    _$jscoverage['monglo.js'][2382]++;
+    _$jscoverage['monglo.js'][2383]++;
     return oa < ob? -1: 1;
   }
-  _$jscoverage['monglo.js'][2383]++;
+  _$jscoverage['monglo.js'][2384]++;
   if (ta !== tb) {
-    _$jscoverage['monglo.js'][2386]++;
+    _$jscoverage['monglo.js'][2387]++;
     throw Error("Missing type coercion logic in _cmp");
   }
-  _$jscoverage['monglo.js'][2387]++;
+  _$jscoverage['monglo.js'][2388]++;
   if (ta === 1) {
-    _$jscoverage['monglo.js'][2388]++;
+    _$jscoverage['monglo.js'][2389]++;
     return a - b;
   }
-  _$jscoverage['monglo.js'][2389]++;
+  _$jscoverage['monglo.js'][2390]++;
   if (tb === 2) {
-    _$jscoverage['monglo.js'][2390]++;
+    _$jscoverage['monglo.js'][2391]++;
     return a < b? -1: (a === b? 0: 1);
   }
-  _$jscoverage['monglo.js'][2391]++;
+  _$jscoverage['monglo.js'][2392]++;
   if (ta === 3) {
-    _$jscoverage['monglo.js'][2393]++;
+    _$jscoverage['monglo.js'][2394]++;
     var to_array = (function (obj) {
-  _$jscoverage['monglo.js'][2394]++;
-  var ret = [];
   _$jscoverage['monglo.js'][2395]++;
+  var ret = [];
+  _$jscoverage['monglo.js'][2396]++;
   for (var key in obj) {
-    _$jscoverage['monglo.js'][2396]++;
-    ret.push(key);
     _$jscoverage['monglo.js'][2397]++;
+    ret.push(key);
+    _$jscoverage['monglo.js'][2398]++;
     ret.push(obj[key]);
 }
-  _$jscoverage['monglo.js'][2399]++;
+  _$jscoverage['monglo.js'][2400]++;
   return ret;
 });
-    _$jscoverage['monglo.js'][2401]++;
+    _$jscoverage['monglo.js'][2402]++;
     return Selector._f._cmp(to_array(a), to_array(b));
   }
-  _$jscoverage['monglo.js'][2403]++;
+  _$jscoverage['monglo.js'][2404]++;
   if (ta === 4) {
-    _$jscoverage['monglo.js'][2404]++;
+    _$jscoverage['monglo.js'][2405]++;
     for (var i = 0;; i++) {
-      _$jscoverage['monglo.js'][2405]++;
+      _$jscoverage['monglo.js'][2406]++;
       if (i === a.length) {
-        _$jscoverage['monglo.js'][2406]++;
+        _$jscoverage['monglo.js'][2407]++;
         return (i === b.length)? 0: -1;
       }
-      _$jscoverage['monglo.js'][2407]++;
+      _$jscoverage['monglo.js'][2408]++;
       if (i === b.length) {
-        _$jscoverage['monglo.js'][2408]++;
+        _$jscoverage['monglo.js'][2409]++;
         return 1;
       }
-      _$jscoverage['monglo.js'][2409]++;
-      var s = Selector._f._cmp(a[i], b[i]);
       _$jscoverage['monglo.js'][2410]++;
+      var s = Selector._f._cmp(a[i], b[i]);
+      _$jscoverage['monglo.js'][2411]++;
       if (s !== 0) {
-        _$jscoverage['monglo.js'][2411]++;
+        _$jscoverage['monglo.js'][2412]++;
         return s;
       }
 }
   }
-  _$jscoverage['monglo.js'][2416]++;
+  _$jscoverage['monglo.js'][2417]++;
   if (ta === 8) {
-    _$jscoverage['monglo.js'][2417]++;
+    _$jscoverage['monglo.js'][2418]++;
     if (a) {
-      _$jscoverage['monglo.js'][2417]++;
+      _$jscoverage['monglo.js'][2418]++;
       return b? 0: 1;
     }
-    _$jscoverage['monglo.js'][2418]++;
+    _$jscoverage['monglo.js'][2419]++;
     return b? -1: 0;
   }
-  _$jscoverage['monglo.js'][2421]++;
+  _$jscoverage['monglo.js'][2422]++;
   if (ta === 10) {
-    _$jscoverage['monglo.js'][2422]++;
+    _$jscoverage['monglo.js'][2423]++;
     return 0;
   }
-  _$jscoverage['monglo.js'][2423]++;
+  _$jscoverage['monglo.js'][2424]++;
   if (ta === 11) {
-    _$jscoverage['monglo.js'][2424]++;
+    _$jscoverage['monglo.js'][2425]++;
     throw Error("Sorting not supported on regular expression");
   }
-  _$jscoverage['monglo.js'][2433]++;
+  _$jscoverage['monglo.js'][2434]++;
   if (ta === 13) {
-    _$jscoverage['monglo.js'][2434]++;
+    _$jscoverage['monglo.js'][2435]++;
     throw Error("Sorting not supported on Javascript code");
   }
 })};
-_$jscoverage['monglo.js'][2440]++;
+_$jscoverage['monglo.js'][2441]++;
 Selector._matches = (function (selector, doc) {
-  _$jscoverage['monglo.js'][2441]++;
+  _$jscoverage['monglo.js'][2442]++;
   return Selector._compileSelector(selector)(doc);
 });
-_$jscoverage['monglo.js'][2447]++;
+_$jscoverage['monglo.js'][2448]++;
 Selector._compileSelector = (function (selector) {
-  _$jscoverage['monglo.js'][2448]++;
+  _$jscoverage['monglo.js'][2449]++;
   var literals = [];
-  _$jscoverage['monglo.js'][2450]++;
-  if (selector instanceof Function) {
-    _$jscoverage['monglo.js'][2451]++;
-    return (function (doc) {
   _$jscoverage['monglo.js'][2451]++;
+  if (selector instanceof Function) {
+    _$jscoverage['monglo.js'][2452]++;
+    return (function (doc) {
+  _$jscoverage['monglo.js'][2452]++;
   return selector.call(doc);
 });
   }
-  _$jscoverage['monglo.js'][2454]++;
+  _$jscoverage['monglo.js'][2455]++;
   if ((typeof selector === "string") || (typeof selector === "number")) {
-    _$jscoverage['monglo.js'][2455]++;
+    _$jscoverage['monglo.js'][2456]++;
     selector = {_id: selector};
   }
-  _$jscoverage['monglo.js'][2460]++;
-  if (! selector || (("_id" in selector) && ! selector._id)) {
-    _$jscoverage['monglo.js'][2461]++;
-    return (function (doc) {
   _$jscoverage['monglo.js'][2461]++;
+  if (! selector || (("_id" in selector) && ! selector._id)) {
+    _$jscoverage['monglo.js'][2462]++;
+    return (function (doc) {
+  _$jscoverage['monglo.js'][2462]++;
   return false;
 });
   }
-  _$jscoverage['monglo.js'][2465]++;
-  var _func;
   _$jscoverage['monglo.js'][2466]++;
+  var _func;
+  _$jscoverage['monglo.js'][2467]++;
   eval("_func = (function(f,literals){return function(doc){return " + Selector._exprForSelector(selector, literals) + ";};})");
-  _$jscoverage['monglo.js'][2469]++;
+  _$jscoverage['monglo.js'][2470]++;
   return _func(Selector._f, literals);
 });
-_$jscoverage['monglo.js'][2477]++;
+_$jscoverage['monglo.js'][2478]++;
 Selector._exprForSelector = (function (selector, literals) {
-  _$jscoverage['monglo.js'][2478]++;
-  var clauses = [];
   _$jscoverage['monglo.js'][2479]++;
+  var clauses = [];
+  _$jscoverage['monglo.js'][2480]++;
   for (var key in selector) {
-    _$jscoverage['monglo.js'][2480]++;
+    _$jscoverage['monglo.js'][2481]++;
     var value = selector[key];
-    _$jscoverage['monglo.js'][2482]++;
+    _$jscoverage['monglo.js'][2483]++;
     if (key.substr(0, 1) === "$") {
-      _$jscoverage['monglo.js'][2484]++;
+      _$jscoverage['monglo.js'][2485]++;
       clauses.push(Selector._exprForDocumentPredicate(key, value, literals));
     }
     else {
-      _$jscoverage['monglo.js'][2487]++;
+      _$jscoverage['monglo.js'][2488]++;
       clauses.push(Selector._exprForKeypathPredicate(key, value, literals));
     }
 }
-  _$jscoverage['monglo.js'][2489]++;
+  _$jscoverage['monglo.js'][2490]++;
   ;
-  _$jscoverage['monglo.js'][2491]++;
+  _$jscoverage['monglo.js'][2492]++;
   if (clauses.length === 0) {
-    _$jscoverage['monglo.js'][2491]++;
+    _$jscoverage['monglo.js'][2492]++;
     return "true";
   }
-  _$jscoverage['monglo.js'][2492]++;
+  _$jscoverage['monglo.js'][2493]++;
   return "(" + clauses.join("&&") + ")";
 });
-_$jscoverage['monglo.js'][2499]++;
+_$jscoverage['monglo.js'][2500]++;
 Selector._exprForDocumentPredicate = (function (op, value, literals) {
-  _$jscoverage['monglo.js'][2500]++;
+  _$jscoverage['monglo.js'][2501]++;
   if (op === "$or") {
-    _$jscoverage['monglo.js'][2501]++;
-    var clauses = [];
     _$jscoverage['monglo.js'][2502]++;
+    var clauses = [];
+    _$jscoverage['monglo.js'][2503]++;
     utils.each(value, (function (c) {
-  _$jscoverage['monglo.js'][2503]++;
+  _$jscoverage['monglo.js'][2504]++;
   clauses.push(Selector._exprForSelector(c, literals));
 }));
-    _$jscoverage['monglo.js'][2505]++;
+    _$jscoverage['monglo.js'][2506]++;
     if (clauses.length === 0) {
-      _$jscoverage['monglo.js'][2505]++;
+      _$jscoverage['monglo.js'][2506]++;
       return "true";
     }
-    _$jscoverage['monglo.js'][2506]++;
+    _$jscoverage['monglo.js'][2507]++;
     return "(" + clauses.join("||") + ")";
   }
-  _$jscoverage['monglo.js'][2509]++;
+  _$jscoverage['monglo.js'][2510]++;
   if (op === "$and") {
-    _$jscoverage['monglo.js'][2510]++;
-    var clauses = [];
     _$jscoverage['monglo.js'][2511]++;
+    var clauses = [];
+    _$jscoverage['monglo.js'][2512]++;
     utils.each(value, (function (c) {
-  _$jscoverage['monglo.js'][2512]++;
+  _$jscoverage['monglo.js'][2513]++;
   clauses.push(Selector._exprForSelector(c, literals));
 }));
-    _$jscoverage['monglo.js'][2514]++;
+    _$jscoverage['monglo.js'][2515]++;
     if (clauses.length === 0) {
-      _$jscoverage['monglo.js'][2514]++;
+      _$jscoverage['monglo.js'][2515]++;
       return "true";
     }
-    _$jscoverage['monglo.js'][2515]++;
+    _$jscoverage['monglo.js'][2516]++;
     return "(" + clauses.join("&&") + ")";
   }
-  _$jscoverage['monglo.js'][2518]++;
+  _$jscoverage['monglo.js'][2519]++;
   if (op === "$nor") {
-    _$jscoverage['monglo.js'][2519]++;
-    var clauses = [];
     _$jscoverage['monglo.js'][2520]++;
+    var clauses = [];
+    _$jscoverage['monglo.js'][2521]++;
     utils.each(value, (function (c) {
-  _$jscoverage['monglo.js'][2521]++;
+  _$jscoverage['monglo.js'][2522]++;
   clauses.push("!(" + Selector._exprForSelector(c, literals) + ")");
 }));
-    _$jscoverage['monglo.js'][2523]++;
+    _$jscoverage['monglo.js'][2524]++;
     if (clauses.length === 0) {
-      _$jscoverage['monglo.js'][2523]++;
+      _$jscoverage['monglo.js'][2524]++;
       return "true";
     }
-    _$jscoverage['monglo.js'][2524]++;
+    _$jscoverage['monglo.js'][2525]++;
     return "(" + clauses.join("&&") + ")";
   }
-  _$jscoverage['monglo.js'][2527]++;
+  _$jscoverage['monglo.js'][2528]++;
   if (op === "$where") {
-    _$jscoverage['monglo.js'][2528]++;
+    _$jscoverage['monglo.js'][2529]++;
     if (value instanceof Function) {
-      _$jscoverage['monglo.js'][2529]++;
-      literals.push(value);
       _$jscoverage['monglo.js'][2530]++;
+      literals.push(value);
+      _$jscoverage['monglo.js'][2531]++;
       return "literals[" + (literals.length - 1) + "].call(doc)";
     }
-    _$jscoverage['monglo.js'][2532]++;
+    _$jscoverage['monglo.js'][2533]++;
     return "(function(){return " + value + ";}).call(doc)";
   }
-  _$jscoverage['monglo.js'][2535]++;
+  _$jscoverage['monglo.js'][2536]++;
   throw Error("Unrecogized key in selector: ", op);
 });
-_$jscoverage['monglo.js'][2541]++;
+_$jscoverage['monglo.js'][2542]++;
 Selector._exprForKeypathPredicate = (function (keypath, value, literals) {
-  _$jscoverage['monglo.js'][2542]++;
+  _$jscoverage['monglo.js'][2543]++;
   var keyparts = keypath.split(".");
-  _$jscoverage['monglo.js'][2545]++;
-  var predcode = "";
   _$jscoverage['monglo.js'][2546]++;
+  var predcode = "";
+  _$jscoverage['monglo.js'][2547]++;
   if (value instanceof RegExp) {
-    _$jscoverage['monglo.js'][2547]++;
+    _$jscoverage['monglo.js'][2548]++;
     predcode = Selector._exprForOperatorTest(value, literals);
   }
   else {
-    _$jscoverage['monglo.js'][2548]++;
+    _$jscoverage['monglo.js'][2549]++;
     if (! (typeof value === "object") || value === null || value instanceof Array) {
-      _$jscoverage['monglo.js'][2552]++;
+      _$jscoverage['monglo.js'][2553]++;
       predcode = Selector._exprForValueTest(value, literals);
     }
     else {
-      _$jscoverage['monglo.js'][2555]++;
-      var is_literal = true;
       _$jscoverage['monglo.js'][2556]++;
+      var is_literal = true;
+      _$jscoverage['monglo.js'][2557]++;
       for (var k in value) {
-        _$jscoverage['monglo.js'][2557]++;
+        _$jscoverage['monglo.js'][2558]++;
         if (k.substr(0, 1) === "$") {
-          _$jscoverage['monglo.js'][2558]++;
-          is_literal = false;
           _$jscoverage['monglo.js'][2559]++;
+          is_literal = false;
+          _$jscoverage['monglo.js'][2560]++;
           break;
         }
 }
-      _$jscoverage['monglo.js'][2563]++;
+      _$jscoverage['monglo.js'][2564]++;
       if (is_literal) {
-        _$jscoverage['monglo.js'][2565]++;
+        _$jscoverage['monglo.js'][2566]++;
         predcode = Selector._exprForValueTest(value, literals);
       }
       else {
-        _$jscoverage['monglo.js'][2567]++;
+        _$jscoverage['monglo.js'][2568]++;
         predcode = Selector._exprForOperatorTest(value, literals);
       }
     }
   }
-  _$jscoverage['monglo.js'][2575]++;
-  var ret = "";
   _$jscoverage['monglo.js'][2576]++;
-  var innermost = true;
+  var ret = "";
   _$jscoverage['monglo.js'][2577]++;
+  var innermost = true;
+  _$jscoverage['monglo.js'][2578]++;
   while (keyparts.length) {
-    _$jscoverage['monglo.js'][2578]++;
-    var part = keyparts.pop();
     _$jscoverage['monglo.js'][2579]++;
-    var formal = keyparts.length? "x": "doc";
+    var part = keyparts.pop();
     _$jscoverage['monglo.js'][2580]++;
+    var formal = keyparts.length? "x": "doc";
+    _$jscoverage['monglo.js'][2581]++;
     if (innermost) {
-      _$jscoverage['monglo.js'][2581]++;
+      _$jscoverage['monglo.js'][2582]++;
       ret = "(function(x){return " + predcode + ";})(" + formal + "&&" + formal + "[" + JSON.stringify(part) + "])";
-      _$jscoverage['monglo.js'][2583]++;
+      _$jscoverage['monglo.js'][2584]++;
       innermost = false;
     }
     else {
-      _$jscoverage['monglo.js'][2587]++;
+      _$jscoverage['monglo.js'][2588]++;
       ret = "f._matches(" + formal + "&&" + formal + "[" + JSON.stringify(part) + "], function(x){return " + ret + ";})";
     }
 }
-  _$jscoverage['monglo.js'][2592]++;
+  _$jscoverage['monglo.js'][2593]++;
   return ret;
 });
-_$jscoverage['monglo.js'][2600]++;
+_$jscoverage['monglo.js'][2601]++;
 Selector._exprForValueTest = (function (value, literals) {
-  _$jscoverage['monglo.js'][2601]++;
+  _$jscoverage['monglo.js'][2602]++;
   var expr;
-  _$jscoverage['monglo.js'][2603]++;
+  _$jscoverage['monglo.js'][2604]++;
   if (value === null) {
-    _$jscoverage['monglo.js'][2606]++;
+    _$jscoverage['monglo.js'][2607]++;
     expr = "x===null||x===undefined";
   }
   else {
-    _$jscoverage['monglo.js'][2607]++;
+    _$jscoverage['monglo.js'][2608]++;
     if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
-      _$jscoverage['monglo.js'][2612]++;
+      _$jscoverage['monglo.js'][2613]++;
       expr = "x===" + JSON.stringify(value);
     }
     else {
-      _$jscoverage['monglo.js'][2613]++;
+      _$jscoverage['monglo.js'][2614]++;
       if (typeof value === "function") {
-        _$jscoverage['monglo.js'][2616]++;
+        _$jscoverage['monglo.js'][2617]++;
         throw Error("Bad value type in query");
       }
       else {
-        _$jscoverage['monglo.js'][2619]++;
+        _$jscoverage['monglo.js'][2620]++;
         expr = "f._equal(x," + JSON.stringify(value) + ")";
       }
     }
   }
-  _$jscoverage['monglo.js'][2622]++;
+  _$jscoverage['monglo.js'][2623]++;
   return "f._matches_plus(x,function(x){return " + expr + ";})";
 });
-_$jscoverage['monglo.js'][2630]++;
+_$jscoverage['monglo.js'][2631]++;
 Selector._exprForOperatorTest = (function (op, literals) {
-  _$jscoverage['monglo.js'][2631]++;
+  _$jscoverage['monglo.js'][2632]++;
   if (op instanceof RegExp) {
-    _$jscoverage['monglo.js'][2632]++;
+    _$jscoverage['monglo.js'][2633]++;
     return Selector._exprForOperatorTest({$regex: op}, literals);
   }
   else {
-    _$jscoverage['monglo.js'][2634]++;
-    var clauses = [];
     _$jscoverage['monglo.js'][2635]++;
+    var clauses = [];
+    _$jscoverage['monglo.js'][2636]++;
     for (var type in op) {
-      _$jscoverage['monglo.js'][2636]++;
+      _$jscoverage['monglo.js'][2637]++;
       clauses.push(Selector._exprForConstraint(type, op[type], op, literals));
 }
-    _$jscoverage['monglo.js'][2638]++;
+    _$jscoverage['monglo.js'][2639]++;
     if (clauses.length === 0) {
-      _$jscoverage['monglo.js'][2639]++;
+      _$jscoverage['monglo.js'][2640]++;
       return "true";
     }
-    _$jscoverage['monglo.js'][2640]++;
+    _$jscoverage['monglo.js'][2641]++;
     return "(" + clauses.join("&&") + ")";
   }
 });
-_$jscoverage['monglo.js'][2649]++;
+_$jscoverage['monglo.js'][2650]++;
 Selector._exprForConstraint = (function (type, arg, others, literals) {
-  _$jscoverage['monglo.js'][2651]++;
-  var expr;
   _$jscoverage['monglo.js'][2652]++;
-  var search = "_matches";
+  var expr;
   _$jscoverage['monglo.js'][2653]++;
+  var search = "_matches";
+  _$jscoverage['monglo.js'][2654]++;
   var negate = false;
-  _$jscoverage['monglo.js'][2655]++;
+  _$jscoverage['monglo.js'][2656]++;
   if (type === "$gt") {
-    _$jscoverage['monglo.js'][2656]++;
+    _$jscoverage['monglo.js'][2657]++;
     expr = "f._cmp(x," + JSON.stringify(arg) + ")>0";
   }
   else {
-    _$jscoverage['monglo.js'][2657]++;
+    _$jscoverage['monglo.js'][2658]++;
     if (type === "$lt") {
-      _$jscoverage['monglo.js'][2658]++;
+      _$jscoverage['monglo.js'][2659]++;
       expr = "f._cmp(x," + JSON.stringify(arg) + ")<0";
     }
     else {
-      _$jscoverage['monglo.js'][2659]++;
+      _$jscoverage['monglo.js'][2660]++;
       if (type === "$gte") {
-        _$jscoverage['monglo.js'][2660]++;
+        _$jscoverage['monglo.js'][2661]++;
         expr = "f._cmp(x," + JSON.stringify(arg) + ")>=0";
       }
       else {
-        _$jscoverage['monglo.js'][2661]++;
+        _$jscoverage['monglo.js'][2662]++;
         if (type === "$lte") {
-          _$jscoverage['monglo.js'][2662]++;
+          _$jscoverage['monglo.js'][2663]++;
           expr = "f._cmp(x," + JSON.stringify(arg) + ")<=0";
         }
         else {
-          _$jscoverage['monglo.js'][2663]++;
+          _$jscoverage['monglo.js'][2664]++;
           if (type === "$all") {
-            _$jscoverage['monglo.js'][2664]++;
-            expr = "f._all(x," + JSON.stringify(arg) + ")";
             _$jscoverage['monglo.js'][2665]++;
+            expr = "f._all(x," + JSON.stringify(arg) + ")";
+            _$jscoverage['monglo.js'][2666]++;
             search = null;
           }
           else {
-            _$jscoverage['monglo.js'][2666]++;
+            _$jscoverage['monglo.js'][2667]++;
             if (type === "$exists") {
-              _$jscoverage['monglo.js'][2667]++;
+              _$jscoverage['monglo.js'][2668]++;
               if (arg) {
-                _$jscoverage['monglo.js'][2668]++;
+                _$jscoverage['monglo.js'][2669]++;
                 expr = "x!==undefined";
               }
               else {
-                _$jscoverage['monglo.js'][2670]++;
+                _$jscoverage['monglo.js'][2671]++;
                 expr = "x===undefined";
               }
-              _$jscoverage['monglo.js'][2671]++;
+              _$jscoverage['monglo.js'][2672]++;
               search = null;
             }
             else {
-              _$jscoverage['monglo.js'][2672]++;
+              _$jscoverage['monglo.js'][2673]++;
               if (type === "$mod") {
-                _$jscoverage['monglo.js'][2673]++;
+                _$jscoverage['monglo.js'][2674]++;
                 expr = "x%" + JSON.stringify(arg[0]) + "===" + JSON.stringify(arg[1]);
               }
               else {
-                _$jscoverage['monglo.js'][2675]++;
+                _$jscoverage['monglo.js'][2676]++;
                 if (type === "$ne") {
-                  _$jscoverage['monglo.js'][2676]++;
+                  _$jscoverage['monglo.js'][2677]++;
                   if (typeof arg !== "object") {
-                    _$jscoverage['monglo.js'][2677]++;
+                    _$jscoverage['monglo.js'][2678]++;
                     expr = "x===" + JSON.stringify(arg);
                   }
                   else {
-                    _$jscoverage['monglo.js'][2679]++;
+                    _$jscoverage['monglo.js'][2680]++;
                     expr = "f._equal(x," + JSON.stringify(arg) + ")";
                   }
-                  _$jscoverage['monglo.js'][2680]++;
-                  search = "_matches_plus";
                   _$jscoverage['monglo.js'][2681]++;
+                  search = "_matches_plus";
+                  _$jscoverage['monglo.js'][2682]++;
                   negate = true;
                 }
                 else {
-                  _$jscoverage['monglo.js'][2682]++;
+                  _$jscoverage['monglo.js'][2683]++;
                   if (type === "$in") {
-                    _$jscoverage['monglo.js'][2683]++;
-                    expr = "f._in(x," + JSON.stringify(arg) + ")";
                     _$jscoverage['monglo.js'][2684]++;
+                    expr = "f._in(x," + JSON.stringify(arg) + ")";
+                    _$jscoverage['monglo.js'][2685]++;
                     search = "_matches_plus";
                   }
                   else {
-                    _$jscoverage['monglo.js'][2685]++;
+                    _$jscoverage['monglo.js'][2686]++;
                     if (type === "$nin") {
-                      _$jscoverage['monglo.js'][2686]++;
-                      expr = "f._in(x," + JSON.stringify(arg) + ")";
                       _$jscoverage['monglo.js'][2687]++;
-                      search = "_matches_plus";
+                      expr = "f._in(x," + JSON.stringify(arg) + ")";
                       _$jscoverage['monglo.js'][2688]++;
+                      search = "_matches_plus";
+                      _$jscoverage['monglo.js'][2689]++;
                       negate = true;
                     }
                     else {
-                      _$jscoverage['monglo.js'][2689]++;
+                      _$jscoverage['monglo.js'][2690]++;
                       if (type === "$size") {
-                        _$jscoverage['monglo.js'][2690]++;
-                        expr = "(x instanceof Array)&&x.length===" + arg;
                         _$jscoverage['monglo.js'][2691]++;
+                        expr = "(x instanceof Array)&&x.length===" + arg;
+                        _$jscoverage['monglo.js'][2692]++;
                         search = null;
                       }
                       else {
-                        _$jscoverage['monglo.js'][2692]++;
+                        _$jscoverage['monglo.js'][2693]++;
                         if (type === "$type") {
-                          _$jscoverage['monglo.js'][2696]++;
+                          _$jscoverage['monglo.js'][2697]++;
                           expr = "f._type(x)===" + JSON.stringify(arg);
                         }
                         else {
-                          _$jscoverage['monglo.js'][2697]++;
+                          _$jscoverage['monglo.js'][2698]++;
                           if (type === "$regex") {
-                            _$jscoverage['monglo.js'][2702]++;
+                            _$jscoverage['monglo.js'][2703]++;
                             if ("$options" in others && /[^gim]/.test(others.$options)) {
-                              _$jscoverage['monglo.js'][2703]++;
+                              _$jscoverage['monglo.js'][2704]++;
                               throw Error("Only the i, m, and g regexp options are supported");
                             }
-                            _$jscoverage['monglo.js'][2704]++;
-                            expr = "literals[" + literals.length + "].test(x)";
                             _$jscoverage['monglo.js'][2705]++;
+                            expr = "literals[" + literals.length + "].test(x)";
+                            _$jscoverage['monglo.js'][2706]++;
                             if (arg instanceof RegExp) {
-                              _$jscoverage['monglo.js'][2706]++;
+                              _$jscoverage['monglo.js'][2707]++;
                               if ("$options" in others) {
-                                _$jscoverage['monglo.js'][2707]++;
+                                _$jscoverage['monglo.js'][2708]++;
                                 literals.push(new RegExp(arg.source, others.$options));
                               }
                               else {
-                                _$jscoverage['monglo.js'][2709]++;
+                                _$jscoverage['monglo.js'][2710]++;
                                 literals.push(arg);
                               }
                             }
                             else {
-                              _$jscoverage['monglo.js'][2712]++;
+                              _$jscoverage['monglo.js'][2713]++;
                               literals.push(new RegExp(arg, others.$options));
                             }
                           }
                           else {
-                            _$jscoverage['monglo.js'][2714]++;
+                            _$jscoverage['monglo.js'][2715]++;
                             if (type === "$options") {
-                              _$jscoverage['monglo.js'][2715]++;
-                              expr = "true";
                               _$jscoverage['monglo.js'][2716]++;
+                              expr = "true";
+                              _$jscoverage['monglo.js'][2717]++;
                               search = null;
                             }
                             else {
-                              _$jscoverage['monglo.js'][2717]++;
+                              _$jscoverage['monglo.js'][2718]++;
                               if (type === "$elemMatch") {
-                                _$jscoverage['monglo.js'][2719]++;
+                                _$jscoverage['monglo.js'][2720]++;
                                 throw Error("$elemMatch unimplemented");
                               }
                               else {
-                                _$jscoverage['monglo.js'][2720]++;
+                                _$jscoverage['monglo.js'][2721]++;
                                 if (type === "$not") {
-                                  _$jscoverage['monglo.js'][2724]++;
-                                  expr = "!" + Selector._exprForOperatorTest(arg, literals);
                                   _$jscoverage['monglo.js'][2725]++;
+                                  expr = "!" + Selector._exprForOperatorTest(arg, literals);
+                                  _$jscoverage['monglo.js'][2726]++;
                                   search = null;
                                 }
                                 else {
-                                  _$jscoverage['monglo.js'][2727]++;
+                                  _$jscoverage['monglo.js'][2728]++;
                                   throw Error("Unrecognized key in selector: " + type);
                                 }
                               }
@@ -4625,159 +4629,159 @@ Selector._exprForConstraint = (function (type, arg, others, literals) {
       }
     }
   }
-  _$jscoverage['monglo.js'][2730]++;
+  _$jscoverage['monglo.js'][2731]++;
   if (search) {
-    _$jscoverage['monglo.js'][2731]++;
+    _$jscoverage['monglo.js'][2732]++;
     expr = "f." + search + "(x,function(x){return " + expr + ";})";
   }
-  _$jscoverage['monglo.js'][2735]++;
+  _$jscoverage['monglo.js'][2736]++;
   if (negate) {
-    _$jscoverage['monglo.js'][2736]++;
+    _$jscoverage['monglo.js'][2737]++;
     expr = "!" + expr;
   }
-  _$jscoverage['monglo.js'][2738]++;
+  _$jscoverage['monglo.js'][2739]++;
   return expr;
 });
-_$jscoverage['monglo.js'][2755]++;
+_$jscoverage['monglo.js'][2756]++;
 Collection._compileSort = (function (spec) {
-  _$jscoverage['monglo.js'][2756]++;
-  var keys = [];
   _$jscoverage['monglo.js'][2757]++;
+  var keys = [];
+  _$jscoverage['monglo.js'][2758]++;
   var asc = [];
-  _$jscoverage['monglo.js'][2759]++;
+  _$jscoverage['monglo.js'][2760]++;
   if (spec instanceof Array) {
-    _$jscoverage['monglo.js'][2760]++;
+    _$jscoverage['monglo.js'][2761]++;
     for (var i = 0; i < spec.length; i++) {
-      _$jscoverage['monglo.js'][2761]++;
+      _$jscoverage['monglo.js'][2762]++;
       if (typeof spec[i] === "string") {
-        _$jscoverage['monglo.js'][2762]++;
-        keys.push(spec[i]);
         _$jscoverage['monglo.js'][2763]++;
+        keys.push(spec[i]);
+        _$jscoverage['monglo.js'][2764]++;
         asc.push(true);
       }
       else {
-        _$jscoverage['monglo.js'][2765]++;
-        keys.push(spec[i][0]);
         _$jscoverage['monglo.js'][2766]++;
+        keys.push(spec[i][0]);
+        _$jscoverage['monglo.js'][2767]++;
         asc.push(spec[i][1] !== "desc");
       }
 }
   }
   else {
-    _$jscoverage['monglo.js'][2769]++;
+    _$jscoverage['monglo.js'][2770]++;
     if (typeof spec === "object") {
-      _$jscoverage['monglo.js'][2770]++;
+      _$jscoverage['monglo.js'][2771]++;
       for (key in spec) {
-        _$jscoverage['monglo.js'][2771]++;
-        keys.push(key);
         _$jscoverage['monglo.js'][2772]++;
+        keys.push(key);
+        _$jscoverage['monglo.js'][2773]++;
         asc.push(! (spec[key] < 0));
 }
     }
     else {
-      _$jscoverage['monglo.js'][2775]++;
+      _$jscoverage['monglo.js'][2776]++;
       throw Error("Bad sort specification: ", JSON.stringify(spec));
     }
   }
-  _$jscoverage['monglo.js'][2778]++;
-  if (keys.length === 0) {
-    _$jscoverage['monglo.js'][2779]++;
-    return (function () {
   _$jscoverage['monglo.js'][2779]++;
+  if (keys.length === 0) {
+    _$jscoverage['monglo.js'][2780]++;
+    return (function () {
+  _$jscoverage['monglo.js'][2780]++;
   return 0;
 });
   }
-  _$jscoverage['monglo.js'][2783]++;
-  var _func;
   _$jscoverage['monglo.js'][2784]++;
-  var code = "_func = (function(c){return function(a,b){var x;";
+  var _func;
   _$jscoverage['monglo.js'][2785]++;
+  var code = "_func = (function(c){return function(a,b){var x;";
+  _$jscoverage['monglo.js'][2786]++;
   for (var i = 0; i < keys.length; i++) {
-    _$jscoverage['monglo.js'][2786]++;
+    _$jscoverage['monglo.js'][2787]++;
     if (i !== 0) {
-      _$jscoverage['monglo.js'][2787]++;
+      _$jscoverage['monglo.js'][2788]++;
       code += "if(x!==0)return x;";
     }
-    _$jscoverage['monglo.js'][2788]++;
+    _$jscoverage['monglo.js'][2789]++;
     code += "x=" + (asc[i]? "": "-") + "c(a[" + JSON.stringify(keys[i]) + "],b[" + JSON.stringify(keys[i]) + "]);";
 }
-  _$jscoverage['monglo.js'][2792]++;
+  _$jscoverage['monglo.js'][2793]++;
   code += "return x;};})";
-  _$jscoverage['monglo.js'][2794]++;
-  eval(code);
   _$jscoverage['monglo.js'][2795]++;
+  eval(code);
+  _$jscoverage['monglo.js'][2796]++;
   return _func(Collection._f._cmp);
 });
-_$jscoverage['monglo.js'][2796]++;
+_$jscoverage['monglo.js'][2797]++;
 var Utils = {};
-_$jscoverage['monglo.js'][2798]++;
+_$jscoverage['monglo.js'][2799]++;
 Utils._deepcopy = (function (v) {
-  _$jscoverage['monglo.js'][2799]++;
+  _$jscoverage['monglo.js'][2800]++;
   if (typeof v !== "object") {
-    _$jscoverage['monglo.js'][2800]++;
+    _$jscoverage['monglo.js'][2801]++;
     return v;
   }
-  _$jscoverage['monglo.js'][2801]++;
+  _$jscoverage['monglo.js'][2802]++;
   if (v === null) {
-    _$jscoverage['monglo.js'][2802]++;
+    _$jscoverage['monglo.js'][2803]++;
     return null;
   }
-  _$jscoverage['monglo.js'][2803]++;
+  _$jscoverage['monglo.js'][2804]++;
   if (utils.isArray(v)) {
-    _$jscoverage['monglo.js'][2804]++;
-    var ret = v.slice(0);
     _$jscoverage['monglo.js'][2805]++;
+    var ret = v.slice(0);
+    _$jscoverage['monglo.js'][2806]++;
     for (var i = 0; i < v.length; i++) {
-      _$jscoverage['monglo.js'][2806]++;
+      _$jscoverage['monglo.js'][2807]++;
       ret[i] = Utils._deepcopy(ret[i]);
 }
-    _$jscoverage['monglo.js'][2807]++;
+    _$jscoverage['monglo.js'][2808]++;
     return ret;
   }
-  _$jscoverage['monglo.js'][2809]++;
-  var ret = {};
   _$jscoverage['monglo.js'][2810]++;
+  var ret = {};
+  _$jscoverage['monglo.js'][2811]++;
   for (var key in v) {
-    _$jscoverage['monglo.js'][2811]++;
+    _$jscoverage['monglo.js'][2812]++;
     ret[key] = Utils._deepcopy(v[key]);
 }
-  _$jscoverage['monglo.js'][2812]++;
+  _$jscoverage['monglo.js'][2813]++;
   return ret;
 });
-_$jscoverage['monglo.js'][2815]++;
+_$jscoverage['monglo.js'][2816]++;
 Utils.each = Utils.forEach = (function (obj, iterator, context) {
-  _$jscoverage['monglo.js'][2816]++;
+  _$jscoverage['monglo.js'][2817]++;
   if (obj === null) {
-    _$jscoverage['monglo.js'][2816]++;
+    _$jscoverage['monglo.js'][2817]++;
     return;
   }
-  _$jscoverage['monglo.js'][2817]++;
-  var nativeForEach = Array.prototype.forEach;
   _$jscoverage['monglo.js'][2818]++;
+  var nativeForEach = Array.prototype.forEach;
+  _$jscoverage['monglo.js'][2819]++;
   if (nativeForEach && obj.forEach === nativeForEach) {
-    _$jscoverage['monglo.js'][2819]++;
+    _$jscoverage['monglo.js'][2820]++;
     obj.forEach(iterator, context);
   }
   else {
-    _$jscoverage['monglo.js'][2820]++;
+    _$jscoverage['monglo.js'][2821]++;
     if (obj.length === + obj.length) {
-      _$jscoverage['monglo.js'][2821]++;
+      _$jscoverage['monglo.js'][2822]++;
       for (var i = 0, l = obj.length; i < l; i++) {
-        _$jscoverage['monglo.js'][2822]++;
+        _$jscoverage['monglo.js'][2823]++;
         if (iterator.call(context, obj[i], i, obj) === breaker) {
-          _$jscoverage['monglo.js'][2822]++;
+          _$jscoverage['monglo.js'][2823]++;
           return;
         }
 }
     }
     else {
-      _$jscoverage['monglo.js'][2825]++;
+      _$jscoverage['monglo.js'][2826]++;
       for (var key in obj) {
-        _$jscoverage['monglo.js'][2826]++;
+        _$jscoverage['monglo.js'][2827]++;
         if (_.has(obj, key)) {
-          _$jscoverage['monglo.js'][2827]++;
+          _$jscoverage['monglo.js'][2828]++;
           if (iterator.call(context, obj[key], key, obj) === breaker) {
-            _$jscoverage['monglo.js'][2827]++;
+            _$jscoverage['monglo.js'][2828]++;
             return;
           }
         }
@@ -4785,14 +4789,14 @@ Utils.each = Utils.forEach = (function (obj, iterator, context) {
     }
   }
 });
-_$jscoverage['monglo.js'][2833]++;
+_$jscoverage['monglo.js'][2834]++;
 Utils.isArray = Array.isArray || (function (obj) {
-  _$jscoverage['monglo.js'][2834]++;
+  _$jscoverage['monglo.js'][2835]++;
   return toString.call(obj) == "[object Array]";
 });
-_$jscoverage['monglo.js'][2837]++;
+_$jscoverage['monglo.js'][2838]++;
 Utils.debug = (function (data) {
 });
-_$jscoverage['monglo.js'][2839]++;
+_$jscoverage['monglo.js'][2840]++;
 var utils = Utils;
-_$jscoverage['monglo.js'].source = ["// XXX type checking on selectors (graceful error if malformed)","","// Collection: a set of documents that supports queries and modifiers.","","// Cursor: a specification for a particular subset of documents, w/","// a defined order, limit, and offset.  creating a Cursor with Collection.find(),","","// LiveResultsSet: the return value of a live query.","","function Collection (db, collectionName, pkFactory, options) {","   if(!(this instanceof Collection)) return new Collection(db, collectionName, pkFactory, options);","","  checkCollectionName(collectionName);","","  this.db = db;","  this.name = collectionName;","  this.docs = {};","  this.snapshots = [];","  this.opts = options != null &amp;&amp; ('object' === typeof options) ? options : {};","  var self = this;","}","","Collection.prototype.__proto__ = EventEmitter.prototype;","","Collection.prototype.constructor = Collection;","","var testForFields = {'limit' : 1, 'sort' : 1, 'fields' : 1, 'skip' : 1, 'hint' : 1, 'explain' : 1, 'snapshot' : 1","  , 'timeout' : 1, 'tailable' : 1, 'batchSize' : 1, 'raw' : 1, 'read' : 1","  , 'returnKey' : 1, 'maxScan' : 1, 'min' : 1, 'max' : 1, 'showDiskLoc' : 1, 'comment' : 1, 'dbName' : 1, 'exhaust': 1","  , 'tailableRetryInterval': 1};","","Collection.prototype.find = function () {","  var self = this;"," var options","    , args = Array.prototype.slice.call(arguments, 0)","    , has_callback = typeof args[args.length - 1] === 'function'","    , has_weird_callback = typeof args[0] === 'function'","    , callback = has_callback ? args.pop() : (has_weird_callback ? args.shift() : null)","    , len = args.length","    , selector = len &gt;= 1 ? args[0] : {}","    , fields = len &gt;= 2 ? args[1] : undefined;","","  if(len === 1 &amp;&amp; has_weird_callback) {","    // backwards compat for callback?, options case","    selector = {};","    options = args[0];","  }","","  if(len === 2 &amp;&amp; !utils.isArray(fields)) {","    var fieldKeys = Object.getOwnPropertyNames(fields);","    var is_option = false;","","    for(var i = 0; i &lt; fieldKeys.length; i++) {","      if(testForFields[fieldKeys[i]] != null) {","        is_option = true;","        break;","      }","    }","","    if(is_option) {","      options = fields;","      fields = undefined;","    } else {","      options = {};","    }","  } else if(len === 2 &amp;&amp; utils.isArray(fields) &amp;&amp; !utils.isArray(fields[0])) {","    var newFields = {};","    // Rewrite the array","    for(var i = 0; i &lt; fields.length; i++) {","      newFields[fields[i]] = 1;","    }","    // Set the fields","    fields = newFields;","  }","","  if(3 === len) {","    options = args[2];","  }","","  // Ensure selector is not null","  selector = selector == null ? {} : selector;","  // Validate correctness off the selector","  var object = selector;","","  // Validate correctness of the field selector","  var object = fields;","","  // Check special case where we are using an objectId","  if(selector instanceof ObjectID) {","    selector = {_id:selector};","  }","","  // If it's a serialized fields field we need to just let it through","  // user be warned it better be good","  if(options &amp;&amp; options.fields) {","    fields = {};","","    if(utils.isArray(options.fields)) {","      if(!options.fields.length) {","        fields['_id'] = 1;","      } else {","        for (var i = 0, l = options.fields.length; i &lt; l; i++) {","          fields[options.fields[i]] = 1;","        }","      }","    } else {","      fields = options.fields;","    }","  }","","  if (!options) options = {};","  options.skip = len &gt; 3 ? args[2] : options.skip ? options.skip : 0;","  options.limit = len &gt; 3 ? args[3] : options.limit ? options.limit : 0;","","  // Set option","  var o = options;","","    // callback for backward compatibility","      // TODO refactor Cursor args","    var cursor = new Cursor(this.db, this, selector, fields, o.skip, o.limit, o.sort);","","  this.emit('find', selector,cursor,o);","  this.db._executeCommand('find', {conn:self.db,selector:selector,options:o});","  return (callback) ? callback(cursor) : cursor;","};","","Collection.prototype.findOne = function (selector, options) {","  if (arguments.length === 0)","    selector = {};","","  //options = options || {};","  //options.limit = 1;","  return this.find(selector).fetch()[0];","};","","// TODO enforce rule that field names can't start with '$' or contain '.'","// (real mongodb does in fact enforce this)","// TODO possibly enforce that 'undefined' does not appear (we assume","// this in our handling of null and $exists)","Collection.prototype.insert = function (doc,options,cb) {","  var self = this;","  if('function' === typeof options){","    cb = options; options = {};","  }","  options = options || {};","  doc = utils._deepcopy(doc);","","  if (!('_id' in doc)){","    doc._id = new ObjectId();","  }","  doc.timestamp = new ObjectId().generationTime;","  self.docs[doc._id] = doc;","","  // trigger live queries that match","  for (var qid in self.queries) {","    var query = self.queries[qid];","    if (query.selector_f(doc))","      Collection._insertInResults(query, doc);","  }","// Hack to prevent updates from registering as inserts also"," if(options.ignore){  return (cb) ? cb(doc) : doc; }",""," self.emit('insert',doc);"," this.db._executeCommand('insert',{conn:self.db, collection:self, doc:self.docs[doc._id]});"," if(cb){ cb(doc)};"," return this;","};","","Collection.prototype.remove = function (selector) {","  var self = this;","  var remove = [];","  var query_remove = [];","","  var selector_f = Selector._compileSelector(selector);","  for (var id in self.docs) {","    var doc = self.docs[id];","    if (selector_f(doc)) {","      remove.push(id);","    }","  }","  for (var i = 0; i &lt; remove.length; i++) {","    delete self.docs[remove[i]];","  }","","  self.emit('remove', selector);","  this.db._executeCommand('remove',{conn:self.db, selector:selector, docs:remove});","  return this;","};","","// TODO atomicity: if multi is true, and one modification fails, do","// we rollback the whole operation, or what?","Collection.prototype.update = function (selector, mod, options, cb) {","  var self = this;","  if('function' === typeof options){","    cb = options; options = {};","  }","  options = options || {};","","  var self = this;","  var any = false;","  var updatedDocs =[];","  var selector_f = Selector._compileSelector(selector);","  for (var id in self.docs) {","    var doc = self.docs[id];","    if (selector_f(doc)) {","      updatedDocs.push(doc);","      Collection._modify(doc, mod);","      if (!options.multi) {","        any = true;","        self.emit('update', selector, mod, options);","        self.db._executeCommand('update',{conn:self.db, selector:selector, modifier:mod, options:options, docs:updatedDocs });","        return (cb) ? cb(self.docs[id]) : self.docs[id];","      }","    }","  }","","  if (options.upsert) {","    throw new Error(\"upsert not yet implemented\");","  }","","  if (options.upsert &amp;&amp; !any) {","    // TODO is this actually right? don't we have to resolve/delete","    // $-ops or something like that?","    insert = utils._deepcopy(selector);","    Collection._modify(insert, mod);","    self.insert(insert,{ignore:true});","  }","  var newDoc = self.find(selector).fetch();","  //TODO fix this ghetto return","","  self.emit('update', selector, mod, options);","  self.db._executeCommand('update',{conn:self.db, selector:selector, modifier:mod, options:options, docs:newDoc });","  return (cb) ? cb(newDoc) : newDoc;","};","","Collection.prototype.save = function(obj,cb){","  var self = this;","  if(self.docs[obj._id]){","    self.update({_id:obj._id});","  } else{","    self.insert(obj);","  }","};","","Collection.prototype.ensureIndex = function(){","  //TODO Implement EnsureIndex","  throw new Error('Collection#ensureIndex unimplemented by driver');","};","","// TODO document (at some point)","// TODO test","// TODO obviously this particular implementation will not be very efficient","Collection.prototype.backup = function () {","  var snapID = new ObjectId();","  this.snapshots[snapID] = {};","  for (var id in this.docs){","    this.snapshots[snapID][id] = this.docs[id];","  }","  this.stores.snapshot({_id : this.docs[id], data : this.docs[id]});","  this.emit('snapshot', {_id : this.docs[id], data : this.docs[id]});","};","","// Lists available Backups","Collection.prototype.backups = function () {","  var keys = [];","  for(var k in obj) {","    keys.push({id:k, timestamp:ObjectId.hexToTimestamp(k), data:obj[k]});","  }","  return keys;","};","","// Lists available Backups","Collection.prototype.deleteBackup = function (id) {","  delete this.snapshots[id];","  return keys;","};","","// Restore the snapshot. If no snapshot exists, raise an","// exception.","// TODO document (at some point)","// TODO test","Collection.prototype.restore = function (id,rm,cb) {","  if (!this.snapshots.length){","    throw new Error(\"No current snapshot\");","  }","","  if('function' === typeof rm){ cb = rm; rm = false; }","","  this.docs = this.snapshots[id||0];","  // Rerun all queries from scratch. (TODO should do something more","  // efficient -- diffing at least; ideally, take the snapshot in an","  // efficient way, say with an undo log, so that we can efficiently","  // tell what changed).","  for (var qid in this.queries) {","    var query = this.queries[qid];","","    var old_results = query.results;","","    query.results = query.cursor._getRawObjects();","","    if (!this.paused)","      Collection._diffQuery(old_results, query.results, query, true);","  }","  this.emit('restore');","  if(cb){ return cb(); }","};","","/**"," * @ignore"," */","var checkCollectionName = function checkCollectionName (collectionName) {","  if ('string' !== typeof collectionName) {","    throw Error(\"collection name must be a String\");","  }","","  if (!collectionName || collectionName.indexOf('..') != -1) {","    throw Error(\"collection names cannot be empty\");","  }","","  if (collectionName.indexOf('$') != -1 &amp;&amp;","      collectionName.match(/((^\\$cmd)|(oplog\\.\\$main))/) == null) {","    throw Error(\"collection names must not contain '$'\");","  }","","  if (collectionName.match(/^\\.|\\.$/) != null) {","    throw Error(\"collection names must not start or end with '.'\");","  }","};","function Cursor(db, collection, selector, fields, skip, limit,sort) {","  this.db = db;","  this.collection = collection;","  this.selector = selector;","  this.fields = fields;","  this.skipValue = (skip === null) ? 0 : skip;","  this.limitValue = (limit === null) ? 0 : limit;","  this.sortValue = sort;","","  // This name",""," if ((typeof this.selector === \"string\") || (typeof this.selector === \"number\")) {","    // stash for fast path","    this.selector_id = this.selector;","    this.selector_f = Selector._compileSelector(this.selector);","  } else {","    this.selector_f = Selector._compileSelector(this.selector);","    this.sort_f = this.sortValue ? Collection._compileSort(this.sortValue) : null;","  }","","    this.db_objects = null;","    this.cursor_pos = 0;","  }","","Cursor.prototype.rewind = function () {","  var self = this;","  self.db_objects = null;","  self.cursor_pos = 0;","};","","Cursor.prototype.forEach = function (callback) {","  var self = this;","  var doc;","","  if (self.db_objects === null)","    self.db_objects = self._getRawObjects();","","  while (self.cursor_pos &lt; self.db_objects.length)","    callback(utils._deepcopy(self.db_objects[self.cursor_pos++]));","};","","Cursor.prototype.map = function (callback) {","  var self = this;","  var res = [];","  self.forEach(function (doc) {","    res.push(callback(doc));","  });","  return res;","};","","Cursor.prototype.fetch = function () {","  var self = this;","  var res = [];","  self.forEach(function (doc) {","    res.push(doc);","  });","  return res;","};","","Cursor.prototype.count = function () {","  var self = this;","","  if (self.db_objects === null)","    self.db_objects = self._getRawObjects();","","  return self.db_objects.length;","};","","Cursor.prototype.sort = function(){","","};","","Cursor.prototype.limit = function(){","","};","","// constructs sorted array of matching objects, but doesn't copy them.","// respects sort, skip, and limit properties of the query.","// if sort_f is falsey, no sort -- you get the natural order","Cursor.prototype._getRawObjects = function () {","  var self = this;","","  // fast path for single ID value","  if (self.selector_id &amp;&amp; (self.selector_id in self.collection.docs))","    return [self.collection.docs[self.selector_id]];","","  // slow path for arbitrary selector, sort, skip, limit","  var results = [];","  for (var id in self.collection.docs) {","    var doc = self.collection.docs[id];","    if (self.selector_f(doc))","      results.push(doc);","  }","","  if (self.sort_f)","    results.sort(self.sort_f);","","  var idx_start = self.skipValue || 0;","  var idx_end = self.limitValue ? (self.limitValue + idx_start) : results.length;","  return results.slice(idx_start, idx_end);","};/*!"," * Monglo"," * Copyright (c) 2012 Christian Sullivan &lt;cs@euforic.co&gt;"," * MIT Licensed"," */","var Monglo = function(databaseName) {","","  if(!(this instanceof Monglo)) return new Monglo(databaseName);","","  this._collections = {};","  this._stores = [];","","  if(!Monglo.connections) { Monglo.connections = {}; }","","  //Temp patch until I figure out how far I want to take the implementation;","","  if(Monglo.connections[databaseName]){","    throw new Error('db name already in use');","  }","","  this.databaseName = databaseName;","","  Monglo.connections[databaseName] = new ObjectID();","","  // Ensure we have a valid db name","  validateDatabaseName(databaseName);","","};","","","Monglo.prototype.__proto__ = EventEmitter.proto;","","Monglo.prototype.constructor = Monglo;","","/**"," * version Number"," */","","Monglo.version = '0.1.2';","","Monglo._debug = function(){","};","","/**"," * Connection Pool"," * @type {Array}"," */","","Monglo.connections = {};","","/**"," * Persistance Plugins"," * @param  {[type]} name [description]"," * @param  {[type]} args [description]"," * @return {[type]}      [description]"," */","Monglo.prototype._executeCommand = function(name,args,cb){","  var self = this;","  var command = name;","","  utils.forEach(self._stores,function(fn){","    if('function' === typeof fn[command]){","      fn[command](args,cb);","    } else if('function' === typeof fn.all){","      args.name = name;","      fn.all(args,cb);","    }","  });","};","","/**"," * Middleware functions"," * @param  {[type]}   name [description]"," * @param  {Function} fn   [description]"," * @return {[type]}        [description]"," */","","Monglo.prototype.use = function(name,fn){"," switch(name){","  case 'sync':","    this._sync = fn;","    break;","  case 'store':","    this._stores.push(fn);","    break;","  case 'debug':","    Monglo._debug = fn;","    break;","  }","};","","/**"," * Stores for remote and local persistence"," *"," * @param {[type]} store [description]"," * @return {Monglo} Current Instance"," * @api public"," */","","Monglo.prototype.addStore = function(store){","  this._stores.push(store);","  return this;","};","","/**"," * Returns a cursor to all the collection information."," *"," * @param {String} [collectionName] the collection name we wish to retrieve the information from."," * @param {Function} callback returns option results."," * @return {null}"," * @api public"," */","","Monglo.prototype.collectionsInfo = function(collectionName, callback) {","};","","/**"," * Get the list of all collection names for the specified db"," *"," * Options"," *  - **namesOnly** {String, default:false}, Return only the full collection namespace."," *"," * @param {String} [collectionName] the collection name we wish to filter by."," * @param {Object} [options] additional options during update."," * @param {Function} callback returns option results."," * @return {null}"," * @api public"," */","","Monglo.prototype.collectionNames = function(collectionName, options, callback) {","  var self = this;","  var args = Array.prototype.slice.call(arguments, 0);","  callback = args.pop();","  collectionName = args.length ? args.shift() : null;","  options = args.length ? args.shift() : {};","","  var collectionList =[];","  for(var name in self._collections){","    collectionList.push(name);","  }","  callback(null,collectionList);","};","","","Monglo.prototype.collection = function(collectionName, options, callback) {","  var self = this;","  var collection;","  var collectionFullName =  self.databaseName + \".\" + collectionName;","  if('function' === typeof options){ options = {}; callback = options; } else{","    options = options || {};","  }","","  if(self._collections[collectionName]){","    self._executeCommand('createCollection', {conn: self, collection:self._collections[collectionName]});","    return callback(null, self._collections[collectionName]);","  } else {","    self._collections[collectionName] = new Collection(self, collectionName, self.pkFactory, options);","    self._executeCommand('createCollection', {conn: self, collection:self._collections[collectionName]});","  }","    Object.defineProperty(Monglo.prototype, collectionName, {","      enumerable: true","    , get: function () {","        return self._collections[collectionName];","      }","    , set: function (v) {","        self._collections[collectionName] = v;","      }","  });","","  return (callback) ? callback(self._collections[collectionName]) : self._collections[collectionName];","};","","/**"," * Fetch all collections for the current Monglo."," *"," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.collections = function(callback) {","  var self = this;","  // Let's get the collection names","  self.collectionNames(function(err, documents) {","    if(err != null) return callback(err, null);","    var collections = [];","    utils.forEach(documents,function(document) {","      collections.push(new Collection(self, document.name.replace(self.databaseName + \".\", ''), self.pkFactory));","    });","    // Return the collection objects","    callback(null, collections);","  });","};","","/**"," * Dereference a dbref, against a db"," *"," * @param {DBRef} dbRef db reference object we wish to resolve."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.dereference = function(dbRef, callback) {","  var db = this;","  // If we have a db reference then let's get the db first","  if(dbRef.db !== null) db = this.db(dbRef.db);","  // Fetch the collection and find the reference","  var collection = Monglo.collection(dbRef.namespace);","  collection.findOne({'_id':dbRef.oid}, function(err, result) {","    callback(err, result);","  });","};","","/**"," * Creates a collection on a server pre-allocating space, need to create f.ex capped collections."," *"," * Options"," *  - **safe** {true | {w:n, wtimeout:n} | {fsync:true}, default:false}, executes with a getLastError command returning the results of the command on MongoMonglo."," *  - **serializeFunctions** {Boolean, default:false}, serialize functions on the document."," *  - **raw** {Boolean, default:false}, perform all operations using raw bson objects."," *  - **pkFactory** {Object}, object overriding the basic ObjectID primary key generation."," *  - **capped** {Boolean, default:false}, create a capped collection."," *  - **size** {Number}, the size of the capped collection in bytes."," *  - **max** {Number}, the maximum number of documents in the capped collection."," *  - **autoIndexId** {Boolean, default:false}, create an index on the _id field of the document, not created automatically on capped collections."," *  - **readPreference** {String}, the prefered read preference (ReadPreference.PRIMARY, ReadPreference.PRIMARY_PREFERRED, ReadPreference.SECONDARY, ReadPreference.SECONDARY_PREFERRED, ReadPreference.NEAREST)."," *"," * @param {String} collectionName the collection name we wish to access."," * @param {Object} [options] returns option results."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.createCollection = Monglo.prototype.collection;","","/**"," * Drop a collection from the database, removing it permanently. New accesses will create a new collection."," *"," * @param {String} collectionName the name of the collection we wish to drop."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.dropCollection = function(collectionName, callback) {","  var self = this;","  // Drop the collection","  this._executeCommand('dropCollection', {conn: this, collection: self });","};","","/**"," * Rename a collection."," *"," * @param {String} fromCollection the name of the current collection we wish to rename."," * @param {String} toCollection the new name of the collection."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.renameCollection = function(fromCollection, toCollection, callback) {","  var self = this;","  // Execute the command, return the new renamed collection if successful","  this._executeCommand('renameCollection', {conn: self, from: fromCollection, to: toCollection});","};","","","/**"," * Creates an index on the collection."," *"," * Options"," *  - **safe** {true | {w:n, wtimeout:n} | {fsync:true}, default:false}, executes with a"," *  - **unique** {Boolean, default:false}, creates an unique index."," *  - **sparse** {Boolean, default:false}, creates a sparse index."," *  - **background** {Boolean, default:false}, creates the index in the background, yielding whenever possible."," *  - **dropDups** {Boolean, default:false}, a unique index cannot be created on a key that has pre-existing duplicate values. If you would like to create the index anyway, keeping the first document the database indexes and deleting all subsequent documents that have duplicate value"," *  - **min** {Number}, for geospatial indexes set the lower bound for the co-ordinates."," *  - **max** {Number}, for geospatial indexes set the high bound for the co-ordinates."," *  - **v** {Number}, specify the format version of the indexes."," *  - **expireAfterSeconds** {Number}, allows you to expire data on indexes applied to a data (MongoDB 2.2 or higher)"," *  - **name** {String}, override the autogenerated index name (useful if the resulting name is larger than 128 bytes)"," *"," * @param {String} collectionName name of the collection to create the index on."," * @param {Object} fieldOrSpec fieldOrSpec that defines the index."," * @param {Object} [options] additional options during update."," * @param {Function} callback for results."," * @return {null}"," * @api public"," */","Monglo.prototype.createIndex = function(collectionName, fieldOrSpec, options, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Ensures that an index exists, if it does not it creates it"," *"," * Options"," *  - **safe** {true | {w:n, wtimeout:n} | {fsync:true}, default:false}, executes with a"," *  - **unique** {Boolean, default:false}, creates an unique index."," *  - **sparse** {Boolean, default:false}, creates a sparse index."," *  - **background** {Boolean, default:false}, creates the index in the background, yielding whenever possible."," *  - **dropDups** {Boolean, default:false}, a unique index cannot be created on a key that has pre-existing duplicate values. If you would like to create the index anyway, keeping the first document the database indexes and deleting all subsequent documents that have duplicate value"," *  - **min** {Number}, for geospatial indexes set the lower bound for the co-ordinates."," *  - **max** {Number}, for geospatial indexes set the high bound for the co-ordinates."," *  - **v** {Number}, specify the format version of the indexes."," *  - **expireAfterSeconds** {Number}, allows you to expire data on indexes applied to a data (MongoDB 2.2 or higher)"," *  - **name** {String}, override the autogenerated index name (useful if the resulting name is larger than 128 bytes)"," *"," * @param {String} collectionName name of the collection to create the index on."," * @param {Object} fieldOrSpec fieldOrSpec that defines the index."," * @param {Object} [options] additional options during update."," * @param {Function} callback for results."," * @return {null}"," * @api public"," */","Monglo.prototype.ensureIndex = function(collectionName, fieldOrSpec, options, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Drop an index on a collection."," *"," * @param {String} collectionName the name of the collection where the command will drop an index."," * @param {String} indexName name of the index to drop."," * @param {Function} callback for results."," * @return {null}"," * @api public"," */","Monglo.prototype.dropIndex = function(collectionName, indexName, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Reindex all indexes on the collection"," * Warning: reIndex is a blocking operation (indexes are rebuilt in the foreground) and will be slow for large collections."," *"," * @param {String} collectionName the name of the collection."," * @param {Function} callback returns the results."," * @api public","**/","Monglo.prototype.reIndex = function(collectionName, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Retrieves this collections index info."," *"," * Options"," *  - **full** {Boolean, default:false}, returns the full raw index information."," *  - **readPreference** {String}, the preferred read preference ((Server.PRIMARY, Server.PRIMARY_PREFERRED, Server.SECONDARY, Server.SECONDARY_PREFERRED, Server.NEAREST)."," *"," * @param {String} collectionName the name of the collection."," * @param {Object} [options] additional options during update."," * @param {Function} callback returns the index information."," * @return {null}"," * @api public"," */","Monglo.prototype.indexInformation = function(collectionName, options, callback) {","   throw new Error('Not implemented yet!');","};","","/**"," * Drop a database."," *"," * @param {Function} callback returns the index information."," * @return {null}"," * @api public"," */","Monglo.prototype.dropDatabase = function(callback) {","  var self = this;","  this._executeCommand('dropDatabase', {conn:this });","};","","exports.Monglo = Monglo;","","/**"," * @ignore"," */","function validateDatabaseName(databaseName) {","  if(typeof databaseName !== 'string') throw new Error(\"database name must be a string\");","  if(databaseName.length === 0) throw new Error(\"database name cannot be the empty string\");","","  var invalidChars = [\" \", \".\", \"$\", \"/\", \"\\\\\"];","  for(var i = 0; i &lt; invalidChars.length; i++) {","    if(databaseName.indexOf(invalidChars[i]) != -1) throw new Error(\"database names cannot contain the character '\" + invalidChars[i] + \"'\");","  }","}/**"," * Module dependencies."," */","/**"," * Binary Parser."," * Jonas Raoni Soares Silva"," * http://jsfromhell.com/classes/binary-parser [v1.0]"," */","var chr = String.fromCharCode;","","var maxBits = [];","for (var i = 0; i &lt; 64; i++) {","  maxBits[i] = Math.pow(2, i);","}","","function BinaryParser (bigEndian, allowExceptions) {","  if(!(this instanceof BinaryParser)) return new BinaryParser(bigEndian, allowExceptions);","  ","  this.bigEndian = bigEndian;","  this.allowExceptions = allowExceptions;","}","","BinaryParser.warn = function warn (msg) {","  if (this.allowExceptions) {","    throw new Error(msg);","  }","","  return 1;","};","","BinaryParser.decodeFloat = function decodeFloat (data, precisionBits, exponentBits) {","  var b = new this.Buffer(this.bigEndian, data);","","  b.checkBuffer(precisionBits + exponentBits + 1);","","  var bias = maxBits[exponentBits - 1] - 1","    , signal = b.readBits(precisionBits + exponentBits, 1)","    , exponent = b.readBits(precisionBits, exponentBits)","    , significand = 0","    , divisor = 2","    , curByte = b.buffer.length + (-precisionBits &gt;&gt; 3) - 1;","","  do {","    for (var byteValue = b.buffer[ ++curByte ], startBit = precisionBits % 8 || 8, mask = 1 &lt;&lt; startBit; mask &gt;&gt;= 1; ( byteValue &amp; mask ) &amp;&amp; ( significand += 1 / divisor ), divisor *= 2 );","  } while (precisionBits -= startBit);","","  return exponent == ( bias &lt;&lt; 1 ) + 1 ? significand ? NaN : signal ? -Infinity : +Infinity : ( 1 + signal * -2 ) * ( exponent || significand ? !exponent ? Math.pow( 2, -bias + 1 ) * significand : Math.pow( 2, exponent - bias ) * ( 1 + significand ) : 0 );","};","","BinaryParser.decodeInt = function decodeInt (data, bits, signed, forceBigEndian) {","  var b = new this.Buffer(this.bigEndian || forceBigEndian, data)","      , x = b.readBits(0, bits)","      , max = maxBits[bits]; //max = Math.pow( 2, bits );","  ","  return signed &amp;&amp; x &gt;= max / 2","      ? x - max","      : x;","};","","BinaryParser.encodeFloat = function encodeFloat (data, precisionBits, exponentBits) {","  var bias = maxBits[exponentBits - 1] - 1","    , minExp = -bias + 1","    , maxExp = bias","    , minUnnormExp = minExp - precisionBits","    , n = parseFloat(data)","    , status = isNaN(n) || n == -Infinity || n == +Infinity ? n : 0","    , exp = 0","    , len = 2 * bias + 1 + precisionBits + 3","    , bin = new Array(len)","    , signal = (n = status !== 0 ? 0 : n) &lt; 0","    , intPart = Math.floor(n = Math.abs(n))","    , floatPart = n - intPart","    , lastBit","    , rounded","    , result","    , i","    , j;","","  for (i = len; i; bin[--i] = 0);","","  for (i = bias + 2; intPart &amp;&amp; i; bin[--i] = intPart % 2, intPart = Math.floor(intPart / 2));","","  for (i = bias + 1; floatPart &gt; 0 &amp;&amp; i; (bin[++i] = ((floatPart *= 2) &gt;= 1) - 0 ) &amp;&amp; --floatPart);","","  for (i = -1; ++i &lt; len &amp;&amp; !bin[i];);","","  if (bin[(lastBit = precisionBits - 1 + (i = (exp = bias + 1 - i) &gt;= minExp &amp;&amp; exp &lt;= maxExp ? i + 1 : bias + 1 - (exp = minExp - 1))) + 1]) {","    if (!(rounded = bin[lastBit])) {","      for (j = lastBit + 2; !rounded &amp;&amp; j &lt; len; rounded = bin[j++]);","    }","","    for (j = lastBit + 1; rounded &amp;&amp; --j &gt;= 0; (bin[j] = !bin[j] - 0) &amp;&amp; (rounded = 0));","  }","","  for (i = i - 2 &lt; 0 ? -1 : i - 3; ++i &lt; len &amp;&amp; !bin[i];);","","  if ((exp = bias + 1 - i) &gt;= minExp &amp;&amp; exp &lt;= maxExp) {","    ++i;","  } else if (exp &lt; minExp) {","    exp != bias + 1 - len &amp;&amp; exp &lt; minUnnormExp &amp;&amp; this.warn(\"encodeFloat::float underflow\");","    i = bias + 1 - (exp = minExp - 1);","  }","","  if (intPart || status !== 0) {","    this.warn(intPart ? \"encodeFloat::float overflow\" : \"encodeFloat::\" + status);","    exp = maxExp + 1;","    i = bias + 2;","","    if (status == -Infinity) {","      signal = 1;","    } else if (isNaN(status)) {","      bin[i] = 1;","    }","  }","","  for (n = Math.abs(exp + bias), j = exponentBits + 1, result = \"\"; --j; result = (n % 2) + result, n = n &gt;&gt;= 1);","","  for (n = 0, j = 0, i = (result = (signal ? \"1\" : \"0\") + result + bin.slice(i, i + precisionBits).join(\"\")).length, r = []; i; j = (j + 1) % 8) {","    n += (1 &lt;&lt; j) * result.charAt(--i);","    if (j == 7) {","      r[r.length] = String.fromCharCode(n);","      n = 0;","    }","  }","","  r[r.length] = n","    ? String.fromCharCode(n)","    : \"\";","","  return (this.bigEndian ? r.reverse() : r).join(\"\");","};","","BinaryParser.encodeInt = function encodeInt (data, bits, signed, forceBigEndian) {","  var max = maxBits[bits];","","  if (data &gt;= max || data &lt; -(max / 2)) {","    this.warn(\"encodeInt::overflow\");","    data = 0;","  }","","  if (data &lt; 0) {","    data += max;","  }","","  for (var r = []; data; r[r.length] = String.fromCharCode(data % 256), data = Math.floor(data / 256));","","  for (bits = -(-bits &gt;&gt; 3) - r.length; bits--; r[r.length] = \"\\0\");","","  return ((this.bigEndian || forceBigEndian) ? r.reverse() : r).join(\"\");","};","","BinaryParser.toSmall    = function( data ){ return this.decodeInt( data,  8, true  ); };","BinaryParser.fromSmall  = function( data ){ return this.encodeInt( data,  8, true  ); };","BinaryParser.toByte     = function( data ){ return this.decodeInt( data,  8, false ); };","BinaryParser.fromByte   = function( data ){ return this.encodeInt( data,  8, false ); };","BinaryParser.toShort    = function( data ){ return this.decodeInt( data, 16, true  ); };","BinaryParser.fromShort  = function( data ){ return this.encodeInt( data, 16, true  ); };","BinaryParser.toWord     = function( data ){ return this.decodeInt( data, 16, false ); };","BinaryParser.fromWord   = function( data ){ return this.encodeInt( data, 16, false ); };","BinaryParser.toInt      = function( data ){ return this.decodeInt( data, 32, true  ); };","BinaryParser.fromInt    = function( data ){ return this.encodeInt( data, 32, true  ); };","BinaryParser.toLong     = function( data ){ return this.decodeInt( data, 64, true  ); };","BinaryParser.fromLong   = function( data ){ return this.encodeInt( data, 64, true  ); };","BinaryParser.toDWord    = function( data ){ return this.decodeInt( data, 32, false ); };","BinaryParser.fromDWord  = function( data ){ return this.encodeInt( data, 32, false ); };","BinaryParser.toQWord    = function( data ){ return this.decodeInt( data, 64, true ); };","BinaryParser.fromQWord  = function( data ){ return this.encodeInt( data, 64, true ); };","BinaryParser.toFloat    = function( data ){ return this.decodeFloat( data, 23, 8   ); };","BinaryParser.fromFloat  = function( data ){ return this.encodeFloat( data, 23, 8   ); };","BinaryParser.toDouble   = function( data ){ return this.decodeFloat( data, 52, 11  ); };","BinaryParser.fromDouble = function( data ){ return this.encodeFloat( data, 52, 11  ); };","","// Factor out the encode so it can be shared by add_header and push_int32","BinaryParser.encode_int32 = function encode_int32 (number, asArray) {","  var a, b, c, d, unsigned;","  unsigned = (number &lt; 0) ? (number + 0x100000000) : number;","  a = Math.floor(unsigned / 0xffffff);","  unsigned &amp;= 0xffffff;","  b = Math.floor(unsigned / 0xffff);","  unsigned &amp;= 0xffff;","  c = Math.floor(unsigned / 0xff);","  unsigned &amp;= 0xff;","  d = Math.floor(unsigned);","  return asArray ? [chr(a), chr(b), chr(c), chr(d)] : chr(a) + chr(b) + chr(c) + chr(d);","};","","BinaryParser.encode_int64 = function encode_int64 (number) {","  var a, b, c, d, e, f, g, h, unsigned;","  unsigned = (number &lt; 0) ? (number + 0x10000000000000000) : number;","  a = Math.floor(unsigned / 0xffffffffffffff);","  unsigned &amp;= 0xffffffffffffff;","  b = Math.floor(unsigned / 0xffffffffffff);","  unsigned &amp;= 0xffffffffffff;","  c = Math.floor(unsigned / 0xffffffffff);","  unsigned &amp;= 0xffffffffff;","  d = Math.floor(unsigned / 0xffffffff);","  unsigned &amp;= 0xffffffff;","  e = Math.floor(unsigned / 0xffffff);","  unsigned &amp;= 0xffffff;","  f = Math.floor(unsigned / 0xffff);","  unsigned &amp;= 0xffff;","  g = Math.floor(unsigned / 0xff);","  unsigned &amp;= 0xff;","  h = Math.floor(unsigned);","  return chr(a) + chr(b) + chr(c) + chr(d) + chr(e) + chr(f) + chr(g) + chr(h);","};","","/**"," * UTF8 methods"," */","","// Take a raw binary string and return a utf8 string","BinaryParser.decode_utf8 = function decode_utf8 (binaryStr) {","  var len = binaryStr.length","    , decoded = ''","    , i = 0","    , c = 0","    , c1 = 0","    , c2 = 0","    , c3;","","  while (i &lt; len) {","    c = binaryStr.charCodeAt(i);","    if (c &lt; 128) {","      decoded += String.fromCharCode(c);","      i++;","    } else if ((c &gt; 191) &amp;&amp; (c &lt; 224)) {","      c2 = binaryStr.charCodeAt(i+1);","      decoded += String.fromCharCode(((c &amp; 31) &lt;&lt; 6) | (c2 &amp; 63));","      i += 2;","    } else {","      c2 = binaryStr.charCodeAt(i+1);","      c3 = binaryStr.charCodeAt(i+2);","      decoded += String.fromCharCode(((c &amp; 15) &lt;&lt; 12) | ((c2 &amp; 63) &lt;&lt; 6) | (c3 &amp; 63));","      i += 3;","    }","  }","","  return decoded;","};","","// Encode a cstring","BinaryParser.encode_cstring = function encode_cstring (s) {","  return unescape(encodeURIComponent(s)) + BinaryParser.fromByte(0);","};","","// Take a utf8 string and return a binary string","BinaryParser.encode_utf8 = function encode_utf8 (s) {","  var a = \"\"","    , c;","","  for (var n = 0, len = s.length; n &lt; len; n++) {","    c = s.charCodeAt(n);","","    if (c &lt; 128) {","      a += String.fromCharCode(c);","    } else if ((c &gt; 127) &amp;&amp; (c &lt; 2048)) {","      a += String.fromCharCode((c&gt;&gt;6) | 192) ;","      a += String.fromCharCode((c&amp;63) | 128);","    } else {","      a += String.fromCharCode((c&gt;&gt;12) | 224);","      a += String.fromCharCode(((c&gt;&gt;6) &amp; 63) | 128);","      a += String.fromCharCode((c&amp;63) | 128);","    }","  }","","  return a;","};","","BinaryParser.hprint = function hprint (s) {","  var number;","","  for (var i = 0, len = s.length; i &lt; len; i++) {","    if (s.charCodeAt(i) &lt; 32) {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);        ","      process.stdout.write(number + \" \")","    } else {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);","        process.stdout.write(number + \" \")","    }","  }","  ","  process.stdout.write(\"\\n\\n\");","};","","BinaryParser.ilprint = function hprint (s) {","  var number;","","  for (var i = 0, len = s.length; i &lt; len; i++) {","    if (s.charCodeAt(i) &lt; 32) {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(10)","        : s.charCodeAt(i).toString(10);","","    } else {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(10)","        : s.charCodeAt(i).toString(10);","    }","  }","};","","BinaryParser.hlprint = function hprint (s) {","  var number;","","  for (var i = 0, len = s.length; i &lt; len; i++) {","    if (s.charCodeAt(i) &lt; 32) {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);","    } else {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);","    }","  }","};","","/**"," * BinaryParser buffer constructor."," */","function BinaryParserBuffer (bigEndian, buffer) {","  this.bigEndian = bigEndian || 0;","  this.buffer = [];","  this.setBuffer(buffer);","};","","BinaryParserBuffer.prototype.setBuffer = function setBuffer (data) {","  var l, i, b;","","  if (data) {","    i = l = data.length;","    b = this.buffer = new Array(l);","    for (; i; b[l - i] = data.charCodeAt(--i));","    this.bigEndian &amp;&amp; b.reverse();","  }","};","","BinaryParserBuffer.prototype.hasNeededBits = function hasNeededBits (neededBits) {","  return this.buffer.length &gt;= -(-neededBits &gt;&gt; 3);","};","","BinaryParserBuffer.prototype.checkBuffer = function checkBuffer (neededBits) {","  if (!this.hasNeededBits(neededBits)) {","    throw new Error(\"checkBuffer::missing bytes\");","  }","};","","BinaryParserBuffer.prototype.readBits = function readBits (start, length) {","  //shl fix: Henri Torgemane ~1996 (compressed by Jonas Raoni)","","  function shl (a, b) {","    for (; b--; a = ((a %= 0x7fffffff + 1) &amp; 0x40000000) == 0x40000000 ? a * 2 : (a - 0x40000000) * 2 + 0x7fffffff + 1);","    return a;","  }","","  if (start &lt; 0 || length &lt;= 0) {","    return 0;","  }","","  this.checkBuffer(start + length);","","  var offsetLeft","    , offsetRight = start % 8","    , curByte = this.buffer.length - ( start &gt;&gt; 3 ) - 1","    , lastByte = this.buffer.length + ( -( start + length ) &gt;&gt; 3 )","    , diff = curByte - lastByte","    , sum = ((this.buffer[ curByte ] &gt;&gt; offsetRight) &amp; ((1 &lt;&lt; (diff ? 8 - offsetRight : length)) - 1)) + (diff &amp;&amp; (offsetLeft = (start + length) % 8) ? (this.buffer[lastByte++] &amp; ((1 &lt;&lt; offsetLeft) - 1)) &lt;&lt; (diff-- &lt;&lt; 3) - offsetRight : 0);","","  for(; diff; sum += shl(this.buffer[lastByte++], (diff-- &lt;&lt; 3) - offsetRight));","","  return sum;","};","","/**"," * Expose."," */","BinaryParser.Buffer = BinaryParserBuffer;","","if(typeof window === 'undefined') {","  exports.BinaryParser = BinaryParser;","}","","/**"," * ObjectId"," */","","/**"," * Machine id."," *"," * Create a random 3-byte value (i.e. unique for this"," * process). Other drivers use a md5 of the machine id here, but"," * that would mean an asyc call to gethostname, so we don't bother."," */","var MACHINE_ID = parseInt(Math.random() * 0xFFFFFF, 10);","","// Regular expression that checks for hex value","var checkForHexRegExp = new RegExp(\"^[0-9a-fA-F]{24}$\");","","/**","* Create a new ObjectID instance","*","* @class Represents the BSON ObjectID type","* @param {String|Number} id Can be a 24 byte hex string, 12 byte binary string or a Number.","* @return {Object} instance of ObjectID.","*/","var ObjectID = function ObjectID(id, _hex) {","  if(!(this instanceof ObjectID)) return new ObjectID(id, _hex);","","  this._bsontype = 'ObjectID';","  var __id = null;","","  // Throw an error if it's not a valid setup","  if(id != null &amp;&amp; 'number' != typeof id &amp;&amp; (id.length != 12 &amp;&amp; id.length != 24))","    throw new Error(\"Argument passed in must be a single String of 12 bytes or a string of 24 hex characters\");","","  // Generate id based on the input","  if(id == null || typeof id == 'number') {","    // convert to 12 byte binary string","    this.id = this.generate(id);","  } else if(id != null &amp;&amp; id.length === 12) {","    // assume 12 byte string","    this.id = id;","  } else if(checkForHexRegExp.test(id)) {","    return ObjectID.createFromHexString(id);","  } else if(!checkForHexRegExp.test(id)) {","    throw new Error(\"Value passed in is not a valid 24 character hex string\");","  }","","  if(ObjectID.cacheHexString) this.__id = this.toHexString();","};","","// Is this a bad Idea?","//ObjectID.prototype.__proto__.toString = function() { return '[ObjectId Object]'; };","","// Allow usage of ObjectId aswell as ObjectID","var ObjectId = ObjectID;","","/**","* Return the ObjectID id as a 24 byte hex string representation","*","* @return {String} return the 24 byte hex string representation.","* @api public","*/","ObjectID.prototype.toHexString = function() {","  if(ObjectID.cacheHexString &amp;&amp; this.__id) return this.__id;","","  var hexString = ''","    , number","    , value;","","  for (var index = 0, len = this.id.length; index &lt; len; index++) {","    value = BinaryParser.toByte(this.id[index]);","    number = value &lt;= 15","      ? '0' + value.toString(16)","      : value.toString(16);","    hexString = hexString + number;","  }","","  if(ObjectID.cacheHexString) this.__id = hexString;","  return hexString;","};","","/**","* Update the ObjectID index used in generating new ObjectID's on the driver","*","* @return {Number} returns next index value.","* @api private","*/","ObjectID.prototype.get_inc = function() {","  return ObjectID.index = (ObjectID.index + 1) % 0xFFFFFF;","};","","/**","* Update the ObjectID index used in generating new ObjectID's on the driver","*","* @return {Number} returns next index value.","* @api private","*/","ObjectID.prototype.getInc = function() {","  return this.get_inc();","};","","/**","* Generate a 12 byte id string used in ObjectID's","*","* @param {Number} [time] optional parameter allowing to pass in a second based timestamp.","* @return {String} return the 12 byte id binary string.","* @api private","*/","ObjectID.prototype.generate = function(time) {","  if ('number' == typeof time) {","    var time4Bytes = BinaryParser.encodeInt(time, 32, true, true);","    /* for time-based ObjectID the bytes following the time will be zeroed */","    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);","    var pid2Bytes = BinaryParser.fromShort(typeof process === 'undefined' ? Math.floor(Math.random() * 100000) : process.pid);","    var index3Bytes = BinaryParser.encodeInt(this.get_inc(), 24, false, true);","  } else {","    var unixTime = parseInt(Date.now()/1000,10);","    var time4Bytes = BinaryParser.encodeInt(unixTime, 32, true, true);","    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);","    var pid2Bytes = BinaryParser.fromShort(typeof process === 'undefined' ? Math.floor(Math.random() * 100000) : process.pid);","    var index3Bytes = BinaryParser.encodeInt(this.get_inc(), 24, false, true);","  }","","  return time4Bytes + machine3Bytes + pid2Bytes + index3Bytes;","};","","/**","* Converts the id into a 24 byte hex string for printing","*","* @return {String} return the 24 byte hex string representation.","* @api private","*/","ObjectID.prototype.toString = function() {","  return this.toHexString();","};","","/**","* Converts to a string representation of this Id.","*","* @return {String} return the 24 byte hex string representation.","* @api private","*/","ObjectID.prototype.inspect = ObjectID.prototype.toString;","","/**","* Converts to its JSON representation.","*","* @return {String} return the 24 byte hex string representation.","* @api private","*/","ObjectID.prototype.toJSON = function() {","  return this.toHexString();","};","","/**","* Compares the equality of this ObjectID with `otherID`.","*","* @param {Object} otherID ObjectID instance to compare against.","* @return {Bool} the result of comparing two ObjectID's","* @api public","*/","ObjectID.prototype.equals = function equals (otherID) {","  var id = (otherID instanceof ObjectID || otherID.toHexString)","    ? otherID.id","    : ObjectID.createFromHexString(otherID).id;","","  return this.id === id;","}","","/**","* Returns the generation time in seconds that this ID was generated.","*","* @return {Number} return number of seconds in the timestamp part of the 12 byte id.","* @api public","*/","ObjectID.prototype.getTimestamp = function() {","  var timestamp = new Date();","  timestamp.setTime(Math.floor(BinaryParser.decodeInt(this.id.substring(0,4), 32, true, true)) * 1000);","  return timestamp;","}","","/**","* @ignore","* @api private","*/","ObjectID.index = 0;","","ObjectID.createPk = function createPk () {","  return new ObjectID();","};","","/**","* Creates an ObjectID from a second based number, with the rest of the ObjectID zeroed out. Used for comparisons or sorting the ObjectID.","*","* @param {Number} time an integer number representing a number of seconds.","* @return {ObjectID} return the created ObjectID","* @api public","*/","ObjectID.createFromTime = function createFromTime (time) {","  var id = BinaryParser.encodeInt(time, 32, true, true) +","           BinaryParser.encodeInt(0, 64, true, true);","  return new ObjectID(id);","};","","/**","* Creates an ObjectID from a hex string representation of an ObjectID.","*","* @param {String} hexString create a ObjectID from a passed in 24 byte hexstring.","* @return {ObjectID} return the created ObjectID","* @api public","*/","ObjectID.createFromHexString = function createFromHexString (hexString) {","  // Throw an error if it's not a valid setup","  if(typeof hexString === 'undefined' || hexString != null &amp;&amp; hexString.length != 24)","    throw new Error(\"Argument passed in must be a single String of 12 bytes or a string of 24 hex characters\");","","  var len = hexString.length;","","  if(len &gt; 12*2) {","    throw new Error('Id cannot be longer than 12 bytes');","  }","","  var result = ''","    , string","    , number;","","  for (var index = 0; index &lt; len; index += 2) {","    string = hexString.substr(index, 2);","    number = parseInt(string, 16);","    result += BinaryParser.fromByte(number);","  }","","  return new ObjectID(result, hexString);","};","","/**","* @ignore","*/","Object.defineProperty(ObjectID.prototype, \"generationTime\", {","   enumerable: true"," , get: function () {","     return Math.floor(BinaryParser.decodeInt(this.id.substring(0,4), 32, true, true));","   }"," , set: function (value) {","     var value = BinaryParser.encodeInt(value, 32, true, true);","     this.id = value + this.id.substr(4);","     // delete this.__id;","     this.toHexString();","   }","});","","/**"," * Expose."," */","  exports.ObjectID = ObjectID;","  exports.ObjectId = ObjectID;","// old_results: array of documents.","// new_results: array of documents.","// observer: object with 'added', 'changed', 'moved',","//           'removed' functions (each optional)","// deepcopy: if true, elements of new_results that are passed to callbacks are","//          deepcopied first","Collection._diffQuery = function (old_results, new_results, observer, deepcopy) {","","  var new_presence_of_id = {};","  _.each(new_results, function (doc) {","    if (new_presence_of_id[doc._id])","      utils.debug(\"Duplicate _id in new_results\");","    new_presence_of_id[doc._id] = true;","  });","","  var old_index_of_id = {};","  _.each(old_results, function (doc, i) {","    if (doc._id in old_index_of_id)","      utils.debug(\"Duplicate _id in old_results\");","    old_index_of_id[doc._id] = i;","  });","","  // \"maybe deepcopy\"","  var mdc = (deepcopy ? Collection._deepcopy : _.identity);","","  // ALGORITHM:","  //","  // We walk old_idx through the old_results array and","  // new_idx through the new_results array at the same time.","  // These pointers establish a sort of correspondence between","  // old docs and new docs (identified by their _ids).","  // If they point to the same doc (i.e. old and new docs","  // with the same _id), we can increment both pointers","  // and fire no 'moved' callbacks.  Otherwise, we must","  // increment one or the other and fire approprate 'added',","  // 'removed', and 'moved' callbacks.","  //","  // The process is driven by new_results, in that we try","  // make the observer's array look like new_results by","  // establishing each new doc in order.  The doc pointed","  // to by new_idx is the one we are trying to establish","  // at any given time.  If it doesn't exist in old_results,","  // we fire an 'added' callback.  If it does, we have a","  // choice of two ways to handle the situation.  We can","  // advance old_idx forward to the corresponding old doc,","  // treating all intervening old docs as moved or removed,","  // and the current doc as unmoved.  Or, we can simply","  // establish the new doc as next by moving it into place,","  // i.e. firing a single 'moved' callback to move the","  // doc from wherever it was before.  Generating a sequence","  // of 'moved' callbacks that is not just correct but small","  // (or minimal) is a matter of choosing which elements","  // to consider moved and which ones merely change position","  // by virtue of the movement of other docs.","  //","  // Calling callbacks with correct indices requires understanding","  // what the observer's array looks like at each iteration.","  // The observer's array is a concatenation of:","  // - new_results up to (but not including) new_idx, with the","  //   addition of some \"bumped\" docs that we are later going","  //   to move into place","  // - old_results starting at old_idx, minus any docs that we","  //   have already moved (\"taken\" docs)","  //","  // To keep track of \"bumped\" items -- docs in the observer's","  // array that we have skipped over, but will be moved forward","  // later when we get to their new position -- we keep a","  // \"bump list\" of indices into new_results where bumped items","  // occur.  [The idea is that by adding an item to the list (bumping","  // it), we can consider it dealt with, even though it is still there.]","  // The corresponding position of new_idx in the observer's array,","  // then, is new_idx + bump_list.length, and the position of","  // the nth bumped item in the observer's array is","  // bump_list[n] + n (to account for the previous bumped items","  // that are still there).","  //","  // A \"taken\" list is used in a sort of analogous way to track","  // the indices of the documents after old_idx in old_results","  // that we have moved, so that, conversely, even though we will","  // come across them in old_results, they are actually no longer","  // in the observer's array.","  //","  // To determine which docs should be considered \"moved\" (and which","  // merely change position because of other docs moving) we run","  // a \"longest common subsequence\" (LCS) algorithm.  The LCS of the","  // old doc IDs and the new doc IDs gives the docs that should NOT be","  // considered moved.","  //","  // Overall, this diff implementation is asymptotically good, but could","  // be optimized to streamline execution and use less memory (e.g. not","  // have to build data structures with an entry for every doc).","","  // Asymptotically: O(N k) where k is number of ops, or potentially","  // O(N log N) if inner loop of LCS were made to be binary search.","","","  //////// LCS (longest common sequence, with respect to _id)","  // (see Wikipedia article on Longest Increasing Subsequence,","  // where the LIS is taken of the sequence of old indices of the","  // docs in new_results)","  //","  // unmoved_set: the output of the algorithm; members of the LCS,","  // in the form of indices into new_results","  var unmoved_set = {};","  // max_seq_len: length of LCS found so far","  var max_seq_len = 0;","  // seq_ends[i]: the index into new_results of the last doc in a","  // common subsequence of length of i+1 &lt;= max_seq_len","  var N = new_results.length;","  var seq_ends = new Array(N);","  // ptrs:  the common subsequence ending with new_results[n] extends","  // a common subsequence ending with new_results[ptr[n]], unless","  // ptr[n] is -1.","  var ptrs = new Array(N);","  // virtual sequence of old indices of new results","  var old_idx_seq = function(i_new) {","    return old_index_of_id[new_results[i_new]._id];","  };","  // for each item in new_results, use it to extend a common subsequence","  // of length j &lt;= max_seq_len","  for(var i=0; i&lt;N; i++) {","    if (old_index_of_id[new_results[i]._id] !== undefined) {","      var j = max_seq_len;","      // this inner loop would traditionally be a binary search,","      // but scanning backwards we will likely find a subseq to extend","      // pretty soon, bounded for example by the total number of ops.","      // If this were to be changed to a binary search, we'd still want","      // to scan backwards a bit as an optimization.","      while (j &gt; 0) {","        if (old_idx_seq(seq_ends[j-1]) &lt; old_idx_seq(i))","          break;","        j--;","      }","","      ptrs[i] = (j === 0 ? -1 : seq_ends[j-1]);","      seq_ends[j] = i;","      if (j+1 &gt; max_seq_len)","        max_seq_len = j+1;","    }","  }","","  // pull out the LCS/LIS into unmoved_set","  var idx = (max_seq_len === 0 ? -1 : seq_ends[max_seq_len-1]);","  while (idx &gt;= 0) {","    unmoved_set[idx] = true;","    idx = ptrs[idx];","  }","","  //////// Main Diff Algorithm","","  var old_idx = 0;","  var new_idx = 0;","  var bump_list = [];","  var bump_list_old_idx = [];","  var taken_list = [];","","  var scan_to = function(old_j) {","    // old_j &lt;= old_results.length (may scan to end)","    while (old_idx &lt; old_j) {","      var old_doc = old_results[old_idx];","      var is_in_new = new_presence_of_id[old_doc._id];","      if (! is_in_new) {","        observer.removed &amp;&amp; observer.removed(old_doc, new_idx + bump_list.length);","      } else {","        if (taken_list.length &gt;= 1 &amp;&amp; taken_list[0] === old_idx) {","          // already moved","          taken_list.shift();","        } else {","          // bump!","          bump_list.push(new_idx);","          bump_list_old_idx.push(old_idx);","        }","      }","      old_idx++;","    }","  };","","","  while (new_idx &lt;= new_results.length) {","    if (new_idx &lt; new_results.length) {","      var new_doc = new_results[new_idx];","      var old_doc_idx = old_index_of_id[new_doc._id];","      if (old_doc_idx === undefined) {","        // insert","        observer.added &amp;&amp; observer.added(mdc(new_doc), new_idx + bump_list.length);","      } else {","        var old_doc = old_results[old_doc_idx];","        //var is_unmoved = (old_doc_idx &gt; old_idx); // greedy; not minimal","        var is_unmoved = unmoved_set[new_idx];","        if (is_unmoved) {","          if (old_doc_idx &lt; old_idx)","            utils.debug(\"Assertion failed while diffing: nonmonotonic lcs data\");","          // no move","          scan_to(old_doc_idx);","          if (! _.isEqual(old_doc, new_doc)) {","            observer.changed &amp;&amp; observer.changed(","              mdc(new_doc), new_idx + bump_list.length, old_doc);","          }","          old_idx++;","        } else {","          // move into place","          var to_idx = new_idx + bump_list.length;","          var from_idx;","          if (old_doc_idx &gt;= old_idx) {","            // move backwards","            from_idx = to_idx + old_doc_idx - old_idx;","            // must take number of \"taken\" items into account; also use","            // results of this binary search to insert new taken_list entry","            var num_taken_before = _.sortedIndex(taken_list, old_doc_idx);","            from_idx -= num_taken_before;","            taken_list.splice(num_taken_before, 0, old_doc_idx);","          } else {","            // move forwards, from bump list","            // (binary search applies)","            var b = _.indexOf(bump_list_old_idx, old_doc_idx, true);","            if (b &lt; 0)","              utils.debug(\"Assertion failed while diffing: no bumped item\");","            from_idx = bump_list[b] + b;","            to_idx--;","            bump_list.splice(b, 1);","            bump_list_old_idx.splice(b, 1);","          }","          if (from_idx != to_idx)","            observer.moved &amp;&amp; observer.moved(mdc(old_doc), from_idx, to_idx);","          if (! _.isEqual(old_doc, new_doc)) {","            observer.changed &amp;&amp; observer.changed(mdc(new_doc), to_idx, old_doc);","          }","        }","      }","    } else {","      scan_to(old_results.length);","    }","    new_idx++;","  }","  if (bump_list.length &gt; 0) {","    utils.debug(old_results);","    utils.debug(new_results);","    utils.debug(\"Assertion failed while diffing: leftover bump_list \"+","                  bump_list);","  }","","};var isArray = Array.isArray;","var domain;","","function EventEmitter() {}","","exports.EventEmitter = EventEmitter;","","// By default EventEmitters will print a warning if more than","// 10 listeners are added to it. This is a useful default which","// helps finding memory leaks.","//","// Obviously not all Emitters should be limited to 10. This function allows","// that to be increased. Set to zero for unlimited.","var defaultMaxListeners = 10;","EventEmitter.prototype.setMaxListeners = function(n) {","  if (!this._events) this._events = {};","  this._maxListeners = n;","};","","","EventEmitter.prototype.emit = function() {","  var type = arguments[0];","  // If there is no 'error' event listener then throw.","  if (type === 'error') {","    if (!this._events || !this._events.error ||","        (isArray(this._events.error) &amp;&amp; !this._events.error.length))","    {","","      if (arguments[1] instanceof Error) {","        throw arguments[1]; // Unhandled 'error' event","      } else {","        throw new Error(\"Uncaught, unspecified 'error' event.\");","      }","      return false;","    }","  }","","  if (!this._events) return false;","  var handler = this._events[type];","  if (!handler) return false;","","  if (typeof handler == 'function') {","    switch (arguments.length) {","      // fast cases","      case 1:","        handler.call(this);","        break;","      case 2:","        handler.call(this, arguments[1]);","        break;","      case 3:","        handler.call(this, arguments[1], arguments[2]);","        break;","      // slower","      default:","        var l = arguments.length;","        var args = new Array(l - 1);","        for (var i = 1; i &lt; l; i++) args[i - 1] = arguments[i];","        handler.apply(this, args);","    }","    return true;","","  } else if (isArray(handler)) {","    var l = arguments.length;","    var args = new Array(l - 1);","    for (var i = 1; i &lt; l; i++) args[i - 1] = arguments[i];","","    var listeners = handler.slice();","    for (var i = 0, l = listeners.length; i &lt; l; i++) {","      listeners[i].apply(this, args);","    }","    return true;","","  } else {","    return false;","  }","};","","EventEmitter.prototype.addListener = function(type, listener) {","  if ('function' !== typeof listener) {","    throw new Error('addListener only takes instances of Function');","  }","","  if (!this._events) this._events = {};","","  // To avoid recursion in the case that type == \"newListeners\"! Before","  // adding it to the listeners, first emit \"newListeners\".","  this.emit('newListener', type, typeof listener.listener === 'function' ?","            listener.listener : listener);","","  if (!this._events[type]) {","    // Optimize the case of one listener. Don't need the extra array object.","    this._events[type] = listener;","  } else if (isArray(this._events[type])) {","","    // If we've already got an array, just append.","    this._events[type].push(listener);","","  } else {","    // Adding the second element, need to change to array.","    this._events[type] = [this._events[type], listener];","","  }","","  // Check for listener leak","  if (isArray(this._events[type]) &amp;&amp; !this._events[type].warned) {","    var m;","    if (this._maxListeners !== undefined) {","      m = this._maxListeners;","    } else {","      m = defaultMaxListeners;","    }","","    if (m &amp;&amp; m &gt; 0 &amp;&amp; this._events[type].length &gt; m) {","      this._events[type].warned = true;","      console.error('(node) warning: possible EventEmitter memory ' +","                    'leak detected. %d listeners added. ' +","                    'Use emitter.setMaxListeners() to increase limit.',","                    this._events[type].length);","      console.trace();","    }","  }","","  return this;","};","","EventEmitter.prototype.on = EventEmitter.prototype.addListener;","","EventEmitter.prototype.once = function(type, listener) {","  if ('function' !== typeof listener) {","    throw new Error('.once only takes instances of Function');","  }","","  var self = this;","  function g() {","    self.removeListener(type, g);","    listener.apply(this, arguments);","  };","","  g.listener = listener;","  self.on(type, g);","","  return this;","};","","EventEmitter.prototype.removeListener = function(type, listener) {","  if ('function' !== typeof listener) {","    throw new Error('removeListener only takes instances of Function');","  }","","  // does not use listeners(), so no side effect of creating _events[type]","  if (!this._events || !this._events[type]) return this;","","  var list = this._events[type];","","  if (isArray(list)) {","    var position = -1;","    for (var i = 0, length = list.length; i &lt; length; i++) {","      if (list[i] === listener ||","          (list[i].listener &amp;&amp; list[i].listener === listener))","      {","        position = i;","        break;","      }","    }","","    if (position &lt; 0) return this;","    list.splice(position, 1);","  } else if (list === listener ||","             (list.listener &amp;&amp; list.listener === listener))","  {","    delete this._events[type];","  }","","  return this;","};","","EventEmitter.prototype.removeAllListeners = function(type) {","  if (arguments.length === 0) {","    this._events = {};","    return this;","  }","","  // does not use listeners(), so no side effect of creating _events[type]","  if (type &amp;&amp; this._events &amp;&amp; this._events[type]) this._events[type] = null;","  return this;","};","","EventEmitter.prototype.listeners = function(type) {","  if (!this._events) this._events = {};","  if (!this._events[type]) this._events[type] = [];","  if (!isArray(this._events[type])) {","    this._events[type] = [this._events[type]];","  }","  return this._events[type];","};// XXX need a strategy for passing the binding of $ into this","// function, from the compiled selector","//","// maybe just {key.up.to.just.before.dollarsign: array_index}","//","// XXX atomicity: if one modification fails, do we roll back the whole","// change?","Collection._modify = function (doc, mod) {","  var is_modifier = false;","  for (var k in mod) {","    // IE7 doesn't support indexing into strings (eg, k[0]), so use substr.","    // Too bad -- it's far slower:","    // http://jsperf.com/testing-the-first-character-of-a-string","    is_modifier = k.substr(0, 1) === '$';","    break; // just check the first key.","  }","","  var new_doc;","","  if (!is_modifier) {","    if (mod._id &amp;&amp; doc._id !== mod._id) {","      Monglo._debug(\"_id ignored : Cannot change the _id of a document\");","    }","    // replace the whole document","    for (var k in mod) {","      if (k.substr(0, 1) === '$')","        throw Error(\"Field name may not start with '$'\");","      if (/\\./.test(k))","        throw Error(\"Field name may not contain '.'\");","    }","    new_doc = mod;","  } else {","    // apply modifiers","    var new_doc = Collection._deepcopy(doc);","","    for (var op in mod) {","      var mod_func = Collection._modifiers[op];","      if (!mod_func)","        throw Error(\"Invalid modifier specified \" + op);","      for (var keypath in mod[op]) {","        // XXX mongo doesn't allow mod field names to end in a period,","        // but I don't see why.. it allows '' as a key, as does JS","        if (keypath.length &amp;&amp; keypath[keypath.length-1] === '.')","          throw Error(\"Invalid mod field name, may not end in a period\");","","        var arg = mod[op][keypath];","        var keyparts = keypath.split('.');","        var no_create = !!Collection._noCreateModifiers[op];","        var forbid_array = (op === \"$rename\");","        var target = Collection._findModTarget(new_doc, keyparts,","                                                    no_create, forbid_array);","        var field = keyparts.pop();","        mod_func(target, field, arg, keypath, new_doc);","      }","    }","  }","","  // move new document into place","  for (var k in doc) {","    if (k !== '_id')","      delete doc[k];","  }","  for (var k in new_doc) {","    doc[k] = new_doc[k];","  }","};","","// for a.b.c.2.d.e, keyparts should be ['a', 'b', 'c', '2', 'd', 'e'],","// and then you would operate on the 'e' property of the returned","// object. if no_create is falsey, creates intermediate levels of","// structure as necessary, like mkdir -p (and raises an exception if","// that would mean giving a non-numeric property to an array.) if","// no_create is true, return undefined instead. may modify the last","// element of keyparts to signal to the caller that it needs to use a","// different value to index into the returned object (for example,","// ['a', '01'] -&gt; ['a', 1]). if forbid_array is true, return null if","// the keypath goes through an array.","Collection._findModTarget = function (doc, keyparts, no_create,","                                      forbid_array) {","  for (var i = 0; i &lt; keyparts.length; i++) {","    var last = (i === keyparts.length - 1);","    var keypart = keyparts[i];","    var numeric = /^[0-9]+$/.test(keypart);","    if (no_create &amp;&amp; (!(typeof doc === \"object\") || !(keypart in doc)))","      return undefined;","    if (doc instanceof Array) {","      if (forbid_array)","        return null;","      if (!numeric)","        throw Error(\"can't append to array using string field name [\"","                    + keypart + \"]\");","      keypart = parseInt(keypart);","      if (last)","        // handle 'a.01'","        keyparts[i] = keypart;","      while (doc.length &lt; keypart)","        doc.push(null);","      if (!last) {","        if (doc.length === keypart)","          doc.push({});","        else if (typeof doc[keypart] !== \"object\")","          throw Error(\"can't modify field '\" + keyparts[i + 1] +","                      \"' of list value \" + JSON.stringify(doc[keypart]));","      }","    } else {","      // XXX check valid fieldname (no $ at start, no .)","      if (!last &amp;&amp; !(keypart in doc))","        doc[keypart] = {};","    }","","    if (last)","      return doc;","    doc = doc[keypart];","  }","","  // notreached","};","","Collection._noCreateModifiers = {","  $unset: true,","  $pop: true,","  $rename: true,","  $pull: true,","  $pullAll: true","};","","Collection._modifiers = {","  $inc: function (target, field, arg) {","    if (typeof arg !== \"number\")","      throw Error(\"Modifier $inc allowed for numbers only\");","    if (field in target) {","      if (typeof target[field] !== \"number\")","        throw Error(\"Cannot apply $inc modifier to non-number\");","      target[field] += arg;","    } else {","      target[field] = arg;","    }","  },","  $set: function (target, field, arg) {","    target[field] = Collection._deepcopy(arg);","  },","  $unset: function (target, field, arg) {","    if (target !== undefined) {","      if (target instanceof Array) {","        if (field in target)","          target[field] = null;","      } else","        delete target[field];","    }","  },","  $push: function (target, field, arg) {","    var x = target[field];","    if (x === undefined)","      target[field] = [arg];","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $push modifier to non-array\");","    else","      x.push(Collection._deepcopy(arg));","  },","  $pushAll: function (target, field, arg) {","    if (!(typeof arg === \"object\" &amp;&amp; arg instanceof Array))","      throw Error(\"Modifier $pushAll/pullAll allowed for arrays only\");","    var x = target[field];","    if (x === undefined)","      target[field] = arg;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pushAll modifier to non-array\");","    else {","      for (var i = 0; i &lt; arg.length; i++)","        x.push(arg[i]);","    }","  },","  $addToSet: function (target, field, arg) {","    var x = target[field];","    if (x === undefined)","      target[field] = [arg];","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $addToSet modifier to non-array\");","    else {","      var isEach = false;","      if (typeof arg === \"object\") {","        for (var k in arg) {","          if (k === \"$each\")","            isEach = true;","          break;","        }","      }","      var values = isEach ? arg[\"$each\"] : [arg];","      _.each(values, function (value) {","        for (var i = 0; i &lt; x.length; i++)","          if (Collection._f._equal(value, x[i]))","            return;","        x.push(value);","      });","    }","  },","  $pop: function (target, field, arg) {","    if (target === undefined)","      return;","    var x = target[field];","    if (x === undefined)","      return;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pop modifier to non-array\");","    else {","      if (typeof arg === 'number' &amp;&amp; arg &lt; 0)","        x.splice(0, 1);","      else","        x.pop();","    }","  },","  $pull: function (target, field, arg) {","    if (target === undefined)","      return;","    var x = target[field];","    if (x === undefined)","      return;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pull/pullAll modifier to non-array\");","    else {","      var out = []","      if (typeof arg === \"object\" &amp;&amp; !(arg instanceof Array)) {","        // XXX would be much nicer to compile this once, rather than","        // for each document we modify.. but usually we're not","        // modifying that many documents, so we'll let it slide for","        // now","","        // XXX _compileSelector isn't up for the job, because we need","        // to permit stuff like {$pull: {a: {$gt: 4}}}.. something","        // like {$gt: 4} is not normally a complete selector.","        // same issue as $elemMatch possibly?","        var match = Collection._compileSelector(arg);","        for (var i = 0; i &lt; x.length; i++)","          if (!match(x[i]))","            out.push(x[i])","      } else {","        for (var i = 0; i &lt; x.length; i++)","          if (!Collection._f._equal(x[i], arg))","            out.push(x[i]);","      }","      target[field] = out;","    }","  },","  $pullAll: function (target, field, arg) {","    if (!(typeof arg === \"object\" &amp;&amp; arg instanceof Array))","      throw Error(\"Modifier $pushAll/pullAll allowed for arrays only\");","    if (target === undefined)","      return;","    var x = target[field];","    if (x === undefined)","      return;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pull/pullAll modifier to non-array\");","    else {","      var out = []","      for (var i = 0; i &lt; x.length; i++) {","        var exclude = false;","        for (var j = 0; j &lt; arg.length; j++) {","          if (Collection._f._equal(x[i], arg[j])) {","            exclude = true;","            break;","          }","        }","        if (!exclude)","          out.push(x[i]);","      }","      target[field] = out;","    }","  },","  $rename: function (target, field, arg, keypath, doc) {","    if (keypath === arg)","      // no idea why mongo has this restriction..","      throw Error(\"$rename source must differ from target\");","    if (target === null)","      throw Error(\"$rename source field invalid\");","    if (typeof arg !== \"string\")","      throw Error(\"$rename target must be a string\");","    if (target === undefined)","      return;","    var v = target[field];","    delete target[field];","","    var keyparts = arg.split('.');","    var target2 = Collection._findModTarget(doc, keyparts, false, true);","    if (target2 === null)","      throw Error(\"$rename target field invalid\");","    var field2 = keyparts.pop();","    target2[field2] = v;","  },","  $bit: function (target, field, arg) {","    // XXX mongo only supports $bit on integers, and we only support","    // native javascript numbers (doubles) so far, so we can't support $bit","    throw Error(\"$bit is not supported\");","  }","};var Selector = {};","","// helpers used by compiled selector code","Selector._f = {","  // TODO for _all and _in, consider building 'inquery' at compile time..","","  _all: function (x, qval) {","    // $all is only meaningful on arrays","    if (!(x instanceof Array)) {","      return false;","    }","    // TODO should use a canonicalizing representation, so that we","    // don't get screwed by key order","    var parts = {};","    var remaining = 0;","    utils.each(qval, function (q) {","      var hash = JSON.stringify(q);","      if (!(hash in parts)) {","        parts[hash] = true;","        remaining++;","      }","    });","","    for (var i = 0; i &lt; x.length; i++) {","      var hash = JSON.stringify(x[i]);","      if (parts[hash]) {","        delete parts[hash];","        remaining--;","        if (0 === remaining)","          return true;","      }","    }","","    return false;","  },","","  _in: function (x, qval) {","    if (typeof x !== \"object\") {","      // optimization: use scalar equality (fast)","      for (var i = 0; i &lt; qval.length; i++)","        if (x === qval[i])","          return true;","      return false;","    } else {","      // nope, have to use deep equality","      for (var i = 0; i &lt; qval.length; i++)","        if (Selector._f._equal(x, qval[i]))","          return true;","      return false;","    }","  },","","  _type: function (v) {","    if (typeof v === \"number\")","      return 1;","    if (typeof v === \"string\")","      return 2;","    if (typeof v === \"boolean\")","      return 8;","    if (v instanceof Array)","      return 4;","    if (v === null)","      return 10;","    if (v instanceof RegExp)","      return 11;","    if (typeof v === \"function\")","      // note that typeof(/x/) === \"function\"","      return 13;","    return 3; // object","","    // TODO support some/all of these:","    // 5, binary data","    // 7, object id","    // 9, date","    // 14, symbol","    // 15, javascript code with scope","    // 16, 18: 32-bit/64-bit integer","    // 17, timestamp","    // 255, minkey","    // 127, maxkey","  },","","  // deep equality test: use for literal document and array matches","  _equal: function (x, qval) {","    var match = function (a, b) {","      // scalars","      if (typeof a === 'number' || typeof a === 'string' ||","          typeof a === 'boolean' || a === undefined || a === null)","        return a === b;","      if (typeof a === 'function')","        return false;","","      // OK, typeof a === 'object'","      if (typeof b !== 'object')","        return false;","","      // arrays","      if (a instanceof Array) {","        if (!(b instanceof Array))","          return false;","        if (a.length !== b.length)","          return false;","        for (var i = 0; i &lt; a.length; i++)","          if (!match(a[i],b[i]))","            return false;","        return true;","      }","","      // objects","/*","      var unmatched_b_keys = 0;","      for (var x in b)","        unmatched_b_keys++;","      for (var x in a) {","        if (!(x in b) || !match(a[x], b[x]))","          return false;","        unmatched_b_keys--;","      }","      return unmatched_b_keys === 0;","*/","      // Follow Mongo in considering key order to be part of","      // equality. Key enumeration order is actually not defined in","      // the ecmascript spec but in practice most implementations","      // preserve it. (The exception is Chrome, which preserves it","      // usually, but not for keys that parse as ints.)","      var b_keys = [];","      for (var x in b)","        b_keys.push(b[x]);","      var i = 0;","      for (var x in a) {","        if (i &gt;= b_keys.length)","          return false;","        if (!match(a[x], b_keys[i]))","          return false;","        i++;","      }","      if (i !== b_keys.length)","        return false;","      return true;","    };","    return match(x, qval);","  },","","  // if x is not an array, true iff f(x) is true. if x is an array,","  // true iff f(y) is true for any y in x.","  //","  // this is the way most mongo operators (like $gt, $mod, $type..)","  // treat their arguments.","  _matches: function (x, f) {","    if (x instanceof Array) {","      for (var i = 0; i &lt; x.length; i++)","        if (f(x[i]))","          return true;","      return false;","    }","    return f(x);","  },","","  // like _matches, but if x is an array, it's true not only if f(y)","  // is true for some y in x, but also if f(x) is true.","  //","  // this is the way mongo value comparisons usually work, like {x:","  // 4}, {x: [4]}, or {x: {$in: [1,2,3]}}.","  _matches_plus: function (x, f) {","    if (x instanceof Array) {","      for (var i = 0; i &lt; x.length; i++)","        if (f(x[i]))","          return true;","      // fall through!","    }","    return f(x);","  },","","  // maps a type code to a value that can be used to sort values of","  // different types","  _typeorder: function (t) {","    // http://www.mongodb.org/display/DOCS/What+is+the+Compare+Order+for+BSON+Types","    // TODO what is the correct sort position for Javascript code?","    // ('100' in the matrix below)","    // TODO minkey/maxkey","    return [-1, 1, 2, 3, 4, 5, -1, 6, 7, 8, 0, 9, -1, 100, 2, 100, 1,","            8, 1][t];","  },","","  // compare two values of unknown type according to BSON ordering","  // semantics. (as an extension, consider 'undefined' to be less than","  // any other value.) return negative if a is less, positive if b is","  // less, or 0 if equal","  _cmp: function (a, b) {","    if (a === undefined)","      return b === undefined ? 0 : -1;","    if (b === undefined)","      return 1;","    var ta = Selector._f._type(a);","    var tb = Selector._f._type(b);","    var oa = Selector._f._typeorder(ta);","    var ob = Selector._f._typeorder(tb);","    if (oa !== ob)","      return oa &lt; ob ? -1 : 1;","    if (ta !== tb)","      // TODO need to implement this once we implement Symbol or","      // integers, or once we implement both Date and Timestamp","      throw Error(\"Missing type coercion logic in _cmp\");","    if (ta === 1) // double","      return a - b;","    if (tb === 2) // string","      return a &lt; b ? -1 : (a === b ? 0 : 1);","    if (ta === 3) { // Object","      // this could be much more efficient in the expected case ...","      var to_array = function (obj) {","        var ret = [];","        for (var key in obj) {","          ret.push(key);","          ret.push(obj[key]);","        }","        return ret;","      }","      return Selector._f._cmp(to_array(a), to_array(b));","    }","    if (ta === 4) { // Array","      for (var i = 0; ; i++) {","        if (i === a.length)","          return (i === b.length) ? 0 : -1;","        if (i === b.length)","          return 1;","        var s = Selector._f._cmp(a[i], b[i]);","        if (s !== 0)","          return s;","      }","    }","    // 5: binary data","    // 7: object id","    if (ta === 8) { // boolean","      if (a) return b ? 0 : 1;","      return b ? -1 : 0;","    }","    // 9: date","    if (ta === 10) // null","      return 0;","    if (ta === 11) // regexp","      throw Error(\"Sorting not supported on regular expression\"); // TODO","    // 13: javascript code","    // 14: symbol","    // 15: javascript code with scope","    // 16: 32-bit integer","    // 17: timestamp","    // 18: 64-bit integer","    // 255: minkey","    // 127: maxkey","    if (ta === 13) // javascript code","      throw Error(\"Sorting not supported on Javascript code\"); // TODO","  }","};","","// For unit tests. True if the given document matches the given","// selector.","Selector._matches = function (selector, doc) {","  return (Selector._compileSelector(selector))(doc);","};","","// Given a selector, return a function that takes one argument, a","// document, and returns true if the document matches the selector,","// else false.","Selector._compileSelector = function (selector) {","  var literals = [];","  // you can pass a literal function instead of a selector","  if (selector instanceof Function)","    return function (doc) {return selector.call(doc);};","","  // shorthand -- scalars match _id","  if ((typeof selector === \"string\") || (typeof selector === \"number\"))","    selector = {_id: selector};","","  // protect against dangerous selectors.  falsey and {_id: falsey}","  // are both likely programmer error, and not what you want,","  // particularly for destructive operations.","  if (!selector || (('_id' in selector) &amp;&amp; !selector._id))","    return function (doc) {return false;};","","  // eval() does not return a value in IE8, nor does the spec say it","  // should. Assign to a local to get the value, instead.","  var _func;","  eval(\"_func = (function(f,literals){return function(doc){return \" +","       Selector._exprForSelector(selector, literals) +","       \";};})\");","  return _func(Selector._f, literals);","};","","// TODO implement ordinal indexing: 'people.2.name'","","// Given an arbitrary Mongo-style query selector, return an expression","// that evaluates to true if the document in 'doc' matches the","// selector, else false.","Selector._exprForSelector = function (selector, literals) {","  var clauses = [];","  for (var key in selector) {","    var value = selector[key];","","    if (key.substr(0, 1) === '$') { // no indexing into strings on IE7","      // whole-document predicate like {$or: [{x: 12}, {y: 12}]}","      clauses.push(Selector._exprForDocumentPredicate(key, value, literals));","    } else {","      // else, it's a constraint on a particular key (or dotted keypath)","      clauses.push(Selector._exprForKeypathPredicate(key, value, literals));","    }","  };","","  if (clauses.length === 0) return 'true'; // selector === {}","  return '(' + clauses.join('&amp;&amp;') +')';","};","","// 'op' is a top-level, whole-document predicate from a mongo","// selector, like '$or' in {$or: [{x: 12}, {y: 12}]}. 'value' is its","// value in the selector. Return an expression that evaluates to true","// if 'doc' matches this predicate, else false.","Selector._exprForDocumentPredicate = function (op, value, literals) {","  if (op === '$or') {","    var clauses = [];","    utils.each(value, function (c) {","      clauses.push(Selector._exprForSelector(c, literals));","    });","    if (clauses.length === 0) return 'true';","    return '(' + clauses.join('||') +')';","  }","","  if (op === '$and') {","    var clauses = [];","    utils.each(value, function (c) {","      clauses.push(Selector._exprForSelector(c, literals));","    });","    if (clauses.length === 0) return 'true';","    return '(' + clauses.join('&amp;&amp;') +')';","  }","","  if (op === '$nor') {","    var clauses = [];","    utils.each(value, function (c) {","      clauses.push(\"!(\" + Selector._exprForSelector(c, literals) + \")\");","    });","    if (clauses.length === 0) return 'true';","    return '(' + clauses.join('&amp;&amp;') +')';","  }","","  if (op === '$where') {","    if (value instanceof Function) {","      literals.push(value);","      return 'literals[' + (literals.length - 1) + '].call(doc)';","    }","    return \"(function(){return \" + value + \";}).call(doc)\";","  }","","  throw Error(\"Unrecogized key in selector: \", op);","}","","// Given a single 'dotted.key.path: value' constraint from a Mongo","// query selector, return an expression that evaluates to true if the","// document in 'doc' matches the constraint, else false.","Selector._exprForKeypathPredicate = function (keypath, value, literals) {","  var keyparts = keypath.split('.');","","  // get the inner predicate expression","  var predcode = '';","  if (value instanceof RegExp) {","    predcode = Selector._exprForOperatorTest(value, literals);","  } else if ( !(typeof value === 'object')","              || value === null","              || value instanceof Array) {","    // it's something like {x.y: 12} or {x.y: [12]}","    predcode = Selector._exprForValueTest(value, literals);","  } else {","    // is it a literal document or a bunch of $-expressions?","    var is_literal = true;","    for (var k in value) {","      if (k.substr(0, 1) === '$') { // no indexing into strings on IE7","        is_literal = false;","        break;","      }","    }","","    if (is_literal) {","      // it's a literal document, like {x.y: {a: 12}}","      predcode = Selector._exprForValueTest(value, literals);","    } else {","      predcode = Selector._exprForOperatorTest(value, literals);","    }","  }","","  // now, deal with the orthogonal concern of dotted.key.paths and the","  // (potentially multi-level) array searching they require.","  // while at it, make sure to not throw an exception if we hit undefined while","  // drilling down through the dotted parts","  var ret = '';","  var innermost = true;","  while (keyparts.length) {","    var part = keyparts.pop();","    var formal = keyparts.length ? \"x\" : \"doc\";","    if (innermost) {","      ret = '(function(x){return ' + predcode + ';})(' + formal + '&amp;&amp;' + formal + '[' +","        JSON.stringify(part) + '])';","      innermost = false;","    } else {","      // for all but the innermost level of a dotted expression,","      // if the runtime type is an array, search it","      ret = 'f._matches(' + formal + '&amp;&amp;' + formal + '[' + JSON.stringify(part) +","        '], function(x){return ' + ret + ';})';","    }","  }","","  return ret;","};","","// Given a value, return an expression that evaluates to true if the","// value in 'x' matches the value, or else false. This includes","// searching 'x' if it is an array. This doesn't include regular","// expressions (that's because mongo's $not operator works with","// regular expressions but not other kinds of scalar tests.)","Selector._exprForValueTest = function (value, literals) {","  var expr;","","  if (value === null) {","    // null has special semantics","    // http://www.mongodb.org/display/DOCS/Querying+and+nulls","    expr = 'x===null||x===undefined';","  } else if (typeof value === 'string' ||","             typeof value === 'number' ||","             typeof value === 'boolean') {","    // literal scalar value","    // TODO object ids, dates, timestamps?","    expr = 'x===' + JSON.stringify(value);","  } else if (typeof value === 'function') {","    // note that typeof(/a/) === 'function' in javascript","    // TODO improve error","    throw Error(\"Bad value type in query\");","  } else {","    // array or literal document","    expr = 'f._equal(x,' + JSON.stringify(value) + ')';","  }","","  return 'f._matches_plus(x,function(x){return ' + expr + ';})';","};","","// In a selector like {x: {$gt: 4, $lt: 8}}, we're calling the {$gt:","// 4, $lt: 8} part an \"operator.\" Given an operator, return an","// expression that evaluates to true if the value in 'x' matches the","// operator, or else false. This includes searching 'x' if necessary","// if it's an array. In {x: /a/}, we consider /a/ to be an operator.","Selector._exprForOperatorTest = function (op, literals) {","  if (op instanceof RegExp) {","    return Selector._exprForOperatorTest({$regex: op}, literals);","  } else {","    var clauses = [];","    for (var type in op)","      clauses.push(Selector._exprForConstraint(type, op[type],","                                                      op, literals));","    if (clauses.length === 0)","      return 'true';","    return '(' + clauses.join('&amp;&amp;') + ')';","  }","};","","// In an operator like {$gt: 4, $lt: 8}, we call each key/value pair,","// such as $gt: 4, a constraint. Given a constraint and its arguments,","// return an expression that evaluates to true if the value in 'x'","// matches the constraint, or else false. This includes searching 'x'","// if it's an array (and it's appropriate to the constraint.)","Selector._exprForConstraint = function (type, arg, others,","                                               literals) {","  var expr;","  var search = '_matches';","  var negate = false;","","  if (type === '$gt') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&gt;0';","  } else if (type === '$lt') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&lt;0';","  } else if (type === '$gte') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&gt;=0';","  } else if (type === '$lte') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&lt;=0';","  } else if (type === '$all') {","    expr = 'f._all(x,' + JSON.stringify(arg) + ')';","    search = null;","  } else if (type === '$exists') {","    if (arg)","      expr = 'x!==undefined';","    else","      expr = 'x===undefined';","    search = null;","  } else if (type === '$mod') {","    expr = 'x%' + JSON.stringify(arg[0]) + '===' +","      JSON.stringify(arg[1]);","  } else if (type === '$ne') {","    if (typeof arg !== \"object\")","      expr = 'x===' + JSON.stringify(arg);","    else","      expr = 'f._equal(x,' + JSON.stringify(arg) + ')';","    search = '_matches_plus';","    negate = true; // tricky","  } else if (type === '$in') {","    expr = 'f._in(x,' + JSON.stringify(arg) + ')';","    search = '_matches_plus';","  } else if (type === '$nin') {","    expr = 'f._in(x,' + JSON.stringify(arg) + ')';","    search = '_matches_plus';","    negate = true;","  } else if (type === '$size') {","    expr = '(x instanceof Array)&amp;&amp;x.length===' + arg;","    search = null;","  } else if (type === '$type') {","    // $type: 1 is true for an array if any element in the array is of","    // type 1. but an array doesn't have type array unless it contains","    // an array..","    expr = 'f._type(x)===' + JSON.stringify(arg);","  } else if (type === '$regex') {","    // TODO mongo uses PCRE and supports some additional flags: 'x' and","    // 's'. javascript doesn't support them. so this is a divergence","    // between our behavior and mongo's behavior. ideally we would","    // implement x and s by transforming the regexp, but not today..","    if ('$options' in others &amp;&amp; /[^gim]/.test(others['$options']))","      throw Error(\"Only the i, m, and g regexp options are supported\");","    expr = 'literals[' + literals.length + '].test(x)';","    if (arg instanceof RegExp) {","      if ('$options' in others) {","        literals.push(new RegExp(arg.source, others['$options']));","      } else {","        literals.push(arg);","      }","    } else {","      literals.push(new RegExp(arg, others['$options']));","    }","  } else if (type === '$options') {","    expr = 'true';","    search = null;","  } else if (type === '$elemMatch') {","    // TODO implement","    throw Error(\"$elemMatch unimplemented\");","  } else if (type === '$not') {","    // mongo doesn't support $regex inside a $not for some reason. we","    // do, because there's no reason not to that I can see.. but maybe","    // we should follow mongo's behavior?","    expr = '!' + Selector._exprForOperatorTest(arg, literals);","    search = null;","  } else {","    throw Error(\"Unrecognized key in selector: \" + type);","  }","","  if (search) {","    expr = 'f.' + search + '(x,function(x){return ' +","      expr + ';})';","  }","","  if (negate)","    expr = '!' + expr;","","  return expr;","};","// Give a sort spec, which can be in any of these forms:","//   {\"key1\": 1, \"key2\": -1}","//   [[\"key1\", \"asc\"], [\"key2\", \"desc\"]]","//   [\"key1\", [\"key2\", \"desc\"]]","//","// (.. with the first form being dependent on the key enumeration","// behavior of your javascript VM, which usually does what you mean in","// this case if the key names don't look like integers ..)","//","// return a function that takes two objects, and returns -1 if the","// first object comes first in order, 1 if the second object comes","// first, or 0 if neither object comes before the other.","","// XXX sort does not yet support subkeys ('a.b') .. fix that!","","Collection._compileSort = function (spec) {","  var keys = [];","  var asc = [];","","  if (spec instanceof Array) {","    for (var i = 0; i &lt; spec.length; i++) {","      if (typeof spec[i] === \"string\") {","        keys.push(spec[i]);","        asc.push(true);","      } else {","        keys.push(spec[i][0]);","        asc.push(spec[i][1] !== \"desc\");","      }","    }","  } else if (typeof spec === \"object\") {","    for (key in spec) {","      keys.push(key);","      asc.push(!(spec[key] &lt; 0));","    }","  } else {","    throw Error(\"Bad sort specification: \", JSON.stringify(spec));","  }","","  if (keys.length === 0)","    return function () {return 0;};","","  // eval() does not return a value in IE8, nor does the spec say it","  // should. Assign to a local to get the value, instead.","  var _func;","  var code = \"_func = (function(c){return function(a,b){var x;\";","  for (var i = 0; i &lt; keys.length; i++) {","    if (i !== 0)","      code += \"if(x!==0)return x;\";","    code += \"x=\" + (asc[i] ? \"\" : \"-\") +","      \"c(a[\" + JSON.stringify(keys[i]) + \"],b[\" +","      JSON.stringify(keys[i]) + \"]);\";","  }","  code += \"return x;};})\";","","  eval(code);","  return _func(Collection._f._cmp);","};var Utils = {};","","Utils._deepcopy = function (v) {","  if (typeof v !== \"object\")","    return v;","  if (v === null)","    return null; // null has typeof \"object\"","  if (utils.isArray(v)) {","    var ret = v.slice(0);","    for (var i = 0; i &lt; v.length; i++)","      ret[i] = Utils._deepcopy(ret[i]);","    return ret;","  }","  var ret = {};","  for (var key in v)","    ret[key] = Utils._deepcopy(v[key]);","  return ret;","};","","Utils.each = Utils.forEach = function(obj, iterator, context) {","    if (obj === null) return;","    var nativeForEach = Array.prototype.forEach;","    if (nativeForEach &amp;&amp; obj.forEach === nativeForEach) {","      obj.forEach(iterator, context);","    } else if (obj.length === +obj.length) {","      for (var i = 0, l = obj.length; i &lt; l; i++) {","        if (iterator.call(context, obj[i], i, obj) === breaker) return;","      }","    } else {","      for (var key in obj) {","        if (_.has(obj, key)) {","          if (iterator.call(context, obj[key], key, obj) === breaker) return;","        }","      }","    }","  };","","Utils.isArray = Array.isArray || function(obj) {","    return toString.call(obj) == '[object Array]';","  };","","Utils.debug = function(data){ };","","var utils = Utils;"];
+_$jscoverage['monglo.js'].source = ["// XXX type checking on selectors (graceful error if malformed)","","// Collection: a set of documents that supports queries and modifiers.","","// Cursor: a specification for a particular subset of documents, w/","// a defined order, limit, and offset.  creating a Cursor with Collection.find(),","","// LiveResultsSet: the return value of a live query.","","function Collection (db, collectionName, pkFactory, options) {","   if(!(this instanceof Collection)) return new Collection(db, collectionName, pkFactory, options);","","  checkCollectionName(collectionName);","","  this.db = db;","  this.name = collectionName;","  this.docs = {};","  this.snapshots = [];","  this.opts = options != null &amp;&amp; ('object' === typeof options) ? options : {};","  var self = this;","}","","Collection.prototype.__proto__ = EventEmitter.prototype;","","Collection.prototype.constructor = Collection;","","var testForFields = {'limit' : 1, 'sort' : 1, 'fields' : 1, 'skip' : 1, 'hint' : 1, 'explain' : 1, 'snapshot' : 1","  , 'timeout' : 1, 'tailable' : 1, 'batchSize' : 1, 'raw' : 1, 'read' : 1","  , 'returnKey' : 1, 'maxScan' : 1, 'min' : 1, 'max' : 1, 'showDiskLoc' : 1, 'comment' : 1, 'dbName' : 1, 'exhaust': 1","  , 'tailableRetryInterval': 1};","","Collection.prototype.find = function () {","  var self = this;"," var options","    , args = Array.prototype.slice.call(arguments, 0)","    , has_callback = typeof args[args.length - 1] === 'function'","    , has_weird_callback = typeof args[0] === 'function'","    , callback = has_callback ? args.pop() : (has_weird_callback ? args.shift() : null)","    , len = args.length","    , selector = len &gt;= 1 ? args[0] : {}","    , fields = len &gt;= 2 ? args[1] : undefined;","","  if(len === 1 &amp;&amp; has_weird_callback) {","    // backwards compat for callback?, options case","    selector = {};","    options = args[0];","  }","","  if(len === 2 &amp;&amp; !utils.isArray(fields)) {","    var fieldKeys = Object.getOwnPropertyNames(fields);","    var is_option = false;","","    for(var i = 0; i &lt; fieldKeys.length; i++) {","      if(testForFields[fieldKeys[i]] != null) {","        is_option = true;","        break;","      }","    }","","    if(is_option) {","      options = fields;","      fields = undefined;","    } else {","      options = {};","    }","  } else if(len === 2 &amp;&amp; utils.isArray(fields) &amp;&amp; !utils.isArray(fields[0])) {","    var newFields = {};","    // Rewrite the array","    for(var i = 0; i &lt; fields.length; i++) {","      newFields[fields[i]] = 1;","    }","    // Set the fields","    fields = newFields;","  }","","  if(3 === len) {","    options = args[2];","  }","","  // Ensure selector is not null","  selector = selector == null ? {} : selector;","  // Validate correctness off the selector","  var object = selector;","","  // Validate correctness of the field selector","  var object = fields;","","  // Check special case where we are using an objectId","  if(selector instanceof ObjectID) {","    selector = {_id:selector};","  }","","  // If it's a serialized fields field we need to just let it through","  // user be warned it better be good","  if(options &amp;&amp; options.fields) {","    fields = {};","","    if(utils.isArray(options.fields)) {","      if(!options.fields.length) {","        fields['_id'] = 1;","      } else {","        for (var i = 0, l = options.fields.length; i &lt; l; i++) {","          fields[options.fields[i]] = 1;","        }","      }","    } else {","      fields = options.fields;","    }","  }","","  if (!options) options = {};","  options.skip = len &gt; 3 ? args[2] : options.skip ? options.skip : 0;","  options.limit = len &gt; 3 ? args[3] : options.limit ? options.limit : 0;","","  // Set option","  var o = options;","","    // callback for backward compatibility","      // TODO refactor Cursor args","    var cursor = new Cursor(this.db, this, selector, fields, o.skip, o.limit, o.sort);","","  this.emit('find', selector,cursor,o);","  this.db._executeCommand('find', {collection:self,selector:selector,options:o});","  return (callback) ? callback(cursor) : cursor;","};","","Collection.prototype.findOne = function (selector, options) {","  if (arguments.length === 0)","    selector = {};","","  //options = options || {};","  //options.limit = 1;","  return this.find(selector).fetch()[0];","};","","// TODO enforce rule that field names can't start with '$' or contain '.'","// (real mongodb does in fact enforce this)","// TODO possibly enforce that 'undefined' does not appear (we assume","// this in our handling of null and $exists)","Collection.prototype.insert = function (doc,options,cb) {","  var self = this;","  if('function' === typeof options){","    cb = options; options = {};","  }","  options = options || {};","  doc = utils._deepcopy(doc);","","  if (!('_id' in doc)){","    doc._id = new ObjectId();","  }","  doc.timestamp = new ObjectId().generationTime;","  self.docs[doc._id] = doc;","","  // trigger live queries that match","  for (var qid in self.queries) {","    var query = self.queries[qid];","    if (query.selector_f(doc))","      Collection._insertInResults(query, doc);","  }","// Hack to prevent updates from registering as inserts also"," if(options.ignore){  return (cb) ? cb(doc) : doc; }",""," self.emit('insert',doc);"," this.db._executeCommand('insert',{collection:self, doc:self.docs[doc._id]});"," if(cb){ cb(doc); }"," return this;","};","","Collection.prototype.remove = function (selector) {","  var self = this;","  var remove = [];","  var query_remove = [];","","  var selector_f = Selector._compileSelector(selector);","  for (var id in self.docs) {","    var doc = self.docs[id];","    if (selector_f(doc)) {","      remove.push(id);","    }","  }","  for (var i = 0; i &lt; remove.length; i++) {","    delete self.docs[remove[i]];","  }","","  self.emit('remove', selector);","  this.db._executeCommand('remove',{collection:self, selector:selector, docs:remove});","  return this;","};","","// TODO atomicity: if multi is true, and one modification fails, do","// we rollback the whole operation, or what?","Collection.prototype.update = function (selector, mod, options, cb) {","  var self = this;","  if('function' === typeof options){","    cb = options; options = {};","  }","  options = options || {};","","  var self = this;","  var any = false;","  var updatedDocs =[];","  var selector_f = Selector._compileSelector(selector);","  for (var id in self.docs) {","    var doc = self.docs[id];","    if (selector_f(doc)) {","      updatedDocs.push(doc);","      Collection._modify(doc, mod);","      if (!options.multi) {","        any = true;","        self.emit('update', selector, mod, options);","        self.db._executeCommand('update',{collection:self, selector:selector, modifier:mod, options:options, docs:updatedDocs });","        return (cb) ? cb(self.docs[id]) : self.docs[id];","      }","    }","  }","","  if (options.upsert) {","    throw new Error(\"upsert not yet implemented\");","  }","","  if (options.upsert &amp;&amp; !any) {","    // TODO is this actually right? don't we have to resolve/delete","    // $-ops or something like that?","    insert = utils._deepcopy(selector);","    Collection._modify(insert, mod);","    self.insert(insert,{ignore:true});","  }","  var newDoc = self.find(selector).fetch();","  //TODO fix this ghetto return","","  self.emit('update', {collection:self, selector:selector, modifier:mod, options:options, docs:newDoc });","  self.db._executeCommand('update',{collection:self, selector:selector, modifier:mod, options:options, docs:newDoc });","  if(cb){ cb(newDoc); }","  return this;","};","","Collection.prototype.save = function(obj,cb){","  var self = this;","  if(self.docs[obj._id]){","    self.update({_id:obj._id});","  } else{","    self.insert(obj);","  }","};","","Collection.prototype.ensureIndex = function(){","  //TODO Implement EnsureIndex","  throw new Error('Collection#ensureIndex unimplemented by driver');","};","","// TODO document (at some point)","// TODO test","// TODO obviously this particular implementation will not be very efficient","Collection.prototype.backup = function () {","  var snapID = new ObjectId();","  this.snapshots[snapID] = {};","  for (var id in this.docs){","    this.snapshots[snapID][id] = this.docs[id];","  }","  this.stores.snapshot({_id : this.docs[id], data : this.docs[id]});","  this.emit('snapshot', {_id : this.docs[id], data : this.docs[id]});","};","","// Lists available Backups","Collection.prototype.backups = function () {","  var keys = [];","  for(var k in obj) {","    keys.push({id:k, timestamp:ObjectId.hexToTimestamp(k), data:obj[k]});","  }","  return keys;","};","","// Lists available Backups","Collection.prototype.deleteBackup = function (id) {","  delete this.snapshots[id];","  return keys;","};","","// Restore the snapshot. If no snapshot exists, raise an","// exception.","// TODO document (at some point)","// TODO test","Collection.prototype.restore = function (id,rm,cb) {","  if (!this.snapshots.length){","    throw new Error(\"No current snapshot\");","  }","","  if('function' === typeof rm){ cb = rm; rm = false; }","","  this.docs = this.snapshots[id||0];","  // Rerun all queries from scratch. (TODO should do something more","  // efficient -- diffing at least; ideally, take the snapshot in an","  // efficient way, say with an undo log, so that we can efficiently","  // tell what changed).","  for (var qid in this.queries) {","    var query = this.queries[qid];","","    var old_results = query.results;","","    query.results = query.cursor._getRawObjects();","","    if (!this.paused)","      Collection._diffQuery(old_results, query.results, query, true);","  }","  this.emit('restore');","  if(cb){ return cb(); }","};","","/**"," * @ignore"," */","var checkCollectionName = function checkCollectionName (collectionName) {","  if ('string' !== typeof collectionName) {","    throw Error(\"collection name must be a String\");","  }","","  if (!collectionName || collectionName.indexOf('..') != -1) {","    throw Error(\"collection names cannot be empty\");","  }","","  if (collectionName.indexOf('$') != -1 &amp;&amp;","      collectionName.match(/((^\\$cmd)|(oplog\\.\\$main))/) == null) {","    throw Error(\"collection names must not contain '$'\");","  }","","  if (collectionName.match(/^\\.|\\.$/) != null) {","    throw Error(\"collection names must not start or end with '.'\");","  }","};","function Cursor(db, collection, selector, fields, skip, limit,sort) {","  this.db = db;","  this.collection = collection;","  this.selector = selector;","  this.fields = fields;","  this.skipValue = (skip === null) ? 0 : skip;","  this.limitValue = (limit === null) ? 0 : limit;","  this.sortValue = sort;","","  // This name",""," if ((typeof this.selector === \"string\") || (typeof this.selector === \"number\")) {","    // stash for fast path","    this.selector_id = this.selector;","    this.selector_f = Selector._compileSelector(this.selector);","  } else {","    this.selector_f = Selector._compileSelector(this.selector);","    this.sort_f = this.sortValue ? Collection._compileSort(this.sortValue) : null;","  }","","    this.db_objects = null;","    this.cursor_pos = 0;","  }","","Cursor.prototype.rewind = function () {","  var self = this;","  self.db_objects = null;","  self.cursor_pos = 0;","};","","Cursor.prototype.forEach = function (callback) {","  var self = this;","  var doc;","","  if (self.db_objects === null)","    self.db_objects = self._getRawObjects();","","  while (self.cursor_pos &lt; self.db_objects.length)","    callback(utils._deepcopy(self.db_objects[self.cursor_pos++]));","};","","Cursor.prototype.map = function (callback) {","  var self = this;","  var res = [];","  self.forEach(function (doc) {","    res.push(callback(doc));","  });","  return res;","};","","Cursor.prototype.fetch = function () {","  var self = this;","  var res = [];","  self.forEach(function (doc) {","    res.push(doc);","  });","  return res;","};","","Cursor.prototype.count = function () {","  var self = this;","","  if (self.db_objects === null)","    self.db_objects = self._getRawObjects();","","  return self.db_objects.length;","};","","Cursor.prototype.sort = function(){","","};","","Cursor.prototype.limit = function(){","","};","","// constructs sorted array of matching objects, but doesn't copy them.","// respects sort, skip, and limit properties of the query.","// if sort_f is falsey, no sort -- you get the natural order","Cursor.prototype._getRawObjects = function () {","  var self = this;","","  // fast path for single ID value","  if (self.selector_id &amp;&amp; (self.selector_id in self.collection.docs))","    return [self.collection.docs[self.selector_id]];","","  // slow path for arbitrary selector, sort, skip, limit","  var results = [];","  for (var id in self.collection.docs) {","    var doc = self.collection.docs[id];","    if (self.selector_f(doc))","      results.push(doc);","  }","","  if (self.sort_f)","    results.sort(self.sort_f);","","  var idx_start = self.skipValue || 0;","  var idx_end = self.limitValue ? (self.limitValue + idx_start) : results.length;","  return results.slice(idx_start, idx_end);","};/*!"," * Monglo"," * Copyright (c) 2012 Christian Sullivan &lt;cs@euforic.co&gt;"," * MIT Licensed"," */","var Monglo = function(databaseName) {","","  if(!(this instanceof Monglo)) return new Monglo(databaseName);","","  this._collections = {};","  this._stores = [];","","  if(!Monglo.connections) { Monglo.connections = {}; }","","  //Temp patch until I figure out how far I want to take the implementation;","","  if(Monglo.connections[databaseName]){","    throw new Error('db name already in use');","  }","","  this.databaseName = databaseName;","","  Monglo.connections[databaseName] = new ObjectID();","","  // Ensure we have a valid db name","  validateDatabaseName(databaseName);","","};","","","Monglo.prototype.__proto__ = EventEmitter.proto;","","Monglo.prototype.constructor = Monglo;","","/**"," * version Number"," */","","Monglo.version = '0.1.2';","","Monglo._debug = function(){","};","","/**"," * Connection Pool"," * @type {Array}"," */","","Monglo.connections = {};","","/**"," * Persistance Plugins"," * @param  {[type]} name [description]"," * @param  {[type]} args [description]"," * @return {[type]}      [description]"," */","Monglo.prototype._executeCommand = function(name,args,cb){","  var self = this;","  var command = name;","","  utils.forEach(self._stores,function(fn){","    if('function' === typeof fn[command]){","      fn[command](args,cb);","    } else if('function' === typeof fn.all){","      args.name = name;","      fn.all(args,cb);","    }","  });","};","","/**"," * Middleware functions"," * @param  {[type]}   name [description]"," * @param  {Function} fn   [description]"," * @return {[type]}        [description]"," */","","Monglo.prototype.use = function(name,fn){"," switch(name){","  case 'sync':","    this._sync = fn;","    break;","  case 'store':","    this._stores.push(fn);","    break;","  case 'debug':","    Monglo._debug = fn;","    break;","  }","};","","/**"," * Stores for remote and local persistence"," *"," * @param {[type]} store [description]"," * @return {Monglo} Current Instance"," * @api public"," */","","Monglo.prototype.addStore = function(store){","  this._stores.push(store);","  return this;","};","","/**"," * Returns a cursor to all the collection information."," *"," * @param {String} [collectionName] the collection name we wish to retrieve the information from."," * @param {Function} callback returns option results."," * @return {null}"," * @api public"," */","","Monglo.prototype.collectionsInfo = function(collectionName, callback) {","};","","/**"," * Get the list of all collection names for the specified db"," *"," * Options"," *  - **namesOnly** {String, default:false}, Return only the full collection namespace."," *"," * @param {String} [collectionName] the collection name we wish to filter by."," * @param {Object} [options] additional options during update."," * @param {Function} callback returns option results."," * @return {null}"," * @api public"," */","","Monglo.prototype.collectionNames = function(collectionName, options, callback) {","  var self = this;","  var args = Array.prototype.slice.call(arguments, 0);","  callback = args.pop();","  collectionName = args.length ? args.shift() : null;","  options = args.length ? args.shift() : {};","","  var collectionList =[];","  for(var name in self._collections){","    collectionList.push(name);","  }","  callback(null,collectionList);","};","","","Monglo.prototype.collection = function(collectionName, options, callback) {","  var self = this;","  var collection;","  var collectionFullName =  self.databaseName + \".\" + collectionName;","  if('function' === typeof options){ options = {}; callback = options; } else{","    options = options || {};","  }","","  if(self._collections[collectionName]){","    self._executeCommand('createCollection', {conn: self, collection:self._collections[collectionName]});","    return callback(null, self._collections[collectionName]);","  } else {","    self._collections[collectionName] = new Collection(self, collectionName, self.pkFactory, options);","    self._executeCommand('createCollection', {conn: self, collection:self._collections[collectionName]});","  }","    Object.defineProperty(Monglo.prototype, collectionName, {","      enumerable: true","    , get: function () {","        return self._collections[collectionName];","      }","    , set: function (v) {","        self._collections[collectionName] = v;","      }","  });","","  return (callback) ? callback(self._collections[collectionName]) : self._collections[collectionName];","};","","/**"," * Fetch all collections for the current Monglo."," *"," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.collections = function(callback) {","  var self = this;","  // Let's get the collection names","  self.collectionNames(function(err, documents) {","    if(err != null) return callback(err, null);","    var collections = [];","    utils.forEach(documents,function(document) {","      collections.push(new Collection(self, document.name.replace(self.databaseName + \".\", ''), self.pkFactory));","    });","    // Return the collection objects","    callback(null, collections);","  });","};","","/**"," * Dereference a dbref, against a db"," *"," * @param {DBRef} dbRef db reference object we wish to resolve."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.dereference = function(dbRef, callback) {","  var db = this;","  // If we have a db reference then let's get the db first","  if(dbRef.db !== null) db = this.db(dbRef.db);","  // Fetch the collection and find the reference","  var collection = Monglo.collection(dbRef.namespace);","  collection.findOne({'_id':dbRef.oid}, function(err, result) {","    callback(err, result);","  });","};","","/**"," * Creates a collection on a server pre-allocating space, need to create f.ex capped collections."," *"," * Options"," *  - **safe** {true | {w:n, wtimeout:n} | {fsync:true}, default:false}, executes with a getLastError command returning the results of the command on MongoMonglo."," *  - **serializeFunctions** {Boolean, default:false}, serialize functions on the document."," *  - **raw** {Boolean, default:false}, perform all operations using raw bson objects."," *  - **pkFactory** {Object}, object overriding the basic ObjectID primary key generation."," *  - **capped** {Boolean, default:false}, create a capped collection."," *  - **size** {Number}, the size of the capped collection in bytes."," *  - **max** {Number}, the maximum number of documents in the capped collection."," *  - **autoIndexId** {Boolean, default:false}, create an index on the _id field of the document, not created automatically on capped collections."," *  - **readPreference** {String}, the prefered read preference (ReadPreference.PRIMARY, ReadPreference.PRIMARY_PREFERRED, ReadPreference.SECONDARY, ReadPreference.SECONDARY_PREFERRED, ReadPreference.NEAREST)."," *"," * @param {String} collectionName the collection name we wish to access."," * @param {Object} [options] returns option results."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.createCollection = Monglo.prototype.collection;","","/**"," * Drop a collection from the database, removing it permanently. New accesses will create a new collection."," *"," * @param {String} collectionName the name of the collection we wish to drop."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.dropCollection = function(collectionName, callback) {","  var self = this;","  // Drop the collection","  this._executeCommand('dropCollection', {conn: this, collection: self });","};","","/**"," * Rename a collection."," *"," * @param {String} fromCollection the name of the current collection we wish to rename."," * @param {String} toCollection the new name of the collection."," * @param {Function} callback returns the results."," * @return {null}"," * @api public"," */","Monglo.prototype.renameCollection = function(fromCollection, toCollection, callback) {","  var self = this;","  // Execute the command, return the new renamed collection if successful","  this._executeCommand('renameCollection', {conn: self, from: fromCollection, to: toCollection});","};","","","/**"," * Creates an index on the collection."," *"," * Options"," *  - **safe** {true | {w:n, wtimeout:n} | {fsync:true}, default:false}, executes with a"," *  - **unique** {Boolean, default:false}, creates an unique index."," *  - **sparse** {Boolean, default:false}, creates a sparse index."," *  - **background** {Boolean, default:false}, creates the index in the background, yielding whenever possible."," *  - **dropDups** {Boolean, default:false}, a unique index cannot be created on a key that has pre-existing duplicate values. If you would like to create the index anyway, keeping the first document the database indexes and deleting all subsequent documents that have duplicate value"," *  - **min** {Number}, for geospatial indexes set the lower bound for the co-ordinates."," *  - **max** {Number}, for geospatial indexes set the high bound for the co-ordinates."," *  - **v** {Number}, specify the format version of the indexes."," *  - **expireAfterSeconds** {Number}, allows you to expire data on indexes applied to a data (MongoDB 2.2 or higher)"," *  - **name** {String}, override the autogenerated index name (useful if the resulting name is larger than 128 bytes)"," *"," * @param {String} collectionName name of the collection to create the index on."," * @param {Object} fieldOrSpec fieldOrSpec that defines the index."," * @param {Object} [options] additional options during update."," * @param {Function} callback for results."," * @return {null}"," * @api public"," */","Monglo.prototype.createIndex = function(collectionName, fieldOrSpec, options, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Ensures that an index exists, if it does not it creates it"," *"," * Options"," *  - **safe** {true | {w:n, wtimeout:n} | {fsync:true}, default:false}, executes with a"," *  - **unique** {Boolean, default:false}, creates an unique index."," *  - **sparse** {Boolean, default:false}, creates a sparse index."," *  - **background** {Boolean, default:false}, creates the index in the background, yielding whenever possible."," *  - **dropDups** {Boolean, default:false}, a unique index cannot be created on a key that has pre-existing duplicate values. If you would like to create the index anyway, keeping the first document the database indexes and deleting all subsequent documents that have duplicate value"," *  - **min** {Number}, for geospatial indexes set the lower bound for the co-ordinates."," *  - **max** {Number}, for geospatial indexes set the high bound for the co-ordinates."," *  - **v** {Number}, specify the format version of the indexes."," *  - **expireAfterSeconds** {Number}, allows you to expire data on indexes applied to a data (MongoDB 2.2 or higher)"," *  - **name** {String}, override the autogenerated index name (useful if the resulting name is larger than 128 bytes)"," *"," * @param {String} collectionName name of the collection to create the index on."," * @param {Object} fieldOrSpec fieldOrSpec that defines the index."," * @param {Object} [options] additional options during update."," * @param {Function} callback for results."," * @return {null}"," * @api public"," */","Monglo.prototype.ensureIndex = function(collectionName, fieldOrSpec, options, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Drop an index on a collection."," *"," * @param {String} collectionName the name of the collection where the command will drop an index."," * @param {String} indexName name of the index to drop."," * @param {Function} callback for results."," * @return {null}"," * @api public"," */","Monglo.prototype.dropIndex = function(collectionName, indexName, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Reindex all indexes on the collection"," * Warning: reIndex is a blocking operation (indexes are rebuilt in the foreground) and will be slow for large collections."," *"," * @param {String} collectionName the name of the collection."," * @param {Function} callback returns the results."," * @api public","**/","Monglo.prototype.reIndex = function(collectionName, callback) {","  throw new Error('Not implemented yet!');","};","","/**"," * Retrieves this collections index info."," *"," * Options"," *  - **full** {Boolean, default:false}, returns the full raw index information."," *  - **readPreference** {String}, the preferred read preference ((Server.PRIMARY, Server.PRIMARY_PREFERRED, Server.SECONDARY, Server.SECONDARY_PREFERRED, Server.NEAREST)."," *"," * @param {String} collectionName the name of the collection."," * @param {Object} [options] additional options during update."," * @param {Function} callback returns the index information."," * @return {null}"," * @api public"," */","Monglo.prototype.indexInformation = function(collectionName, options, callback) {","   throw new Error('Not implemented yet!');","};","","/**"," * Drop a database."," *"," * @param {Function} callback returns the index information."," * @return {null}"," * @api public"," */","Monglo.prototype.dropDatabase = function(callback) {","  var self = this;","  this._executeCommand('dropDatabase', {conn:this });","};","","exports.Monglo = Monglo;","","/**"," * @ignore"," */","function validateDatabaseName(databaseName) {","  if(typeof databaseName !== 'string') throw new Error(\"database name must be a string\");","  if(databaseName.length === 0) throw new Error(\"database name cannot be the empty string\");","","  var invalidChars = [\" \", \".\", \"$\", \"/\", \"\\\\\"];","  for(var i = 0; i &lt; invalidChars.length; i++) {","    if(databaseName.indexOf(invalidChars[i]) != -1) throw new Error(\"database names cannot contain the character '\" + invalidChars[i] + \"'\");","  }","}/**"," * Module dependencies."," */","/**"," * Binary Parser."," * Jonas Raoni Soares Silva"," * http://jsfromhell.com/classes/binary-parser [v1.0]"," */","var chr = String.fromCharCode;","","var maxBits = [];","for (var i = 0; i &lt; 64; i++) {","  maxBits[i] = Math.pow(2, i);","}","","function BinaryParser (bigEndian, allowExceptions) {","  if(!(this instanceof BinaryParser)) return new BinaryParser(bigEndian, allowExceptions);","  ","  this.bigEndian = bigEndian;","  this.allowExceptions = allowExceptions;","}","","BinaryParser.warn = function warn (msg) {","  if (this.allowExceptions) {","    throw new Error(msg);","  }","","  return 1;","};","","BinaryParser.decodeFloat = function decodeFloat (data, precisionBits, exponentBits) {","  var b = new this.Buffer(this.bigEndian, data);","","  b.checkBuffer(precisionBits + exponentBits + 1);","","  var bias = maxBits[exponentBits - 1] - 1","    , signal = b.readBits(precisionBits + exponentBits, 1)","    , exponent = b.readBits(precisionBits, exponentBits)","    , significand = 0","    , divisor = 2","    , curByte = b.buffer.length + (-precisionBits &gt;&gt; 3) - 1;","","  do {","    for (var byteValue = b.buffer[ ++curByte ], startBit = precisionBits % 8 || 8, mask = 1 &lt;&lt; startBit; mask &gt;&gt;= 1; ( byteValue &amp; mask ) &amp;&amp; ( significand += 1 / divisor ), divisor *= 2 );","  } while (precisionBits -= startBit);","","  return exponent == ( bias &lt;&lt; 1 ) + 1 ? significand ? NaN : signal ? -Infinity : +Infinity : ( 1 + signal * -2 ) * ( exponent || significand ? !exponent ? Math.pow( 2, -bias + 1 ) * significand : Math.pow( 2, exponent - bias ) * ( 1 + significand ) : 0 );","};","","BinaryParser.decodeInt = function decodeInt (data, bits, signed, forceBigEndian) {","  var b = new this.Buffer(this.bigEndian || forceBigEndian, data)","      , x = b.readBits(0, bits)","      , max = maxBits[bits]; //max = Math.pow( 2, bits );","  ","  return signed &amp;&amp; x &gt;= max / 2","      ? x - max","      : x;","};","","BinaryParser.encodeFloat = function encodeFloat (data, precisionBits, exponentBits) {","  var bias = maxBits[exponentBits - 1] - 1","    , minExp = -bias + 1","    , maxExp = bias","    , minUnnormExp = minExp - precisionBits","    , n = parseFloat(data)","    , status = isNaN(n) || n == -Infinity || n == +Infinity ? n : 0","    , exp = 0","    , len = 2 * bias + 1 + precisionBits + 3","    , bin = new Array(len)","    , signal = (n = status !== 0 ? 0 : n) &lt; 0","    , intPart = Math.floor(n = Math.abs(n))","    , floatPart = n - intPart","    , lastBit","    , rounded","    , result","    , i","    , j;","","  for (i = len; i; bin[--i] = 0);","","  for (i = bias + 2; intPart &amp;&amp; i; bin[--i] = intPart % 2, intPart = Math.floor(intPart / 2));","","  for (i = bias + 1; floatPart &gt; 0 &amp;&amp; i; (bin[++i] = ((floatPart *= 2) &gt;= 1) - 0 ) &amp;&amp; --floatPart);","","  for (i = -1; ++i &lt; len &amp;&amp; !bin[i];);","","  if (bin[(lastBit = precisionBits - 1 + (i = (exp = bias + 1 - i) &gt;= minExp &amp;&amp; exp &lt;= maxExp ? i + 1 : bias + 1 - (exp = minExp - 1))) + 1]) {","    if (!(rounded = bin[lastBit])) {","      for (j = lastBit + 2; !rounded &amp;&amp; j &lt; len; rounded = bin[j++]);","    }","","    for (j = lastBit + 1; rounded &amp;&amp; --j &gt;= 0; (bin[j] = !bin[j] - 0) &amp;&amp; (rounded = 0));","  }","","  for (i = i - 2 &lt; 0 ? -1 : i - 3; ++i &lt; len &amp;&amp; !bin[i];);","","  if ((exp = bias + 1 - i) &gt;= minExp &amp;&amp; exp &lt;= maxExp) {","    ++i;","  } else if (exp &lt; minExp) {","    exp != bias + 1 - len &amp;&amp; exp &lt; minUnnormExp &amp;&amp; this.warn(\"encodeFloat::float underflow\");","    i = bias + 1 - (exp = minExp - 1);","  }","","  if (intPart || status !== 0) {","    this.warn(intPart ? \"encodeFloat::float overflow\" : \"encodeFloat::\" + status);","    exp = maxExp + 1;","    i = bias + 2;","","    if (status == -Infinity) {","      signal = 1;","    } else if (isNaN(status)) {","      bin[i] = 1;","    }","  }","","  for (n = Math.abs(exp + bias), j = exponentBits + 1, result = \"\"; --j; result = (n % 2) + result, n = n &gt;&gt;= 1);","","  for (n = 0, j = 0, i = (result = (signal ? \"1\" : \"0\") + result + bin.slice(i, i + precisionBits).join(\"\")).length, r = []; i; j = (j + 1) % 8) {","    n += (1 &lt;&lt; j) * result.charAt(--i);","    if (j == 7) {","      r[r.length] = String.fromCharCode(n);","      n = 0;","    }","  }","","  r[r.length] = n","    ? String.fromCharCode(n)","    : \"\";","","  return (this.bigEndian ? r.reverse() : r).join(\"\");","};","","BinaryParser.encodeInt = function encodeInt (data, bits, signed, forceBigEndian) {","  var max = maxBits[bits];","","  if (data &gt;= max || data &lt; -(max / 2)) {","    this.warn(\"encodeInt::overflow\");","    data = 0;","  }","","  if (data &lt; 0) {","    data += max;","  }","","  for (var r = []; data; r[r.length] = String.fromCharCode(data % 256), data = Math.floor(data / 256));","","  for (bits = -(-bits &gt;&gt; 3) - r.length; bits--; r[r.length] = \"\\0\");","","  return ((this.bigEndian || forceBigEndian) ? r.reverse() : r).join(\"\");","};","","BinaryParser.toSmall    = function( data ){ return this.decodeInt( data,  8, true  ); };","BinaryParser.fromSmall  = function( data ){ return this.encodeInt( data,  8, true  ); };","BinaryParser.toByte     = function( data ){ return this.decodeInt( data,  8, false ); };","BinaryParser.fromByte   = function( data ){ return this.encodeInt( data,  8, false ); };","BinaryParser.toShort    = function( data ){ return this.decodeInt( data, 16, true  ); };","BinaryParser.fromShort  = function( data ){ return this.encodeInt( data, 16, true  ); };","BinaryParser.toWord     = function( data ){ return this.decodeInt( data, 16, false ); };","BinaryParser.fromWord   = function( data ){ return this.encodeInt( data, 16, false ); };","BinaryParser.toInt      = function( data ){ return this.decodeInt( data, 32, true  ); };","BinaryParser.fromInt    = function( data ){ return this.encodeInt( data, 32, true  ); };","BinaryParser.toLong     = function( data ){ return this.decodeInt( data, 64, true  ); };","BinaryParser.fromLong   = function( data ){ return this.encodeInt( data, 64, true  ); };","BinaryParser.toDWord    = function( data ){ return this.decodeInt( data, 32, false ); };","BinaryParser.fromDWord  = function( data ){ return this.encodeInt( data, 32, false ); };","BinaryParser.toQWord    = function( data ){ return this.decodeInt( data, 64, true ); };","BinaryParser.fromQWord  = function( data ){ return this.encodeInt( data, 64, true ); };","BinaryParser.toFloat    = function( data ){ return this.decodeFloat( data, 23, 8   ); };","BinaryParser.fromFloat  = function( data ){ return this.encodeFloat( data, 23, 8   ); };","BinaryParser.toDouble   = function( data ){ return this.decodeFloat( data, 52, 11  ); };","BinaryParser.fromDouble = function( data ){ return this.encodeFloat( data, 52, 11  ); };","","// Factor out the encode so it can be shared by add_header and push_int32","BinaryParser.encode_int32 = function encode_int32 (number, asArray) {","  var a, b, c, d, unsigned;","  unsigned = (number &lt; 0) ? (number + 0x100000000) : number;","  a = Math.floor(unsigned / 0xffffff);","  unsigned &amp;= 0xffffff;","  b = Math.floor(unsigned / 0xffff);","  unsigned &amp;= 0xffff;","  c = Math.floor(unsigned / 0xff);","  unsigned &amp;= 0xff;","  d = Math.floor(unsigned);","  return asArray ? [chr(a), chr(b), chr(c), chr(d)] : chr(a) + chr(b) + chr(c) + chr(d);","};","","BinaryParser.encode_int64 = function encode_int64 (number) {","  var a, b, c, d, e, f, g, h, unsigned;","  unsigned = (number &lt; 0) ? (number + 0x10000000000000000) : number;","  a = Math.floor(unsigned / 0xffffffffffffff);","  unsigned &amp;= 0xffffffffffffff;","  b = Math.floor(unsigned / 0xffffffffffff);","  unsigned &amp;= 0xffffffffffff;","  c = Math.floor(unsigned / 0xffffffffff);","  unsigned &amp;= 0xffffffffff;","  d = Math.floor(unsigned / 0xffffffff);","  unsigned &amp;= 0xffffffff;","  e = Math.floor(unsigned / 0xffffff);","  unsigned &amp;= 0xffffff;","  f = Math.floor(unsigned / 0xffff);","  unsigned &amp;= 0xffff;","  g = Math.floor(unsigned / 0xff);","  unsigned &amp;= 0xff;","  h = Math.floor(unsigned);","  return chr(a) + chr(b) + chr(c) + chr(d) + chr(e) + chr(f) + chr(g) + chr(h);","};","","/**"," * UTF8 methods"," */","","// Take a raw binary string and return a utf8 string","BinaryParser.decode_utf8 = function decode_utf8 (binaryStr) {","  var len = binaryStr.length","    , decoded = ''","    , i = 0","    , c = 0","    , c1 = 0","    , c2 = 0","    , c3;","","  while (i &lt; len) {","    c = binaryStr.charCodeAt(i);","    if (c &lt; 128) {","      decoded += String.fromCharCode(c);","      i++;","    } else if ((c &gt; 191) &amp;&amp; (c &lt; 224)) {","      c2 = binaryStr.charCodeAt(i+1);","      decoded += String.fromCharCode(((c &amp; 31) &lt;&lt; 6) | (c2 &amp; 63));","      i += 2;","    } else {","      c2 = binaryStr.charCodeAt(i+1);","      c3 = binaryStr.charCodeAt(i+2);","      decoded += String.fromCharCode(((c &amp; 15) &lt;&lt; 12) | ((c2 &amp; 63) &lt;&lt; 6) | (c3 &amp; 63));","      i += 3;","    }","  }","","  return decoded;","};","","// Encode a cstring","BinaryParser.encode_cstring = function encode_cstring (s) {","  return unescape(encodeURIComponent(s)) + BinaryParser.fromByte(0);","};","","// Take a utf8 string and return a binary string","BinaryParser.encode_utf8 = function encode_utf8 (s) {","  var a = \"\"","    , c;","","  for (var n = 0, len = s.length; n &lt; len; n++) {","    c = s.charCodeAt(n);","","    if (c &lt; 128) {","      a += String.fromCharCode(c);","    } else if ((c &gt; 127) &amp;&amp; (c &lt; 2048)) {","      a += String.fromCharCode((c&gt;&gt;6) | 192) ;","      a += String.fromCharCode((c&amp;63) | 128);","    } else {","      a += String.fromCharCode((c&gt;&gt;12) | 224);","      a += String.fromCharCode(((c&gt;&gt;6) &amp; 63) | 128);","      a += String.fromCharCode((c&amp;63) | 128);","    }","  }","","  return a;","};","","BinaryParser.hprint = function hprint (s) {","  var number;","","  for (var i = 0, len = s.length; i &lt; len; i++) {","    if (s.charCodeAt(i) &lt; 32) {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);        ","      process.stdout.write(number + \" \")","    } else {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);","        process.stdout.write(number + \" \")","    }","  }","  ","  process.stdout.write(\"\\n\\n\");","};","","BinaryParser.ilprint = function hprint (s) {","  var number;","","  for (var i = 0, len = s.length; i &lt; len; i++) {","    if (s.charCodeAt(i) &lt; 32) {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(10)","        : s.charCodeAt(i).toString(10);","","    } else {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(10)","        : s.charCodeAt(i).toString(10);","    }","  }","};","","BinaryParser.hlprint = function hprint (s) {","  var number;","","  for (var i = 0, len = s.length; i &lt; len; i++) {","    if (s.charCodeAt(i) &lt; 32) {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);","    } else {","      number = s.charCodeAt(i) &lt;= 15","        ? \"0\" + s.charCodeAt(i).toString(16)","        : s.charCodeAt(i).toString(16);","    }","  }","};","","/**"," * BinaryParser buffer constructor."," */","function BinaryParserBuffer (bigEndian, buffer) {","  this.bigEndian = bigEndian || 0;","  this.buffer = [];","  this.setBuffer(buffer);","};","","BinaryParserBuffer.prototype.setBuffer = function setBuffer (data) {","  var l, i, b;","","  if (data) {","    i = l = data.length;","    b = this.buffer = new Array(l);","    for (; i; b[l - i] = data.charCodeAt(--i));","    this.bigEndian &amp;&amp; b.reverse();","  }","};","","BinaryParserBuffer.prototype.hasNeededBits = function hasNeededBits (neededBits) {","  return this.buffer.length &gt;= -(-neededBits &gt;&gt; 3);","};","","BinaryParserBuffer.prototype.checkBuffer = function checkBuffer (neededBits) {","  if (!this.hasNeededBits(neededBits)) {","    throw new Error(\"checkBuffer::missing bytes\");","  }","};","","BinaryParserBuffer.prototype.readBits = function readBits (start, length) {","  //shl fix: Henri Torgemane ~1996 (compressed by Jonas Raoni)","","  function shl (a, b) {","    for (; b--; a = ((a %= 0x7fffffff + 1) &amp; 0x40000000) == 0x40000000 ? a * 2 : (a - 0x40000000) * 2 + 0x7fffffff + 1);","    return a;","  }","","  if (start &lt; 0 || length &lt;= 0) {","    return 0;","  }","","  this.checkBuffer(start + length);","","  var offsetLeft","    , offsetRight = start % 8","    , curByte = this.buffer.length - ( start &gt;&gt; 3 ) - 1","    , lastByte = this.buffer.length + ( -( start + length ) &gt;&gt; 3 )","    , diff = curByte - lastByte","    , sum = ((this.buffer[ curByte ] &gt;&gt; offsetRight) &amp; ((1 &lt;&lt; (diff ? 8 - offsetRight : length)) - 1)) + (diff &amp;&amp; (offsetLeft = (start + length) % 8) ? (this.buffer[lastByte++] &amp; ((1 &lt;&lt; offsetLeft) - 1)) &lt;&lt; (diff-- &lt;&lt; 3) - offsetRight : 0);","","  for(; diff; sum += shl(this.buffer[lastByte++], (diff-- &lt;&lt; 3) - offsetRight));","","  return sum;","};","","/**"," * Expose."," */","BinaryParser.Buffer = BinaryParserBuffer;","","if(typeof window === 'undefined') {","  exports.BinaryParser = BinaryParser;","}","","/**"," * ObjectId"," */","","/**"," * Machine id."," *"," * Create a random 3-byte value (i.e. unique for this"," * process). Other drivers use a md5 of the machine id here, but"," * that would mean an asyc call to gethostname, so we don't bother."," */","var MACHINE_ID = parseInt(Math.random() * 0xFFFFFF, 10);","","// Regular expression that checks for hex value","var checkForHexRegExp = new RegExp(\"^[0-9a-fA-F]{24}$\");","","/**","* Create a new ObjectID instance","*","* @class Represents the BSON ObjectID type","* @param {String|Number} id Can be a 24 byte hex string, 12 byte binary string or a Number.","* @return {Object} instance of ObjectID.","*/","var ObjectID = function ObjectID(id, _hex) {","  if(!(this instanceof ObjectID)) return new ObjectID(id, _hex);","","  this._bsontype = 'ObjectID';","  var __id = null;","","  // Throw an error if it's not a valid setup","  if(id != null &amp;&amp; 'number' != typeof id &amp;&amp; (id.length != 12 &amp;&amp; id.length != 24))","    throw new Error(\"Argument passed in must be a single String of 12 bytes or a string of 24 hex characters\");","","  // Generate id based on the input","  if(id == null || typeof id == 'number') {","    // convert to 12 byte binary string","    this.id = this.generate(id);","  } else if(id != null &amp;&amp; id.length === 12) {","    // assume 12 byte string","    this.id = id;","  } else if(checkForHexRegExp.test(id)) {","    return ObjectID.createFromHexString(id);","  } else if(!checkForHexRegExp.test(id)) {","    throw new Error(\"Value passed in is not a valid 24 character hex string\");","  }","","  if(ObjectID.cacheHexString) this.__id = this.toHexString();","};","","// Is this a bad Idea?","//ObjectID.prototype.__proto__.toString = function() { return '[ObjectId Object]'; };","","// Allow usage of ObjectId aswell as ObjectID","var ObjectId = ObjectID;","","/**","* Return the ObjectID id as a 24 byte hex string representation","*","* @return {String} return the 24 byte hex string representation.","* @api public","*/","ObjectID.prototype.toHexString = function() {","  if(ObjectID.cacheHexString &amp;&amp; this.__id) return this.__id;","","  var hexString = ''","    , number","    , value;","","  for (var index = 0, len = this.id.length; index &lt; len; index++) {","    value = BinaryParser.toByte(this.id[index]);","    number = value &lt;= 15","      ? '0' + value.toString(16)","      : value.toString(16);","    hexString = hexString + number;","  }","","  if(ObjectID.cacheHexString) this.__id = hexString;","  return hexString;","};","","/**","* Update the ObjectID index used in generating new ObjectID's on the driver","*","* @return {Number} returns next index value.","* @api private","*/","ObjectID.prototype.get_inc = function() {","  return ObjectID.index = (ObjectID.index + 1) % 0xFFFFFF;","};","","/**","* Update the ObjectID index used in generating new ObjectID's on the driver","*","* @return {Number} returns next index value.","* @api private","*/","ObjectID.prototype.getInc = function() {","  return this.get_inc();","};","","/**","* Generate a 12 byte id string used in ObjectID's","*","* @param {Number} [time] optional parameter allowing to pass in a second based timestamp.","* @return {String} return the 12 byte id binary string.","* @api private","*/","ObjectID.prototype.generate = function(time) {","  if ('number' == typeof time) {","    var time4Bytes = BinaryParser.encodeInt(time, 32, true, true);","    /* for time-based ObjectID the bytes following the time will be zeroed */","    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);","    var pid2Bytes = BinaryParser.fromShort(typeof process === 'undefined' ? Math.floor(Math.random() * 100000) : process.pid);","    var index3Bytes = BinaryParser.encodeInt(this.get_inc(), 24, false, true);","  } else {","    var unixTime = parseInt(Date.now()/1000,10);","    var time4Bytes = BinaryParser.encodeInt(unixTime, 32, true, true);","    var machine3Bytes = BinaryParser.encodeInt(MACHINE_ID, 24, false);","    var pid2Bytes = BinaryParser.fromShort(typeof process === 'undefined' ? Math.floor(Math.random() * 100000) : process.pid);","    var index3Bytes = BinaryParser.encodeInt(this.get_inc(), 24, false, true);","  }","","  return time4Bytes + machine3Bytes + pid2Bytes + index3Bytes;","};","","/**","* Converts the id into a 24 byte hex string for printing","*","* @return {String} return the 24 byte hex string representation.","* @api private","*/","ObjectID.prototype.toString = function() {","  return this.toHexString();","};","","/**","* Converts to a string representation of this Id.","*","* @return {String} return the 24 byte hex string representation.","* @api private","*/","ObjectID.prototype.inspect = ObjectID.prototype.toString;","","/**","* Converts to its JSON representation.","*","* @return {String} return the 24 byte hex string representation.","* @api private","*/","ObjectID.prototype.toJSON = function() {","  return this.toHexString();","};","","/**","* Compares the equality of this ObjectID with `otherID`.","*","* @param {Object} otherID ObjectID instance to compare against.","* @return {Bool} the result of comparing two ObjectID's","* @api public","*/","ObjectID.prototype.equals = function equals (otherID) {","  var id = (otherID instanceof ObjectID || otherID.toHexString)","    ? otherID.id","    : ObjectID.createFromHexString(otherID).id;","","  return this.id === id;","}","","/**","* Returns the generation time in seconds that this ID was generated.","*","* @return {Number} return number of seconds in the timestamp part of the 12 byte id.","* @api public","*/","ObjectID.prototype.getTimestamp = function() {","  var timestamp = new Date();","  timestamp.setTime(Math.floor(BinaryParser.decodeInt(this.id.substring(0,4), 32, true, true)) * 1000);","  return timestamp;","}","","/**","* @ignore","* @api private","*/","ObjectID.index = 0;","","ObjectID.createPk = function createPk () {","  return new ObjectID();","};","","/**","* Creates an ObjectID from a second based number, with the rest of the ObjectID zeroed out. Used for comparisons or sorting the ObjectID.","*","* @param {Number} time an integer number representing a number of seconds.","* @return {ObjectID} return the created ObjectID","* @api public","*/","ObjectID.createFromTime = function createFromTime (time) {","  var id = BinaryParser.encodeInt(time, 32, true, true) +","           BinaryParser.encodeInt(0, 64, true, true);","  return new ObjectID(id);","};","","/**","* Creates an ObjectID from a hex string representation of an ObjectID.","*","* @param {String} hexString create a ObjectID from a passed in 24 byte hexstring.","* @return {ObjectID} return the created ObjectID","* @api public","*/","ObjectID.createFromHexString = function createFromHexString (hexString) {","  // Throw an error if it's not a valid setup","  if(typeof hexString === 'undefined' || hexString != null &amp;&amp; hexString.length != 24)","    throw new Error(\"Argument passed in must be a single String of 12 bytes or a string of 24 hex characters\");","","  var len = hexString.length;","","  if(len &gt; 12*2) {","    throw new Error('Id cannot be longer than 12 bytes');","  }","","  var result = ''","    , string","    , number;","","  for (var index = 0; index &lt; len; index += 2) {","    string = hexString.substr(index, 2);","    number = parseInt(string, 16);","    result += BinaryParser.fromByte(number);","  }","","  return new ObjectID(result, hexString);","};","","/**","* @ignore","*/","Object.defineProperty(ObjectID.prototype, \"generationTime\", {","   enumerable: true"," , get: function () {","     return Math.floor(BinaryParser.decodeInt(this.id.substring(0,4), 32, true, true));","   }"," , set: function (value) {","     var value = BinaryParser.encodeInt(value, 32, true, true);","     this.id = value + this.id.substr(4);","     // delete this.__id;","     this.toHexString();","   }","});","","/**"," * Expose."," */","  exports.ObjectID = ObjectID;","  exports.ObjectId = ObjectID;","// old_results: array of documents.","// new_results: array of documents.","// observer: object with 'added', 'changed', 'moved',","//           'removed' functions (each optional)","// deepcopy: if true, elements of new_results that are passed to callbacks are","//          deepcopied first","Collection._diffQuery = function (old_results, new_results, observer, deepcopy) {","","  var new_presence_of_id = {};","  _.each(new_results, function (doc) {","    if (new_presence_of_id[doc._id])","      utils.debug(\"Duplicate _id in new_results\");","    new_presence_of_id[doc._id] = true;","  });","","  var old_index_of_id = {};","  _.each(old_results, function (doc, i) {","    if (doc._id in old_index_of_id)","      utils.debug(\"Duplicate _id in old_results\");","    old_index_of_id[doc._id] = i;","  });","","  // \"maybe deepcopy\"","  var mdc = (deepcopy ? Collection._deepcopy : _.identity);","","  // ALGORITHM:","  //","  // We walk old_idx through the old_results array and","  // new_idx through the new_results array at the same time.","  // These pointers establish a sort of correspondence between","  // old docs and new docs (identified by their _ids).","  // If they point to the same doc (i.e. old and new docs","  // with the same _id), we can increment both pointers","  // and fire no 'moved' callbacks.  Otherwise, we must","  // increment one or the other and fire approprate 'added',","  // 'removed', and 'moved' callbacks.","  //","  // The process is driven by new_results, in that we try","  // make the observer's array look like new_results by","  // establishing each new doc in order.  The doc pointed","  // to by new_idx is the one we are trying to establish","  // at any given time.  If it doesn't exist in old_results,","  // we fire an 'added' callback.  If it does, we have a","  // choice of two ways to handle the situation.  We can","  // advance old_idx forward to the corresponding old doc,","  // treating all intervening old docs as moved or removed,","  // and the current doc as unmoved.  Or, we can simply","  // establish the new doc as next by moving it into place,","  // i.e. firing a single 'moved' callback to move the","  // doc from wherever it was before.  Generating a sequence","  // of 'moved' callbacks that is not just correct but small","  // (or minimal) is a matter of choosing which elements","  // to consider moved and which ones merely change position","  // by virtue of the movement of other docs.","  //","  // Calling callbacks with correct indices requires understanding","  // what the observer's array looks like at each iteration.","  // The observer's array is a concatenation of:","  // - new_results up to (but not including) new_idx, with the","  //   addition of some \"bumped\" docs that we are later going","  //   to move into place","  // - old_results starting at old_idx, minus any docs that we","  //   have already moved (\"taken\" docs)","  //","  // To keep track of \"bumped\" items -- docs in the observer's","  // array that we have skipped over, but will be moved forward","  // later when we get to their new position -- we keep a","  // \"bump list\" of indices into new_results where bumped items","  // occur.  [The idea is that by adding an item to the list (bumping","  // it), we can consider it dealt with, even though it is still there.]","  // The corresponding position of new_idx in the observer's array,","  // then, is new_idx + bump_list.length, and the position of","  // the nth bumped item in the observer's array is","  // bump_list[n] + n (to account for the previous bumped items","  // that are still there).","  //","  // A \"taken\" list is used in a sort of analogous way to track","  // the indices of the documents after old_idx in old_results","  // that we have moved, so that, conversely, even though we will","  // come across them in old_results, they are actually no longer","  // in the observer's array.","  //","  // To determine which docs should be considered \"moved\" (and which","  // merely change position because of other docs moving) we run","  // a \"longest common subsequence\" (LCS) algorithm.  The LCS of the","  // old doc IDs and the new doc IDs gives the docs that should NOT be","  // considered moved.","  //","  // Overall, this diff implementation is asymptotically good, but could","  // be optimized to streamline execution and use less memory (e.g. not","  // have to build data structures with an entry for every doc).","","  // Asymptotically: O(N k) where k is number of ops, or potentially","  // O(N log N) if inner loop of LCS were made to be binary search.","","","  //////// LCS (longest common sequence, with respect to _id)","  // (see Wikipedia article on Longest Increasing Subsequence,","  // where the LIS is taken of the sequence of old indices of the","  // docs in new_results)","  //","  // unmoved_set: the output of the algorithm; members of the LCS,","  // in the form of indices into new_results","  var unmoved_set = {};","  // max_seq_len: length of LCS found so far","  var max_seq_len = 0;","  // seq_ends[i]: the index into new_results of the last doc in a","  // common subsequence of length of i+1 &lt;= max_seq_len","  var N = new_results.length;","  var seq_ends = new Array(N);","  // ptrs:  the common subsequence ending with new_results[n] extends","  // a common subsequence ending with new_results[ptr[n]], unless","  // ptr[n] is -1.","  var ptrs = new Array(N);","  // virtual sequence of old indices of new results","  var old_idx_seq = function(i_new) {","    return old_index_of_id[new_results[i_new]._id];","  };","  // for each item in new_results, use it to extend a common subsequence","  // of length j &lt;= max_seq_len","  for(var i=0; i&lt;N; i++) {","    if (old_index_of_id[new_results[i]._id] !== undefined) {","      var j = max_seq_len;","      // this inner loop would traditionally be a binary search,","      // but scanning backwards we will likely find a subseq to extend","      // pretty soon, bounded for example by the total number of ops.","      // If this were to be changed to a binary search, we'd still want","      // to scan backwards a bit as an optimization.","      while (j &gt; 0) {","        if (old_idx_seq(seq_ends[j-1]) &lt; old_idx_seq(i))","          break;","        j--;","      }","","      ptrs[i] = (j === 0 ? -1 : seq_ends[j-1]);","      seq_ends[j] = i;","      if (j+1 &gt; max_seq_len)","        max_seq_len = j+1;","    }","  }","","  // pull out the LCS/LIS into unmoved_set","  var idx = (max_seq_len === 0 ? -1 : seq_ends[max_seq_len-1]);","  while (idx &gt;= 0) {","    unmoved_set[idx] = true;","    idx = ptrs[idx];","  }","","  //////// Main Diff Algorithm","","  var old_idx = 0;","  var new_idx = 0;","  var bump_list = [];","  var bump_list_old_idx = [];","  var taken_list = [];","","  var scan_to = function(old_j) {","    // old_j &lt;= old_results.length (may scan to end)","    while (old_idx &lt; old_j) {","      var old_doc = old_results[old_idx];","      var is_in_new = new_presence_of_id[old_doc._id];","      if (! is_in_new) {","        observer.removed &amp;&amp; observer.removed(old_doc, new_idx + bump_list.length);","      } else {","        if (taken_list.length &gt;= 1 &amp;&amp; taken_list[0] === old_idx) {","          // already moved","          taken_list.shift();","        } else {","          // bump!","          bump_list.push(new_idx);","          bump_list_old_idx.push(old_idx);","        }","      }","      old_idx++;","    }","  };","","","  while (new_idx &lt;= new_results.length) {","    if (new_idx &lt; new_results.length) {","      var new_doc = new_results[new_idx];","      var old_doc_idx = old_index_of_id[new_doc._id];","      if (old_doc_idx === undefined) {","        // insert","        observer.added &amp;&amp; observer.added(mdc(new_doc), new_idx + bump_list.length);","      } else {","        var old_doc = old_results[old_doc_idx];","        //var is_unmoved = (old_doc_idx &gt; old_idx); // greedy; not minimal","        var is_unmoved = unmoved_set[new_idx];","        if (is_unmoved) {","          if (old_doc_idx &lt; old_idx)","            utils.debug(\"Assertion failed while diffing: nonmonotonic lcs data\");","          // no move","          scan_to(old_doc_idx);","          if (! _.isEqual(old_doc, new_doc)) {","            observer.changed &amp;&amp; observer.changed(","              mdc(new_doc), new_idx + bump_list.length, old_doc);","          }","          old_idx++;","        } else {","          // move into place","          var to_idx = new_idx + bump_list.length;","          var from_idx;","          if (old_doc_idx &gt;= old_idx) {","            // move backwards","            from_idx = to_idx + old_doc_idx - old_idx;","            // must take number of \"taken\" items into account; also use","            // results of this binary search to insert new taken_list entry","            var num_taken_before = _.sortedIndex(taken_list, old_doc_idx);","            from_idx -= num_taken_before;","            taken_list.splice(num_taken_before, 0, old_doc_idx);","          } else {","            // move forwards, from bump list","            // (binary search applies)","            var b = _.indexOf(bump_list_old_idx, old_doc_idx, true);","            if (b &lt; 0)","              utils.debug(\"Assertion failed while diffing: no bumped item\");","            from_idx = bump_list[b] + b;","            to_idx--;","            bump_list.splice(b, 1);","            bump_list_old_idx.splice(b, 1);","          }","          if (from_idx != to_idx)","            observer.moved &amp;&amp; observer.moved(mdc(old_doc), from_idx, to_idx);","          if (! _.isEqual(old_doc, new_doc)) {","            observer.changed &amp;&amp; observer.changed(mdc(new_doc), to_idx, old_doc);","          }","        }","      }","    } else {","      scan_to(old_results.length);","    }","    new_idx++;","  }","  if (bump_list.length &gt; 0) {","    utils.debug(old_results);","    utils.debug(new_results);","    utils.debug(\"Assertion failed while diffing: leftover bump_list \"+","                  bump_list);","  }","","};var isArray = Array.isArray;","var domain;","","function EventEmitter() {}","","exports.EventEmitter = EventEmitter;","","// By default EventEmitters will print a warning if more than","// 10 listeners are added to it. This is a useful default which","// helps finding memory leaks.","//","// Obviously not all Emitters should be limited to 10. This function allows","// that to be increased. Set to zero for unlimited.","var defaultMaxListeners = 10;","EventEmitter.prototype.setMaxListeners = function(n) {","  if (!this._events) this._events = {};","  this._maxListeners = n;","};","","","EventEmitter.prototype.emit = function() {","  var type = arguments[0];","  // If there is no 'error' event listener then throw.","  if (type === 'error') {","    if (!this._events || !this._events.error ||","        (isArray(this._events.error) &amp;&amp; !this._events.error.length))","    {","","      if (arguments[1] instanceof Error) {","        throw arguments[1]; // Unhandled 'error' event","      } else {","        throw new Error(\"Uncaught, unspecified 'error' event.\");","      }","      return false;","    }","  }","","  if (!this._events) return false;","  var handler = this._events[type];","  if (!handler) return false;","","  if (typeof handler == 'function') {","    switch (arguments.length) {","      // fast cases","      case 1:","        handler.call(this);","        break;","      case 2:","        handler.call(this, arguments[1]);","        break;","      case 3:","        handler.call(this, arguments[1], arguments[2]);","        break;","      // slower","      default:","        var l = arguments.length;","        var args = new Array(l - 1);","        for (var i = 1; i &lt; l; i++) args[i - 1] = arguments[i];","        handler.apply(this, args);","    }","    return true;","","  } else if (isArray(handler)) {","    var l = arguments.length;","    var args = new Array(l - 1);","    for (var i = 1; i &lt; l; i++) args[i - 1] = arguments[i];","","    var listeners = handler.slice();","    for (var i = 0, l = listeners.length; i &lt; l; i++) {","      listeners[i].apply(this, args);","    }","    return true;","","  } else {","    return false;","  }","};","","EventEmitter.prototype.addListener = function(type, listener) {","  if ('function' !== typeof listener) {","    throw new Error('addListener only takes instances of Function');","  }","","  if (!this._events) this._events = {};","","  // To avoid recursion in the case that type == \"newListeners\"! Before","  // adding it to the listeners, first emit \"newListeners\".","  this.emit('newListener', type, typeof listener.listener === 'function' ?","            listener.listener : listener);","","  if (!this._events[type]) {","    // Optimize the case of one listener. Don't need the extra array object.","    this._events[type] = listener;","  } else if (isArray(this._events[type])) {","","    // If we've already got an array, just append.","    this._events[type].push(listener);","","  } else {","    // Adding the second element, need to change to array.","    this._events[type] = [this._events[type], listener];","","  }","","  // Check for listener leak","  if (isArray(this._events[type]) &amp;&amp; !this._events[type].warned) {","    var m;","    if (this._maxListeners !== undefined) {","      m = this._maxListeners;","    } else {","      m = defaultMaxListeners;","    }","","    if (m &amp;&amp; m &gt; 0 &amp;&amp; this._events[type].length &gt; m) {","      this._events[type].warned = true;","      console.error('(node) warning: possible EventEmitter memory ' +","                    'leak detected. %d listeners added. ' +","                    'Use emitter.setMaxListeners() to increase limit.',","                    this._events[type].length);","      console.trace();","    }","  }","","  return this;","};","","EventEmitter.prototype.on = EventEmitter.prototype.addListener;","","EventEmitter.prototype.once = function(type, listener) {","  if ('function' !== typeof listener) {","    throw new Error('.once only takes instances of Function');","  }","","  var self = this;","  function g() {","    self.removeListener(type, g);","    listener.apply(this, arguments);","  };","","  g.listener = listener;","  self.on(type, g);","","  return this;","};","","EventEmitter.prototype.removeListener = function(type, listener) {","  if ('function' !== typeof listener) {","    throw new Error('removeListener only takes instances of Function');","  }","","  // does not use listeners(), so no side effect of creating _events[type]","  if (!this._events || !this._events[type]) return this;","","  var list = this._events[type];","","  if (isArray(list)) {","    var position = -1;","    for (var i = 0, length = list.length; i &lt; length; i++) {","      if (list[i] === listener ||","          (list[i].listener &amp;&amp; list[i].listener === listener))","      {","        position = i;","        break;","      }","    }","","    if (position &lt; 0) return this;","    list.splice(position, 1);","  } else if (list === listener ||","             (list.listener &amp;&amp; list.listener === listener))","  {","    delete this._events[type];","  }","","  return this;","};","","EventEmitter.prototype.removeAllListeners = function(type) {","  if (arguments.length === 0) {","    this._events = {};","    return this;","  }","","  // does not use listeners(), so no side effect of creating _events[type]","  if (type &amp;&amp; this._events &amp;&amp; this._events[type]) this._events[type] = null;","  return this;","};","","EventEmitter.prototype.listeners = function(type) {","  if (!this._events) this._events = {};","  if (!this._events[type]) this._events[type] = [];","  if (!isArray(this._events[type])) {","    this._events[type] = [this._events[type]];","  }","  return this._events[type];","};// XXX need a strategy for passing the binding of $ into this","// function, from the compiled selector","//","// maybe just {key.up.to.just.before.dollarsign: array_index}","//","// XXX atomicity: if one modification fails, do we roll back the whole","// change?","Collection._modify = function (doc, mod) {","  var is_modifier = false;","  for (var k in mod) {","    // IE7 doesn't support indexing into strings (eg, k[0]), so use substr.","    // Too bad -- it's far slower:","    // http://jsperf.com/testing-the-first-character-of-a-string","    is_modifier = k.substr(0, 1) === '$';","    break; // just check the first key.","  }","","  var new_doc;","","  if (!is_modifier) {","    if (mod._id &amp;&amp; doc._id !== mod._id) {","      Monglo._debug(\"_id ignored : Cannot change the _id of a document\");","    }","    // replace the whole document","    for (var k in mod) {","      if (k.substr(0, 1) === '$')","        throw Error(\"Field name may not start with '$'\");","      if (/\\./.test(k))","        throw Error(\"Field name may not contain '.'\");","    }","    new_doc = mod;","  } else {","    // apply modifiers","    var new_doc = Collection._deepcopy(doc);","","    for (var op in mod) {","      var mod_func = Collection._modifiers[op];","      if (!mod_func)","        throw Error(\"Invalid modifier specified \" + op);","      for (var keypath in mod[op]) {","        // XXX mongo doesn't allow mod field names to end in a period,","        // but I don't see why.. it allows '' as a key, as does JS","        if (keypath.length &amp;&amp; keypath[keypath.length-1] === '.')","          throw Error(\"Invalid mod field name, may not end in a period\");","","        var arg = mod[op][keypath];","        var keyparts = keypath.split('.');","        var no_create = !!Collection._noCreateModifiers[op];","        var forbid_array = (op === \"$rename\");","        var target = Collection._findModTarget(new_doc, keyparts,","                                                    no_create, forbid_array);","        var field = keyparts.pop();","        mod_func(target, field, arg, keypath, new_doc);","      }","    }","  }","","  // move new document into place","  for (var k in doc) {","    if (k !== '_id')","      delete doc[k];","  }","  for (var k in new_doc) {","    doc[k] = new_doc[k];","  }","};","","// for a.b.c.2.d.e, keyparts should be ['a', 'b', 'c', '2', 'd', 'e'],","// and then you would operate on the 'e' property of the returned","// object. if no_create is falsey, creates intermediate levels of","// structure as necessary, like mkdir -p (and raises an exception if","// that would mean giving a non-numeric property to an array.) if","// no_create is true, return undefined instead. may modify the last","// element of keyparts to signal to the caller that it needs to use a","// different value to index into the returned object (for example,","// ['a', '01'] -&gt; ['a', 1]). if forbid_array is true, return null if","// the keypath goes through an array.","Collection._findModTarget = function (doc, keyparts, no_create,","                                      forbid_array) {","  for (var i = 0; i &lt; keyparts.length; i++) {","    var last = (i === keyparts.length - 1);","    var keypart = keyparts[i];","    var numeric = /^[0-9]+$/.test(keypart);","    if (no_create &amp;&amp; (!(typeof doc === \"object\") || !(keypart in doc)))","      return undefined;","    if (doc instanceof Array) {","      if (forbid_array)","        return null;","      if (!numeric)","        throw Error(\"can't append to array using string field name [\"","                    + keypart + \"]\");","      keypart = parseInt(keypart);","      if (last)","        // handle 'a.01'","        keyparts[i] = keypart;","      while (doc.length &lt; keypart)","        doc.push(null);","      if (!last) {","        if (doc.length === keypart)","          doc.push({});","        else if (typeof doc[keypart] !== \"object\")","          throw Error(\"can't modify field '\" + keyparts[i + 1] +","                      \"' of list value \" + JSON.stringify(doc[keypart]));","      }","    } else {","      // XXX check valid fieldname (no $ at start, no .)","      if (!last &amp;&amp; !(keypart in doc))","        doc[keypart] = {};","    }","","    if (last)","      return doc;","    doc = doc[keypart];","  }","","  // notreached","};","","Collection._noCreateModifiers = {","  $unset: true,","  $pop: true,","  $rename: true,","  $pull: true,","  $pullAll: true","};","","Collection._modifiers = {","  $inc: function (target, field, arg) {","    if (typeof arg !== \"number\")","      throw Error(\"Modifier $inc allowed for numbers only\");","    if (field in target) {","      if (typeof target[field] !== \"number\")","        throw Error(\"Cannot apply $inc modifier to non-number\");","      target[field] += arg;","    } else {","      target[field] = arg;","    }","  },","  $set: function (target, field, arg) {","    target[field] = Collection._deepcopy(arg);","  },","  $unset: function (target, field, arg) {","    if (target !== undefined) {","      if (target instanceof Array) {","        if (field in target)","          target[field] = null;","      } else","        delete target[field];","    }","  },","  $push: function (target, field, arg) {","    var x = target[field];","    if (x === undefined)","      target[field] = [arg];","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $push modifier to non-array\");","    else","      x.push(Collection._deepcopy(arg));","  },","  $pushAll: function (target, field, arg) {","    if (!(typeof arg === \"object\" &amp;&amp; arg instanceof Array))","      throw Error(\"Modifier $pushAll/pullAll allowed for arrays only\");","    var x = target[field];","    if (x === undefined)","      target[field] = arg;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pushAll modifier to non-array\");","    else {","      for (var i = 0; i &lt; arg.length; i++)","        x.push(arg[i]);","    }","  },","  $addToSet: function (target, field, arg) {","    var x = target[field];","    if (x === undefined)","      target[field] = [arg];","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $addToSet modifier to non-array\");","    else {","      var isEach = false;","      if (typeof arg === \"object\") {","        for (var k in arg) {","          if (k === \"$each\")","            isEach = true;","          break;","        }","      }","      var values = isEach ? arg[\"$each\"] : [arg];","      _.each(values, function (value) {","        for (var i = 0; i &lt; x.length; i++)","          if (Collection._f._equal(value, x[i]))","            return;","        x.push(value);","      });","    }","  },","  $pop: function (target, field, arg) {","    if (target === undefined)","      return;","    var x = target[field];","    if (x === undefined)","      return;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pop modifier to non-array\");","    else {","      if (typeof arg === 'number' &amp;&amp; arg &lt; 0)","        x.splice(0, 1);","      else","        x.pop();","    }","  },","  $pull: function (target, field, arg) {","    if (target === undefined)","      return;","    var x = target[field];","    if (x === undefined)","      return;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pull/pullAll modifier to non-array\");","    else {","      var out = []","      if (typeof arg === \"object\" &amp;&amp; !(arg instanceof Array)) {","        // XXX would be much nicer to compile this once, rather than","        // for each document we modify.. but usually we're not","        // modifying that many documents, so we'll let it slide for","        // now","","        // XXX _compileSelector isn't up for the job, because we need","        // to permit stuff like {$pull: {a: {$gt: 4}}}.. something","        // like {$gt: 4} is not normally a complete selector.","        // same issue as $elemMatch possibly?","        var match = Collection._compileSelector(arg);","        for (var i = 0; i &lt; x.length; i++)","          if (!match(x[i]))","            out.push(x[i])","      } else {","        for (var i = 0; i &lt; x.length; i++)","          if (!Collection._f._equal(x[i], arg))","            out.push(x[i]);","      }","      target[field] = out;","    }","  },","  $pullAll: function (target, field, arg) {","    if (!(typeof arg === \"object\" &amp;&amp; arg instanceof Array))","      throw Error(\"Modifier $pushAll/pullAll allowed for arrays only\");","    if (target === undefined)","      return;","    var x = target[field];","    if (x === undefined)","      return;","    else if (!(x instanceof Array))","      throw Error(\"Cannot apply $pull/pullAll modifier to non-array\");","    else {","      var out = []","      for (var i = 0; i &lt; x.length; i++) {","        var exclude = false;","        for (var j = 0; j &lt; arg.length; j++) {","          if (Collection._f._equal(x[i], arg[j])) {","            exclude = true;","            break;","          }","        }","        if (!exclude)","          out.push(x[i]);","      }","      target[field] = out;","    }","  },","  $rename: function (target, field, arg, keypath, doc) {","    if (keypath === arg)","      // no idea why mongo has this restriction..","      throw Error(\"$rename source must differ from target\");","    if (target === null)","      throw Error(\"$rename source field invalid\");","    if (typeof arg !== \"string\")","      throw Error(\"$rename target must be a string\");","    if (target === undefined)","      return;","    var v = target[field];","    delete target[field];","","    var keyparts = arg.split('.');","    var target2 = Collection._findModTarget(doc, keyparts, false, true);","    if (target2 === null)","      throw Error(\"$rename target field invalid\");","    var field2 = keyparts.pop();","    target2[field2] = v;","  },","  $bit: function (target, field, arg) {","    // XXX mongo only supports $bit on integers, and we only support","    // native javascript numbers (doubles) so far, so we can't support $bit","    throw Error(\"$bit is not supported\");","  }","};var Selector = {};","","// helpers used by compiled selector code","Selector._f = {","  // TODO for _all and _in, consider building 'inquery' at compile time..","","  _all: function (x, qval) {","    // $all is only meaningful on arrays","    if (!(x instanceof Array)) {","      return false;","    }","    // TODO should use a canonicalizing representation, so that we","    // don't get screwed by key order","    var parts = {};","    var remaining = 0;","    utils.each(qval, function (q) {","      var hash = JSON.stringify(q);","      if (!(hash in parts)) {","        parts[hash] = true;","        remaining++;","      }","    });","","    for (var i = 0; i &lt; x.length; i++) {","      var hash = JSON.stringify(x[i]);","      if (parts[hash]) {","        delete parts[hash];","        remaining--;","        if (0 === remaining)","          return true;","      }","    }","","    return false;","  },","","  _in: function (x, qval) {","    if (typeof x !== \"object\") {","      // optimization: use scalar equality (fast)","      for (var i = 0; i &lt; qval.length; i++)","        if (x === qval[i])","          return true;","      return false;","    } else {","      // nope, have to use deep equality","      for (var i = 0; i &lt; qval.length; i++)","        if (Selector._f._equal(x, qval[i]))","          return true;","      return false;","    }","  },","","  _type: function (v) {","    if (typeof v === \"number\")","      return 1;","    if (typeof v === \"string\")","      return 2;","    if (typeof v === \"boolean\")","      return 8;","    if (v instanceof Array)","      return 4;","    if (v === null)","      return 10;","    if (v instanceof RegExp)","      return 11;","    if (typeof v === \"function\")","      // note that typeof(/x/) === \"function\"","      return 13;","    return 3; // object","","    // TODO support some/all of these:","    // 5, binary data","    // 7, object id","    // 9, date","    // 14, symbol","    // 15, javascript code with scope","    // 16, 18: 32-bit/64-bit integer","    // 17, timestamp","    // 255, minkey","    // 127, maxkey","  },","","  // deep equality test: use for literal document and array matches","  _equal: function (x, qval) {","    var match = function (a, b) {","      // scalars","      if (typeof a === 'number' || typeof a === 'string' ||","          typeof a === 'boolean' || a === undefined || a === null)","        return a === b;","      if (typeof a === 'function')","        return false;","","      // OK, typeof a === 'object'","      if (typeof b !== 'object')","        return false;","","      // arrays","      if (a instanceof Array) {","        if (!(b instanceof Array))","          return false;","        if (a.length !== b.length)","          return false;","        for (var i = 0; i &lt; a.length; i++)","          if (!match(a[i],b[i]))","            return false;","        return true;","      }","","      // objects","/*","      var unmatched_b_keys = 0;","      for (var x in b)","        unmatched_b_keys++;","      for (var x in a) {","        if (!(x in b) || !match(a[x], b[x]))","          return false;","        unmatched_b_keys--;","      }","      return unmatched_b_keys === 0;","*/","      // Follow Mongo in considering key order to be part of","      // equality. Key enumeration order is actually not defined in","      // the ecmascript spec but in practice most implementations","      // preserve it. (The exception is Chrome, which preserves it","      // usually, but not for keys that parse as ints.)","      var b_keys = [];","      for (var x in b)","        b_keys.push(b[x]);","      var i = 0;","      for (var x in a) {","        if (i &gt;= b_keys.length)","          return false;","        if (!match(a[x], b_keys[i]))","          return false;","        i++;","      }","      if (i !== b_keys.length)","        return false;","      return true;","    };","    return match(x, qval);","  },","","  // if x is not an array, true iff f(x) is true. if x is an array,","  // true iff f(y) is true for any y in x.","  //","  // this is the way most mongo operators (like $gt, $mod, $type..)","  // treat their arguments.","  _matches: function (x, f) {","    if (x instanceof Array) {","      for (var i = 0; i &lt; x.length; i++)","        if (f(x[i]))","          return true;","      return false;","    }","    return f(x);","  },","","  // like _matches, but if x is an array, it's true not only if f(y)","  // is true for some y in x, but also if f(x) is true.","  //","  // this is the way mongo value comparisons usually work, like {x:","  // 4}, {x: [4]}, or {x: {$in: [1,2,3]}}.","  _matches_plus: function (x, f) {","    if (x instanceof Array) {","      for (var i = 0; i &lt; x.length; i++)","        if (f(x[i]))","          return true;","      // fall through!","    }","    return f(x);","  },","","  // maps a type code to a value that can be used to sort values of","  // different types","  _typeorder: function (t) {","    // http://www.mongodb.org/display/DOCS/What+is+the+Compare+Order+for+BSON+Types","    // TODO what is the correct sort position for Javascript code?","    // ('100' in the matrix below)","    // TODO minkey/maxkey","    return [-1, 1, 2, 3, 4, 5, -1, 6, 7, 8, 0, 9, -1, 100, 2, 100, 1,","            8, 1][t];","  },","","  // compare two values of unknown type according to BSON ordering","  // semantics. (as an extension, consider 'undefined' to be less than","  // any other value.) return negative if a is less, positive if b is","  // less, or 0 if equal","  _cmp: function (a, b) {","    if (a === undefined)","      return b === undefined ? 0 : -1;","    if (b === undefined)","      return 1;","    var ta = Selector._f._type(a);","    var tb = Selector._f._type(b);","    var oa = Selector._f._typeorder(ta);","    var ob = Selector._f._typeorder(tb);","    if (oa !== ob)","      return oa &lt; ob ? -1 : 1;","    if (ta !== tb)","      // TODO need to implement this once we implement Symbol or","      // integers, or once we implement both Date and Timestamp","      throw Error(\"Missing type coercion logic in _cmp\");","    if (ta === 1) // double","      return a - b;","    if (tb === 2) // string","      return a &lt; b ? -1 : (a === b ? 0 : 1);","    if (ta === 3) { // Object","      // this could be much more efficient in the expected case ...","      var to_array = function (obj) {","        var ret = [];","        for (var key in obj) {","          ret.push(key);","          ret.push(obj[key]);","        }","        return ret;","      }","      return Selector._f._cmp(to_array(a), to_array(b));","    }","    if (ta === 4) { // Array","      for (var i = 0; ; i++) {","        if (i === a.length)","          return (i === b.length) ? 0 : -1;","        if (i === b.length)","          return 1;","        var s = Selector._f._cmp(a[i], b[i]);","        if (s !== 0)","          return s;","      }","    }","    // 5: binary data","    // 7: object id","    if (ta === 8) { // boolean","      if (a) return b ? 0 : 1;","      return b ? -1 : 0;","    }","    // 9: date","    if (ta === 10) // null","      return 0;","    if (ta === 11) // regexp","      throw Error(\"Sorting not supported on regular expression\"); // TODO","    // 13: javascript code","    // 14: symbol","    // 15: javascript code with scope","    // 16: 32-bit integer","    // 17: timestamp","    // 18: 64-bit integer","    // 255: minkey","    // 127: maxkey","    if (ta === 13) // javascript code","      throw Error(\"Sorting not supported on Javascript code\"); // TODO","  }","};","","// For unit tests. True if the given document matches the given","// selector.","Selector._matches = function (selector, doc) {","  return (Selector._compileSelector(selector))(doc);","};","","// Given a selector, return a function that takes one argument, a","// document, and returns true if the document matches the selector,","// else false.","Selector._compileSelector = function (selector) {","  var literals = [];","  // you can pass a literal function instead of a selector","  if (selector instanceof Function)","    return function (doc) {return selector.call(doc);};","","  // shorthand -- scalars match _id","  if ((typeof selector === \"string\") || (typeof selector === \"number\"))","    selector = {_id: selector};","","  // protect against dangerous selectors.  falsey and {_id: falsey}","  // are both likely programmer error, and not what you want,","  // particularly for destructive operations.","  if (!selector || (('_id' in selector) &amp;&amp; !selector._id))","    return function (doc) {return false;};","","  // eval() does not return a value in IE8, nor does the spec say it","  // should. Assign to a local to get the value, instead.","  var _func;","  eval(\"_func = (function(f,literals){return function(doc){return \" +","       Selector._exprForSelector(selector, literals) +","       \";};})\");","  return _func(Selector._f, literals);","};","","// TODO implement ordinal indexing: 'people.2.name'","","// Given an arbitrary Mongo-style query selector, return an expression","// that evaluates to true if the document in 'doc' matches the","// selector, else false.","Selector._exprForSelector = function (selector, literals) {","  var clauses = [];","  for (var key in selector) {","    var value = selector[key];","","    if (key.substr(0, 1) === '$') { // no indexing into strings on IE7","      // whole-document predicate like {$or: [{x: 12}, {y: 12}]}","      clauses.push(Selector._exprForDocumentPredicate(key, value, literals));","    } else {","      // else, it's a constraint on a particular key (or dotted keypath)","      clauses.push(Selector._exprForKeypathPredicate(key, value, literals));","    }","  };","","  if (clauses.length === 0) return 'true'; // selector === {}","  return '(' + clauses.join('&amp;&amp;') +')';","};","","// 'op' is a top-level, whole-document predicate from a mongo","// selector, like '$or' in {$or: [{x: 12}, {y: 12}]}. 'value' is its","// value in the selector. Return an expression that evaluates to true","// if 'doc' matches this predicate, else false.","Selector._exprForDocumentPredicate = function (op, value, literals) {","  if (op === '$or') {","    var clauses = [];","    utils.each(value, function (c) {","      clauses.push(Selector._exprForSelector(c, literals));","    });","    if (clauses.length === 0) return 'true';","    return '(' + clauses.join('||') +')';","  }","","  if (op === '$and') {","    var clauses = [];","    utils.each(value, function (c) {","      clauses.push(Selector._exprForSelector(c, literals));","    });","    if (clauses.length === 0) return 'true';","    return '(' + clauses.join('&amp;&amp;') +')';","  }","","  if (op === '$nor') {","    var clauses = [];","    utils.each(value, function (c) {","      clauses.push(\"!(\" + Selector._exprForSelector(c, literals) + \")\");","    });","    if (clauses.length === 0) return 'true';","    return '(' + clauses.join('&amp;&amp;') +')';","  }","","  if (op === '$where') {","    if (value instanceof Function) {","      literals.push(value);","      return 'literals[' + (literals.length - 1) + '].call(doc)';","    }","    return \"(function(){return \" + value + \";}).call(doc)\";","  }","","  throw Error(\"Unrecogized key in selector: \", op);","}","","// Given a single 'dotted.key.path: value' constraint from a Mongo","// query selector, return an expression that evaluates to true if the","// document in 'doc' matches the constraint, else false.","Selector._exprForKeypathPredicate = function (keypath, value, literals) {","  var keyparts = keypath.split('.');","","  // get the inner predicate expression","  var predcode = '';","  if (value instanceof RegExp) {","    predcode = Selector._exprForOperatorTest(value, literals);","  } else if ( !(typeof value === 'object')","              || value === null","              || value instanceof Array) {","    // it's something like {x.y: 12} or {x.y: [12]}","    predcode = Selector._exprForValueTest(value, literals);","  } else {","    // is it a literal document or a bunch of $-expressions?","    var is_literal = true;","    for (var k in value) {","      if (k.substr(0, 1) === '$') { // no indexing into strings on IE7","        is_literal = false;","        break;","      }","    }","","    if (is_literal) {","      // it's a literal document, like {x.y: {a: 12}}","      predcode = Selector._exprForValueTest(value, literals);","    } else {","      predcode = Selector._exprForOperatorTest(value, literals);","    }","  }","","  // now, deal with the orthogonal concern of dotted.key.paths and the","  // (potentially multi-level) array searching they require.","  // while at it, make sure to not throw an exception if we hit undefined while","  // drilling down through the dotted parts","  var ret = '';","  var innermost = true;","  while (keyparts.length) {","    var part = keyparts.pop();","    var formal = keyparts.length ? \"x\" : \"doc\";","    if (innermost) {","      ret = '(function(x){return ' + predcode + ';})(' + formal + '&amp;&amp;' + formal + '[' +","        JSON.stringify(part) + '])';","      innermost = false;","    } else {","      // for all but the innermost level of a dotted expression,","      // if the runtime type is an array, search it","      ret = 'f._matches(' + formal + '&amp;&amp;' + formal + '[' + JSON.stringify(part) +","        '], function(x){return ' + ret + ';})';","    }","  }","","  return ret;","};","","// Given a value, return an expression that evaluates to true if the","// value in 'x' matches the value, or else false. This includes","// searching 'x' if it is an array. This doesn't include regular","// expressions (that's because mongo's $not operator works with","// regular expressions but not other kinds of scalar tests.)","Selector._exprForValueTest = function (value, literals) {","  var expr;","","  if (value === null) {","    // null has special semantics","    // http://www.mongodb.org/display/DOCS/Querying+and+nulls","    expr = 'x===null||x===undefined';","  } else if (typeof value === 'string' ||","             typeof value === 'number' ||","             typeof value === 'boolean') {","    // literal scalar value","    // TODO object ids, dates, timestamps?","    expr = 'x===' + JSON.stringify(value);","  } else if (typeof value === 'function') {","    // note that typeof(/a/) === 'function' in javascript","    // TODO improve error","    throw Error(\"Bad value type in query\");","  } else {","    // array or literal document","    expr = 'f._equal(x,' + JSON.stringify(value) + ')';","  }","","  return 'f._matches_plus(x,function(x){return ' + expr + ';})';","};","","// In a selector like {x: {$gt: 4, $lt: 8}}, we're calling the {$gt:","// 4, $lt: 8} part an \"operator.\" Given an operator, return an","// expression that evaluates to true if the value in 'x' matches the","// operator, or else false. This includes searching 'x' if necessary","// if it's an array. In {x: /a/}, we consider /a/ to be an operator.","Selector._exprForOperatorTest = function (op, literals) {","  if (op instanceof RegExp) {","    return Selector._exprForOperatorTest({$regex: op}, literals);","  } else {","    var clauses = [];","    for (var type in op)","      clauses.push(Selector._exprForConstraint(type, op[type],","                                                      op, literals));","    if (clauses.length === 0)","      return 'true';","    return '(' + clauses.join('&amp;&amp;') + ')';","  }","};","","// In an operator like {$gt: 4, $lt: 8}, we call each key/value pair,","// such as $gt: 4, a constraint. Given a constraint and its arguments,","// return an expression that evaluates to true if the value in 'x'","// matches the constraint, or else false. This includes searching 'x'","// if it's an array (and it's appropriate to the constraint.)","Selector._exprForConstraint = function (type, arg, others,","                                               literals) {","  var expr;","  var search = '_matches';","  var negate = false;","","  if (type === '$gt') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&gt;0';","  } else if (type === '$lt') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&lt;0';","  } else if (type === '$gte') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&gt;=0';","  } else if (type === '$lte') {","    expr = 'f._cmp(x,' + JSON.stringify(arg) + ')&lt;=0';","  } else if (type === '$all') {","    expr = 'f._all(x,' + JSON.stringify(arg) + ')';","    search = null;","  } else if (type === '$exists') {","    if (arg)","      expr = 'x!==undefined';","    else","      expr = 'x===undefined';","    search = null;","  } else if (type === '$mod') {","    expr = 'x%' + JSON.stringify(arg[0]) + '===' +","      JSON.stringify(arg[1]);","  } else if (type === '$ne') {","    if (typeof arg !== \"object\")","      expr = 'x===' + JSON.stringify(arg);","    else","      expr = 'f._equal(x,' + JSON.stringify(arg) + ')';","    search = '_matches_plus';","    negate = true; // tricky","  } else if (type === '$in') {","    expr = 'f._in(x,' + JSON.stringify(arg) + ')';","    search = '_matches_plus';","  } else if (type === '$nin') {","    expr = 'f._in(x,' + JSON.stringify(arg) + ')';","    search = '_matches_plus';","    negate = true;","  } else if (type === '$size') {","    expr = '(x instanceof Array)&amp;&amp;x.length===' + arg;","    search = null;","  } else if (type === '$type') {","    // $type: 1 is true for an array if any element in the array is of","    // type 1. but an array doesn't have type array unless it contains","    // an array..","    expr = 'f._type(x)===' + JSON.stringify(arg);","  } else if (type === '$regex') {","    // TODO mongo uses PCRE and supports some additional flags: 'x' and","    // 's'. javascript doesn't support them. so this is a divergence","    // between our behavior and mongo's behavior. ideally we would","    // implement x and s by transforming the regexp, but not today..","    if ('$options' in others &amp;&amp; /[^gim]/.test(others['$options']))","      throw Error(\"Only the i, m, and g regexp options are supported\");","    expr = 'literals[' + literals.length + '].test(x)';","    if (arg instanceof RegExp) {","      if ('$options' in others) {","        literals.push(new RegExp(arg.source, others['$options']));","      } else {","        literals.push(arg);","      }","    } else {","      literals.push(new RegExp(arg, others['$options']));","    }","  } else if (type === '$options') {","    expr = 'true';","    search = null;","  } else if (type === '$elemMatch') {","    // TODO implement","    throw Error(\"$elemMatch unimplemented\");","  } else if (type === '$not') {","    // mongo doesn't support $regex inside a $not for some reason. we","    // do, because there's no reason not to that I can see.. but maybe","    // we should follow mongo's behavior?","    expr = '!' + Selector._exprForOperatorTest(arg, literals);","    search = null;","  } else {","    throw Error(\"Unrecognized key in selector: \" + type);","  }","","  if (search) {","    expr = 'f.' + search + '(x,function(x){return ' +","      expr + ';})';","  }","","  if (negate)","    expr = '!' + expr;","","  return expr;","};","// Give a sort spec, which can be in any of these forms:","//   {\"key1\": 1, \"key2\": -1}","//   [[\"key1\", \"asc\"], [\"key2\", \"desc\"]]","//   [\"key1\", [\"key2\", \"desc\"]]","//","// (.. with the first form being dependent on the key enumeration","// behavior of your javascript VM, which usually does what you mean in","// this case if the key names don't look like integers ..)","//","// return a function that takes two objects, and returns -1 if the","// first object comes first in order, 1 if the second object comes","// first, or 0 if neither object comes before the other.","","// XXX sort does not yet support subkeys ('a.b') .. fix that!","","Collection._compileSort = function (spec) {","  var keys = [];","  var asc = [];","","  if (spec instanceof Array) {","    for (var i = 0; i &lt; spec.length; i++) {","      if (typeof spec[i] === \"string\") {","        keys.push(spec[i]);","        asc.push(true);","      } else {","        keys.push(spec[i][0]);","        asc.push(spec[i][1] !== \"desc\");","      }","    }","  } else if (typeof spec === \"object\") {","    for (key in spec) {","      keys.push(key);","      asc.push(!(spec[key] &lt; 0));","    }","  } else {","    throw Error(\"Bad sort specification: \", JSON.stringify(spec));","  }","","  if (keys.length === 0)","    return function () {return 0;};","","  // eval() does not return a value in IE8, nor does the spec say it","  // should. Assign to a local to get the value, instead.","  var _func;","  var code = \"_func = (function(c){return function(a,b){var x;\";","  for (var i = 0; i &lt; keys.length; i++) {","    if (i !== 0)","      code += \"if(x!==0)return x;\";","    code += \"x=\" + (asc[i] ? \"\" : \"-\") +","      \"c(a[\" + JSON.stringify(keys[i]) + \"],b[\" +","      JSON.stringify(keys[i]) + \"]);\";","  }","  code += \"return x;};})\";","","  eval(code);","  return _func(Collection._f._cmp);","};var Utils = {};","","Utils._deepcopy = function (v) {","  if (typeof v !== \"object\")","    return v;","  if (v === null)","    return null; // null has typeof \"object\"","  if (utils.isArray(v)) {","    var ret = v.slice(0);","    for (var i = 0; i &lt; v.length; i++)","      ret[i] = Utils._deepcopy(ret[i]);","    return ret;","  }","  var ret = {};","  for (var key in v)","    ret[key] = Utils._deepcopy(v[key]);","  return ret;","};","","Utils.each = Utils.forEach = function(obj, iterator, context) {","    if (obj === null) return;","    var nativeForEach = Array.prototype.forEach;","    if (nativeForEach &amp;&amp; obj.forEach === nativeForEach) {","      obj.forEach(iterator, context);","    } else if (obj.length === +obj.length) {","      for (var i = 0, l = obj.length; i &lt; l; i++) {","        if (iterator.call(context, obj[i], i, obj) === breaker) return;","      }","    } else {","      for (var key in obj) {","        if (_.has(obj, key)) {","          if (iterator.call(context, obj[key], key, obj) === breaker) return;","        }","      }","    }","  };","","Utils.isArray = Array.isArray || function(obj) {","    return toString.call(obj) == '[object Array]';","  };","","Utils.debug = function(data){ };","","var utils = Utils;"];

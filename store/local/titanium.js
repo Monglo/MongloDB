@@ -8,31 +8,31 @@ if (! dbDir.exists()) {
 }
 
 module.exports = {
-  update : function(db,opts) {
-    var filename = opts.collection.collectionName + '.json';
+  update : function(args) {
+    var filename = args.collection.name + '.json';
     var f = Titanium.Filesystem.getFile(Titanium.Filesystem.applicationDataDirectory, 'db/' + filename);
-      f.write(JSON.stringify(opts.collection.docs));
+      f.write(JSON.stringify(args.collection.docs));
   },
 
-  createCollection : function(db,opts) {
-    var filename = opts.collection.collectionName + '.json';
+  createCollection : function(args) {
+    var filename = args.collection.name + '.json';
     var f = Titanium.Filesystem.getFile(Titanium.Filesystem.applicationDataDirectory, 'db/' + filename);
     var exists = f.exists();
     if (exists) {
-      opts.collection.docs = JSON.parse(f.read());
+      try{ args.collection.docs = JSON.parse(f.read()); }catch(e){ args.collection.docs = {}; }
     }else{
-      f.write(JSON.stringify(opts.collection.docs));
+      f.write(JSON.stringify(args.collection.docs));
     }
   },
 
-  insert : function(db,opts) {
-    var filename = opts.collection.collectionName + '.json';
+  insert : function(args) {
+    var filename = args.collection.name + '.json';
     var f = Titanium.Filesystem.getFile(Titanium.Filesystem.applicationDataDirectory, 'db/' + filename);
-      f.write(JSON.stringify(opts.collection.docs));
+      f.write(JSON.stringify(args.collection.docs));
   },
 
-  remove : function(db,opts) {
-    var filename = opts.collection.collectionName + '.json';
+  remove : function(args) {
+    var filename = args.collection.name + '.json';
     var f = Titanium.Filesystem.getFile(Titanium.Filesystem.applicationDataDirectory, 'db/' + filename);
     if (f.exists()) { f.deleteFile(); }
   }

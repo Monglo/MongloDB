@@ -1,14 +1,6 @@
 var monglo = require('./index').Monglo;
 var db = monglo('DemoDB');
 
-var getKeys = function(obj){
-   var keys = [];
-   for(var key in obj){
-      keys.push(key);
-   }
-   return keys;
-};
-
 function DemoStore(){
   return {
     insert : function(args){  },
@@ -55,9 +47,9 @@ describe('Collection', function(){
 
   describe('#update()', function(){
     it('should work', function(){
-      var xxxxxxxxx = db.collection('xxxxxxxxx');
-      xxxxxxxxx.insert({_id:90210, field:'test20', age:20, sub:{sub2:1}});
-      xxxxxxxxx.update({_id:90210}, {_id:33333, field:'test20', age:20, sub:{sub2:1} });
+      var testup = db.collection('testup');
+      testup.insert({_id:90210, field:'test20', age:20, sub:{sub2:1}});
+      testup.update({_id:90210}, {_id:33333, field:'test20', age:20, sub:{sub2:1} });
     });
   });
 

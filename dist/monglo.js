@@ -120,7 +120,7 @@ Collection.prototype.find = function () {
     var cursor = new Cursor(this.db, this, selector, fields, o.skip, o.limit, o.sort);
 
   this.emit('find', selector,cursor,o);
-  this.db._executeCommand('find', {conn:self.db,selector:selector,options:o});
+  this.db._executeCommand('find', {collection:self,selector:selector,options:o});
   return (callback) ? callback(cursor) : cursor;
 };
 
@@ -161,8 +161,8 @@ Collection.prototype.insert = function (doc,options,cb) {
  if(options.ignore){  return (cb) ? cb(doc) : doc; }
 
  self.emit('insert',doc);
- this.db._executeCommand('insert',{conn:self.db, collection:self, doc:self.docs[doc._id]});
- if(cb){ cb(doc)};
+ this.db._executeCommand('insert',{collection:self, doc:self.docs[doc._id]});
+ if(cb){ cb(doc); }
  return this;
 };
 
@@ -183,7 +183,7 @@ Collection.prototype.remove = function (selector) {
   }
 
   self.emit('remove', selector);
-  this.db._executeCommand('remove',{conn:self.db, selector:selector, docs:remove});
+  this.db._executeCommand('remove',{collection:self, selector:selector, docs:remove});
   return this;
 };
 
@@ -208,7 +208,7 @@ Collection.prototype.update = function (selector, mod, options, cb) {
       if (!options.multi) {
         any = true;
         self.emit('update', selector, mod, options);
-        self.db._executeCommand('update',{conn:self.db, selector:selector, modifier:mod, options:options, docs:updatedDocs });
+        self.db._executeCommand('update',{collection:self, selector:selector, modifier:mod, options:options, docs:updatedDocs });
         return (cb) ? cb(self.docs[id]) : self.docs[id];
       }
     }
@@ -228,9 +228,10 @@ Collection.prototype.update = function (selector, mod, options, cb) {
   var newDoc = self.find(selector).fetch();
   //TODO fix this ghetto return
 
-  self.emit('update', selector, mod, options);
-  self.db._executeCommand('update',{conn:self.db, selector:selector, modifier:mod, options:options, docs:newDoc });
-  return (cb) ? cb(newDoc) : newDoc;
+  self.emit('update', {collection:self, selector:selector, modifier:mod, options:options, docs:newDoc });
+  self.db._executeCommand('update',{collection:self, selector:selector, modifier:mod, options:options, docs:newDoc });
+  if(cb){ cb(newDoc); }
+  return this;
 };
 
 Collection.prototype.save = function(obj,cb){
