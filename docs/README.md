@@ -1,6 +1,8 @@
-# ![MongoDB](https://github.com/euforic/monglodb/raw/gh-pages/images/logo.png)
+![MongoDB](https://github.com/Monglo/monglo.github.com/raw/master/images/logo.png)
 
-Pure JS implementation of MongoDB
+Portable Pure JS MongoDB With Extra Awesomeness
+
+Version 0.1.3
 
 ## Status: (Stable)
  - See TODO
@@ -9,230 +11,161 @@ Pure JS implementation of MongoDB
 ## Features
  - MongoDB style queries
  - Persistence for Collections
+ - Data Persistence Plug-in system
 
 ## TODO
   - Finish Docs
-  - Alternative Data store plug-in system.
-  - Remote Data syncing
+  - Add more datastores
   - Add remaining functions
-  - Add unified database to load all collections on open
   - Code/function Clean up and optimization
+
 
 ## Building
 
+```
+$ git clone https://github.com/euforic/monglodb.git
+$ cd monglodb
+$ npm install -d
+$ make clean && make
+```
 Builds will be located in __dist__ folder
 
-```js
-	$ git clone https://github.com/euforic/monglodb.git
-	$ cd monglodb
-	$ make clean
-	$ make
-```
 
-## API
 
-### Database
-
-#### Monglo.Collection([String]);
-
-Opens collection from disk if exists. If no file found new collection created
+### initilize
 
 ```js
-	Monglo.Collection('my_collection');
+var Monglo = require('monglo').Monglo;
+var db = Monglo('DBNAME');
 ```
 
-#### Monglo.createCollection([String])
+## DataStore
+Datastores for persistence your db with local/remote data
+```
+var monglo = require('./index').Monglo;
+var db = monglo('DemoDB');
 
-Creates new collection
+//Define a store locally or import a common js module;
+//See source for all available functions
+function DemoStore(){
+  return {
+    insert : function(args){  },
+    update : function(args){  },
+    open   : function(args){  },
+    remove : function(args){  },
+       all : function(args){  }
+  };
+}
+//Load the store in Monglo
+db.use('store', new DemoStore());
+```
+
+### find
 
 ```js
-	Monglo.createCollection('my_collection');
+db.someCollection.find();
 ```
 
-#### Monglo.openCollection([String])
-
-Opens saved collection file and loads in to memory
+### insert
 
 ```js
-	Monglo.openCollection('my_collection');
+db.someCollection.insert({text: "Hello, world!"});
 ```
 
-#### Monglo.saveCollection([String])
-
-Saves collection at current state to file
+### update
 
 ```js
-	Monglo.saveCollection('my_collection');
+db.someCollection.update({name:'tester'}, {$set: {text: 'test'}});
 ```
 
-#### Monglo.removeCollection([String])
+### remove
+```js
+db.someCollection.remove({uid:'34245'});
+```
 
-Removes collection from memory and deletes collection file
+## Cursors
+
+To create a cursor, use find. To access the documents in a cursor, use forEach, map, or fetch.
 
 ```js
-	Monglo.removeCollection('my_collection');
+var someCursor = db.someCollection.find();
 ```
 
-#### Monglo.clearCollection([String])
-
-Empties collections docs from memory
+### forEach
+Call the callback function once for each matching document.
 
 ```js
-	Monglo.clearCollection('my_collection');
+someCursor.forEach(function(doc){ console.log(doc); });
 ```
 
-### Collection
-
-#### open
-
-Description of function
+### map
+Map callback over all matching documents. Returns an Array.
 
 ```js
-	//Code Example
+someCursor.map(function(doc){
+  doc.fullname = doc.firstname+' '+doc.lastname;
+  return doc;
+});
 ```
 
-#### drop
-
-Description of function
+### fetch
+Return all matching documents as an Array.
 
 ```js
-	//Code Example
+someCursor.fetch(function(docs){ console.log(docs); });
 ```
 
-#### insert
-
-Description of function
+### count
+Returns the number of documents that match a query.
 
 ```js
-	//Code Example
+someCursor.count();
 ```
 
-#### remove
-
-Description of function
+### rewind
+Resets the query cursor.
 
 ```js
-	//Code Example
+someCursor.rewind();
 ```
 
-#### update
-
-Description of function
+### Events
+Watch a query. Receive callbacks as the result set changes.
 
 ```js
-	//Code Example
+Monglo.Collection('my_collection');
+var someCollection = db.someCollection('mycollection');
+
+//See docs for all events
+someCollection.on('insert', function(){ /** Do something  **/ });
+someCollection.on('update', function(){ /** Do something  **/ });
+someCollection.on('remove', function(){ /** Do something  **/ });
+someCollection.on('find', function(){ /** Do something  **/ });
+someCollection.on('createCollection', function(){ /** Do something  **/ });
+someCollection.on('removeCollection', function(){ /** Do something  **/ });
 ```
 
-#### commit
+## License
 
-Description of function
+(The MIT License)
 
-```js
-	//Code Example
-```
+Copyright (c) 2012 Christian Sullivan &lt;cs@euforic.co&gt;
 
-#### find
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
 
-Description of function
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
 
-```js
-	//Code Example
-```
-
-#### findOne
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### ObjectId
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### snapshot
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### restore
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### pauseObservers
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### resumeObservers
-
-Description of function
-
-```js
-	//Code Example
-```
-
-## Cursor
-
-#### rewind
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### forEach
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### map
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### fetch
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### count
-
-Description of function
-
-```js
-	//Code Example
-```
-
-#### observe
-
-Description of function
-
-```js
-	//Code Example
-```
+THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
