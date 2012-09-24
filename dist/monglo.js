@@ -1,11 +1,8 @@
-// XXX type checking on selectors (graceful error if malformed)
-
-// Collection: a set of documents that supports queries and modifiers.
-
-// Cursor: a specification for a particular subset of documents, w/
-// a defined order, limit, and offset.  creating a Cursor with Collection.find(),
-
-// LiveResultsSet: the return value of a live query.
+/*!
+ * Monglo - collection
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
 
 function Collection (db, collectionName, pkFactory, options) {
    if(!(this instanceof Collection)) return new Collection(db, collectionName, pkFactory, options);
@@ -326,7 +323,12 @@ var checkCollectionName = function checkCollectionName (collectionName) {
   if (collectionName.match(/^\.|\.$/) != null) {
     throw Error("collection names must not start or end with '.'");
   }
-};
+};/*!
+ * Monglo - cursor
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
+
 function Cursor(db, collection, selector, fields, skip, limit,sort) {
   this.db = db;
   this.collection = collection;
@@ -432,6 +434,7 @@ Cursor.prototype._getRawObjects = function () {
  * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
  * MIT Licensed
  */
+
 var Monglo = function(databaseName) {
 
   if(!(this instanceof Monglo)) return new Monglo(databaseName);
@@ -465,7 +468,7 @@ Monglo.prototype.constructor = Monglo;
  * version Number
  */
 
-Monglo.version = '0.1.2';
+Monglo.version = '0.1.3';
 
 Monglo._debug = function(){
 };
@@ -810,9 +813,12 @@ function validateDatabaseName(databaseName) {
   for(var i = 0; i < invalidChars.length; i++) {
     if(databaseName.indexOf(invalidChars[i]) != -1) throw new Error("database names cannot contain the character '" + invalidChars[i] + "'");
   }
-}/**
- * Module dependencies.
+}/*!
+ * Monglo - ObjectId
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
  */
+
 /**
  * Binary Parser.
  * Jonas Raoni Soares Silva
@@ -827,7 +833,7 @@ for (var i = 0; i < 64; i++) {
 
 function BinaryParser (bigEndian, allowExceptions) {
   if(!(this instanceof BinaryParser)) return new BinaryParser(bigEndian, allowExceptions);
-  
+
   this.bigEndian = bigEndian;
   this.allowExceptions = allowExceptions;
 }
@@ -863,7 +869,7 @@ BinaryParser.decodeInt = function decodeInt (data, bits, signed, forceBigEndian)
   var b = new this.Buffer(this.bigEndian || forceBigEndian, data)
       , x = b.readBits(0, bits)
       , max = maxBits[bits]; //max = Math.pow( 2, bits );
-  
+
   return signed && x >= max / 2
       ? x - max
       : x;
@@ -1086,7 +1092,7 @@ BinaryParser.hprint = function hprint (s) {
     if (s.charCodeAt(i) < 32) {
       number = s.charCodeAt(i) <= 15
         ? "0" + s.charCodeAt(i).toString(16)
-        : s.charCodeAt(i).toString(16);        
+        : s.charCodeAt(i).toString(16);
       process.stdout.write(number + " ")
     } else {
       number = s.charCodeAt(i) <= 15
@@ -1095,7 +1101,7 @@ BinaryParser.hprint = function hprint (s) {
         process.stdout.write(number + " ")
     }
   }
-  
+
   process.stdout.write("\n\n");
 };
 
@@ -1452,12 +1458,12 @@ Object.defineProperty(ObjectID.prototype, "generationTime", {
  */
   exports.ObjectID = ObjectID;
   exports.ObjectId = ObjectID;
-// old_results: array of documents.
-// new_results: array of documents.
-// observer: object with 'added', 'changed', 'moved',
-//           'removed' functions (each optional)
-// deepcopy: if true, elements of new_results that are passed to callbacks are
-//          deepcopied first
+/*!
+ * Monglo - diff
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
+
 Collection._diffQuery = function (old_results, new_results, observer, deepcopy) {
 
   var new_presence_of_id = {};
@@ -1693,7 +1699,13 @@ Collection._diffQuery = function (old_results, new_results, observer, deepcopy) 
                   bump_list);
   }
 
-};var isArray = Array.isArray;
+};/*!
+ * Monglo - events
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
+
+var isArray = Array.isArray;
 var domain;
 
 function EventEmitter() {}
@@ -1888,13 +1900,12 @@ EventEmitter.prototype.listeners = function(type) {
     this._events[type] = [this._events[type]];
   }
   return this._events[type];
-};// XXX need a strategy for passing the binding of $ into this
-// function, from the compiled selector
-//
-// maybe just {key.up.to.just.before.dollarsign: array_index}
-//
-// XXX atomicity: if one modification fails, do we roll back the whole
-// change?
+};/*!
+ * Monglo - modify
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
+
 Collection._modify = function (doc, mod) {
   var is_modifier = false;
   for (var k in mod) {
@@ -2182,7 +2193,13 @@ Collection._modifiers = {
     // native javascript numbers (doubles) so far, so we can't support $bit
     throw Error("$bit is not supported");
   }
-};var Selector = {};
+};/*!
+ * Monglo - Selector
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
+
+var Selector = {};
 
 // helpers used by compiled selector code
 Selector._f = {
@@ -2737,21 +2754,11 @@ Selector._exprForConstraint = function (type, arg, others,
     expr = '!' + expr;
 
   return expr;
-};
-// Give a sort spec, which can be in any of these forms:
-//   {"key1": 1, "key2": -1}
-//   [["key1", "asc"], ["key2", "desc"]]
-//   ["key1", ["key2", "desc"]]
-//
-// (.. with the first form being dependent on the key enumeration
-// behavior of your javascript VM, which usually does what you mean in
-// this case if the key names don't look like integers ..)
-//
-// return a function that takes two objects, and returns -1 if the
-// first object comes first in order, 1 if the second object comes
-// first, or 0 if neither object comes before the other.
-
-// XXX sort does not yet support subkeys ('a.b') .. fix that!
+};/*!
+ * Monglo - sort
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
 
 Collection._compileSort = function (spec) {
   var keys = [];
@@ -2794,7 +2801,13 @@ Collection._compileSort = function (spec) {
 
   eval(code);
   return _func(Collection._f._cmp);
-};var Utils = {};
+};/*!
+ * Monglo - utils
+ * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
+ * MIT Licensed
+ */
+
+var Utils = {};
 
 Utils._deepcopy = function (v) {
   if (typeof v !== "object")
