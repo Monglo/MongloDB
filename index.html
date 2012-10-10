@@ -1,0 +1,271 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Monglodb by Monglo</title>
+
+    <link rel="stylesheet" href="stylesheets/styles.css">
+    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
+    <script src="javascripts/scale.fix.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">Monglodb</h1>
+        <p class="header">Portable Pure JS MongoDB With Extra Awesomeness</p>
+
+        <ul>
+          <li class="download"><a class="buttons" href="https://github.com/Monglo/MongloDB/zipball/master">Download ZIP</a></li>
+          <li class="download"><a class="buttons" href="https://github.com/Monglo/MongloDB/tarball/master">Download TAR</a></li>
+          <li><a class="buttons github" href="https://github.com/Monglo/MongloDB">View On GitHub</a></li>
+        </ul>
+
+        <p class="header">This project is maintained by <a class="header name" href="https://github.com/Monglo">Monglo</a></p>
+
+
+      </header>
+      <section>
+        <p><img src="https://github.com/Monglo/monglo.github.com/raw/master/images/logo.png" alt="MongoDB"></p>
+
+<p>Portable Pure JS MongoDB With Extra Awesomeness</p>
+
+<p>Version 0.1.4</p>
+
+<h2>Breaking API Changes*</h2>
+
+<ul>
+<li>Collection methods
+
+<ul>
+<li>Return result via callback see below docs for examples</li>
+</ul>
+</li>
+</ul><h2>Status: (Stable)</h2>
+
+<ul>
+<li>See TODO</li>
+<li>Pull requests are always welcome</li>
+</ul><h2>Features</h2>
+
+<ul>
+<li>MongoDB style queries</li>
+<li>Persistence for Collections</li>
+<li>Data Persistence Plug-in system</li>
+</ul><h2>TODO</h2>
+
+<ul>
+<li>Finish Docs</li>
+<li>Add more datastores</li>
+<li>Add remaining functions</li>
+<li>Code/function Clean up and optimization</li>
+</ul><h2>Building</h2>
+
+<pre><code>$ git clone https://github.com/euforic/monglodb.git
+$ cd monglodb
+$ npm install -d
+$ make clean &amp;&amp; make
+</code></pre>
+
+<p>Builds will be located in <strong>dist</strong> folder</p>
+
+<h3>initilize</h3>
+
+<div class="highlight"><pre><span class="kd">var</span> <span class="nx">Monglo</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="s1">'monglo'</span><span class="p">).</span><span class="nx">Monglo</span><span class="p">;</span>
+<span class="kd">var</span> <span class="nx">db</span> <span class="o">=</span> <span class="nx">Monglo</span><span class="p">(</span><span class="s1">'DBNAME'</span><span class="p">);</span>
+</pre></div>
+
+<h2>DataStore</h2>
+
+<p>Datastores for persistence your db with local/remote data</p>
+
+<pre><code>var monglo = require('./index').Monglo;
+var db = monglo('DemoDB');
+
+//Define a store locally or import a common js module;
+//See source for all available functions
+function DemoStore(){
+  return {
+    insert : function(args){  },
+    update : function(args){  },
+    open   : function(args){  },
+    remove : function(args){  },
+       all : function(args){  }
+  };
+}
+//Load the store in Monglo
+db.use('store', new DemoStore());
+</code></pre>
+
+<h3>find</h3>
+
+<p>Find all docs that match query parameters</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">find</span><span class="p">({},</span> <span class="kd">function</span> <span class="p">(</span> <span class="nx">error</span><span class="p">,</span> <span class="nx">cursor</span> <span class="p">){</span> <span class="p">});</span>
+</pre></div>
+
+<h3>findOne</h3>
+
+<p>Find a single doc that matches query parameters</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">findOne</span><span class="p">({},</span> <span class="kd">function</span> <span class="p">(</span> <span class="nx">error</span><span class="p">,</span> <span class="nx">doc</span> <span class="p">){</span> <span class="p">});</span>
+</pre></div>
+
+<h3>insert</h3>
+
+<p>Insert a new doc</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">insert</span><span class="p">({</span><span class="nx">text</span><span class="o">:</span> <span class="s2">"Hello, world!"</span><span class="p">},</span> <span class="kd">function</span> <span class="p">(</span> <span class="nx">error</span><span class="p">,</span> <span class="nx">doc</span> <span class="p">){</span> <span class="p">});</span>
+</pre></div>
+
+<h3>update</h3>
+
+<p>Update and existing doc</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">update</span><span class="p">({</span><span class="nx">name</span><span class="o">:</span><span class="s1">'tester'</span><span class="p">},</span> <span class="p">{</span><span class="nx">$set</span><span class="o">:</span> <span class="p">{</span><span class="nx">text</span><span class="o">:</span> <span class="s1">'test'</span><span class="p">}},</span> <span class="kd">function</span> <span class="p">(</span> <span class="nx">err</span><span class="p">,</span> <span class="nx">doc</span> <span class="p">){</span> <span class="p">});</span>
+</pre></div>
+
+<h3>save</h3>
+
+<p>Update doc if exists if not insert the new doc</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">save</span><span class="p">({</span><span class="nx">DOC</span><span class="p">},</span> <span class="kd">function</span> <span class="p">(</span> <span class="nx">err</span><span class="p">,</span> <span class="nx">doc</span> <span class="p">){</span> <span class="p">});</span>
+</pre></div>
+
+<h3>remove</h3>
+
+<p>Remove the doc matching the query selector</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">remove</span><span class="p">({</span><span class="nx">uid</span><span class="o">:</span><span class="s1">'34245'</span><span class="p">},</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span> <span class="p">});</span>
+</pre></div>
+
+<h3>backup</h3>
+
+<p>Saves snapshot of collection's current state in memory
+Backup ID defaults to a new ObjectID string if non is provided</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">backup</span><span class="p">(</span><span class="s1">'backuId_1234'</span><span class="p">,</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span> <span class="p">});</span>
+</pre></div>
+
+<h3>restore</h3>
+
+<p>Restore the state of a collection from backup</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">restore</span><span class="p">(</span><span class="s1">'backuId_1234'</span><span class="p">,</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span> <span class="p">});</span>
+</pre></div>
+
+<h3>backups</h3>
+
+<p>Lists available Backups</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">backups</span><span class="p">(</span><span class="kd">function</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span> <span class="p">});</span>
+</pre></div>
+
+<h3>removeBackup</h3>
+
+<p>Remove a backup from memory.
+If backup id is left empty all backups will be removed;</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">removeBackup</span><span class="p">(</span><span class="s1">'backuId_1234'</span><span class="p">,</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">err</span><span class="p">)</span> <span class="p">{</span> <span class="p">});</span>
+</pre></div>
+
+<h2>Cursors</h2>
+
+<p>To create a cursor, use find. To access the documents in a cursor, use forEach, map, or fetch.</p>
+
+<div class="highlight"><pre><span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">.</span><span class="nx">find</span><span class="p">({},</span> <span class="kd">function</span> <span class="p">(</span><span class="nx">err</span><span class="p">,</span> <span class="nx">cursor</span><span class="p">)</span> <span class="p">{</span>
+  <span class="c1">// Cursor instance for query</span>
+<span class="p">});</span>
+</pre></div>
+
+<h3>forEach</h3>
+
+<p>Call the callback function once for each matching document.</p>
+
+<div class="highlight"><pre><span class="nx">someCursor</span><span class="p">.</span><span class="nx">forEach</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">doc</span><span class="p">){</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">doc</span><span class="p">);</span> <span class="p">});</span>
+</pre></div>
+
+<h3>map</h3>
+
+<p>Map callback over all matching documents. Returns an Array.</p>
+
+<div class="highlight"><pre><span class="nx">someCursor</span><span class="p">.</span><span class="nx">map</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">doc</span><span class="p">){</span>
+  <span class="nx">doc</span><span class="p">.</span><span class="nx">fullname</span> <span class="o">=</span> <span class="nx">doc</span><span class="p">.</span><span class="nx">firstname</span><span class="o">+</span><span class="s1">' '</span><span class="o">+</span><span class="nx">doc</span><span class="p">.</span><span class="nx">lastname</span><span class="p">;</span>
+  <span class="k">return</span> <span class="nx">doc</span><span class="p">;</span>
+<span class="p">});</span>
+</pre></div>
+
+<h3>fetch</h3>
+
+<p>Return all matching documents as an Array.</p>
+
+<div class="highlight"><pre><span class="nx">someCursor</span><span class="p">.</span><span class="nx">fetch</span><span class="p">(</span><span class="kd">function</span><span class="p">(</span><span class="nx">docs</span><span class="p">){</span> <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">docs</span><span class="p">);</span> <span class="p">});</span>
+</pre></div>
+
+<h3>count</h3>
+
+<p>Returns the number of documents that match a query.</p>
+
+<div class="highlight"><pre><span class="nx">someCursor</span><span class="p">.</span><span class="nx">count</span><span class="p">();</span>
+</pre></div>
+
+<h3>rewind</h3>
+
+<p>Resets the query cursor.</p>
+
+<div class="highlight"><pre><span class="nx">someCursor</span><span class="p">.</span><span class="nx">rewind</span><span class="p">();</span>
+</pre></div>
+
+<h3>Events</h3>
+
+<p>Watch a query. Receive callbacks as the result set changes.</p>
+
+<div class="highlight"><pre><span class="nx">Monglo</span><span class="p">.</span><span class="nx">Collection</span><span class="p">(</span><span class="s1">'my_collection'</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">someCollection</span> <span class="o">=</span> <span class="nx">db</span><span class="p">.</span><span class="nx">someCollection</span><span class="p">(</span><span class="s1">'mycollection'</span><span class="p">);</span>
+
+<span class="c1">//See docs for all events</span>
+<span class="nx">someCollection</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'insert'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(){</span> <span class="cm">/** Do something  **/</span> <span class="p">});</span>
+<span class="nx">someCollection</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'update'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(){</span> <span class="cm">/** Do something  **/</span> <span class="p">});</span>
+<span class="nx">someCollection</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'remove'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(){</span> <span class="cm">/** Do something  **/</span> <span class="p">});</span>
+<span class="nx">someCollection</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'find'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(){</span> <span class="cm">/** Do something  **/</span> <span class="p">});</span>
+<span class="nx">someCollection</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'createCollection'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(){</span> <span class="cm">/** Do something  **/</span> <span class="p">});</span>
+<span class="nx">someCollection</span><span class="p">.</span><span class="nx">on</span><span class="p">(</span><span class="s1">'removeCollection'</span><span class="p">,</span> <span class="kd">function</span><span class="p">(){</span> <span class="cm">/** Do something  **/</span> <span class="p">});</span>
+</pre></div>
+
+<h2>License</h2>
+
+<p>(The MIT License)</p>
+
+<p>Copyright (c) 2012 Christian Sullivan &lt;<a href="mailto:cs@euforic.co">cs@euforic.co</a>&gt;</p>
+
+<p>Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+'Software'), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:</p>
+
+<p>The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.</p>
+
+<p>THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.</p>
+      </section>
+      <footer>
+        <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+		
+  </body>
+</html>
