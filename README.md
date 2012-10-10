@@ -4,9 +4,9 @@ Portable Pure JS MongoDB With Extra Awesomeness
 
 Version 0.1.4
 
-##Breaking API Changes**
+##Breaking API Changes*
  - Collection methods
-   - Return result via callback ex) db.find({},function (error, cursor){ // Do Work })
+   - Return result via callback see below docs for examples
 
 ## Status: (Stable)
  - See TODO
