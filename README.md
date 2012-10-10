@@ -2,7 +2,11 @@
 
 Portable Pure JS MongoDB With Extra Awesomeness
 
-Version 0.1.3
+Version 0.1.4
+
+##Breaking API Changes**
+ - Collection methods
+   - Return result via callback ex) db.find({},function (error, cursor){ // Do Work })
 
 ## Status: (Stable)
  - See TODO
@@ -61,26 +65,74 @@ db.use('store', new DemoStore());
 ```
 
 ### find
+Find all docs that match query parameters
+```js
+db.someCollection.find({}, function ( error, cursor ){ });
+```
+
+### findOne
+Find a single doc that matches query parameters
 
 ```js
-db.someCollection.find();
+db.someCollection.findOne({}, function ( error, doc ){ });
 ```
 
 ### insert
+Insert a new doc
 
 ```js
-db.someCollection.insert({text: "Hello, world!"});
+db.someCollection.insert({text: "Hello, world!"}, function ( error, doc ){ });
 ```
 
 ### update
+Update and existing doc
 
 ```js
-db.someCollection.update({name:'tester'}, {$set: {text: 'test'}});
+db.someCollection.update({name:'tester'}, {$set: {text: 'test'}}, function ( err, doc ){ });
+```
+
+### save
+Update doc if exists if not insert the new doc
+
+```js
+db.someCollection.save({DOC}, function ( err, doc ){ });
 ```
 
 ### remove
+Remove the doc matching the query selector
+
 ```js
-db.someCollection.remove({uid:'34245'});
+db.someCollection.remove({uid:'34245'}, function (err) { });
+```
+
+### backup
+Saves snapshot of collection's current state in memory
+Backup ID defaults to a new ObjectID string if non is provided
+
+```js
+db.someCollection.backup('backuId_1234', function (err) { });
+```
+
+### restore
+Restore the state of a collection from backup
+
+```js
+db.someCollection.restore('backuId_1234', function (err) { });
+```
+
+### backups
+Lists available Backups
+
+```js
+db.someCollection.backups(function (err) { });
+```
+
+### removeBackup
+Remove a backup from memory.
+If backup id is left empty all backups will be removed;
+
+```js
+db.someCollection.removeBackup('backuId_1234', function (err) { });
 ```
 
 ## Cursors
@@ -88,7 +140,9 @@ db.someCollection.remove({uid:'34245'});
 To create a cursor, use find. To access the documents in a cursor, use forEach, map, or fetch.
 
 ```js
-var someCursor = db.someCollection.find();
+db.someCollection.find({}, function (err, cursor) {
+  // Cursor instance for query
+});
 ```
 
 ### forEach
