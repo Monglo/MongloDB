@@ -13,7 +13,7 @@ function Collection (db, collectionName, pkFactory, options) {
   this.name = collectionName;
   this.docs = {};
   this.snapshots = [];
-  this.opts = options != null && ('object' === typeof options) ? options : {};
+  this.opts = options !== null && ('object' === typeof options) ? options : {};
   var self = this;
 }
 
@@ -26,9 +26,10 @@ var testForFields = {'limit' : 1, 'sort' : 1, 'fields' : 1, 'skip' : 1, 'hint' :
   , 'returnKey' : 1, 'maxScan' : 1, 'min' : 1, 'max' : 1, 'showDiskLoc' : 1, 'comment' : 1, 'dbName' : 1, 'exhaust': 1
   , 'tailableRetryInterval': 1};
 
-Collection.prototype.find = function () {
+Collection.prototype.find = function (fn) {
   var self = this;
- var options
+  var callback = fn||function(){};
+  var options
     , args = Array.prototype.slice.call(arguments, 0)
     , has_callback = typeof args[args.length - 1] === 'function'
     , has_weird_callback = typeof args[0] === 'function'
@@ -48,7 +49,7 @@ Collection.prototype.find = function () {
     var is_option = false;
 
     for(var i = 0; i < fieldKeys.length; i++) {
-      if(testForFields[fieldKeys[i]] != null) {
+      if(testForFields[fieldKeys[i]] !== null) {
         is_option = true;
         break;
       }
@@ -75,7 +76,7 @@ Collection.prototype.find = function () {
   }
 
   // Ensure selector is not null
-  selector = selector == null ? {} : selector;
+  selector = selector === null ? {} : selector;
   // Validate correctness off the selector
   var object = selector;
 
@@ -94,7 +95,7 @@ Collection.prototype.find = function () {
 
     if(utils.isArray(options.fields)) {
       if(!options.fields.length) {
-        fields['_id'] = 1;
+        fields._id = 1;
       } else {
         for (var i = 0, l = options.fields.length; i < l; i++) {
           fields[options.fields[i]] = 1;
@@ -118,53 +119,70 @@ Collection.prototype.find = function () {
 
   this.emit('find', selector,cursor,o);
   this.db._executeCommand('find', {collection:self,selector:selector,options:o});
-  return (callback) ? callback(cursor) : cursor;
+  callback(null,cursor);
+  return this;
 };
 
-Collection.prototype.findOne = function (selector, options) {
-  if (arguments.length === 0)
+Collection.prototype.findOne = function (selector, options, fn) {
+  var self = this;
+  if('function' === typeof options){
+    fn = options;
+    options = {};
+  }
+  var callback = fn||function(){};
+  if (arguments.length === 0) {
     selector = {};
-
+  }
   //options = options || {};
   //options.limit = 1;
-  return this.find(selector).fetch()[0];
+  self.find(selector, function(err,cursor){
+    var doc = (!err) ? cursor.fetch()[0] : null;
+    callback(err,doc);
+  });
+  return this;
 };
 
 // TODO enforce rule that field names can't start with '$' or contain '.'
 // (real mongodb does in fact enforce this)
 // TODO possibly enforce that 'undefined' does not appear (we assume
 // this in our handling of null and $exists)
-Collection.prototype.insert = function (doc,options,cb) {
+Collection.prototype.insert = function (doc,options,fn) {
   var self = this;
+  var callback = fn||function(){};
+  var options = options || {};
+
   if('function' === typeof options){
-    cb = options; options = {};
+    callback = options; options = {};
   }
-  options = options || {};
+
+
   doc = utils._deepcopy(doc);
 
   if('number' === typeof doc._id){
-    doc._id = doc._id+'';
+    doc._id = String(doc._id);
   }
 
-  doc._id = (doc._id || '').replace(/\D/g,'');
+  doc._id = (doc._id||'').replace(/\D/g,'');
 
   if (!doc[doc._id] && !doc._id.length){
     doc._id = new ObjectId();
   }
+
   doc.timestamp = new ObjectId().generationTime;
-  self.docs[doc._id] = doc;
+  self.docs[String(doc._id)] = doc;
 
 // Hack to prevent updates from registering as inserts also
- if(options.ignore){  return (cb) ? cb(doc) : doc; }
+ if(options.ignore){  callback(doc); return this; }
 
  self.emit('insert',doc);
  this.db._executeCommand('insert',{collection:self, doc:self.docs[doc._id]});
- if(cb){ cb(doc); }
+ callback(null,doc);
  return this;
 };
 
-Collection.prototype.remove = function (selector) {
+Collection.prototype.remove = function (selector,fn) {
   var self = this;
+  var callback = fn||function(){};
   var remove = [];
   var query_remove = [];
 
@@ -181,15 +199,17 @@ Collection.prototype.remove = function (selector) {
 
   self.emit('remove', selector);
   this.db._executeCommand('remove',{collection:self, selector:selector, docs:remove});
+  callback(null);
   return this;
 };
 
 // TODO atomicity: if multi is true, and one modification fails, do
 // we rollback the whole operation, or what?
-Collection.prototype.update = function (selector, mod, options, cb) {
+Collection.prototype.update = function (selector, mod, options, fn) {
   var self = this;
+  var callback = fn||function(){};
   if('function' === typeof options){
-    cb = options; options = {};
+    callback = options; options = {};
   }
   options = options || {};
 
@@ -206,7 +226,8 @@ Collection.prototype.update = function (selector, mod, options, cb) {
         any = true;
         self.emit('update', selector, mod, options);
         self.db._executeCommand('update',{collection:self, selector:selector, modifier:mod, options:options, docs:updatedDocs });
-        return (cb) ? cb(self.docs[id]) : self.docs[id];
+        callback(null,self.docs[id]);
+        return this;
       }
     }
   }
@@ -224,19 +245,19 @@ Collection.prototype.update = function (selector, mod, options, cb) {
   }
   var newDoc = self.find(selector).fetch();
   //TODO fix this ghetto return
-
   self.emit('update', {collection:self, selector:selector, modifier:mod, options:options, docs:newDoc });
   self.db._executeCommand('update',{collection:self, selector:selector, modifier:mod, options:options, docs:newDoc });
-  if(cb){ cb(newDoc); }
+  callback(null,newDoc);
   return this;
 };
 
-Collection.prototype.save = function(obj,cb){
+Collection.prototype.save = function ( obj, fn ){
   var self = this;
+  var callback = fn||function(){};
   if(self.docs[obj._id]){
-    self.update({_id:obj._id});
+    self.update({_id:obj._id},callback);
   } else{
-    self.insert(obj);
+    self.insert(obj,callback);
   }
 };
 
@@ -248,59 +269,54 @@ Collection.prototype.ensureIndex = function(){
 // TODO document (at some point)
 // TODO test
 // TODO obviously this particular implementation will not be very efficient
-Collection.prototype.backup = function () {
-  var snapID = new ObjectId();
-  this.snapshots[snapID] = {};
-  for (var id in this.docs){
-    this.snapshots[snapID][id] = this.docs[id];
+Collection.prototype.backup = function (backupID,fn) {
+  if('function' === typeof backupID){
+    fn = backupID;
+    backupID = new ObjectId();
   }
-  this.stores.snapshot({_id : this.docs[id], data : this.docs[id]});
-  this.emit('snapshot', {_id : this.docs[id], data : this.docs[id]});
+  var callback = fn||function(){};
+  var snapID = backupID;
+  this.snapshots[snapID] = this.docs;
+  this.emit('snapshot', {_id : this.docs, data : this.docs });
+  callback(null,this.snapshots[snapID]);
+  return this;
 };
 
 // Lists available Backups
-Collection.prototype.backups = function () {
+Collection.prototype.backups = function (fn) {
+  var callback = fn||function(){};
   var keys = [];
-  for(var k in obj) {
-    keys.push({id:k, timestamp:ObjectId.hexToTimestamp(k), data:obj[k]});
+  for(var id in backups) {
+    keys.push({id:id, timestamp:ObjectId.hexToTimestamp(id), data:backups[id]});
   }
-  return keys;
+  callback(null,keys);
+  return this;
 };
 
 // Lists available Backups
-Collection.prototype.deleteBackup = function (id) {
-  delete this.snapshots[id];
-  return keys;
+Collection.prototype.removeBackup = function (backupID,fn) {
+  if(!backupID || 'function' === typeof backupID){
+    fn = backupID;
+    this.snapshots = {};
+  } else {
+    var id = String(backupID);
+    delete this.snapshots[id];
+  }
+  var callback = fn||function(){};
+  callback(null);
+  return this;
 };
 
-// Restore the snapshot. If no snapshot exists, raise an
-// exception.
-// TODO document (at some point)
-// TODO test
-Collection.prototype.restore = function (id,rm,cb) {
-  if (!this.snapshots.length){
-    throw new Error("No current snapshot");
-  }
-
-  if('function' === typeof rm){ cb = rm; rm = false; }
-
-  this.docs = this.snapshots[id||0];
-  // Rerun all queries from scratch. (TODO should do something more
-  // efficient -- diffing at least; ideally, take the snapshot in an
-  // efficient way, say with an undo log, so that we can efficiently
-  // tell what changed).
-  for (var qid in this.queries) {
-    var query = this.queries[qid];
-
-    var old_results = query.results;
-
-    query.results = query.cursor._getRawObjects();
-
-    if (!this.paused)
-      Collection._diffQuery(old_results, query.results, query, true);
-  }
+// Restore the snapshot. If no snapshot exists, raise an exception;
+Collection.prototype.restore = function ( backupID, fn ) {
+  var callback = fn||function(){};
+  if (!this.snapshots.length){ throw new Error("No current snapshot");}
+  var backupData = this.snapshots[backupID];
+  if(!backupData){ throw new Error("Unknown Backup ID "+backupID); }
+  this.docs = backupData;
   this.emit('restore');
-  if(cb){ return cb(); }
+  callback(null);
+  return this;
 };
 
 /**
@@ -308,20 +324,20 @@ Collection.prototype.restore = function (id,rm,cb) {
  */
 var checkCollectionName = function checkCollectionName (collectionName) {
   if ('string' !== typeof collectionName) {
-    throw Error("collection name must be a String");
+    throw new Error("collection name must be a String");
   }
 
   if (!collectionName || collectionName.indexOf('..') != -1) {
-    throw Error("collection names cannot be empty");
+    throw new Error("collection names cannot be empty");
   }
 
   if (collectionName.indexOf('$') != -1 &&
-      collectionName.match(/((^\$cmd)|(oplog\.\$main))/) == null) {
-    throw Error("collection names must not contain '$'");
+      collectionName.match(/((^\$cmd)|(oplog\.\$main))/) === null) {
+    throw new Error("collection names must not contain '$'");
   }
 
-  if (collectionName.match(/^\.|\.$/) != null) {
-    throw Error("collection names must not start or end with '.'");
+  if (collectionName.match(/^\.|\.$/) !== null) {
+    throw new Error("collection names must not start or end with '.'");
   }
 };/*!
  * Monglo - cursor
@@ -413,7 +429,7 @@ Cursor.prototype._getRawObjects = function () {
 
   // fast path for single ID value
   if (self.selector_id && (self.selector_id in self.collection.docs))
-    return [self.collection.docs[self.selector_id]];
+    return [self.collection.docs[String(self.selector_id)]];
 
   // slow path for arbitrary selector, sort, skip, limit
   var results = [];
@@ -509,9 +525,6 @@ Monglo.prototype._executeCommand = function(name,args,cb){
 
 Monglo.prototype.use = function(name,fn){
  switch(name){
-  case 'sync':
-    this._sync = fn;
-    break;
   case 'store':
     this._stores.push(fn);
     break;
@@ -613,7 +626,7 @@ Monglo.prototype.collections = function(callback) {
   var self = this;
   // Let's get the collection names
   self.collectionNames(function(err, documents) {
-    if(err != null) return callback(err, null);
+    if(err !== null) return callback(err, null);
     var collections = [];
     utils.forEach(documents,function(document) {
       collections.push(new Collection(self, document.name.replace(self.databaseName + ".", ''), self.pkFactory));
@@ -1459,247 +1472,6 @@ Object.defineProperty(ObjectID.prototype, "generationTime", {
   exports.ObjectID = ObjectID;
   exports.ObjectId = ObjectID;
 /*!
- * Monglo - diff
- * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
- * MIT Licensed
- */
-
-Collection._diffQuery = function (old_results, new_results, observer, deepcopy) {
-
-  var new_presence_of_id = {};
-  _.each(new_results, function (doc) {
-    if (new_presence_of_id[doc._id])
-      utils.debug("Duplicate _id in new_results");
-    new_presence_of_id[doc._id] = true;
-  });
-
-  var old_index_of_id = {};
-  _.each(old_results, function (doc, i) {
-    if (doc._id in old_index_of_id)
-      utils.debug("Duplicate _id in old_results");
-    old_index_of_id[doc._id] = i;
-  });
-
-  // "maybe deepcopy"
-  var mdc = (deepcopy ? utils._deepcopy : _.identity);
-
-  // ALGORITHM:
-  //
-  // We walk old_idx through the old_results array and
-  // new_idx through the new_results array at the same time.
-  // These pointers establish a sort of correspondence between
-  // old docs and new docs (identified by their _ids).
-  // If they point to the same doc (i.e. old and new docs
-  // with the same _id), we can increment both pointers
-  // and fire no 'moved' callbacks.  Otherwise, we must
-  // increment one or the other and fire approprate 'added',
-  // 'removed', and 'moved' callbacks.
-  //
-  // The process is driven by new_results, in that we try
-  // make the observer's array look like new_results by
-  // establishing each new doc in order.  The doc pointed
-  // to by new_idx is the one we are trying to establish
-  // at any given time.  If it doesn't exist in old_results,
-  // we fire an 'added' callback.  If it does, we have a
-  // choice of two ways to handle the situation.  We can
-  // advance old_idx forward to the corresponding old doc,
-  // treating all intervening old docs as moved or removed,
-  // and the current doc as unmoved.  Or, we can simply
-  // establish the new doc as next by moving it into place,
-  // i.e. firing a single 'moved' callback to move the
-  // doc from wherever it was before.  Generating a sequence
-  // of 'moved' callbacks that is not just correct but small
-  // (or minimal) is a matter of choosing which elements
-  // to consider moved and which ones merely change position
-  // by virtue of the movement of other docs.
-  //
-  // Calling callbacks with correct indices requires understanding
-  // what the observer's array looks like at each iteration.
-  // The observer's array is a concatenation of:
-  // - new_results up to (but not including) new_idx, with the
-  //   addition of some "bumped" docs that we are later going
-  //   to move into place
-  // - old_results starting at old_idx, minus any docs that we
-  //   have already moved ("taken" docs)
-  //
-  // To keep track of "bumped" items -- docs in the observer's
-  // array that we have skipped over, but will be moved forward
-  // later when we get to their new position -- we keep a
-  // "bump list" of indices into new_results where bumped items
-  // occur.  [The idea is that by adding an item to the list (bumping
-  // it), we can consider it dealt with, even though it is still there.]
-  // The corresponding position of new_idx in the observer's array,
-  // then, is new_idx + bump_list.length, and the position of
-  // the nth bumped item in the observer's array is
-  // bump_list[n] + n (to account for the previous bumped items
-  // that are still there).
-  //
-  // A "taken" list is used in a sort of analogous way to track
-  // the indices of the documents after old_idx in old_results
-  // that we have moved, so that, conversely, even though we will
-  // come across them in old_results, they are actually no longer
-  // in the observer's array.
-  //
-  // To determine which docs should be considered "moved" (and which
-  // merely change position because of other docs moving) we run
-  // a "longest common subsequence" (LCS) algorithm.  The LCS of the
-  // old doc IDs and the new doc IDs gives the docs that should NOT be
-  // considered moved.
-  //
-  // Overall, this diff implementation is asymptotically good, but could
-  // be optimized to streamline execution and use less memory (e.g. not
-  // have to build data structures with an entry for every doc).
-
-  // Asymptotically: O(N k) where k is number of ops, or potentially
-  // O(N log N) if inner loop of LCS were made to be binary search.
-
-
-  //////// LCS (longest common sequence, with respect to _id)
-  // (see Wikipedia article on Longest Increasing Subsequence,
-  // where the LIS is taken of the sequence of old indices of the
-  // docs in new_results)
-  //
-  // unmoved_set: the output of the algorithm; members of the LCS,
-  // in the form of indices into new_results
-  var unmoved_set = {};
-  // max_seq_len: length of LCS found so far
-  var max_seq_len = 0;
-  // seq_ends[i]: the index into new_results of the last doc in a
-  // common subsequence of length of i+1 <= max_seq_len
-  var N = new_results.length;
-  var seq_ends = new Array(N);
-  // ptrs:  the common subsequence ending with new_results[n] extends
-  // a common subsequence ending with new_results[ptr[n]], unless
-  // ptr[n] is -1.
-  var ptrs = new Array(N);
-  // virtual sequence of old indices of new results
-  var old_idx_seq = function(i_new) {
-    return old_index_of_id[new_results[i_new]._id];
-  };
-  // for each item in new_results, use it to extend a common subsequence
-  // of length j <= max_seq_len
-  for(var i=0; i<N; i++) {
-    if (old_index_of_id[new_results[i]._id] !== undefined) {
-      var j = max_seq_len;
-      // this inner loop would traditionally be a binary search,
-      // but scanning backwards we will likely find a subseq to extend
-      // pretty soon, bounded for example by the total number of ops.
-      // If this were to be changed to a binary search, we'd still want
-      // to scan backwards a bit as an optimization.
-      while (j > 0) {
-        if (old_idx_seq(seq_ends[j-1]) < old_idx_seq(i))
-          break;
-        j--;
-      }
-
-      ptrs[i] = (j === 0 ? -1 : seq_ends[j-1]);
-      seq_ends[j] = i;
-      if (j+1 > max_seq_len)
-        max_seq_len = j+1;
-    }
-  }
-
-  // pull out the LCS/LIS into unmoved_set
-  var idx = (max_seq_len === 0 ? -1 : seq_ends[max_seq_len-1]);
-  while (idx >= 0) {
-    unmoved_set[idx] = true;
-    idx = ptrs[idx];
-  }
-
-  //////// Main Diff Algorithm
-
-  var old_idx = 0;
-  var new_idx = 0;
-  var bump_list = [];
-  var bump_list_old_idx = [];
-  var taken_list = [];
-
-  var scan_to = function(old_j) {
-    // old_j <= old_results.length (may scan to end)
-    while (old_idx < old_j) {
-      var old_doc = old_results[old_idx];
-      var is_in_new = new_presence_of_id[old_doc._id];
-      if (! is_in_new) {
-        observer.removed && observer.removed(old_doc, new_idx + bump_list.length);
-      } else {
-        if (taken_list.length >= 1 && taken_list[0] === old_idx) {
-          // already moved
-          taken_list.shift();
-        } else {
-          // bump!
-          bump_list.push(new_idx);
-          bump_list_old_idx.push(old_idx);
-        }
-      }
-      old_idx++;
-    }
-  };
-
-
-  while (new_idx <= new_results.length) {
-    if (new_idx < new_results.length) {
-      var new_doc = new_results[new_idx];
-      var old_doc_idx = old_index_of_id[new_doc._id];
-      if (old_doc_idx === undefined) {
-        // insert
-        observer.added && observer.added(mdc(new_doc), new_idx + bump_list.length);
-      } else {
-        var old_doc = old_results[old_doc_idx];
-        //var is_unmoved = (old_doc_idx > old_idx); // greedy; not minimal
-        var is_unmoved = unmoved_set[new_idx];
-        if (is_unmoved) {
-          if (old_doc_idx < old_idx)
-            utils.debug("Assertion failed while diffing: nonmonotonic lcs data");
-          // no move
-          scan_to(old_doc_idx);
-          if (! _.isEqual(old_doc, new_doc)) {
-            observer.changed && observer.changed(
-              mdc(new_doc), new_idx + bump_list.length, old_doc);
-          }
-          old_idx++;
-        } else {
-          // move into place
-          var to_idx = new_idx + bump_list.length;
-          var from_idx;
-          if (old_doc_idx >= old_idx) {
-            // move backwards
-            from_idx = to_idx + old_doc_idx - old_idx;
-            // must take number of "taken" items into account; also use
-            // results of this binary search to insert new taken_list entry
-            var num_taken_before = _.sortedIndex(taken_list, old_doc_idx);
-            from_idx -= num_taken_before;
-            taken_list.splice(num_taken_before, 0, old_doc_idx);
-          } else {
-            // move forwards, from bump list
-            // (binary search applies)
-            var b = _.indexOf(bump_list_old_idx, old_doc_idx, true);
-            if (b < 0)
-              utils.debug("Assertion failed while diffing: no bumped item");
-            from_idx = bump_list[b] + b;
-            to_idx--;
-            bump_list.splice(b, 1);
-            bump_list_old_idx.splice(b, 1);
-          }
-          if (from_idx != to_idx)
-            observer.moved && observer.moved(mdc(old_doc), from_idx, to_idx);
-          if (! _.isEqual(old_doc, new_doc)) {
-            observer.changed && observer.changed(mdc(new_doc), to_idx, old_doc);
-          }
-        }
-      }
-    } else {
-      scan_to(old_results.length);
-    }
-    new_idx++;
-  }
-  if (bump_list.length > 0) {
-    utils.debug(old_results);
-    utils.debug(new_results);
-    utils.debug("Assertion failed while diffing: leftover bump_list "+
-                  bump_list);
-  }
-
-};/*!
  * Monglo - events
  * Copyright (c) 2012 Christian Sullivan <cs@euforic.co>
  * MIT Licensed
@@ -2475,8 +2247,10 @@ Selector._compileSelector = function (selector) {
   // protect against dangerous selectors.  falsey and {_id: falsey}
   // are both likely programmer error, and not what you want,
   // particularly for destructive operations.
-  if (!selector || (('_id' in selector) && !selector._id))
-    return function (doc) {return false;};
+  if (!selector || ('_id' in selector)){
+    if(!selector._id) { return function (doc) { return false; }; }
+    selector._id = String(selector._id);
+  }
 
   // eval() does not return a value in IE8, nor does the spec say it
   // should. Assign to a local to get the value, instead.
@@ -2504,7 +2278,7 @@ Selector._exprForSelector = function (selector, literals) {
       // else, it's a constraint on a particular key (or dotted keypath)
       clauses.push(Selector._exprForKeypathPredicate(key, value, literals));
     }
-  };
+  }
 
   if (clauses.length === 0) return 'true'; // selector === {}
   return '(' + clauses.join('&&') +')';
