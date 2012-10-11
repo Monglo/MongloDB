@@ -1,8 +1,8 @@
 {
   "author": "Christian Sullivan <cs@euforic.co> (http://RogueSynaptics.com)",
   "name": "monglodb",
-  "description": "MongoDB Everywhere",
-  "version": "0.1.3",
+  "description": "Portable Pure JS MongoDB With Extra Awesomeness",
+  "version": "0.1.4",
   "homepage": "http://monglodb.com",
   "repository": {
     "type": "git",
