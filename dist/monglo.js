@@ -286,8 +286,9 @@ Collection.prototype.backup = function (backupID,fn) {
 Collection.prototype.backups = function (fn) {
   var callback = fn||function(){};
   var keys = [];
+  var backups = this.snapshots;
   for(var id in backups) {
-    keys.push({id:id, timestamp:ObjectId.hexToTimestamp(id), data:backups[id]});
+    keys.push({id:id, data:backups[id]});
   }
   callback(null,keys);
   return this;
@@ -307,10 +308,13 @@ Collection.prototype.removeBackup = function (backupID,fn) {
   return this;
 };
 
+Object.size = function(obj) { var size = 0, key; for (key in obj) { if (obj.hasOwnProperty(key)) size++; } return size; };
+
 // Restore the snapshot. If no snapshot exists, raise an exception;
 Collection.prototype.restore = function ( backupID, fn ) {
   var callback = fn||function(){};
-  if (!this.snapshots.length){ throw new Error("No current snapshot");}
+  var snapshotCount = Object.size(this.snapshots);
+  if (snapshotCount===0){ throw new Error("No current snapshot");}
   var backupData = this.snapshots[backupID];
   if(!backupData){ throw new Error("Unknown Backup ID "+backupID); }
   this.docs = backupData;
