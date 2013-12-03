@@ -1,4 +1,4 @@
-var ObjectId = require('../lib/ObjectId').ObjectID;
+var ObjectId = require('../lib/ObjectId').ObjectId;
 
   describe('#ObjectId()', function(){
     it('should Create ObjectId Object', function(){

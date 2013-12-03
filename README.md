@@ -2,7 +2,9 @@
 
 Portable Pure JS MongoDB With Extra Awesomeness
 
-Version 0.1.4
+Version 0.3.0
+
+## REFACTOR IN PROGRESS !!!
 
 ##Breaking API Changes*
  - Collection methods
@@ -26,20 +28,11 @@ Version 0.1.4
 
 ## Building
 
-```
-$ git clone https://github.com/euforic/monglodb.git
-$ cd monglodb
-$ npm install -d
-$ make clean && make
-```
-Builds will be located in __dist__ folder
-
-
 
 ### initilize
 
 ```js
-var Monglo = require('monglo').Monglo;
+var Monglo = require('monglo');
 var db = Monglo('DBNAME');
 ```
 
@@ -107,7 +100,7 @@ db.someCollection.remove({uid:'34245'}, function (err) { });
 
 ### backup
 Saves snapshot of collection's current state in memory
-Backup ID defaults to a new ObjectID string if non is provided
+Backup ID defaults to a new ObjectId string if non is provided
 
 ```js
 db.someCollection.backup('backuId_1234', function (err) { });
@@ -203,7 +196,7 @@ someCollection.on('removeCollection', function(){ /** Do something  **/ });
 
 (The MIT License)
 
-Copyright (c) 2012 Christian Sullivan &lt;cs@euforic.co&gt;
+Copyright (c) 2013 Christian Sullivan &lt;cs@euforic.co&gt;
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the

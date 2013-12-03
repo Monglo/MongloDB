@@ -1,4 +1,4 @@
-var monglo = require('./index').Monglo;
+var monglo = require('../build').Monglo;
 var db = monglo('DemoDB');
 
 function DemoStore(){

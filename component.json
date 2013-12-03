@@ -1,0 +1,23 @@
+{
+  "name": "MongloDB",
+  "repo": "Monglo/MongloDB",
+  "description": "MongoDB in purejs",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "lib/Collection.js",
+    "lib/Cursor.js",
+    "lib/Monglo.js",
+    "lib/ObjectId.js",
+    "lib/selector.js",
+    "lib/utils.js"
+  ],
+  "remotes": []
+}

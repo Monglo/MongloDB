@@ -107,7 +107,7 @@ db.someCollection.remove({uid:'34245'}, function (err) { });
 
 ### backup
 Saves snapshot of collection's current state in memory
-Backup ID defaults to a new ObjectID string if non is provided
+Backup ID defaults to a new ObjectId string if non is provided
 
 ```js
 db.someCollection.backup('backuId_1234', function (err) { });

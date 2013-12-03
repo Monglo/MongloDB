@@ -1,2 +1,5 @@
+.DS_Store
+build
+components
 node_modules
 dist-cov
