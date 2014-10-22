@@ -1,9 +1,9 @@
 
 build: components index.js
-	@component build -s monglo -n monglo
+	@./node_modules/.bin/component	build -s monglo -n monglo
 
 components: component.json
-	@component install --dev
+	@./node_modules/.bin/component install --dev
 
 clean:
 	rm -fr build components

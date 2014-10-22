@@ -13,8 +13,9 @@
     "test": "make test"
   },
   "dependencies": {
-    "should": "*",
-    "mocha": "*"
+    "component": "^1.0.0-rc7",
+    "mocha": "*",
+    "should": "*"
   },
   "optionalDependencies": {},
   "engines": {

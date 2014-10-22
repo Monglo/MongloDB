@@ -27,7 +27,10 @@ Version 0.3.0
 
 
 ## Building
-
+```
+ $ npm install
+ $ make
+```
 
 ### initilize
 
