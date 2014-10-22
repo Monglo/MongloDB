@@ -4,12 +4,6 @@ Portable Pure JS MongoDB With Extra Awesomeness
 
 Version 0.3.0
 
-## REFACTOR IN PROGRESS !!!
-
-##Breaking API Changes*
- - Collection methods
-   - Return result via callback see below docs for examples
-
 ## Status: (Stable)
  - See TODO
  - Pull requests are always welcome
@@ -25,7 +19,6 @@ Version 0.3.0
   - Add remaining functions
   - Code/function Clean up and optimization
 
-
 ## Building
 ```
  $ npm install
@@ -40,7 +33,9 @@ var db = Monglo('DBNAME');
 ```
 
 ## DataStore
+
 Datastores for persistence your db with local/remote data
+
 ```
 var monglo = require('./index').Monglo;
 var db = monglo('DemoDB');
