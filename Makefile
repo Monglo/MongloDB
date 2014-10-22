@@ -1,6 +1,6 @@
 
 build: components index.js
-	@./node_modules/.bin/component	build -s monglo -n monglo
+	@./node_modules/.bin/component	build -o dist -s monglo -n monglo
 
 components: component.json
 	@./node_modules/.bin/component install --dev
